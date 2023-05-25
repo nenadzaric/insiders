@@ -1,1 +1,1 @@
-https://github.com/davidlind/scripts
+https://github.com/84codes/heroku-buildpack-testssl

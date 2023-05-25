@@ -1,2 +1,5 @@
-https://github.com/mikem/opensim-dev-scripts
-https://github.com/rossj/docker-setup
+https://github.com/8x8Cloud/logstash-in-a-box
+https://github.com/8x8Cloud/docker-elastic
+https://github.com/8x8Cloud/Chefless
+https://github.com/rljohnsn/minikube
+https://github.com/rljohnsn/kong-istio

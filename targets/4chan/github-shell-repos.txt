@@ -1,3 +1,5 @@
-https://github.com/jaykay/dotfiles
-https://github.com/meepmeep/inspircd-elk
-https://github.com/ShubhamGupta/rewrite-history
+https://github.com/4change/shell-script-test
+https://github.com/bibanon/BASC-eBookGenerator
+https://github.com/bibanon/docker-swfdec-thumbnailer
+https://github.com/jaromil/michelle
+https://github.com/jaromil/sonic-pi-docker
