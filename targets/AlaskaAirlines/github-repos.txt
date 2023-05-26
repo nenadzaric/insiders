@@ -241,6 +241,7 @@ https://github.com/jason-capsule42/aa-counter
 https://github.com/jason-capsule42/capsule42
 https://github.com/jason-capsule42/designated-driver
 https://github.com/jason-capsule42/iex-demo
+https://github.com/katiexh-0751413/AlaskaAirlinesInternship
 https://github.com/luayyounus/AlaskaAirlines
 https://github.com/nishanthgolla/AlaskaAirLines
 https://github.com/tjgrist/AdWare
