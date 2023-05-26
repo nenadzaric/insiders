@@ -76,7 +76,6 @@ https://github.com/8x8x8x8x8x8x8/tenakis
 https://github.com/8x8x8x8x8x8x8/tsuro
 https://github.com/8x8x8x8x8x8x8/waresxd
 https://github.com/8x8x8x8x8x8x8/xxx
-https://github.com/8x8xkpian/8x8x-love
 https://github.com/JonathanLennox/FilkArchive
 https://github.com/JonathanLennox/vp9-parse
 https://github.com/Quinten/random-tileset-generator

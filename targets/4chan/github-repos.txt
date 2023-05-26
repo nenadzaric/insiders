@@ -126,5 +126,6 @@ https://github.com/jaromil/sonic-pi-docker
 https://github.com/jaromil/suca
 https://github.com/saxamaphone69/ss21
 https://github.com/saxamaphone69/xl
+https://github.com/tkcarnage/plugins-quickstart
 https://github.com/yk/gpt-4chan-public
 https://github.com/zixaphir/appchan-x

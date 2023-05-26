@@ -688,5 +688,15 @@
         "language": "CSS"
       }
     ]
+  },
+  {
+    "user": "https://github.com/tkcarnage",
+    "repos": [
+      {
+        "url": "https://github.com/tkcarnage/plugins-quickstart",
+        "ssh_url": "git@github.com:tkcarnage/plugins-quickstart.git",
+        "language": "Python"
+      }
+    ]
   }
 ]
