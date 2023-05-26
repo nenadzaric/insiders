@@ -1,3 +1,9 @@
+https://github.com/ADG-VIT
+https://github.com/ApplETS
+https://github.com/Apple-Actions
+https://github.com/Apple-FOSS-Mirror
+https://github.com/AppleCEO
+https://github.com/ApplePieGiraffe
 https://github.com/Azoy
 https://github.com/BenchR267
 https://github.com/CodaFi
@@ -17,6 +23,17 @@ https://github.com/aciidb0mb3r
 https://github.com/adrian-prantl
 https://github.com/airspeedswift
 https://github.com/akyrtzi
+https://github.com/apple
+https://github.com/apple-han
+https://github.com/apple-opensource
+https://github.com/apple-oss-distributions
+https://github.com/apple502j
+https://github.com/appleboy
+https://github.com/applenob
+https://github.com/appleopen
+https://github.com/appleple
+https://github.com/appleseedhq
+https://github.com/appleton
 https://github.com/aralisza
 https://github.com/atrick
 https://github.com/bendjones
@@ -51,6 +68,7 @@ https://github.com/friedbunny
 https://github.com/gibfahn
 https://github.com/gottesmm
 https://github.com/grananqvist
+https://github.com/guopingxiao
 https://github.com/hnrklssn
 https://github.com/idelpivnitskiy
 https://github.com/inductor
@@ -66,6 +84,7 @@ https://github.com/lresende
 https://github.com/marinaaisa
 https://github.com/mattijs
 https://github.com/medismailben
+https://github.com/memoiry
 https://github.com/miggs597
 https://github.com/mocomoc
 https://github.com/natalie-zamani

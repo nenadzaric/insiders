@@ -1,0 +1,3 @@
+https://github.com/amocrm/amocrm-api-php
+https://github.com/amocrm/amocrm-oauth-client
+https://github.com/amocrm/javascript

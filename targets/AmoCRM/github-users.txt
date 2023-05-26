@@ -1,3 +1,4 @@
+https://github.com/EgorNikitin94
 https://github.com/Ivankaz
 https://github.com/LeonardoRios
 https://github.com/Salerman
@@ -7,6 +8,8 @@ https://github.com/amocrm
 https://github.com/antirek
 https://github.com/bessudnov
 https://github.com/devamo
+https://github.com/devstas
+https://github.com/egorshar
 https://github.com/help24pro
 https://github.com/integratpro
 https://github.com/juanmartinez

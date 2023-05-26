@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Amex}
 COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[435]
+COMPANY_NAME ---> R{Repositories} ---> RN[727]
 COMPANY_NAME ---> G{Gists} ---> GN[3]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

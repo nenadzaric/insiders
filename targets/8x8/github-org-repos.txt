@@ -1,0 +1,11 @@
+https://github.com/8x8/.github
+https://github.com/8x8/CognigyExtensions
+https://github.com/8x8/auto_docker_netshoot
+https://github.com/8x8/auto_k8s_helm_redis-ha
+https://github.com/8x8/d42-java-client
+https://github.com/8x8/etcd-operator
+https://github.com/8x8/jaas-heroku
+https://github.com/8x8/jaas_demo
+https://github.com/8x8/knox
+https://github.com/8x8/machine_gun
+https://github.com/8x8/terraform-aws-activemq

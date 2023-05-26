@@ -141,6 +141,9 @@ https://github.com/amonapp/amonagent-windows
 https://github.com/amonapp/amonagent-wip
 https://github.com/amonapp/amonone
 https://github.com/amonapp/docs.amon.cx
+https://github.com/amonbit-project/amonbit
+https://github.com/amonbit-project/amonbit-gui
+https://github.com/amonbit-project/amonbit-site
 https://github.com/amondnet/---
 https://github.com/amondnet/EventStore-Client-Dart
 https://github.com/amondnet/ReviewNinja-Welcome

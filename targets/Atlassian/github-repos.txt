@@ -310,6 +310,7 @@ https://github.com/cjoy/batyr-schools
 https://github.com/cjoy/bed-smartswitch-18s1
 https://github.com/cjoy/boxgame
 https://github.com/cjoy/cjoy.github.io
+https://github.com/cjoy/cjoy.io
 https://github.com/cjoy/comp6714-project-report
 https://github.com/cjoy/comp9318-assignment
 https://github.com/cjoy/cs2041
@@ -318,14 +319,17 @@ https://github.com/cjoy/cs3141
 https://github.com/cjoy/cs3311
 https://github.com/cjoy/cs3331
 https://github.com/cjoy/cs3411
+https://github.com/cjoy/cs4337
 https://github.com/cjoy/cs9318
 https://github.com/cjoy/cs9321
 https://github.com/cjoy/cs9444-ass1
 https://github.com/cjoy/cs9444-ass2
+https://github.com/cjoy/docker-workshop
 https://github.com/cjoy/foodr
 https://github.com/cjoy/frieght-system
 https://github.com/cjoy/fuelguru
 https://github.com/cjoy/innovatelaw2018-real-app
+https://github.com/cjoy/mymyunsw
 https://github.com/cjoy/notes
 https://github.com/cjoy/project-euler
 https://github.com/cjoy/react-redux-boilerplate
@@ -440,6 +444,7 @@ https://github.com/detouched/filenetwork
 https://github.com/detouched/secureinfo
 https://github.com/detouched/spring-boot-duration-via-value
 https://github.com/digitalpoetry/adventofcode-2021
+https://github.com/digitalpoetry/adventofcode-2022
 https://github.com/digitalpoetry/alfred-time-is
 https://github.com/digitalpoetry/covid-heatmap-nsw
 https://github.com/digitalpoetry/honours-thesis-template
@@ -821,6 +826,7 @@ https://github.com/itsdouges/create-ts-package
 https://github.com/itsdouges/deno_changesets
 https://github.com/itsdouges/dpm
 https://github.com/itsdouges/editor-motion-spike
+https://github.com/itsdouges/element-motion
 https://github.com/itsdouges/feeds-hackathon
 https://github.com/itsdouges/function-batch
 https://github.com/itsdouges/glimpsi
@@ -1102,10 +1108,13 @@ https://github.com/maddhruv/maddhruv.github.io
 https://github.com/maddhruv/median-age
 https://github.com/maddhruv/mesage
 https://github.com/maddhruv/movie-tickets
+https://github.com/maddhruv/ndjson-test
 https://github.com/maddhruv/notch
 https://github.com/maddhruv/notch-cli
 https://github.com/maddhruv/npm-js
 https://github.com/maddhruv/npmtotal
+https://github.com/maddhruv/nse-companies
+https://github.com/maddhruv/open-ip
 https://github.com/maddhruv/package-script-utils
 https://github.com/maddhruv/paetm
 https://github.com/maddhruv/photoes
@@ -1123,6 +1132,7 @@ https://github.com/maddhruv/tic-tac-toe
 https://github.com/maddhruv/timez
 https://github.com/maddhruv/transit.London
 https://github.com/maddhruv/ts-template
+https://github.com/maddhruv/types-directory
 https://github.com/maddhruv/types-sync
 https://github.com/maddhruv/vercel-deployment
 https://github.com/maddhruv/verita

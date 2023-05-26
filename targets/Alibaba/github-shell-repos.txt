@@ -18,6 +18,7 @@ https://github.com/donnyyou/torchcv
 https://github.com/fsword/ethnode
 https://github.com/fsword/ruby-dev
 https://github.com/fsword/rubygems_mirror
+https://github.com/haosdent/s
 https://github.com/haoshuwei/centos-xrt
 https://github.com/hugozhu/ip2country
 https://github.com/jeasonstudio/WeAppInit-forMac
