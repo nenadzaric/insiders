@@ -472,7 +472,6 @@ https://gist.githubusercontent.com/cschneider/8575173/raw/31dd883dc9c392cdee427e
 https://gist.githubusercontent.com/cschneider/9240e9e9b56acce085a2/raw/cf7479a81ee5e4356e578ff25edae3b8845e9aea/tesb-el-server%20problem
 https://gist.githubusercontent.com/cschneider/947cb23d37ea405362c5/raw/9d66d69c09cba817178ec55fc5bc587ff5f1a27f/tryTo
 https://gist.githubusercontent.com/cschneider/9d11452239ccafc4a6c7142f55ce1b8f/raw/e7eb376750dec82ef8303216dc8274511b1fba02/gistfile1.txt
-https://gist.githubusercontent.com/cschneider/9e6adf915a795a07a319/raw/2a90f3d155f640cdd3483b65c76ef448fdfd6cbf/Error%20in%20resolver
 https://gist.githubusercontent.com/cschneider/a3b494f899066da60037/raw/8c0761ebc84cbcaabede472e85262df584b26c43/DeadLockTest
 https://gist.githubusercontent.com/cschneider/a77ee0069be269573552/raw/612448b4eb07803298f043f4c70d02e467df5cc7/problems%20xacml%20example
 https://gist.githubusercontent.com/cschneider/a837c82c1eecfa0b3f29/raw/5187831585143e531108adf2d2a02567cac62fc0/gistfile1.txt
@@ -1967,7 +1966,6 @@ https://gist.githubusercontent.com/purplecabbage/859540/raw/bde87654bae7786990df
 https://gist.githubusercontent.com/purplecabbage/90ece463200f776f71bd6ad013bae926/raw/b439f3bd610fcadf0e8282269f4a3d1da08d4b65/keybase.md
 https://gist.githubusercontent.com/purplecabbage/9282132/raw/5c1461dc508718f8584b56b991506a66e3034bd2/configPath
 https://gist.githubusercontent.com/purplecabbage/956066/raw/304410a92035deb3e698c250d7f45df044ad5fbc/initialization.html
-https://gist.githubusercontent.com/purplecabbage/9718060/raw/2f8c8ba8b6b48b67a008f4b7467cb5a104d68c98/WinError.js
 https://gist.githubusercontent.com/purplecabbage/fc1731a1e30db3e7a72e/raw/9b6fdafc8dd438f680ce7a2713b70f78ed32bcd8/execPatch.js
 https://gist.githubusercontent.com/raducotescu/3e0193892f4fa4881c0b/raw/2140d59586dda6902be602903cd42738483abf97/keybase.md
 https://gist.githubusercontent.com/rahtr/c0f89d03178d492387d8671d44f07398/raw/87d1a2f1f3c13d27c46abfbb8f8ee5909a07dae3/README.md

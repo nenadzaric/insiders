@@ -3,17 +3,11 @@ https://github.com/Qyriad/archlinux-compiler-rt-builtins-baremetal
 https://github.com/abachman/better-console
 https://github.com/abachman/surf
 https://github.com/adafruit/Adafruit-Occidentalis
-https://github.com/adafruit/Adafruit-PXT-Setup
 https://github.com/adafruit/Adafruit-Pi-ExternalRoot-Helper
 https://github.com/adafruit/Adafruit-Pi-Kernel-o-Matic
 https://github.com/adafruit/Adafruit-PiTFT-Helper
 https://github.com/adafruit/Adafruit_CircuitPython_Bundle
 https://github.com/adafruit/CircuitPython_Community_Bundle
-https://github.com/adafruit/MicroPython_TravisCI_Deploy
-https://github.com/adafruit/Raspberry-Pi-Installer-Scripts
-https://github.com/adafruit/acme.sh
-https://github.com/adafruit/actions-ci-circuitpython-libs
-https://github.com/adafruit/cookiecutter-adafruit-pcb
 https://github.com/adafruit/wifi-reset
 https://github.com/brentru/32to328ptranslator
 https://github.com/tekktrik/cirpy-lib-pkg-clarification

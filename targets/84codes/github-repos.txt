@@ -28,9 +28,6 @@ https://github.com/84codes/ssh.cr
 https://github.com/84codes/systemd.cr
 https://github.com/84codes/tcpprism
 https://github.com/84codes/website-deployer
-https://github.com/Error searching organizations: GET https://api.github.com/search/users?per_page=10&q=type%3Aorg+84codes: 403 API rate limit exceeded for user ID 98163658. [rate reset in 11s]
-https://github.com/Error searching repositories: GET https://api.github.com/search/repositories?per_page=10&q=84codes: 403 API rate limit of 30 still exceeded until 2023-05-26 12:13:57 +0000 UTC, not making remote request. [rate reset in 11s]
-https://github.com/Error searching users: GET https://api.github.com/search/users?per_page=10&q=type%3Auser+84codes: 403 API rate limit of 30 still exceeded until 2023-05-26 12:13:57 +0000 UTC, not making remote request. [rate reset in 11s]
 https://github.com/HaseebCh-Hack/ssh-ca.84codes.com
 https://github.com/actions-marketplace-validations/84codes_action-haml-lint
 https://github.com/baelter/albert-rubydoc

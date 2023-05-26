@@ -81,7 +81,6 @@ https://gist.githubusercontent.com/abachman/819046/raw/5b35d0686ac412675176046a2
 https://gist.githubusercontent.com/abachman/819046/raw/8efe1301547cfa782aa172f78dd623c8dde22b4e/gem-lister.rb
 https://gist.githubusercontent.com/abachman/819390/raw/d27b5f7561c7e0db7ab181d6f01877da8458a464/lazy_loading.html
 https://gist.githubusercontent.com/abachman/81f78896a4e61838c3c670486538badd/raw/a55490f168f9e7465e978ea65e0ea206f6ae4d9d/code-and-coffee.sh
-https://gist.githubusercontent.com/abachman/8323a7ebdb9a193cb522/raw/14d9724ee83809130ed0f268bac7368554c9989d/Error%3A%20Invalid%20value%20for%20HOMEBREW_CC.md
 https://gist.githubusercontent.com/abachman/851492/raw/2209601feee7d42f25def7845c9203b4bc77a5e1/apache-rails-proxy-ssl
 https://gist.githubusercontent.com/abachman/878612/raw/6a0565e9b60db3d402de9a76c95877c52820c3ea/tictactoe.rb
 https://gist.githubusercontent.com/abachman/894478/raw/5077a6ba25755e4db79f0c2d498ee0063d037d2a/bad-logic.rb

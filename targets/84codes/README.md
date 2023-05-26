@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{84codes}
 COMPANY_NAME ---> U{Users} ---> UN[2]
-COMPANY_NAME ---> R{Repositories} ---> RN[47]
+COMPANY_NAME ---> R{Repositories} ---> RN[44]
 COMPANY_NAME ---> G{Gists} ---> GN[9]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```
