@@ -1,15 +1,5 @@
 [
   {
-    "user": "https://github.com/Achmea",
-    "repos": [
-      {
-        "url": "https://github.com/Achmea/Angular-code-challenge",
-        "ssh_url": "git@github.com:Achmea/Angular-code-challenge.git",
-        "language": "TypeScript"
-      }
-    ]
-  },
-  {
     "user": "https://github.com/AchmeaRe",
     "repos": [
       {
@@ -18,10 +8,6 @@
         "language": ""
       }
     ]
-  },
-  {
-    "user": "https://github.com/AchmeadGandi",
-    "repos": []
   },
   {
     "user": "https://github.com/AchmeadGandi86",

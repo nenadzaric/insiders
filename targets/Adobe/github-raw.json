@@ -960,26 +960,6 @@
     ]
   },
   {
-    "user": "https://github.com/Adobe-CEP",
-    "repos": [
-      {
-        "url": "https://github.com/Adobe-CEP/CEP-Resources",
-        "ssh_url": "git@github.com:Adobe-CEP/CEP-Resources.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/Adobe-CEP/Getting-Started-guides",
-        "ssh_url": "git@github.com:Adobe-CEP/Getting-Started-guides.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/Adobe-CEP/Samples",
-        "ssh_url": "git@github.com:Adobe-CEP/Samples.git",
-        "language": "JavaScript"
-      }
-    ]
-  },
-  {
     "user": "https://github.com/Adobe-Marketing-Cloud",
     "repos": [
       {
@@ -1016,11 +996,6 @@
         "url": "https://github.com/Adobe-Marketing-Cloud/aam-demo-app",
         "ssh_url": "git@github.com:Adobe-Marketing-Cloud/aam-demo-app.git",
         "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/Adobe-Marketing-Cloud/acp-mobile-extension",
-        "ssh_url": "git@github.com:Adobe-Marketing-Cloud/acp-mobile-extension.git",
-        "language": "Java"
       },
       {
         "url": "https://github.com/Adobe-Marketing-Cloud/acp-mobile-extension",
@@ -1221,6 +1196,11 @@
         "url": "https://github.com/Adobe-Marketing-Cloud/aem-forms-cs-hol",
         "ssh_url": "git@github.com:Adobe-Marketing-Cloud/aem-forms-cs-hol.git",
         "language": ""
+      },
+      {
+        "url": "https://github.com/Adobe-Marketing-Cloud/aem-guides",
+        "ssh_url": "git@github.com:Adobe-Marketing-Cloud/aem-guides.git",
+        "language": "Java"
       },
       {
         "url": "https://github.com/Adobe-Marketing-Cloud/aem-guides-wknd",
@@ -2333,6 +2313,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/analytics-learn.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/analytics-learn.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/analytics-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/analytics-learn.en.git",
         "language": ""
@@ -2778,8 +2763,18 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/auditor.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/auditor.fr-FR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/auditor.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/auditor.it-IT.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/auditor.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/auditor.ja-JP.git",
         "language": ""
       },
       {
@@ -2830,6 +2825,11 @@
       {
         "url": "https://github.com/AdobeDocs/blueprints-learn.es-ES",
         "ssh_url": "git@github.com:AdobeDocs/blueprints-learn.es-ES.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/blueprints-learn.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/blueprints-learn.fr-FR.git",
         "language": ""
       },
       {
@@ -3090,6 +3090,11 @@
       {
         "url": "https://github.com/AdobeDocs/campaign-standard-learn.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/campaign-standard-learn.it-IT.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/campaign-standard-learn.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/campaign-standard-learn.ko-KR.git",
         "language": ""
       },
       {
@@ -3843,6 +3848,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/control-panel-learn.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/control-panel-learn.pt-BR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/control-panel-learn.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/control-panel-learn.sv-SE.git",
         "language": ""
@@ -3993,6 +4003,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/creative-cloud-enterprise-learn.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/creative-cloud-enterprise-learn.en.git",
         "language": ""
@@ -4123,11 +4138,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/customer-journey-analytics-learn.zh-Hans.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/customer-journey-analytics-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/customer-journey-analytics-learn.zh-Hant.git",
         "language": ""
@@ -4180,11 +4190,6 @@
       {
         "url": "https://github.com/AdobeDocs/customer-one.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/customer-one.sv-SE.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/customer-one.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/customer-one.zh-Hans.git",
         "language": ""
       },
       {
@@ -4268,6 +4273,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/data-workbench.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/data-workbench.es-ES.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/data-workbench.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/data-workbench.fr-FR.git",
         "language": ""
@@ -4303,6 +4313,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/data-workbench.zh-Hans",
+        "ssh_url": "git@github.com:AdobeDocs/data-workbench.zh-Hans.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/data-workbench.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/data-workbench.zh-Hant.git",
         "language": ""
@@ -4325,11 +4340,6 @@
       {
         "url": "https://github.com/AdobeDocs/debugger.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/debugger.de-DE.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/debugger.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/debugger.es-ES.git",
         "language": ""
       },
       {
@@ -4420,11 +4430,6 @@
       {
         "url": "https://github.com/AdobeDocs/deliverability-learn.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/deliverability-learn.nl-NL.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/deliverability-learn.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/deliverability-learn.pt-BR.git",
         "language": ""
       },
       {
@@ -4550,11 +4555,6 @@
       {
         "url": "https://github.com/AdobeDocs/device-co-op.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/device-co-op.zh-Hans.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/device-co-op.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/device-co-op.zh-Hant.git",
         "language": ""
       },
       {
@@ -4715,11 +4715,6 @@
       {
         "url": "https://github.com/AdobeDocs/dtm.en",
         "ssh_url": "git@github.com:AdobeDocs/dtm.en.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/dynamic-media-classic.de-DE",
-        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-classic.de-DE.git",
         "language": ""
       },
       {
@@ -4893,11 +4888,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/events.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/events.nl-NL.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/events.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/events.pt-BR.git",
         "language": ""
@@ -4950,6 +4940,11 @@
       {
         "url": "https://github.com/AdobeDocs/exc.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/exc.ja-JP.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/exc.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/exc.ko-KR.git",
         "language": ""
       },
       {
@@ -5723,6 +5718,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.it-IT",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.it-IT.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-gems-events.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.ja-JP.git",
         "language": ""
@@ -5750,11 +5750,6 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.zh-Hans.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.zh-Hant.git",
         "language": ""
       },
       {
@@ -6083,6 +6078,11 @@
         "language": "Roff"
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.es-ES",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.es-ES.git",
         "language": ""
@@ -6278,11 +6278,6 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/AdobeDocs/express-add-on-apis",
-        "ssh_url": "git@github.com:AdobeDocs/express-add-on-apis.git",
-        "language": "JavaScript"
-      },
-      {
         "url": "https://github.com/AdobeDocs/express-add-on-samples",
         "ssh_url": "git@github.com:AdobeDocs/express-add-on-samples.git",
         "language": "CSS"
@@ -6333,6 +6328,11 @@
         "language": "JavaScript"
       },
       {
+        "url": "https://github.com/AdobeDocs/id-service.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/id-service.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/id-service.en",
         "ssh_url": "git@github.com:AdobeDocs/id-service.en.git",
         "language": ""
@@ -6350,11 +6350,6 @@
       {
         "url": "https://github.com/AdobeDocs/id-service.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/id-service.it-IT.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/id-service.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/id-service.ja-JP.git",
         "language": ""
       },
       {
@@ -6450,11 +6445,6 @@
       {
         "url": "https://github.com/AdobeDocs/journey-optimizer-learn.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.fr-FR.git",
-        "language": "HTML"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/journey-optimizer-learn.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.it-IT.git",
         "language": "HTML"
       },
       {
@@ -6588,11 +6578,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journey-orchestration-learn.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.ja-JP.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/journey-orchestration-learn.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.ko-KR.git",
         "language": ""
@@ -6638,11 +6623,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journeys.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.fr-FR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/journeys.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/journeys.it-IT.git",
         "language": ""
@@ -6653,13 +6633,23 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journeys.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.ko-KR.git",
+        "url": "https://github.com/AdobeDocs/journeys.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/journeys.nl-NL.git",
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journeys.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.nl-NL.git",
+        "url": "https://github.com/AdobeDocs/journeys.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/journeys.pt-BR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/journeys.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/journeys.pt-BR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/journeys.sv-SE",
+        "ssh_url": "git@github.com:AdobeDocs/journeys.sv-SE.git",
         "language": ""
       },
       {
@@ -6948,11 +6938,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/marketo-measure.de-DE",
-        "ssh_url": "git@github.com:AdobeDocs/marketo-measure.de-DE.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/marketo-measure.en",
         "ssh_url": "git@github.com:AdobeDocs/marketo-measure.en.git",
         "language": ""
@@ -6980,11 +6965,6 @@
       {
         "url": "https://github.com/AdobeDocs/marketo-measure.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/marketo-measure.ko-KR.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/marketo-measure.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/marketo-measure.nl-NL.git",
         "language": ""
       },
       {
@@ -7168,6 +7148,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/mobile-services.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/mobile-services.nl-NL.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/mobile-services.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/mobile-services.pt-BR.git",
         "language": ""
@@ -7305,11 +7290,6 @@
       {
         "url": "https://github.com/AdobeDocs/places.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/places.zh-Hans.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/places.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/places.zh-Hant.git",
         "language": ""
       },
       {
@@ -7718,6 +7698,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/support-resources.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/support-resources.ja-JP.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/support-resources.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/support-resources.ko-KR.git",
         "language": ""
@@ -7895,11 +7880,6 @@
       {
         "url": "https://github.com/AdobeDocs/test-linting-workflow",
         "ssh_url": "git@github.com:AdobeDocs/test-linting-workflow.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/uix",
-        "ssh_url": "git@github.com:AdobeDocs/uix.git",
         "language": "JavaScript"
       },
       {
@@ -11517,6 +11497,11 @@
         "language": "Go"
       },
       {
+        "url": "https://github.com/adobe/cci-test-aggregator",
+        "ssh_url": "git@github.com:adobe/cci-test-aggregator.git",
+        "language": "JavaScript"
+      },
+      {
         "url": "https://github.com/adobe/chromium",
         "ssh_url": "git@github.com:adobe/chromium.git",
         "language": "C++"
@@ -11882,6 +11867,11 @@
         "language": "Dart"
       },
       {
+        "url": "https://github.com/adobe/flutter_acpanalytics",
+        "ssh_url": "git@github.com:adobe/flutter_acpanalytics.git",
+        "language": "Dart"
+      },
+      {
         "url": "https://github.com/adobe/flutter_acpcore",
         "ssh_url": "git@github.com:adobe/flutter_acpcore.git",
         "language": "Dart"
@@ -11919,11 +11909,6 @@
       {
         "url": "https://github.com/adobe/franklin-json-ingestion-service",
         "ssh_url": "git@github.com:adobe/franklin-json-ingestion-service.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/adobe/franklin-library",
-        "ssh_url": "git@github.com:adobe/franklin-library.git",
         "language": "JavaScript"
       },
       {
@@ -12249,11 +12234,6 @@
       {
         "url": "https://github.com/adobe/helix-eslint-config",
         "ssh_url": "git@github.com:adobe/helix-eslint-config.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/adobe/helix-firebase-apollo-test",
-        "ssh_url": "git@github.com:adobe/helix-firebase-apollo-test.git",
         "language": "JavaScript"
       },
       {

@@ -186,9 +186,6 @@ https://github.com/Adobe-Android/weather-log
 https://github.com/Adobe-Android/web-input-unlocked
 https://github.com/Adobe-Android/windows-terminal
 https://github.com/Adobe-Android/zen-garden
-https://github.com/Adobe-CEP/CEP-Resources
-https://github.com/Adobe-CEP/Getting-Started-guides
-https://github.com/Adobe-CEP/Samples
 https://github.com/Adobe-Marketing-Cloud/ADLS-Samples
 https://github.com/Adobe-Marketing-Cloud/Luma-iOS-Mobile-App
 https://github.com/Adobe-Marketing-Cloud/MC-Visitor-ID-Service
@@ -236,6 +233,7 @@ https://github.com/Adobe-Marketing-Cloud/aem-demo-machine
 https://github.com/Adobe-Marketing-Cloud/aem-dialog-conversion
 https://github.com/Adobe-Marketing-Cloud/aem-forms
 https://github.com/Adobe-Marketing-Cloud/aem-forms-cs-hol
+https://github.com/Adobe-Marketing-Cloud/aem-guides
 https://github.com/Adobe-Marketing-Cloud/aem-guides-wknd
 https://github.com/Adobe-Marketing-Cloud/aem-guides-wknd-events
 https://github.com/Adobe-Marketing-Cloud/aem-htl-ide-api
@@ -546,7 +544,9 @@ https://github.com/AdobeDocs/audience-manager.zh-Hant
 https://github.com/AdobeDocs/audition
 https://github.com/AdobeDocs/auditor.de-DE
 https://github.com/AdobeDocs/auditor.es-ES
+https://github.com/AdobeDocs/auditor.fr-FR
 https://github.com/AdobeDocs/auditor.it-IT
+https://github.com/AdobeDocs/auditor.ja-JP
 https://github.com/AdobeDocs/auditor.ko-KR
 https://github.com/AdobeDocs/auditor.nl-NL
 https://github.com/AdobeDocs/auditor.pt-BR
@@ -608,6 +608,7 @@ https://github.com/AdobeDocs/campaign-standard-learn.en
 https://github.com/AdobeDocs/campaign-standard-learn.es-ES
 https://github.com/AdobeDocs/campaign-standard-learn.fr-FR
 https://github.com/AdobeDocs/campaign-standard-learn.it-IT
+https://github.com/AdobeDocs/campaign-standard-learn.ko-KR
 https://github.com/AdobeDocs/campaign-standard-learn.nl-NL
 https://github.com/AdobeDocs/campaign-standard-learn.pt-BR
 https://github.com/AdobeDocs/campaign-standard-learn.sv-SE
@@ -758,6 +759,7 @@ https://github.com/AdobeDocs/control-panel-learn.it-IT
 https://github.com/AdobeDocs/control-panel-learn.ja-JP
 https://github.com/AdobeDocs/control-panel-learn.ko-KR
 https://github.com/AdobeDocs/control-panel-learn.nl-NL
+https://github.com/AdobeDocs/control-panel-learn.pt-BR
 https://github.com/AdobeDocs/control-panel-learn.sv-SE
 https://github.com/AdobeDocs/control-panel-learn.zh-Hans
 https://github.com/AdobeDocs/control-panel-learn.zh-Hant
@@ -825,7 +827,6 @@ https://github.com/AdobeDocs/customer-one.ko-KR
 https://github.com/AdobeDocs/customer-one.nl-NL
 https://github.com/AdobeDocs/customer-one.pt-BR
 https://github.com/AdobeDocs/customer-one.sv-SE
-https://github.com/AdobeDocs/customer-one.zh-Hans
 https://github.com/AdobeDocs/customer-one.zh-Hant
 https://github.com/AdobeDocs/customer-success.en
 https://github.com/AdobeDocs/cxm-learn.de-DE
@@ -842,6 +843,7 @@ https://github.com/AdobeDocs/cxm-learn.zh-Hans
 https://github.com/AdobeDocs/cxm-learn.zh-Hant
 https://github.com/AdobeDocs/data-workbench.de-DE
 https://github.com/AdobeDocs/data-workbench.en
+https://github.com/AdobeDocs/data-workbench.es-ES
 https://github.com/AdobeDocs/data-workbench.fr-FR
 https://github.com/AdobeDocs/data-workbench.it-IT
 https://github.com/AdobeDocs/data-workbench.ja-JP
@@ -849,6 +851,7 @@ https://github.com/AdobeDocs/data-workbench.ko-KR
 https://github.com/AdobeDocs/data-workbench.nl-NL
 https://github.com/AdobeDocs/data-workbench.pt-BR
 https://github.com/AdobeDocs/data-workbench.sv-SE
+https://github.com/AdobeDocs/data-workbench.zh-Hans
 https://github.com/AdobeDocs/data-workbench.zh-Hant
 https://github.com/AdobeDocs/dc-acrobat-sdk.en
 https://github.com/AdobeDocs/dc-components-test
@@ -973,6 +976,7 @@ https://github.com/AdobeDocs/exc.es-ES
 https://github.com/AdobeDocs/exc.fr-FR
 https://github.com/AdobeDocs/exc.it-IT
 https://github.com/AdobeDocs/exc.ja-JP
+https://github.com/AdobeDocs/exc.ko-KR
 https://github.com/AdobeDocs/exc.nl-NL
 https://github.com/AdobeDocs/exc.pt-BR
 https://github.com/AdobeDocs/exc.sv-SE
@@ -1127,6 +1131,7 @@ https://github.com/AdobeDocs/experience-manager-forms-cloud-service.en
 https://github.com/AdobeDocs/experience-manager-gems-events.de-DE
 https://github.com/AdobeDocs/experience-manager-gems-events.es-ES
 https://github.com/AdobeDocs/experience-manager-gems-events.fr-FR
+https://github.com/AdobeDocs/experience-manager-gems-events.it-IT
 https://github.com/AdobeDocs/experience-manager-gems-events.ja-JP
 https://github.com/AdobeDocs/experience-manager-gems-events.ko-KR
 https://github.com/AdobeDocs/experience-manager-gems-events.nl-NL
@@ -1196,6 +1201,7 @@ https://github.com/AdobeDocs/experience-manager-release-information.pt-BR
 https://github.com/AdobeDocs/experience-manager-release-information.sv-SE
 https://github.com/AdobeDocs/experience-manager-release-information.zh-Hans
 https://github.com/AdobeDocs/experience-manager-release-information.zh-Hant
+https://github.com/AdobeDocs/experience-manager-release-overview-events.de-DE
 https://github.com/AdobeDocs/experience-manager-release-overview-events.es-ES
 https://github.com/AdobeDocs/experience-manager-release-overview-events.fr-FR
 https://github.com/AdobeDocs/experience-manager-release-overview-events.it-IT
@@ -1245,6 +1251,7 @@ https://github.com/AdobeDocs/genesis_partner-3.1-apis
 https://github.com/AdobeDocs/graphql-mesh-gateway
 https://github.com/AdobeDocs/hiren-test
 https://github.com/AdobeDocs/hlxdemo
+https://github.com/AdobeDocs/id-service.de-DE
 https://github.com/AdobeDocs/id-service.en
 https://github.com/AdobeDocs/id-service.es-ES
 https://github.com/AdobeDocs/id-service.fr-FR
@@ -1305,8 +1312,9 @@ https://github.com/AdobeDocs/journeys.en
 https://github.com/AdobeDocs/journeys.fr-FR
 https://github.com/AdobeDocs/journeys.it-IT
 https://github.com/AdobeDocs/journeys.ja-JP
-https://github.com/AdobeDocs/journeys.ko-KR
 https://github.com/AdobeDocs/journeys.nl-NL
+https://github.com/AdobeDocs/journeys.pt-BR
+https://github.com/AdobeDocs/journeys.sv-SE
 https://github.com/AdobeDocs/journeys.zh-Hans
 https://github.com/AdobeDocs/journeys.zh-Hant
 https://github.com/AdobeDocs/learn-from-your-peers-events.de-DE
@@ -1406,6 +1414,7 @@ https://github.com/AdobeDocs/mobile-services.fr-FR
 https://github.com/AdobeDocs/mobile-services.it-IT
 https://github.com/AdobeDocs/mobile-services.ja-JP
 https://github.com/AdobeDocs/mobile-services.ko-KR
+https://github.com/AdobeDocs/mobile-services.nl-NL
 https://github.com/AdobeDocs/mobile-services.pt-BR
 https://github.com/AdobeDocs/mobile-services.sv-SE
 https://github.com/AdobeDocs/mobile-services.zh-Hans
@@ -1515,6 +1524,7 @@ https://github.com/AdobeDocs/support-resources.en
 https://github.com/AdobeDocs/support-resources.es-ES
 https://github.com/AdobeDocs/support-resources.fr-FR
 https://github.com/AdobeDocs/support-resources.it-IT
+https://github.com/AdobeDocs/support-resources.ja-JP
 https://github.com/AdobeDocs/support-resources.ko-KR
 https://github.com/AdobeDocs/support-resources.nl-NL
 https://github.com/AdobeDocs/support-resources.pt-BR
@@ -1678,6 +1688,7 @@ https://github.com/Chumper/pyctor
 https://github.com/Chumper/renovate-go-pin
 https://github.com/Chumper/renovate-kubernetes
 https://github.com/Chumper/renovate-scheduler
+https://github.com/CreateJS/AdobeAnimateDemo
 https://github.com/Deva309/SOS-customer-ui
 https://github.com/Deva309/movie-search-app
 https://github.com/Deva309/parking-lot-code
@@ -2402,6 +2413,7 @@ https://github.com/adobe/business-website
 https://github.com/adobe/butler
 https://github.com/adobe/captivate-prime-aem-components
 https://github.com/adobe/ccd
+https://github.com/adobe/cci-test-aggregator
 https://github.com/adobe/chromium
 https://github.com/adobe/cla-bot
 https://github.com/adobe/cla-bot-playground
@@ -2483,7 +2495,6 @@ https://github.com/adobe/franklin-chat-service
 https://github.com/adobe/franklin-chat-ui
 https://github.com/adobe/franklin-dashboard
 https://github.com/adobe/franklin-json-ingestion-service
-https://github.com/adobe/franklin-library
 https://github.com/adobe/franklin-plugin-perflogger
 https://github.com/adobe/franklin-service
 https://github.com/adobe/franklin-sidekick-library

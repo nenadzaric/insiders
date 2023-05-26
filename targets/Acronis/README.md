@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Acronis}
 COMPANY_NAME ---> U{Users} ---> UN[15]
-COMPANY_NAME ---> R{Repositories} ---> RN[224]
+COMPANY_NAME ---> R{Repositories} ---> RN[223]
 COMPANY_NAME ---> G{Gists} ---> GN[17]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]

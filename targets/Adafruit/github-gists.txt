@@ -513,4 +513,3 @@ https://gist.githubusercontent.com/theacodes/f7406d6f4f99c8950c8b/raw/1c15cf2761
 https://gist.githubusercontent.com/theacodes/f84b911496be7ee79cd3/raw/38eb9d46ca4d67d8e159b035537e305409ba3a95/CollisionManager.hx
 https://gist.githubusercontent.com/theacodes/fa3be2086a9d13a96239/raw/05c5e09fcbbe94fbafa82c558425399fe1e00fa2/deploy.py
 https://gist.githubusercontent.com/theacodes/fa3be2086a9d13a96239/raw/a35d5b075c7447b1dd68626449da59ca1d3dd0ea/startup-script.sh
-https://gist.githubusercontent.com/tlyu/15ca0bda137ebac79af69fff03e7874f/raw/a4d81211a01d833f24ac96be2c8438b20f906abf/ulab_vectorio_rotation_demo.py

@@ -83,13 +83,13 @@
         "language": "C"
       },
       {
-        "url": "https://github.com/AAx13/shell-v2",
-        "ssh_url": "git@github.com:AAx13/shell-v2.git",
+        "url": "https://github.com/AAx13/printf",
+        "ssh_url": "git@github.com:AAx13/printf.git",
         "language": "C"
       },
       {
-        "url": "https://github.com/AAx13/simple_shell",
-        "ssh_url": "git@github.com:AAx13/simple_shell.git",
+        "url": "https://github.com/AAx13/shell-v2",
+        "ssh_url": "git@github.com:AAx13/shell-v2.git",
         "language": "C"
       }
     ]
@@ -97,6 +97,11 @@
   {
     "user": "https://github.com/AuburnSounds",
     "repos": [
+      {
+        "url": "https://github.com/AuburnSounds/Dplug",
+        "ssh_url": "git@github.com:AuburnSounds/Dplug.git",
+        "language": "D"
+      },
       {
         "url": "https://github.com/AuburnSounds/Dplug-wasteland-public",
         "ssh_url": "git@github.com:AuburnSounds/Dplug-wasteland-public.git",
@@ -130,11 +135,6 @@
       {
         "url": "https://github.com/AuburnSounds/intel-intrinsics",
         "ssh_url": "git@github.com:AuburnSounds/intel-intrinsics.git",
-        "language": "D"
-      },
-      {
-        "url": "https://github.com/AuburnSounds/printed",
-        "ssh_url": "git@github.com:AuburnSounds/printed.git",
         "language": "D"
       },
       {

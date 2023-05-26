@@ -15,7 +15,6 @@ https://github.com/AAx13/holbertonschool-webstack_basics
 https://github.com/AAx13/nl-project
 https://github.com/AAx13/printf
 https://github.com/AAx13/shell-v2
-https://github.com/AAx13/simple_shell
 https://github.com/AuburnSounds/Dplug
 https://github.com/AuburnSounds/Dplug-wasteland-public
 https://github.com/AuburnSounds/Dplug-website

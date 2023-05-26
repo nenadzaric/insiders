@@ -2,6 +2,7 @@ https://github.com/CupNoodles
 https://github.com/KeithTheEE
 https://github.com/PaintYourDragon
 https://github.com/Qyriad
+https://github.com/TrevKnows
 https://github.com/abachman
 https://github.com/adafruit
 https://github.com/anecdata
@@ -20,4 +21,3 @@ https://github.com/ptorrone
 https://github.com/tannewt
 https://github.com/tekktrik
 https://github.com/theacodes
-https://github.com/tlyu

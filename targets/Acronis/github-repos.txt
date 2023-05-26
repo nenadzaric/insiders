@@ -56,7 +56,6 @@ https://github.com/Gifted-s/video-streaming-server
 https://github.com/GuilleX7/ASM2010
 https://github.com/GuilleX7/ExplodeAny
 https://github.com/GuilleX7/FactionsChat
-https://github.com/GuilleX7/GuilleX7.github.io
 https://github.com/GuilleX7/Jasm
 https://github.com/GuilleX7/MagicKeyboardBatteryTool
 https://github.com/GuilleX7/PlayingCardDetection

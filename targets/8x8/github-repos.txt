@@ -77,13 +77,16 @@ https://github.com/8x8x8x8x8x8x8/tsuro
 https://github.com/8x8x8x8x8x8x8/waresxd
 https://github.com/8x8x8x8x8x8x8/xxx
 https://github.com/8x8xkpian/8x8x-love
+https://github.com/JonA1961/MAX7219array
 https://github.com/JonathanLennox/FilkArchive
 https://github.com/JonathanLennox/vp9-parse
-https://github.com/Quinten/random-tileset-generator
+https://github.com/WiseLord/matrixclock
+https://github.com/adafruit/Adafruit-NeoPixel-8x8-Matrix
+https://github.com/adafruit/Adafruit_Python_LED_Backpack
+https://github.com/alankrantas/pxt-MAX7219_8x8
 https://github.com/andydoro/WordClock-NeoMatrix8x8
-https://github.com/anoopmm/8x8x8_RGB_LED_CUBE
-https://github.com/anoopmm/LED_CUBE_8x8x8
-https://github.com/dhepper/font8x8
+https://github.com/anoopmm/8x8-led-matrix
+https://github.com/camilleg/unblock
 https://github.com/ellisa1419/Apache_Cassandra
 https://github.com/ellisa1419/Coding-Challenge
 https://github.com/ellisa1419/ExploreFoodonWheels
@@ -97,7 +100,7 @@ https://github.com/ellisa1419/android-image-magnifier
 https://github.com/ellisa1419/counter-react-app
 https://github.com/ellisa1419/simple-db1
 https://github.com/ellisa1419/simple-db2
-https://github.com/formatc1702/Micro-Word-Clock
+https://github.com/g-mu/8x8-Animator
 https://github.com/iwaffles/0to200
 https://github.com/iwaffles/8x8-api-examples
 https://github.com/iwaffles/Hockey-Roster
@@ -123,7 +126,7 @@ https://github.com/iwaffles/this-better-work
 https://github.com/iwaffles/timers
 https://github.com/iwaffles/twitch-status
 https://github.com/iwaffles/zsh-macros
-https://github.com/mcauser/micropython-max7219
+https://github.com/mcauser/micropython-tm1640
 https://github.com/octavian-h/commons-weka
 https://github.com/octavian-h/joc-dame
 https://github.com/octavian-h/joc-dame.android
@@ -137,8 +140,6 @@ https://github.com/rljohnsn/sublime-text-config
 https://github.com/rljohnsn/submodule01
 https://github.com/rljohnsn/submodule02
 https://github.com/rljohnsn/superrepo
-https://github.com/squix78/MAX7219LedMatrix
-https://github.com/topshed/RPi_8x8GridDraw
 https://github.com/vladComan0/IoT-Comfort-Index-Determination-and-Vizualization-as-Digital-Twin
 https://github.com/vladComan0/NvChad-config
 https://github.com/vladComan0/Solar-Tracker-Prototype-based-on-Arduino
@@ -150,4 +151,3 @@ https://github.com/vladComan0/multi-docker
 https://github.com/vladComan0/neovim-lua-personal-config
 https://github.com/vladComan0/repo-test-nginx
 https://github.com/vladComan0/terraform-CI-CD
-https://github.com/xantorohara/led-matrix-editor
