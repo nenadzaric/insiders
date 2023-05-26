@@ -73,13 +73,13 @@
             "language": ""
          },
          {
-            "url": "https://github.com/8X8X/rg.github.io",
-            "ssh_url": "git@github.com:8X8X/rg.github.io.git",
+            "url": "https://github.com/8X8X/Thanat0s-EYE-",
+            "ssh_url": "git@github.com:8X8X/Thanat0s-EYE-.git",
             "language": ""
          },
          {
-            "url": "https://github.com/8X8X/Thanat0s-EYE-",
-            "ssh_url": "git@github.com:8X8X/Thanat0s-EYE-.git",
+            "url": "https://github.com/8X8X/rg.github.io",
+            "ssh_url": "git@github.com:8X8X/rg.github.io.git",
             "language": ""
          }
       ]
@@ -242,13 +242,13 @@
       "user": "https://github.com/8x8x8x8x8x8x8",
       "repos": [
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/inosware",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/inosware.git",
+            "url": "https://github.com/8x8x8x8x8x8x8/smoothnesez",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/smoothnesez.git",
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/smoothnesez",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/smoothnesez.git",
+            "url": "https://github.com/8x8x8x8x8x8x8/inosware",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/inosware.git",
             "language": ""
          },
          {
@@ -272,13 +272,13 @@
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/newcodelolson",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/newcodelolson.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/8x8x8x8x8x8x8/crip",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/crip.git",
+            "language": "Lua"
+         },
+         {
+            "url": "https://github.com/8x8x8x8x8x8x8/8c-private",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/8c-private.git",
             "language": "Lua"
          },
          {
@@ -292,9 +292,9 @@
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/8c-private",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/8c-private.git",
-            "language": "Lua"
+            "url": "https://github.com/8x8x8x8x8x8x8/newcodelolson",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/newcodelolson.git",
+            "language": ""
          },
          {
             "url": "https://github.com/8x8x8x8x8x8x8/resolver",
@@ -327,18 +327,13 @@
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/xxx",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/xxx.git",
-            "language": ""
-         },
-         {
             "url": "https://github.com/8x8x8x8x8x8x8/oldcam.lua",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/oldcam.lua.git",
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/draco",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/draco.git",
+            "url": "https://github.com/8x8x8x8x8x8x8/xxx",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/xxx.git",
             "language": ""
          },
          {
@@ -347,14 +342,9 @@
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/8c",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/8c.git",
-            "language": "Lua"
-         },
-         {
-            "url": "https://github.com/8x8x8x8x8x8x8/dns19",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/dns19.git",
-            "language": "Lua"
+            "url": "https://github.com/8x8x8x8x8x8x8/draco",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/draco.git",
+            "language": ""
          },
          {
             "url": "https://github.com/8x8x8x8x8x8x8/Cripgang",
@@ -362,14 +352,19 @@
             "language": ""
          },
          {
+            "url": "https://github.com/8x8x8x8x8x8x8/8c",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/8c.git",
+            "language": "Lua"
+         },
+         {
             "url": "https://github.com/8x8x8x8x8x8x8/main-sons",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/main-sons.git",
             "language": ""
          },
          {
-            "url": "https://github.com/8x8x8x8x8x8x8/resolvers",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/resolvers.git",
-            "language": ""
+            "url": "https://github.com/8x8x8x8x8x8x8/dns19",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/dns19.git",
+            "language": "Lua"
          },
          {
             "url": "https://github.com/8x8x8x8x8x8x8/waresxd",
@@ -380,6 +375,11 @@
             "url": "https://github.com/8x8x8x8x8x8x8/PrettyPink",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/PrettyPink.git",
             "language": "Lua"
+         },
+         {
+            "url": "https://github.com/8x8x8x8x8x8x8/resolvers",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/resolvers.git",
+            "language": ""
          },
          {
             "url": "https://github.com/8x8x8x8x8x8x8/kkk",
@@ -417,6 +417,11 @@
             "language": ""
          },
          {
+            "url": "https://github.com/8x8x8x8x8x8x8/Loris",
+            "ssh_url": "git@github.com:8x8x8x8x8x8x8/Loris.git",
+            "language": ""
+         },
+         {
             "url": "https://github.com/8x8x8x8x8x8x8/8cprivate",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/8cprivate.git",
             "language": "Lua"
@@ -425,11 +430,6 @@
             "url": "https://github.com/8x8x8x8x8x8x8/8Crip",
             "ssh_url": "git@github.com:8x8x8x8x8x8x8/8Crip.git",
             "language": "Lua"
-         },
-         {
-            "url": "https://github.com/8x8x8x8x8x8x8/Loris",
-            "ssh_url": "git@github.com:8x8x8x8x8x8x8/Loris.git",
-            "language": ""
          }
       ]
    },
@@ -592,8 +592,8 @@
             "language": ""
          },
          {
-            "url": "https://github.com/iwaffles/project-vimrc",
-            "ssh_url": "git@github.com:iwaffles/project-vimrc.git",
+            "url": "https://github.com/iwaffles/dotjs",
+            "ssh_url": "git@github.com:iwaffles/dotjs.git",
             "language": ""
          },
          {
@@ -602,8 +602,8 @@
             "language": ""
          },
          {
-            "url": "https://github.com/iwaffles/dotjs",
-            "ssh_url": "git@github.com:iwaffles/dotjs.git",
+            "url": "https://github.com/iwaffles/project-vimrc",
+            "ssh_url": "git@github.com:iwaffles/project-vimrc.git",
             "language": ""
          },
          {

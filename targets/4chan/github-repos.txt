@@ -91,8 +91,8 @@ https://github.com/bibanon/genmaicha
 https://github.com/bibanon/BASC-WARC
 https://github.com/bibanon/eientei
 https://github.com/bibanon/bibanon.github.io
-https://github.com/bibanon/bing-cache-scraper
 https://github.com/bibanon/scraping-everyboty
+https://github.com/bibanon/bing-cache-scraper
 https://github.com/bibanon/asagi_archive_auto_failover
 https://github.com/bibanon/dagobah-scraper
 https://github.com/chandevel/Clover
@@ -121,6 +121,7 @@ https://github.com/jaromil/credis
 https://github.com/jaromil/manuals
 https://github.com/saxamaphone69/ss21
 https://github.com/saxamaphone69/xl
+https://github.com/tkcarnage/plugins-quickstart
 https://github.com/ccd0/4chan-x
 https://github.com/yk/gpt-4chan-public
 https://github.com/4chan/4chan-API

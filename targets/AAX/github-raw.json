@@ -168,14 +168,14 @@
             "language": "Shell"
          },
          {
-            "url": "https://github.com/aAXEe/openseamap-gl",
-            "ssh_url": "git@github.com:aAXEe/openseamap-gl.git",
-            "language": "HTML"
-         },
-         {
             "url": "https://github.com/aAXEe/map-docker",
             "ssh_url": "git@github.com:aAXEe/map-docker.git",
             "language": "Dockerfile"
+         },
+         {
+            "url": "https://github.com/aAXEe/openseamap-gl",
+            "ssh_url": "git@github.com:aAXEe/openseamap-gl.git",
+            "language": "HTML"
          },
          {
             "url": "https://github.com/aAXEe/depth_api2_simulation",
@@ -343,14 +343,14 @@
             "language": "Python"
          },
          {
-            "url": "https://github.com/aaxbas/CHIP8",
-            "ssh_url": "git@github.com:aaxbas/CHIP8.git",
-            "language": "CMake"
-         },
-         {
             "url": "https://github.com/aaxbas/EmbeddedCHIP8",
             "ssh_url": "git@github.com:aaxbas/EmbeddedCHIP8.git",
             "language": "C++"
+         },
+         {
+            "url": "https://github.com/aaxbas/CHIP8",
+            "ssh_url": "git@github.com:aaxbas/CHIP8.git",
+            "language": "CMake"
          },
          {
             "url": "https://github.com/aaxbas/Game",
