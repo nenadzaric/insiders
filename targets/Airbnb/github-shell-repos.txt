@@ -1,6 +1,16 @@
 https://github.com/100/dotfiles
+https://github.com/Jimexist/docker-airpal
+https://github.com/Jimexist/docker-hive
+https://github.com/Jimexist/docker-sqoop
+https://github.com/Jimexist/dotfiles
+https://github.com/hamelsmu/Docker_Tutorial
+https://github.com/hamelsmu/docker-cpu
+https://github.com/hamelsmu/docker-gpu
+https://github.com/hamelsmu/ml-gpu-lite
+https://github.com/hamelsmu/oauth-tutorial
 https://github.com/keeleysam/scripts
 https://github.com/lencioni/dotfiles
+https://github.com/skevy/yarn-resolution-issue
 https://github.com/sup/1337hooks
 https://github.com/sup/badge
 https://github.com/sup/cornell-cocos2dx-boilerplate

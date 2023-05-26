@@ -49,6 +49,7 @@ https://github.com/davidaurelio/dotfiles
 https://github.com/davidaurelio/shell-semver
 https://github.com/deltaworld/git-config
 https://github.com/dompuiu/.dotfiles
+https://github.com/harikb/fdbutils
 https://github.com/herzog31/go-builder
 https://github.com/jacobtruman/mine
 https://github.com/jacobtruman/tf2server-docker
