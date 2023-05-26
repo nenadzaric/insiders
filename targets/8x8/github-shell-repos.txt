@@ -1,4 +1,2 @@
-https://github.com/8x8Cloud/Chefless
-https://github.com/8x8Cloud/docker-elastic
-https://github.com/8x8Cloud/logstash-in-a-box
 https://github.com/rljohnsn/kong-istio
+https://github.com/rljohnsn/minikube

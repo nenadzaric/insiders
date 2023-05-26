@@ -1,4 +1,11 @@
-https://github.com/michaelmcdonald/Version.Report
-https://github.com/michaelmcdonald/Inspector-bash
-https://github.com/michaelmcdonald/MySQLCalc-bash
-https://github.com/michaelmcdonald/Ansible-Tests
+https://github.com/airshipcloud/collector
+https://github.com/airshipcloud/dictionary
+https://github.com/airshipcloud/zephyr
+https://github.com/airshipit/berth
+https://github.com/airshipit/divingbell
+https://github.com/airshipit/image-builder
+https://github.com/airshipit/maas
+https://github.com/airshipit/treasuremap
+https://github.com/airshipit/utils
+https://github.com/simplegeo/elasticsearch-deb
+https://github.com/simplegeo/puppet-postgresql
