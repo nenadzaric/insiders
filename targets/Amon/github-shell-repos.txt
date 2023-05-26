@@ -1,1 +1,11 @@
+https://github.com/amonapp/amonagent-ansible
+https://github.com/amondnet/azure-docker-agent
+https://github.com/amondnet/fvm-action
+https://github.com/amonet-kamakiri/fireiso
+https://github.com/amoniacou/amoniac-admin-tools
+https://github.com/amoniacou/k3s-mac-os-x
+https://github.com/amoniacou/kubernetes-image-packer
+https://github.com/amoniacou/microk8s-mac-os-x
+https://github.com/amontalenti/home
+https://github.com/amotarao/dotfiles
 https://github.com/benben/ofDoc

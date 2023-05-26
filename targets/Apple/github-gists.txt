@@ -1,4 +1,4 @@
 https://gist.githubusercontent.com/benlachman/0b91e1fbb64d93e0243cb8dc7db5714b/raw/0242da70ebb3b8b94c6b2316514eb0fadd9008c2/MeasurementFormatterBug.swift
-https://gist.githubusercontent.com/benlachman/3af2090db5ed9c201ebe/raw/abb194d05cb3cca3561ff3a4f2d9fd2cd6b3e8d7/athensworks_members.json
 https://gist.githubusercontent.com/benlachman/24b703c223bd0cfbeea2/raw/bb601fd7bcfd5ca6ca9af41dbd202abcb71567ac/gistfile1.txt
+https://gist.githubusercontent.com/benlachman/3af2090db5ed9c201ebe/raw/abb194d05cb3cca3561ff3a4f2d9fd2cd6b3e8d7/athensworks_members.json
 https://gist.githubusercontent.com/benlachman/496c73013e980619c35b/raw/ffaff086ffe0772e4bf533fbdfc9f985853249dc/gistfile1.swift

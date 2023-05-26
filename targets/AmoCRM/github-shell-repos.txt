@@ -1,1 +1,7 @@
 https://github.com/MaksimDmitriev/VCS-Setup
+https://github.com/antirek/docker-cadvisor
+https://github.com/antirek/docker-kamailio
+https://github.com/antirek/golang-install
+https://github.com/antirek/http_healthcheck
+https://github.com/antirek/kamailio-playground
+https://github.com/antirek/pbx_luajit_run
