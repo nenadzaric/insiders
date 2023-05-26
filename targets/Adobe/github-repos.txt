@@ -62,6 +62,7 @@ https://github.com/Aarzoo75/Deleting-Loader
 https://github.com/Aarzoo75/Dictionary
 https://github.com/Aarzoo75/Digital-Agency-Website
 https://github.com/Aarzoo75/Digital-Agency-Website---DigiTech
+https://github.com/Aarzoo75/Disney-Hotstar-Clone
 https://github.com/Aarzoo75/Donate-Button-to-Flip-Coin-Animation
 https://github.com/Aarzoo75/E-Commerce-Website
 https://github.com/Aarzoo75/Email-Validation-Animation
@@ -612,6 +613,7 @@ https://github.com/AdobeDocs/campaign-standard-learn.en
 https://github.com/AdobeDocs/campaign-standard-learn.es-ES
 https://github.com/AdobeDocs/campaign-standard-learn.fr-FR
 https://github.com/AdobeDocs/campaign-standard-learn.it-IT
+https://github.com/AdobeDocs/campaign-standard-learn.ja-JP
 https://github.com/AdobeDocs/campaign-standard-learn.ko-KR
 https://github.com/AdobeDocs/campaign-standard-learn.nl-NL
 https://github.com/AdobeDocs/campaign-standard-learn.pt-BR
@@ -1321,6 +1323,7 @@ https://github.com/AdobeDocs/journeys.it-IT
 https://github.com/AdobeDocs/journeys.ja-JP
 https://github.com/AdobeDocs/journeys.ko-KR
 https://github.com/AdobeDocs/journeys.nl-NL
+https://github.com/AdobeDocs/journeys.pt-BR
 https://github.com/AdobeDocs/journeys.sv-SE
 https://github.com/AdobeDocs/journeys.zh-Hans
 https://github.com/AdobeDocs/journeys.zh-Hant
