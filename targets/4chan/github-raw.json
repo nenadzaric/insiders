@@ -1,5 +1,15 @@
 [
   {
+    "user": "https://github.com/4Chan-Coin",
+    "repos": [
+      {
+        "url": "https://github.com/4Chan-Coin/4CC-Node",
+        "ssh_url": "git@github.com:4Chan-Coin/4CC-Node.git",
+        "language": "Makefile"
+      }
+    ]
+  },
+  {
     "user": "https://github.com/4ChanMediaDownloader",
     "repos": [
       {

@@ -16,6 +16,7 @@ https://github.com/8X8X/rg.github.io
 https://github.com/8x8-dxi/ContactNowAPI
 https://github.com/8x8-dxi/Tier3Tools
 https://github.com/8x8-dxi/contactNowAPI-v2
+https://github.com/8x8/.github
 https://github.com/8x8/jaas-heroku
 https://github.com/8x8/jaas_demo
 https://github.com/8x8Cloud/Chefless

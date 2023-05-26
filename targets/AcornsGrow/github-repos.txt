@@ -6,6 +6,7 @@ https://github.com/AcornsGrowAU/newrelic_hanami
 https://github.com/AcornsGrowAU/rack-request_auditing
 https://github.com/AcornsGrowAU/rack-vitals
 https://github.com/AcornsGrowAU/ruby
+https://github.com/AcornsGrowAU/sftpgo
 https://github.com/Acornsgrow/hitnmiss
 https://github.com/Acornsgrow/optional_logger
 https://github.com/Acornsgrow/reeds

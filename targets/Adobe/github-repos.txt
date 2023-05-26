@@ -24,7 +24,9 @@ https://github.com/Aarzoo75/Animated-3D-Loader
 https://github.com/Aarzoo75/Animated-3D-Toaster
 https://github.com/Aarzoo75/Animated-Bird-Buttons
 https://github.com/Aarzoo75/Animated-Book
+https://github.com/Aarzoo75/Animated-Check-Box
 https://github.com/Aarzoo75/Animated-Compress-File-Button
+https://github.com/Aarzoo75/Animated-Cube-Wheel-Loader
 https://github.com/Aarzoo75/Animated-Cute-Puppy
 https://github.com/Aarzoo75/Animated-Dinosaur-on-a-Unicycle
 https://github.com/Aarzoo75/Animated-Dog
@@ -38,16 +40,20 @@ https://github.com/Aarzoo75/Animated-Pencil-Loader
 https://github.com/Aarzoo75/Animated-Puppy
 https://github.com/Aarzoo75/Animated-Santa
 https://github.com/Aarzoo75/Animated-Sausage-Dog
+https://github.com/Aarzoo75/Animated-Sleeping-Cat
+https://github.com/Aarzoo75/Animated-Water-Wave-Text
 https://github.com/Aarzoo75/Arduino-projects
 https://github.com/Aarzoo75/AroFood
 https://github.com/Aarzoo75/Awesome-Animated-Loader
 https://github.com/Aarzoo75/Bank-Management-System
+https://github.com/Aarzoo75/Birthday_Greet_App
 https://github.com/Aarzoo75/C-programming-Project
 https://github.com/Aarzoo75/COVID-19-project-LPU
 https://github.com/Aarzoo75/CSS-CIRCULAR-PROGRESS
 https://github.com/Aarzoo75/Calculator
 https://github.com/Aarzoo75/Calculator-Using-HTML-CSS---Neumorphism-Design
 https://github.com/Aarzoo75/Calculator-V2.0
+https://github.com/Aarzoo75/Coffee-and-Cookies-Button
 https://github.com/Aarzoo75/Counter-Web-App
 https://github.com/Aarzoo75/CreditCard.github.io
 https://github.com/Aarzoo75/Cube-Loading-Animation
@@ -55,6 +61,7 @@ https://github.com/Aarzoo75/Cute-Puppy-Login-Form
 https://github.com/Aarzoo75/Deleting-Loader
 https://github.com/Aarzoo75/Dictionary
 https://github.com/Aarzoo75/Digital-Agency-Website
+https://github.com/Aarzoo75/Digital-Agency-Website---DigiTech
 https://github.com/Aarzoo75/Donate-Button-to-Flip-Coin-Animation
 https://github.com/Aarzoo75/E-Commerce-Website
 https://github.com/Aarzoo75/Email-Validation-Animation
@@ -64,6 +71,7 @@ https://github.com/Aarzoo75/Folded-Paper-Login-Page
 https://github.com/Aarzoo75/Full-Stack-Personal-Portfolio-Website
 https://github.com/Aarzoo75/Fully-Responsive-Furniture-Website
 https://github.com/Aarzoo75/Furniture-Website
+https://github.com/Aarzoo75/Generative-Background-Patterns
 https://github.com/Aarzoo75/Glassmorphism-Loader
 https://github.com/Aarzoo75/Glowing-Toggle-Switch
 https://github.com/Aarzoo75/Gooey-Bubble-Button
@@ -81,9 +89,11 @@ https://github.com/Aarzoo75/LeetCode-Solutions
 https://github.com/Aarzoo75/Mac_KeyBoard
 https://github.com/Aarzoo75/Mini-Agency-Website
 https://github.com/Aarzoo75/MrLearning-Website-Design
+https://github.com/Aarzoo75/Neumorphism-Calculator-
 https://github.com/Aarzoo75/Paper-Effect-Login-Form
 https://github.com/Aarzoo75/Paper-Plane-Send-Button
 https://github.com/Aarzoo75/Pencil-Loader
+https://github.com/Aarzoo75/Pencil-and-Paper-Checkbox
 https://github.com/Aarzoo75/Personal-Portfolio-Website
 https://github.com/Aarzoo75/Profile
 https://github.com/Aarzoo75/Python-Projects
@@ -97,14 +107,18 @@ https://github.com/Aarzoo75/Search-Box-Animation
 https://github.com/Aarzoo75/Search-bar-Animation
 https://github.com/Aarzoo75/Shoe-Swap
 https://github.com/Aarzoo75/Simple-Calculator-App
+https://github.com/Aarzoo75/Smiley-Preloader
 https://github.com/Aarzoo75/Snake-Game
 https://github.com/Aarzoo75/Snake-Game-Using-Java
 https://github.com/Aarzoo75/Social-media-Drawer
 https://github.com/Aarzoo75/Spiderman
+https://github.com/Aarzoo75/Student-Management-System
 https://github.com/Aarzoo75/Thor
 https://github.com/Aarzoo75/Thumbs-Up-Button
+https://github.com/Aarzoo75/Toggle-Button
 https://github.com/Aarzoo75/Transaction-Button
 https://github.com/Aarzoo75/Turning-book-pages
+https://github.com/Aarzoo75/Victrola
 https://github.com/Aarzoo75/Water-Drop-Radio-Button
 https://github.com/Aarzoo75/Web-Development-Projects
 https://github.com/Aarzoo75/jarvis
@@ -403,6 +417,7 @@ https://github.com/AdobeDocs/advertising-learn.fr-FR
 https://github.com/AdobeDocs/advertising-learn.it-IT
 https://github.com/AdobeDocs/advertising-learn.ja-JP
 https://github.com/AdobeDocs/advertising-learn.ko-KR
+https://github.com/AdobeDocs/advertising-learn.nl-NL
 https://github.com/AdobeDocs/advertising-learn.pt-BR
 https://github.com/AdobeDocs/advertising-learn.sv-SE
 https://github.com/AdobeDocs/advertising-learn.zh-Hans
@@ -416,6 +431,7 @@ https://github.com/AdobeDocs/advertising.ja-JP
 https://github.com/AdobeDocs/advertising.ko-KR
 https://github.com/AdobeDocs/advertising.nl-NL
 https://github.com/AdobeDocs/advertising.pt-BR
+https://github.com/AdobeDocs/advertising.sv-SE
 https://github.com/AdobeDocs/advertising.zh-Hans
 https://github.com/AdobeDocs/advertising.zh-Hant
 https://github.com/AdobeDocs/aem-connectors
@@ -427,6 +443,7 @@ https://github.com/AdobeDocs/aem-forms-automated-conversion-service.fr-FR
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.it-IT
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.ja-JP
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.ko-KR
+https://github.com/AdobeDocs/aem-forms-automated-conversion-service.nl-NL
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.pt-BR
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.sv-SE
 https://github.com/AdobeDocs/aem-forms-automated-conversion-service.zh-Hans
@@ -456,6 +473,7 @@ https://github.com/AdobeDocs/analytics-platform.de-DE
 https://github.com/AdobeDocs/analytics-platform.en
 https://github.com/AdobeDocs/analytics-platform.es-ES
 https://github.com/AdobeDocs/analytics-platform.fr-FR
+https://github.com/AdobeDocs/analytics-platform.it-IT
 https://github.com/AdobeDocs/analytics-platform.ja-JP
 https://github.com/AdobeDocs/analytics-platform.ko-KR
 https://github.com/AdobeDocs/analytics-platform.nl-NL
@@ -486,6 +504,7 @@ https://github.com/AdobeDocs/asset-compute.fr-FR
 https://github.com/AdobeDocs/asset-compute.it-IT
 https://github.com/AdobeDocs/asset-compute.ja-JP
 https://github.com/AdobeDocs/asset-compute.ko-KR
+https://github.com/AdobeDocs/asset-compute.nl-NL
 https://github.com/AdobeDocs/asset-compute.pt-BR
 https://github.com/AdobeDocs/asset-compute.sv-SE
 https://github.com/AdobeDocs/asset-compute.zh-Hans
@@ -541,6 +560,7 @@ https://github.com/AdobeDocs/awesome-uxp
 https://github.com/AdobeDocs/blueprints-learn.de-DE
 https://github.com/AdobeDocs/blueprints-learn.en
 https://github.com/AdobeDocs/blueprints-learn.es-ES
+https://github.com/AdobeDocs/blueprints-learn.fr-FR
 https://github.com/AdobeDocs/blueprints-learn.it-IT
 https://github.com/AdobeDocs/blueprints-learn.ja-JP
 https://github.com/AdobeDocs/blueprints-learn.ko-KR
@@ -551,9 +571,11 @@ https://github.com/AdobeDocs/blueprints-learn.zh-Hans
 https://github.com/AdobeDocs/blueprints-learn.zh-Hant
 https://github.com/AdobeDocs/bridge
 https://github.com/AdobeDocs/camera-raw
+https://github.com/AdobeDocs/campaign-classic-learn.de-DE
 https://github.com/AdobeDocs/campaign-classic-learn.en
 https://github.com/AdobeDocs/campaign-classic-learn.es-ES
 https://github.com/AdobeDocs/campaign-classic-learn.fr-FR
+https://github.com/AdobeDocs/campaign-classic-learn.it-IT
 https://github.com/AdobeDocs/campaign-classic-learn.ja-JP
 https://github.com/AdobeDocs/campaign-classic-learn.ko-KR
 https://github.com/AdobeDocs/campaign-classic-learn.nl-NL
@@ -584,6 +606,7 @@ https://github.com/AdobeDocs/campaign-learn.nl-NL
 https://github.com/AdobeDocs/campaign-learn.pt-BR
 https://github.com/AdobeDocs/campaign-learn.sv-SE
 https://github.com/AdobeDocs/campaign-learn.zh-Hans
+https://github.com/AdobeDocs/campaign-learn.zh-Hant
 https://github.com/AdobeDocs/campaign-standard-learn.de-DE
 https://github.com/AdobeDocs/campaign-standard-learn.en
 https://github.com/AdobeDocs/campaign-standard-learn.es-ES
@@ -648,10 +671,12 @@ https://github.com/AdobeDocs/commerce-business-intelligence.es-ES
 https://github.com/AdobeDocs/commerce-business-intelligence.fr-FR
 https://github.com/AdobeDocs/commerce-business-intelligence.it-IT
 https://github.com/AdobeDocs/commerce-business-intelligence.ja-JP
+https://github.com/AdobeDocs/commerce-business-intelligence.ko-KR
 https://github.com/AdobeDocs/commerce-business-intelligence.nl-NL
 https://github.com/AdobeDocs/commerce-business-intelligence.pt-BR
 https://github.com/AdobeDocs/commerce-business-intelligence.sv-SE
 https://github.com/AdobeDocs/commerce-business-intelligence.zh-Hans
+https://github.com/AdobeDocs/commerce-business-intelligence.zh-Hant
 https://github.com/AdobeDocs/commerce-channels.de-DE
 https://github.com/AdobeDocs/commerce-channels.en
 https://github.com/AdobeDocs/commerce-channels.es-ES
@@ -660,6 +685,7 @@ https://github.com/AdobeDocs/commerce-channels.it-IT
 https://github.com/AdobeDocs/commerce-channels.ja-JP
 https://github.com/AdobeDocs/commerce-channels.ko-KR
 https://github.com/AdobeDocs/commerce-channels.nl-NL
+https://github.com/AdobeDocs/commerce-channels.pt-BR
 https://github.com/AdobeDocs/commerce-channels.sv-SE
 https://github.com/AdobeDocs/commerce-channels.zh-Hans
 https://github.com/AdobeDocs/commerce-channels.zh-Hant
@@ -672,6 +698,7 @@ https://github.com/AdobeDocs/commerce-explorer
 https://github.com/AdobeDocs/commerce-extensibility
 https://github.com/AdobeDocs/commerce-frontend-core
 https://github.com/AdobeDocs/commerce-knowledge-base.en
+https://github.com/AdobeDocs/commerce-learn.de-DE
 https://github.com/AdobeDocs/commerce-learn.en
 https://github.com/AdobeDocs/commerce-learn.es-ES
 https://github.com/AdobeDocs/commerce-learn.fr-FR
@@ -682,6 +709,7 @@ https://github.com/AdobeDocs/commerce-learn.nl-NL
 https://github.com/AdobeDocs/commerce-learn.pt-BR
 https://github.com/AdobeDocs/commerce-learn.sv-SE
 https://github.com/AdobeDocs/commerce-learn.zh-Hans
+https://github.com/AdobeDocs/commerce-learn.zh-Hant
 https://github.com/AdobeDocs/commerce-marketplace
 https://github.com/AdobeDocs/commerce-merchant-services.de-DE
 https://github.com/AdobeDocs/commerce-merchant-services.en
@@ -694,6 +722,7 @@ https://github.com/AdobeDocs/commerce-merchant-services.nl-NL
 https://github.com/AdobeDocs/commerce-merchant-services.pt-BR
 https://github.com/AdobeDocs/commerce-merchant-services.sv-SE
 https://github.com/AdobeDocs/commerce-merchant-services.zh-Hans
+https://github.com/AdobeDocs/commerce-merchant-services.zh-Hant
 https://github.com/AdobeDocs/commerce-operations.de-DE
 https://github.com/AdobeDocs/commerce-operations.en
 https://github.com/AdobeDocs/commerce-operations.es-ES
@@ -718,6 +747,7 @@ https://github.com/AdobeDocs/contributor.de-DE
 https://github.com/AdobeDocs/contributor.en
 https://github.com/AdobeDocs/contributor.es-ES
 https://github.com/AdobeDocs/contributor.fr-FR
+https://github.com/AdobeDocs/contributor.it-IT
 https://github.com/AdobeDocs/contributor.ja-JP
 https://github.com/AdobeDocs/contributor.ko-KR
 https://github.com/AdobeDocs/contributor.nl-NL
@@ -745,10 +775,13 @@ https://github.com/AdobeDocs/control-panel.it-IT
 https://github.com/AdobeDocs/control-panel.ja-JP
 https://github.com/AdobeDocs/control-panel.ko-KR
 https://github.com/AdobeDocs/control-panel.nl-NL
+https://github.com/AdobeDocs/control-panel.pt-BR
 https://github.com/AdobeDocs/control-panel.sv-SE
+https://github.com/AdobeDocs/control-panel.zh-Hans
 https://github.com/AdobeDocs/control-panel.zh-Hant
 https://github.com/AdobeDocs/core-services.de-DE
 https://github.com/AdobeDocs/core-services.en
+https://github.com/AdobeDocs/core-services.es-ES
 https://github.com/AdobeDocs/core-services.fr-FR
 https://github.com/AdobeDocs/core-services.it-IT
 https://github.com/AdobeDocs/core-services.ja-JP
@@ -760,6 +793,7 @@ https://github.com/AdobeDocs/core-services.zh-Hans
 https://github.com/AdobeDocs/core-services.zh-Hant
 https://github.com/AdobeDocs/cpp-at-adobe
 https://github.com/AdobeDocs/create-embed-sdk
+https://github.com/AdobeDocs/creative-cloud-enterprise-learn.de-DE
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.es-ES
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.fr-FR
@@ -767,6 +801,7 @@ https://github.com/AdobeDocs/creative-cloud-enterprise-learn.it-IT
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.ja-JP
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.ko-KR
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.nl-NL
+https://github.com/AdobeDocs/creative-cloud-enterprise-learn.pt-BR
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.sv-SE
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.zh-Hans
 https://github.com/AdobeDocs/creative-cloud-enterprise-learn.zh-Hant
@@ -822,6 +857,7 @@ https://github.com/AdobeDocs/data-workbench.nl-NL
 https://github.com/AdobeDocs/data-workbench.pt-BR
 https://github.com/AdobeDocs/data-workbench.sv-SE
 https://github.com/AdobeDocs/data-workbench.zh-Hans
+https://github.com/AdobeDocs/data-workbench.zh-Hant
 https://github.com/AdobeDocs/dc-acrobat-sdk.en
 https://github.com/AdobeDocs/dc-components-test
 https://github.com/AdobeDocs/dc-testing
@@ -878,6 +914,7 @@ https://github.com/AdobeDocs/discontinued.fr-FR
 https://github.com/AdobeDocs/discontinued.it-IT
 https://github.com/AdobeDocs/discontinued.ja-JP
 https://github.com/AdobeDocs/discontinued.ko-KR
+https://github.com/AdobeDocs/discontinued.nl-NL
 https://github.com/AdobeDocs/discontinued.pt-BR
 https://github.com/AdobeDocs/discontinued.sv-SE
 https://github.com/AdobeDocs/discontinued.zh-Hans
@@ -886,6 +923,7 @@ https://github.com/AdobeDocs/docs-guidelines
 https://github.com/AdobeDocs/docs-standards
 https://github.com/AdobeDocs/document-cloud-learn.de-DE
 https://github.com/AdobeDocs/document-cloud-learn.en
+https://github.com/AdobeDocs/document-cloud-learn.es-ES
 https://github.com/AdobeDocs/document-cloud-learn.fr-FR
 https://github.com/AdobeDocs/document-cloud-learn.it-IT
 https://github.com/AdobeDocs/document-cloud-learn.ja-JP
@@ -911,12 +949,15 @@ https://github.com/AdobeDocs/dynamic-media-classic.pt-BR
 https://github.com/AdobeDocs/dynamic-media-classic.sv-SE
 https://github.com/AdobeDocs/dynamic-media-classic.zh-Hans
 https://github.com/AdobeDocs/dynamic-media-classic.zh-Hant
+https://github.com/AdobeDocs/dynamic-media-developer-resources.de-DE
 https://github.com/AdobeDocs/dynamic-media-developer-resources.en
 https://github.com/AdobeDocs/dynamic-media-developer-resources.es-ES
+https://github.com/AdobeDocs/dynamic-media-developer-resources.fr-FR
 https://github.com/AdobeDocs/dynamic-media-developer-resources.it-IT
 https://github.com/AdobeDocs/dynamic-media-developer-resources.ja-JP
 https://github.com/AdobeDocs/dynamic-media-developer-resources.ko-KR
 https://github.com/AdobeDocs/dynamic-media-developer-resources.nl-NL
+https://github.com/AdobeDocs/dynamic-media-developer-resources.pt-BR
 https://github.com/AdobeDocs/dynamic-media-developer-resources.sv-SE
 https://github.com/AdobeDocs/dynamic-media-developer-resources.zh-Hans
 https://github.com/AdobeDocs/dynamic-media-developer-resources.zh-Hant
@@ -936,6 +977,7 @@ https://github.com/AdobeDocs/events.zh-Hant
 https://github.com/AdobeDocs/exc-app
 https://github.com/AdobeDocs/exc.de-DE
 https://github.com/AdobeDocs/exc.en
+https://github.com/AdobeDocs/exc.es-ES
 https://github.com/AdobeDocs/exc.fr-FR
 https://github.com/AdobeDocs/exc.it-IT
 https://github.com/AdobeDocs/exc.ja-JP
@@ -967,6 +1009,8 @@ https://github.com/AdobeDocs/experience-cloud.ko-KR
 https://github.com/AdobeDocs/experience-cloud.nl-NL
 https://github.com/AdobeDocs/experience-cloud.pt-BR
 https://github.com/AdobeDocs/experience-cloud.sv-SE
+https://github.com/AdobeDocs/experience-cloud.zh-Hans
+https://github.com/AdobeDocs/experience-cloud.zh-Hant
 https://github.com/AdobeDocs/experience-manager-64.de-DE
 https://github.com/AdobeDocs/experience-manager-64.en
 https://github.com/AdobeDocs/experience-manager-64.es-ES
@@ -994,11 +1038,14 @@ https://github.com/AdobeDocs/experience-manager-65.zh-Hant
 https://github.com/AdobeDocs/experience-manager-apis
 https://github.com/AdobeDocs/experience-manager-assets-essentials.de-DE
 https://github.com/AdobeDocs/experience-manager-assets-essentials.en
+https://github.com/AdobeDocs/experience-manager-assets-essentials.es-ES
 https://github.com/AdobeDocs/experience-manager-assets-essentials.fr-FR
 https://github.com/AdobeDocs/experience-manager-assets-essentials.it-IT
 https://github.com/AdobeDocs/experience-manager-assets-essentials.ja-JP
+https://github.com/AdobeDocs/experience-manager-assets-essentials.ko-KR
 https://github.com/AdobeDocs/experience-manager-assets-essentials.nl-NL
 https://github.com/AdobeDocs/experience-manager-assets-essentials.pt-BR
+https://github.com/AdobeDocs/experience-manager-assets-essentials.sv-SE
 https://github.com/AdobeDocs/experience-manager-assets-essentials.zh-Hans
 https://github.com/AdobeDocs/experience-manager-assets-essentials.zh-Hant
 https://github.com/AdobeDocs/experience-manager-brand-portal.de-DE
@@ -1068,6 +1115,7 @@ https://github.com/AdobeDocs/experience-manager-dispatcher.fr-FR
 https://github.com/AdobeDocs/experience-manager-dispatcher.it-IT
 https://github.com/AdobeDocs/experience-manager-dispatcher.ja-JP
 https://github.com/AdobeDocs/experience-manager-dispatcher.ko-KR
+https://github.com/AdobeDocs/experience-manager-dispatcher.nl-NL
 https://github.com/AdobeDocs/experience-manager-dispatcher.pt-BR
 https://github.com/AdobeDocs/experience-manager-dispatcher.sv-SE
 https://github.com/AdobeDocs/experience-manager-dispatcher.zh-Hans
@@ -1086,6 +1134,7 @@ https://github.com/AdobeDocs/experience-manager-document-security.zh-Hans
 https://github.com/AdobeDocs/experience-manager-document-security.zh-Hant
 https://github.com/AdobeDocs/experience-manager-forms-cloud-service-developer-reference
 https://github.com/AdobeDocs/experience-manager-forms-cloud-service.en
+https://github.com/AdobeDocs/experience-manager-gems-events.de-DE
 https://github.com/AdobeDocs/experience-manager-gems-events.es-ES
 https://github.com/AdobeDocs/experience-manager-gems-events.fr-FR
 https://github.com/AdobeDocs/experience-manager-gems-events.it-IT
@@ -1094,9 +1143,11 @@ https://github.com/AdobeDocs/experience-manager-gems-events.ko-KR
 https://github.com/AdobeDocs/experience-manager-gems-events.nl-NL
 https://github.com/AdobeDocs/experience-manager-gems-events.pt-BR
 https://github.com/AdobeDocs/experience-manager-gems-events.sv-SE
+https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hans
 https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hant
 https://github.com/AdobeDocs/experience-manager-gems.en
 https://github.com/AdobeDocs/experience-manager-guides-learn.de-DE
+https://github.com/AdobeDocs/experience-manager-guides-learn.en
 https://github.com/AdobeDocs/experience-manager-guides-learn.es-ES
 https://github.com/AdobeDocs/experience-manager-guides-learn.fr-FR
 https://github.com/AdobeDocs/experience-manager-guides-learn.it-IT
@@ -1144,6 +1195,7 @@ https://github.com/AdobeDocs/experience-manager-pattern-detection.pt-BR
 https://github.com/AdobeDocs/experience-manager-pattern-detection.sv-SE
 https://github.com/AdobeDocs/experience-manager-pattern-detection.zh-Hans
 https://github.com/AdobeDocs/experience-manager-pattern-detection.zh-Hant
+https://github.com/AdobeDocs/experience-manager-release-information.de-DE
 https://github.com/AdobeDocs/experience-manager-release-information.en
 https://github.com/AdobeDocs/experience-manager-release-information.es-ES
 https://github.com/AdobeDocs/experience-manager-release-information.fr-FR
@@ -1156,10 +1208,12 @@ https://github.com/AdobeDocs/experience-manager-release-information.sv-SE
 https://github.com/AdobeDocs/experience-manager-release-information.zh-Hans
 https://github.com/AdobeDocs/experience-manager-release-information.zh-Hant
 https://github.com/AdobeDocs/experience-manager-release-overview-events.de-DE
+https://github.com/AdobeDocs/experience-manager-release-overview-events.es-ES
 https://github.com/AdobeDocs/experience-manager-release-overview-events.fr-FR
 https://github.com/AdobeDocs/experience-manager-release-overview-events.it-IT
 https://github.com/AdobeDocs/experience-manager-release-overview-events.ja-JP
 https://github.com/AdobeDocs/experience-manager-release-overview-events.ko-KR
+https://github.com/AdobeDocs/experience-manager-release-overview-events.nl-NL
 https://github.com/AdobeDocs/experience-manager-release-overview-events.pt-BR
 https://github.com/AdobeDocs/experience-manager-release-overview-events.sv-SE
 https://github.com/AdobeDocs/experience-manager-release-overview-events.zh-Hans
@@ -1171,6 +1225,7 @@ https://github.com/AdobeDocs/experience-manager-screens.fr-FR
 https://github.com/AdobeDocs/experience-manager-screens.it-IT
 https://github.com/AdobeDocs/experience-manager-screens.ja-JP
 https://github.com/AdobeDocs/experience-manager-screens.ko-KR
+https://github.com/AdobeDocs/experience-manager-screens.nl-NL
 https://github.com/AdobeDocs/experience-manager-screens.pt-BR
 https://github.com/AdobeDocs/experience-manager-screens.sv-SE
 https://github.com/AdobeDocs/experience-manager-screens.zh-Hans
@@ -1192,6 +1247,7 @@ https://github.com/AdobeDocs/experience-platform.sv-SE
 https://github.com/AdobeDocs/experience-platform.zh-Hans
 https://github.com/AdobeDocs/experience-platform.zh-Hant
 https://github.com/AdobeDocs/express-add-on-apis
+https://github.com/AdobeDocs/express-add-on-samples
 https://github.com/AdobeDocs/express-add-ons
 https://github.com/AdobeDocs/express-add-ons-docs
 https://github.com/AdobeDocs/express-for-developers
@@ -1207,6 +1263,7 @@ https://github.com/AdobeDocs/id-service.es-ES
 https://github.com/AdobeDocs/id-service.fr-FR
 https://github.com/AdobeDocs/id-service.it-IT
 https://github.com/AdobeDocs/id-service.ja-JP
+https://github.com/AdobeDocs/id-service.ko-KR
 https://github.com/AdobeDocs/id-service.nl-NL
 https://github.com/AdobeDocs/id-service.pt-BR
 https://github.com/AdobeDocs/id-service.sv-SE
@@ -1223,6 +1280,7 @@ https://github.com/AdobeDocs/journey-optimizer-apis
 https://github.com/AdobeDocs/journey-optimizer-learn.de-DE
 https://github.com/AdobeDocs/journey-optimizer-learn.en
 https://github.com/AdobeDocs/journey-optimizer-learn.es-ES
+https://github.com/AdobeDocs/journey-optimizer-learn.fr-FR
 https://github.com/AdobeDocs/journey-optimizer-learn.it-IT
 https://github.com/AdobeDocs/journey-optimizer-learn.ja-JP
 https://github.com/AdobeDocs/journey-optimizer-learn.ko-KR
@@ -1231,6 +1289,7 @@ https://github.com/AdobeDocs/journey-optimizer-learn.pt-BR
 https://github.com/AdobeDocs/journey-optimizer-learn.sv-SE
 https://github.com/AdobeDocs/journey-optimizer-learn.zh-Hans
 https://github.com/AdobeDocs/journey-optimizer-learn.zh-Hant
+https://github.com/AdobeDocs/journey-optimizer.de-DE
 https://github.com/AdobeDocs/journey-optimizer.en
 https://github.com/AdobeDocs/journey-optimizer.es-ES
 https://github.com/AdobeDocs/journey-optimizer.fr-FR
@@ -1267,6 +1326,7 @@ https://github.com/AdobeDocs/journeys.zh-Hans
 https://github.com/AdobeDocs/journeys.zh-Hant
 https://github.com/AdobeDocs/learn-from-your-peers-events.de-DE
 https://github.com/AdobeDocs/learn-from-your-peers-events.es-ES
+https://github.com/AdobeDocs/learn-from-your-peers-events.fr-FR
 https://github.com/AdobeDocs/learn-from-your-peers-events.it-IT
 https://github.com/AdobeDocs/learn-from-your-peers-events.ja-JP
 https://github.com/AdobeDocs/learn-from-your-peers-events.ko-KR
@@ -1311,6 +1371,7 @@ https://github.com/AdobeDocs/marketo-measure-learn.en
 https://github.com/AdobeDocs/marketo-measure-learn.es-ES
 https://github.com/AdobeDocs/marketo-measure-learn.fr-FR
 https://github.com/AdobeDocs/marketo-measure-learn.it-IT
+https://github.com/AdobeDocs/marketo-measure-learn.ja-JP
 https://github.com/AdobeDocs/marketo-measure-learn.ko-KR
 https://github.com/AdobeDocs/marketo-measure-learn.nl-NL
 https://github.com/AdobeDocs/marketo-measure-learn.pt-BR
@@ -1334,6 +1395,7 @@ https://github.com/AdobeDocs/marketo.en
 https://github.com/AdobeDocs/marketo.es-ES
 https://github.com/AdobeDocs/marketo.fr-FR
 https://github.com/AdobeDocs/marketo.it-IT
+https://github.com/AdobeDocs/marketo.ja-JP
 https://github.com/AdobeDocs/marketo.ko-KR
 https://github.com/AdobeDocs/marketo.nl-NL
 https://github.com/AdobeDocs/marketo.pt-BR
@@ -1355,7 +1417,9 @@ https://github.com/AdobeDocs/media-analytics.zh-Hant
 https://github.com/AdobeDocs/mobile-services.de-DE
 https://github.com/AdobeDocs/mobile-services.en
 https://github.com/AdobeDocs/mobile-services.es-ES
+https://github.com/AdobeDocs/mobile-services.fr-FR
 https://github.com/AdobeDocs/mobile-services.it-IT
+https://github.com/AdobeDocs/mobile-services.ja-JP
 https://github.com/AdobeDocs/mobile-services.ko-KR
 https://github.com/AdobeDocs/mobile-services.nl-NL
 https://github.com/AdobeDocs/mobile-services.pt-BR
@@ -1389,6 +1453,7 @@ https://github.com/AdobeDocs/places.zh-Hans
 https://github.com/AdobeDocs/places.zh-Hant
 https://github.com/AdobeDocs/platform-learn.de-DE
 https://github.com/AdobeDocs/platform-learn.en
+https://github.com/AdobeDocs/platform-learn.es-ES
 https://github.com/AdobeDocs/platform-learn.fr-FR
 https://github.com/AdobeDocs/platform-learn.it-IT
 https://github.com/AdobeDocs/platform-learn.ja-JP
@@ -1466,6 +1531,7 @@ https://github.com/AdobeDocs/support-resources.en
 https://github.com/AdobeDocs/support-resources.es-ES
 https://github.com/AdobeDocs/support-resources.fr-FR
 https://github.com/AdobeDocs/support-resources.it-IT
+https://github.com/AdobeDocs/support-resources.ja-JP
 https://github.com/AdobeDocs/support-resources.ko-KR
 https://github.com/AdobeDocs/support-resources.nl-NL
 https://github.com/AdobeDocs/support-resources.pt-BR
@@ -1485,6 +1551,7 @@ https://github.com/AdobeDocs/target-learn.nl-NL
 https://github.com/AdobeDocs/target-learn.pt-BR
 https://github.com/AdobeDocs/target-learn.sv-SE
 https://github.com/AdobeDocs/target-learn.zh-Hans
+https://github.com/AdobeDocs/target-learn.zh-Hant
 https://github.com/AdobeDocs/target-sdk-api
 https://github.com/AdobeDocs/target.de-DE
 https://github.com/AdobeDocs/target.en
@@ -1552,6 +1619,7 @@ https://github.com/AdobeDocs/workfront.en
 https://github.com/AdobeDocs/workfront.es-ES
 https://github.com/AdobeDocs/workfront.fr-FR
 https://github.com/AdobeDocs/workfront.it-IT
+https://github.com/AdobeDocs/workfront.ja-JP
 https://github.com/AdobeDocs/workfront.ko-KR
 https://github.com/AdobeDocs/workfront.nl-NL
 https://github.com/AdobeDocs/workfront.pt-BR
@@ -1628,6 +1696,7 @@ https://github.com/Chumper/pyctor
 https://github.com/Chumper/renovate-go-pin
 https://github.com/Chumper/renovate-kubernetes
 https://github.com/Chumper/renovate-scheduler
+https://github.com/CreateJS/AdobeAnimateDemo
 https://github.com/Deva309/SOS-customer-ui
 https://github.com/Deva309/movie-search-app
 https://github.com/Deva309/parking-lot-code
@@ -4487,6 +4556,7 @@ https://github.com/mikaelasymanovich/381_Project
 https://github.com/mikaelasymanovich/Mikaela_Thesis
 https://github.com/mikaelasymanovich/hello-world
 https://github.com/mkraley/python-hello
+https://github.com/mokimo/helix-demo
 https://github.com/moritzraho/restaurant-template-cms
 https://github.com/msabramo/Append-to-nvALT-journal.alfredextension
 https://github.com/msabramo/BuildBotMenulet

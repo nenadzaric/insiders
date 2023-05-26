@@ -78,11 +78,6 @@
         "language": "CSS"
       },
       {
-        "url": "https://github.com/Aarzoo75/3D-Keyboard-and-Monitor",
-        "ssh_url": "git@github.com:Aarzoo75/3D-Keyboard-and-Monitor.git",
-        "language": "HTML"
-      },
-      {
         "url": "https://github.com/Aarzoo75/3D-Loading-Animation",
         "ssh_url": "git@github.com:Aarzoo75/3D-Loading-Animation.git",
         "language": "CSS"
@@ -91,6 +86,11 @@
         "url": "https://github.com/Aarzoo75/ATM-System",
         "ssh_url": "git@github.com:Aarzoo75/ATM-System.git",
         "language": "Java"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Aarzoo-Portfolio",
+        "ssh_url": "git@github.com:Aarzoo75/Aarzoo-Portfolio.git",
+        "language": "SCSS"
       },
       {
         "url": "https://github.com/Aarzoo75/Aarzoo-Portfolio",
@@ -133,13 +133,28 @@
         "language": "CSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/Animated-Bird-Buttons",
+        "ssh_url": "git@github.com:Aarzoo75/Animated-Bird-Buttons.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Animated-Book",
         "ssh_url": "git@github.com:Aarzoo75/Animated-Book.git",
         "language": "CSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/Animated-Check-Box",
+        "ssh_url": "git@github.com:Aarzoo75/Animated-Check-Box.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Animated-Compress-File-Button",
         "ssh_url": "git@github.com:Aarzoo75/Animated-Compress-File-Button.git",
+        "language": "CSS"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Animated-Cube-Wheel-Loader",
+        "ssh_url": "git@github.com:Aarzoo75/Animated-Cube-Wheel-Loader.git",
         "language": "CSS"
       },
       {
@@ -178,11 +193,6 @@
         "language": "CSS"
       },
       {
-        "url": "https://github.com/Aarzoo75/Animated-Loader",
-        "ssh_url": "git@github.com:Aarzoo75/Animated-Loader.git",
-        "language": "CSS"
-      },
-      {
         "url": "https://github.com/Aarzoo75/Animated-Mail-Button",
         "ssh_url": "git@github.com:Aarzoo75/Animated-Mail-Button.git",
         "language": "CSS"
@@ -208,6 +218,21 @@
         "language": "HTML"
       },
       {
+        "url": "https://github.com/Aarzoo75/Animated-Sleeping-Cat",
+        "ssh_url": "git@github.com:Aarzoo75/Animated-Sleeping-Cat.git",
+        "language": "CSS"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Animated-Water-Wave-Text",
+        "ssh_url": "git@github.com:Aarzoo75/Animated-Water-Wave-Text.git",
+        "language": "CSS"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Arduino-projects",
+        "ssh_url": "git@github.com:Aarzoo75/Arduino-projects.git",
+        "language": "C++"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Arduino-projects",
         "ssh_url": "git@github.com:Aarzoo75/Arduino-projects.git",
         "language": "C++"
@@ -226,6 +251,11 @@
         "url": "https://github.com/Aarzoo75/Bank-Management-System",
         "ssh_url": "git@github.com:Aarzoo75/Bank-Management-System.git",
         "language": "Java"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Birthday_Greet_App",
+        "ssh_url": "git@github.com:Aarzoo75/Birthday_Greet_App.git",
+        "language": "Kotlin"
       },
       {
         "url": "https://github.com/Aarzoo75/C-programming-Project",
@@ -256,6 +286,11 @@
         "url": "https://github.com/Aarzoo75/Calculator-V2.0",
         "ssh_url": "git@github.com:Aarzoo75/Calculator-V2.0.git",
         "language": "HTML"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Coffee-and-Cookies-Button",
+        "ssh_url": "git@github.com:Aarzoo75/Coffee-and-Cookies-Button.git",
+        "language": "CSS"
       },
       {
         "url": "https://github.com/Aarzoo75/Counter-Web-App",
@@ -293,6 +328,11 @@
         "language": "CSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/Digital-Agency-Website---DigiTech",
+        "ssh_url": "git@github.com:Aarzoo75/Digital-Agency-Website---DigiTech.git",
+        "language": "SCSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Donate-Button-to-Flip-Coin-Animation",
         "ssh_url": "git@github.com:Aarzoo75/Donate-Button-to-Flip-Coin-Animation.git",
         "language": "CSS"
@@ -311,11 +351,6 @@
         "url": "https://github.com/Aarzoo75/Error-Page",
         "ssh_url": "git@github.com:Aarzoo75/Error-Page.git",
         "language": "CSS"
-      },
-      {
-        "url": "https://github.com/Aarzoo75/Falling-Man-Button",
-        "ssh_url": "git@github.com:Aarzoo75/Falling-Man-Button.git",
-        "language": "JavaScript"
       },
       {
         "url": "https://github.com/Aarzoo75/Folded-Paper-Login-Page",
@@ -338,6 +373,11 @@
         "language": "SCSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/Generative-Background-Patterns",
+        "ssh_url": "git@github.com:Aarzoo75/Generative-Background-Patterns.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Glassmorphism-Loader",
         "ssh_url": "git@github.com:Aarzoo75/Glassmorphism-Loader.git",
         "language": "CSS"
@@ -358,14 +398,9 @@
         "language": "C"
       },
       {
-        "url": "https://github.com/Aarzoo75/Hacktoberfest-2022",
-        "ssh_url": "git@github.com:Aarzoo75/Hacktoberfest-2022.git",
-        "language": "Python"
-      },
-      {
-        "url": "https://github.com/Aarzoo75/Hacktoberfest2022",
-        "ssh_url": "git@github.com:Aarzoo75/Hacktoberfest2022.git",
-        "language": "HTML"
+        "url": "https://github.com/Aarzoo75/HackerRank-Solution",
+        "ssh_url": "git@github.com:Aarzoo75/HackerRank-Solution.git",
+        "language": "C"
       },
       {
         "url": "https://github.com/Aarzoo75/Happy-Diwali",
@@ -388,11 +423,6 @@
         "language": "C"
       },
       {
-        "url": "https://github.com/Aarzoo75/Iron-man",
-        "ssh_url": "git@github.com:Aarzoo75/Iron-man.git",
-        "language": "CSS"
-      },
-      {
         "url": "https://github.com/Aarzoo75/JAVA_Projects",
         "ssh_url": "git@github.com:Aarzoo75/JAVA_Projects.git",
         "language": "Java"
@@ -401,6 +431,11 @@
         "url": "https://github.com/Aarzoo75/LEGO-Preloader",
         "ssh_url": "git@github.com:Aarzoo75/LEGO-Preloader.git",
         "language": "HTML"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/LeetCode-Solutions",
+        "ssh_url": "git@github.com:Aarzoo75/LeetCode-Solutions.git",
+        "language": "C++"
       },
       {
         "url": "https://github.com/Aarzoo75/LeetCode-Solutions",
@@ -423,6 +458,11 @@
         "language": "HTML"
       },
       {
+        "url": "https://github.com/Aarzoo75/Neumorphism-Calculator-",
+        "ssh_url": "git@github.com:Aarzoo75/Neumorphism-Calculator-.git",
+        "language": "HTML"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Paper-Effect-Login-Form",
         "ssh_url": "git@github.com:Aarzoo75/Paper-Effect-Login-Form.git",
         "language": "CSS"
@@ -433,8 +473,8 @@
         "language": "CSS"
       },
       {
-        "url": "https://github.com/Aarzoo75/Pencil-Loader",
-        "ssh_url": "git@github.com:Aarzoo75/Pencil-Loader.git",
+        "url": "https://github.com/Aarzoo75/Pencil-and-Paper-Checkbox",
+        "ssh_url": "git@github.com:Aarzoo75/Pencil-and-Paper-Checkbox.git",
         "language": "CSS"
       },
       {
@@ -443,9 +483,9 @@
         "language": "SCSS"
       },
       {
-        "url": "https://github.com/Aarzoo75/Profile",
-        "ssh_url": "git@github.com:Aarzoo75/Profile.git",
-        "language": "HTML"
+        "url": "https://github.com/Aarzoo75/Python-Projects",
+        "ssh_url": "git@github.com:Aarzoo75/Python-Projects.git",
+        "language": "Python"
       },
       {
         "url": "https://github.com/Aarzoo75/Python-Projects",
@@ -466,11 +506,6 @@
         "url": "https://github.com/Aarzoo75/Registration-Page",
         "ssh_url": "git@github.com:Aarzoo75/Registration-Page.git",
         "language": "HTML"
-      },
-      {
-        "url": "https://github.com/Aarzoo75/Responsive-Cafe-Website",
-        "ssh_url": "git@github.com:Aarzoo75/Responsive-Cafe-Website.git",
-        "language": "SCSS"
       },
       {
         "url": "https://github.com/Aarzoo75/Responsive-E-Commerce-Website",
@@ -503,6 +538,16 @@
         "language": "Java"
       },
       {
+        "url": "https://github.com/Aarzoo75/Simple-Calculator-App",
+        "ssh_url": "git@github.com:Aarzoo75/Simple-Calculator-App.git",
+        "language": "Java"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Smiley-Preloader",
+        "ssh_url": "git@github.com:Aarzoo75/Smiley-Preloader.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Snake-Game",
         "ssh_url": "git@github.com:Aarzoo75/Snake-Game.git",
         "language": "Python"
@@ -523,6 +568,11 @@
         "language": "CSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/Student-Management-System",
+        "ssh_url": "git@github.com:Aarzoo75/Student-Management-System.git",
+        "language": "Java"
+      },
+      {
         "url": "https://github.com/Aarzoo75/Thor",
         "ssh_url": "git@github.com:Aarzoo75/Thor.git",
         "language": "CSS"
@@ -530,6 +580,11 @@
       {
         "url": "https://github.com/Aarzoo75/Thumbs-Up-Button",
         "ssh_url": "git@github.com:Aarzoo75/Thumbs-Up-Button.git",
+        "language": "CSS"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Toggle-Button",
+        "ssh_url": "git@github.com:Aarzoo75/Toggle-Button.git",
         "language": "CSS"
       },
       {
@@ -541,6 +596,16 @@
         "url": "https://github.com/Aarzoo75/Turning-book-pages",
         "ssh_url": "git@github.com:Aarzoo75/Turning-book-pages.git",
         "language": "HTML"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Turning-book-pages",
+        "ssh_url": "git@github.com:Aarzoo75/Turning-book-pages.git",
+        "language": "HTML"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/Victrola",
+        "ssh_url": "git@github.com:Aarzoo75/Victrola.git",
+        "language": "CSS"
       },
       {
         "url": "https://github.com/Aarzoo75/Water-Drop-Radio-Button",
@@ -563,9 +628,19 @@
         "language": "CSS"
       },
       {
+        "url": "https://github.com/Aarzoo75/meta.github.io",
+        "ssh_url": "git@github.com:Aarzoo75/meta.github.io.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/Aarzoo75/totro-Toggle-Switch",
         "ssh_url": "git@github.com:Aarzoo75/totro-Toggle-Switch.git",
         "language": "CSS"
+      },
+      {
+        "url": "https://github.com/Aarzoo75/url_shortner",
+        "ssh_url": "git@github.com:Aarzoo75/url_shortner.git",
+        "language": "Python"
       },
       {
         "url": "https://github.com/Aarzoo75/url_shortner",
@@ -1623,11 +1698,6 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/AdobeDocs/acp-mobile-sdkdocs",
-        "ssh_url": "git@github.com:AdobeDocs/acp-mobile-sdkdocs.git",
-        "language": "JavaScript"
-      },
-      {
         "url": "https://github.com/AdobeDocs/acrobat-services-learn.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/acrobat-services-learn.de-DE.git",
         "language": ""
@@ -1973,11 +2043,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/advertising-cloud-learn.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-cloud-learn.zh-Hant.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/advertising-cloud.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.de-DE.git",
         "language": ""
@@ -2003,18 +2068,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/advertising-cloud.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.ja-JP.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/advertising-cloud.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.ko-KR.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/advertising-cloud.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.nl-NL.git",
         "language": ""
       },
       {
@@ -2035,11 +2090,6 @@
       {
         "url": "https://github.com/AdobeDocs/advertising-cloud.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.zh-Hans.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/advertising-cloud.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-cloud.zh-Hant.git",
         "language": ""
       },
       {
@@ -2083,13 +2133,13 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/advertising-learn.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-learn.pt-BR.git",
+        "url": "https://github.com/AdobeDocs/advertising-learn.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/advertising-learn.nl-NL.git",
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/advertising-learn.sv-SE",
-        "ssh_url": "git@github.com:AdobeDocs/advertising-learn.sv-SE.git",
+        "url": "https://github.com/AdobeDocs/advertising-learn.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/advertising-learn.pt-BR.git",
         "language": ""
       },
       {
@@ -2110,11 +2160,6 @@
       {
         "url": "https://github.com/AdobeDocs/advertising.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/advertising.de-DE.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/advertising.en",
-        "ssh_url": "git@github.com:AdobeDocs/advertising.en.git",
         "language": ""
       },
       {
@@ -2155,6 +2200,11 @@
       {
         "url": "https://github.com/AdobeDocs/advertising.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/advertising.pt-BR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/advertising.sv-SE",
+        "ssh_url": "git@github.com:AdobeDocs/advertising.sv-SE.git",
         "language": ""
       },
       {
@@ -2210,6 +2260,11 @@
       {
         "url": "https://github.com/AdobeDocs/aem-forms-automated-conversion-service.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/aem-forms-automated-conversion-service.ko-KR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/aem-forms-automated-conversion-service.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/aem-forms-automated-conversion-service.nl-NL.git",
         "language": ""
       },
       {
@@ -2308,11 +2363,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/analytics-learn.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/analytics-learn.ja-JP.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/analytics-learn.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/analytics-learn.ko-KR.git",
         "language": ""
@@ -2360,6 +2410,11 @@
       {
         "url": "https://github.com/AdobeDocs/analytics-platform.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/analytics-platform.fr-FR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/analytics-platform.it-IT",
+        "ssh_url": "git@github.com:AdobeDocs/analytics-platform.it-IT.git",
         "language": ""
       },
       {
@@ -2510,6 +2565,11 @@
       {
         "url": "https://github.com/AdobeDocs/asset-compute.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/asset-compute.ko-KR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/asset-compute.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/asset-compute.nl-NL.git",
         "language": ""
       },
       {
@@ -2703,11 +2763,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/audience-manager.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/audience-manager.zh-Hans.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/audience-manager.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/audience-manager.zh-Hant.git",
         "language": ""
@@ -2793,6 +2848,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/blueprints-learn.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/blueprints-learn.fr-FR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/blueprints-learn.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/blueprints-learn.it-IT.git",
         "language": ""
@@ -2843,6 +2903,11 @@
         "language": "JavaScript"
       },
       {
+        "url": "https://github.com/AdobeDocs/campaign-classic-learn.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/campaign-classic-learn.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/campaign-classic-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/campaign-classic-learn.en.git",
         "language": ""
@@ -2855,6 +2920,11 @@
       {
         "url": "https://github.com/AdobeDocs/campaign-classic-learn.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/campaign-classic-learn.fr-FR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/campaign-classic-learn.it-IT",
+        "ssh_url": "git@github.com:AdobeDocs/campaign-classic-learn.it-IT.git",
         "language": ""
       },
       {
@@ -2890,11 +2960,6 @@
       {
         "url": "https://github.com/AdobeDocs/campaign-classic-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/campaign-classic-learn.zh-Hant.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/campaign-classic.de-DE",
-        "ssh_url": "git@github.com:AdobeDocs/campaign-classic.de-DE.git",
         "language": ""
       },
       {
@@ -3013,6 +3078,11 @@
         "language": "JavaScript"
       },
       {
+        "url": "https://github.com/AdobeDocs/campaign-learn.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/campaign-learn.zh-Hant.git",
+        "language": "JavaScript"
+      },
+      {
         "url": "https://github.com/AdobeDocs/campaign-standard-learn.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/campaign-standard-learn.de-DE.git",
         "language": ""
@@ -3045,11 +3115,6 @@
       {
         "url": "https://github.com/AdobeDocs/campaign-standard-learn.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/campaign-standard-learn.nl-NL.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/campaign-standard-learn.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/campaign-standard-learn.pt-BR.git",
         "language": ""
       },
       {
@@ -3313,11 +3378,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/commerce-business-intelligence.de-DE",
-        "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.de-DE.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/commerce-business-intelligence.en",
         "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.en.git",
         "language": ""
@@ -3333,11 +3393,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/commerce-business-intelligence.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.fr-FR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/commerce-business-intelligence.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.it-IT.git",
         "language": ""
@@ -3345,6 +3400,11 @@
       {
         "url": "https://github.com/AdobeDocs/commerce-business-intelligence.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.ja-JP.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/commerce-business-intelligence.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.ko-KR.git",
         "language": ""
       },
       {
@@ -3365,6 +3425,11 @@
       {
         "url": "https://github.com/AdobeDocs/commerce-business-intelligence.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.zh-Hans.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/commerce-business-intelligence.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-business-intelligence.zh-Hant.git",
         "language": ""
       },
       {
@@ -3405,6 +3470,11 @@
       {
         "url": "https://github.com/AdobeDocs/commerce-channels.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/commerce-channels.nl-NL.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/commerce-channels.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-channels.pt-BR.git",
         "language": ""
       },
       {
@@ -3468,6 +3538,11 @@
         "language": "Shell"
       },
       {
+        "url": "https://github.com/AdobeDocs/commerce-learn.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-learn.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/commerce-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/commerce-learn.en.git",
         "language": ""
@@ -3515,6 +3590,11 @@
       {
         "url": "https://github.com/AdobeDocs/commerce-learn.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/commerce-learn.zh-Hans.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/commerce-learn.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-learn.zh-Hant.git",
         "language": ""
       },
       {
@@ -3575,6 +3655,11 @@
       {
         "url": "https://github.com/AdobeDocs/commerce-merchant-services.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/commerce-merchant-services.zh-Hans.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/commerce-merchant-services.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/commerce-merchant-services.zh-Hant.git",
         "language": ""
       },
       {
@@ -3698,8 +3783,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/contributor.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/contributor.ja-JP.git",
+        "url": "https://github.com/AdobeDocs/contributor.it-IT",
+        "ssh_url": "git@github.com:AdobeDocs/contributor.it-IT.git",
         "language": ""
       },
       {
@@ -3793,11 +3878,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/control-panel-learn.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/control-panel-learn.zh-Hans.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/control-panel-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/control-panel-learn.zh-Hant.git",
         "language": ""
@@ -3843,8 +3923,18 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/control-panel.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/control-panel.pt-BR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/control-panel.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/control-panel.sv-SE.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/control-panel.zh-Hans",
+        "ssh_url": "git@github.com:AdobeDocs/control-panel.zh-Hans.git",
         "language": ""
       },
       {
@@ -3860,6 +3950,11 @@
       {
         "url": "https://github.com/AdobeDocs/core-services.en",
         "ssh_url": "git@github.com:AdobeDocs/core-services.en.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/core-services.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/core-services.es-ES.git",
         "language": ""
       },
       {
@@ -3898,11 +3993,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/core-services.sv-SE",
-        "ssh_url": "git@github.com:AdobeDocs/core-services.sv-SE.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/core-services.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/core-services.zh-Hans.git",
         "language": ""
@@ -3921,6 +4011,11 @@
         "url": "https://github.com/AdobeDocs/create-embed-sdk",
         "ssh_url": "git@github.com:AdobeDocs/create-embed-sdk.git",
         "language": "JavaScript"
+      },
+      {
+        "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/creative-cloud-enterprise-learn.de-DE.git",
+        "language": ""
       },
       {
         "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.en",
@@ -3955,6 +4050,11 @@
       {
         "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/creative-cloud-enterprise-learn.nl-NL.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/creative-cloud-enterprise-learn.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/creative-cloud-enterprise-learn.pt-BR.git",
         "language": ""
       },
       {
@@ -4108,11 +4208,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/customer-one.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/customer-one.zh-Hans.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/customer-one.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/customer-one.zh-Hant.git",
         "language": ""
@@ -4233,8 +4328,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/data-workbench.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/data-workbench.zh-Hans.git",
+        "url": "https://github.com/AdobeDocs/data-workbench.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/data-workbench.zh-Hant.git",
         "language": ""
       },
       {
@@ -4348,11 +4443,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/deliverability-learn.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/deliverability-learn.nl-NL.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/deliverability-learn.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/deliverability-learn.pt-BR.git",
         "language": ""
@@ -4400,11 +4490,6 @@
       {
         "url": "https://github.com/AdobeDocs/dev-site-testing",
         "ssh_url": "git@github.com:AdobeDocs/dev-site-testing.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/developer-distribute",
-        "ssh_url": "git@github.com:AdobeDocs/developer-distribute.git",
         "language": "JavaScript"
       },
       {
@@ -4528,8 +4613,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/discontinued.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/discontinued.ko-KR.git",
+        "url": "https://github.com/AdobeDocs/discontinued.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/discontinued.nl-NL.git",
         "language": ""
       },
       {
@@ -4570,6 +4655,11 @@
       {
         "url": "https://github.com/AdobeDocs/document-cloud-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/document-cloud-learn.en.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/document-cloud-learn.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/document-cloud-learn.es-ES.git",
         "language": ""
       },
       {
@@ -4643,6 +4733,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/dynamic-media-classic.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-classic.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/dynamic-media-classic.en",
         "ssh_url": "git@github.com:AdobeDocs/dynamic-media-classic.en.git",
         "language": ""
@@ -4698,6 +4793,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.de-DE.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.en",
         "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.en.git",
         "language": ""
@@ -4705,6 +4805,11 @@
       {
         "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.es-ES",
         "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.es-ES.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.fr-FR.git",
         "language": ""
       },
       {
@@ -4728,6 +4833,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.pt-BR",
+        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.pt-BR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.sv-SE.git",
         "language": ""
@@ -4735,11 +4845,6 @@
       {
         "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.zh-Hans.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/dynamic-media-developer-resources.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/dynamic-media-developer-resources.zh-Hant.git",
         "language": ""
       },
       {
@@ -4828,6 +4933,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/exc.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/exc.es-ES.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/exc.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/exc.fr-FR.git",
         "language": ""
@@ -4838,18 +4948,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/exc.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/exc.it-IT.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/exc.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/exc.ja-JP.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/exc.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/exc.ko-KR.git",
         "language": ""
       },
       {
@@ -4913,11 +5013,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-cloud-kcs.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/experience-cloud-kcs.ko-KR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-cloud-kcs.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/experience-cloud-kcs.nl-NL.git",
         "language": ""
@@ -4943,11 +5038,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-cloud-kcs.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/experience-cloud-kcs.zh-Hant.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-cloud.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/experience-cloud.de-DE.git",
         "language": ""
@@ -4955,11 +5045,6 @@
       {
         "url": "https://github.com/AdobeDocs/experience-cloud.en",
         "ssh_url": "git@github.com:AdobeDocs/experience-cloud.en.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-cloud.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/experience-cloud.es-ES.git",
         "language": ""
       },
       {
@@ -5003,6 +5088,16 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-cloud.zh-Hans",
+        "ssh_url": "git@github.com:AdobeDocs/experience-cloud.zh-Hans.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-cloud.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/experience-cloud.zh-Hant.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-64.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-64.de-DE.git",
         "language": "Groovy"
@@ -5020,11 +5115,6 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-64.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-64.fr-FR.git",
-        "language": "Groovy"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-manager-64.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-64.it-IT.git",
         "language": "Groovy"
       },
       {
@@ -5060,11 +5150,6 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-64.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-64.zh-Hans.git",
-        "language": "Groovy"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-manager-64.zh-Hant",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-64.zh-Hant.git",
         "language": "Groovy"
       },
       {
@@ -5148,6 +5233,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.es-ES.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.fr-FR.git",
         "language": ""
@@ -5163,6 +5253,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.ko-KR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.nl-NL.git",
         "language": ""
@@ -5170,6 +5265,11 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.pt-BR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-manager-assets-essentials.sv-SE",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-assets-essentials.sv-SE.git",
         "language": ""
       },
       {
@@ -5468,11 +5568,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-desktop-app.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-desktop-app.pt-BR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-manager-desktop-app.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-desktop-app.sv-SE.git",
         "language": ""
@@ -5520,6 +5615,11 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-dispatcher.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-dispatcher.ko-KR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-manager-dispatcher.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-dispatcher.nl-NL.git",
         "language": ""
       },
       {
@@ -5588,11 +5688,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-document-security.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-document-security.pt-BR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-manager-document-security.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-document-security.sv-SE.git",
         "language": ""
@@ -5618,13 +5713,13 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.es-ES.git",
+        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.de-DE.git",
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.fr-FR.git",
+        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.es-ES.git",
         "language": ""
       },
       {
@@ -5663,6 +5758,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hans",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.zh-Hans.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-gems-events.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-gems-events.zh-Hant.git",
         "language": ""
@@ -5675,6 +5775,11 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-guides-learn.de-DE",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-guides-learn.de-DE.git",
+        "language": "CSS"
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-manager-guides-learn.en",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-guides-learn.en.git",
         "language": "CSS"
       },
       {
@@ -5708,11 +5813,6 @@
         "language": "CSS"
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-guides-learn.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-guides-learn.nl-NL.git",
-        "language": "CSS"
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-manager-guides-learn.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-guides-learn.pt-BR.git",
         "language": "CSS"
@@ -5731,11 +5831,6 @@
         "url": "https://github.com/AdobeDocs/experience-manager-guides-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-guides-learn.zh-Hant.git",
         "language": "CSS"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-manager-headless-adaptive-forms.en",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-headless-adaptive-forms.en.git",
-        "language": ""
       },
       {
         "url": "https://github.com/AdobeDocs/experience-manager-headless-adaptive-forms.en",
@@ -5816,11 +5911,6 @@
         "url": "https://github.com/AdobeDocs/experience-manager-learn.en",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-learn.en.git",
         "language": "SCSS"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/experience-manager-learn.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-learn.es-ES.git",
-        "language": ""
       },
       {
         "url": "https://github.com/AdobeDocs/experience-manager-learn.es-ES",
@@ -5913,11 +6003,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-pattern-detection.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-pattern-detection.nl-NL.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/experience-manager-pattern-detection.pt-BR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-pattern-detection.pt-BR.git",
         "language": ""
@@ -5936,6 +6021,11 @@
         "url": "https://github.com/AdobeDocs/experience-manager-pattern-detection.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-pattern-detection.zh-Hant.git",
         "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-manager-release-information.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-information.de-DE.git",
+        "language": "Roff"
       },
       {
         "url": "https://github.com/AdobeDocs/experience-manager-release-information.en",
@@ -5998,6 +6088,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.es-ES.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.fr-FR.git",
         "language": ""
@@ -6015,6 +6110,11 @@
       {
         "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.ko-KR.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/experience-manager-release-overview-events.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-release-overview-events.nl-NL.git",
         "language": ""
       },
       {
@@ -6068,13 +6168,13 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-screens.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-screens.ja-JP.git",
+        "url": "https://github.com/AdobeDocs/experience-manager-screens.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-screens.ko-KR.git",
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/experience-manager-screens.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/experience-manager-screens.ko-KR.git",
+        "url": "https://github.com/AdobeDocs/experience-manager-screens.nl-NL",
+        "ssh_url": "git@github.com:AdobeDocs/experience-manager-screens.nl-NL.git",
         "language": ""
       },
       {
@@ -6183,6 +6283,16 @@
         "language": "JavaScript"
       },
       {
+        "url": "https://github.com/AdobeDocs/express-add-on-apis",
+        "ssh_url": "git@github.com:AdobeDocs/express-add-on-apis.git",
+        "language": "JavaScript"
+      },
+      {
+        "url": "https://github.com/AdobeDocs/express-add-on-samples",
+        "ssh_url": "git@github.com:AdobeDocs/express-add-on-samples.git",
+        "language": "CSS"
+      },
+      {
         "url": "https://github.com/AdobeDocs/express-add-ons",
         "ssh_url": "git@github.com:AdobeDocs/express-add-ons.git",
         "language": "JavaScript"
@@ -6190,11 +6300,6 @@
       {
         "url": "https://github.com/AdobeDocs/express-add-ons-docs",
         "ssh_url": "git@github.com:AdobeDocs/express-add-ons-docs.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/express-for-developers",
-        "ssh_url": "git@github.com:AdobeDocs/express-for-developers.git",
         "language": "JavaScript"
       },
       {
@@ -6263,6 +6368,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/id-service.ko-KR",
+        "ssh_url": "git@github.com:AdobeDocs/id-service.ko-KR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/id-service.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/id-service.nl-NL.git",
         "language": ""
@@ -6308,11 +6418,6 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/AdobeDocs/indesign-18-dom",
-        "ssh_url": "git@github.com:AdobeDocs/indesign-18-dom.git",
-        "language": "JavaScript"
-      },
-      {
         "url": "https://github.com/AdobeDocs/indesign-api-docs",
         "ssh_url": "git@github.com:AdobeDocs/indesign-api-docs.git",
         "language": "JavaScript"
@@ -6348,8 +6453,8 @@
         "language": "HTML"
       },
       {
-        "url": "https://github.com/AdobeDocs/journey-optimizer-learn.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.it-IT.git",
+        "url": "https://github.com/AdobeDocs/journey-optimizer-learn.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.fr-FR.git",
         "language": "HTML"
       },
       {
@@ -6378,11 +6483,6 @@
         "language": "HTML"
       },
       {
-        "url": "https://github.com/AdobeDocs/journey-optimizer-learn.pt-BR",
-        "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.pt-BR.git",
-        "language": "HTML"
-      },
-      {
         "url": "https://github.com/AdobeDocs/journey-optimizer-learn.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.sv-SE.git",
         "language": "HTML"
@@ -6396,6 +6496,11 @@
         "url": "https://github.com/AdobeDocs/journey-optimizer-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/journey-optimizer-learn.zh-Hant.git",
         "language": "HTML"
+      },
+      {
+        "url": "https://github.com/AdobeDocs/journey-optimizer.de-DE",
+        "ssh_url": "git@github.com:AdobeDocs/journey-optimizer.de-DE.git",
+        "language": ""
       },
       {
         "url": "https://github.com/AdobeDocs/journey-optimizer.en",
@@ -6473,13 +6578,13 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journey-orchestration-learn.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.fr-FR.git",
+        "url": "https://github.com/AdobeDocs/journey-orchestration-learn.it-IT",
+        "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.it-IT.git",
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journey-orchestration-learn.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.it-IT.git",
+        "url": "https://github.com/AdobeDocs/journey-orchestration-learn.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/journey-orchestration-learn.ja-JP.git",
         "language": ""
       },
       {
@@ -6533,8 +6638,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journeys.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.es-ES.git",
+        "url": "https://github.com/AdobeDocs/journeys.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/journeys.fr-FR.git",
         "language": ""
       },
       {
@@ -6558,18 +6663,8 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/journeys.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.ko-KR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/journeys.nl-NL",
         "ssh_url": "git@github.com:AdobeDocs/journeys.nl-NL.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/journeys.sv-SE",
-        "ssh_url": "git@github.com:AdobeDocs/journeys.sv-SE.git",
         "language": ""
       },
       {
@@ -6590,6 +6685,11 @@
       {
         "url": "https://github.com/AdobeDocs/learn-from-your-peers-events.es-ES",
         "ssh_url": "git@github.com:AdobeDocs/learn-from-your-peers-events.es-ES.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/learn-from-your-peers-events.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/learn-from-your-peers-events.fr-FR.git",
         "language": ""
       },
       {
@@ -6673,11 +6773,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/livefyre.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/livefyre.fr-FR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/livefyre.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/livefyre.it-IT.git",
         "language": ""
@@ -6753,11 +6848,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/marketo-learn.fr-FR",
-        "ssh_url": "git@github.com:AdobeDocs/marketo-learn.fr-FR.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/marketo-learn.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/marketo-learn.it-IT.git",
         "language": ""
@@ -6793,11 +6883,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/marketo-learn.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/marketo-learn.zh-Hans.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/marketo-learn.zh-Hant",
         "ssh_url": "git@github.com:AdobeDocs/marketo-learn.zh-Hant.git",
         "language": ""
@@ -6825,6 +6910,11 @@
       {
         "url": "https://github.com/AdobeDocs/marketo-measure-learn.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/marketo-measure-learn.it-IT.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/marketo-measure-learn.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/marketo-measure-learn.ja-JP.git",
         "language": ""
       },
       {
@@ -6865,11 +6955,6 @@
       {
         "url": "https://github.com/AdobeDocs/marketo-measure.en",
         "ssh_url": "git@github.com:AdobeDocs/marketo-measure.en.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/marketo-measure.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/marketo-measure.es-ES.git",
         "language": ""
       },
       {
@@ -6948,6 +7033,11 @@
         "language": "HTML"
       },
       {
+        "url": "https://github.com/AdobeDocs/marketo.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/marketo.ja-JP.git",
+        "language": "HTML"
+      },
+      {
         "url": "https://github.com/AdobeDocs/marketo.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/marketo.ko-KR.git",
         "language": "HTML"
@@ -6995,11 +7085,6 @@
       {
         "url": "https://github.com/AdobeDocs/media-analytics.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/media-analytics.fr-FR.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/media-analytics.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/media-analytics.it-IT.git",
         "language": ""
       },
       {
@@ -7058,8 +7143,18 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/mobile-services.fr-FR",
+        "ssh_url": "git@github.com:AdobeDocs/mobile-services.fr-FR.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/mobile-services.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/mobile-services.it-IT.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/mobile-services.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/mobile-services.ja-JP.git",
         "language": ""
       },
       {
@@ -7228,6 +7323,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/platform-learn.es-ES",
+        "ssh_url": "git@github.com:AdobeDocs/platform-learn.es-ES.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/platform-learn.fr-FR",
         "ssh_url": "git@github.com:AdobeDocs/platform-learn.fr-FR.git",
         "language": ""
@@ -7240,11 +7340,6 @@
       {
         "url": "https://github.com/AdobeDocs/platform-learn.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/platform-learn.ja-JP.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/platform-learn.ko-KR",
-        "ssh_url": "git@github.com:AdobeDocs/platform-learn.ko-KR.git",
         "language": ""
       },
       {
@@ -7325,11 +7420,6 @@
       {
         "url": "https://github.com/AdobeDocs/primetime.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/primetime.ko-KR.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/primetime.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/primetime.nl-NL.git",
         "language": ""
       },
       {
@@ -7543,16 +7633,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/sign-integrations.it-IT",
-        "ssh_url": "git@github.com:AdobeDocs/sign-integrations.it-IT.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/sign-integrations.ja-JP",
-        "ssh_url": "git@github.com:AdobeDocs/sign-integrations.ja-JP.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/sign-integrations.ja-JP",
         "ssh_url": "git@github.com:AdobeDocs/sign-integrations.ja-JP.git",
         "language": ""
@@ -7560,11 +7640,6 @@
       {
         "url": "https://github.com/AdobeDocs/sign-integrations.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/sign-integrations.ko-KR.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/sign-integrations.nl-NL",
-        "ssh_url": "git@github.com:AdobeDocs/sign-integrations.nl-NL.git",
         "language": ""
       },
       {
@@ -7638,6 +7713,16 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/support-resources.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/support-resources.ja-JP.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/support-resources.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/support-resources.ja-JP.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/support-resources.ko-KR",
         "ssh_url": "git@github.com:AdobeDocs/support-resources.ko-KR.git",
         "language": ""
@@ -7655,11 +7740,6 @@
       {
         "url": "https://github.com/AdobeDocs/support-resources.sv-SE",
         "ssh_url": "git@github.com:AdobeDocs/support-resources.sv-SE.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/support-resources.zh-Hans",
-        "ssh_url": "git@github.com:AdobeDocs/support-resources.zh-Hans.git",
         "language": ""
       },
       {
@@ -7738,6 +7818,11 @@
         "language": ""
       },
       {
+        "url": "https://github.com/AdobeDocs/target-learn.zh-Hant",
+        "ssh_url": "git@github.com:AdobeDocs/target-learn.zh-Hant.git",
+        "language": ""
+      },
+      {
         "url": "https://github.com/AdobeDocs/target-sdk-api",
         "ssh_url": "git@github.com:AdobeDocs/target-sdk-api.git",
         "language": "JavaScript"
@@ -7750,11 +7835,6 @@
       {
         "url": "https://github.com/AdobeDocs/target.en",
         "ssh_url": "git@github.com:AdobeDocs/target.en.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/AdobeDocs/target.es-ES",
-        "ssh_url": "git@github.com:AdobeDocs/target.es-ES.git",
         "language": ""
       },
       {
@@ -7820,11 +7900,6 @@
       {
         "url": "https://github.com/AdobeDocs/test-linting-workflow",
         "ssh_url": "git@github.com:AdobeDocs/test-linting-workflow.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/AdobeDocs/uix",
-        "ssh_url": "git@github.com:AdobeDocs/uix.git",
         "language": "JavaScript"
       },
       {
@@ -7988,11 +8063,6 @@
         "language": ""
       },
       {
-        "url": "https://github.com/AdobeDocs/workfront-known-issues.sv-SE",
-        "ssh_url": "git@github.com:AdobeDocs/workfront-known-issues.sv-SE.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/AdobeDocs/workfront-known-issues.zh-Hans",
         "ssh_url": "git@github.com:AdobeDocs/workfront-known-issues.zh-Hans.git",
         "language": ""
@@ -8080,6 +8150,11 @@
       {
         "url": "https://github.com/AdobeDocs/workfront.it-IT",
         "ssh_url": "git@github.com:AdobeDocs/workfront.it-IT.git",
+        "language": ""
+      },
+      {
+        "url": "https://github.com/AdobeDocs/workfront.ja-JP",
+        "ssh_url": "git@github.com:AdobeDocs/workfront.ja-JP.git",
         "language": ""
       },
       {
@@ -15702,19 +15777,9 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/anfibiacreativa/helix-project-boilerplate",
-        "ssh_url": "git@github.com:anfibiacreativa/helix-project-boilerplate.git",
-        "language": "JavaScript"
-      },
-      {
         "url": "https://github.com/anfibiacreativa/html-to-md-entry",
         "ssh_url": "git@github.com:anfibiacreativa/html-to-md-entry.git",
         "language": "TypeScript"
-      },
-      {
-        "url": "https://github.com/anfibiacreativa/imagecontainer",
-        "ssh_url": "git@github.com:anfibiacreativa/imagecontainer.git",
-        "language": ""
       },
       {
         "url": "https://github.com/anfibiacreativa/levels-reference-for-fe-recruiting",
@@ -15772,11 +15837,6 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/anfibiacreativa/netlify-nodejs-app",
-        "ssh_url": "git@github.com:anfibiacreativa/netlify-nodejs-app.git",
-        "language": "EJS"
-      },
-      {
         "url": "https://github.com/anfibiacreativa/ng-add-lib",
         "ssh_url": "git@github.com:anfibiacreativa/ng-add-lib.git",
         "language": "HTML"
@@ -15804,11 +15864,6 @@
       {
         "url": "https://github.com/anfibiacreativa/scully-docs",
         "ssh_url": "git@github.com:anfibiacreativa/scully-docs.git",
-        "language": "TypeScript"
-      },
-      {
-        "url": "https://github.com/anfibiacreativa/swa-angular-basic",
-        "ssh_url": "git@github.com:anfibiacreativa/swa-angular-basic.git",
         "language": "TypeScript"
       },
       {
@@ -23383,6 +23438,16 @@
         "url": "https://github.com/mkraley/python-hello",
         "ssh_url": "git@github.com:mkraley/python-hello.git",
         "language": "Python"
+      }
+    ]
+  },
+  {
+    "user": "https://github.com/mokimo",
+    "repos": [
+      {
+        "url": "https://github.com/mokimo/helix-demo",
+        "ssh_url": "git@github.com:mokimo/helix-demo.git",
+        "language": "CSS"
       }
     ]
   },

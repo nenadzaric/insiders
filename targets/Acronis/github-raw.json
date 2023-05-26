@@ -153,16 +153,6 @@
         "language": "JavaScript"
       },
       {
-        "url": "https://github.com/Gifted-s/article-service-pengist",
-        "ssh_url": "git@github.com:Gifted-s/article-service-pengist.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/Gifted-s/auth-service",
-        "ssh_url": "git@github.com:Gifted-s/auth-service.git",
-        "language": "Go"
-      },
-      {
         "url": "https://github.com/Gifted-s/autify-cli",
         "ssh_url": "git@github.com:Gifted-s/autify-cli.git",
         "language": "Go"

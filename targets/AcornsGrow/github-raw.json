@@ -28,11 +28,6 @@
         "language": "Ruby"
       },
       {
-        "url": "https://github.com/AcornsGrowAU/rack-request_auditing",
-        "ssh_url": "git@github.com:AcornsGrowAU/rack-request_auditing.git",
-        "language": "Ruby"
-      },
-      {
         "url": "https://github.com/AcornsGrowAU/rack-vitals",
         "ssh_url": "git@github.com:AcornsGrowAU/rack-vitals.git",
         "language": "Ruby"
@@ -40,6 +35,11 @@
       {
         "url": "https://github.com/AcornsGrowAU/ruby",
         "ssh_url": "git@github.com:AcornsGrowAU/ruby.git",
+        "language": "Dockerfile"
+      },
+      {
+        "url": "https://github.com/AcornsGrowAU/sftpgo",
+        "ssh_url": "git@github.com:AcornsGrowAU/sftpgo.git",
         "language": "Dockerfile"
       }
     ]

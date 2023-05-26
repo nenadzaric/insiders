@@ -1,3 +1,4 @@
+https://github.com/4Chan-Coin
 https://github.com/4ChanMediaDownloader
 https://github.com/4ChanMeta
 https://github.com/4ChanPartyBus

@@ -1458,6 +1458,7 @@ https://github.com/adafruit/Flora_Demos
 https://github.com/adafruit/FreqShow
 https://github.com/adafruit/Fritzing-Library
 https://github.com/adafruit/GPS-Dog-Collar
+https://github.com/adafruit/GPS-shield-RMC-test-sketch
 https://github.com/adafruit/GPSDemoApp
 https://github.com/adafruit/Glider-Wireframe
 https://github.com/adafruit/Glider-for-Android
