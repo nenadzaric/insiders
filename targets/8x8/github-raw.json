@@ -434,6 +434,16 @@
     ]
   },
   {
+    "user": "https://github.com/8x8xkpian",
+    "repos": [
+      {
+        "url": "https://github.com/8x8xkpian/8x8x-love",
+        "ssh_url": "git@github.com:8x8xkpian/8x8x-love.git",
+        "language": ""
+      }
+    ]
+  },
+  {
     "user": "https://github.com/JonathanLennox",
     "repos": [
       {
