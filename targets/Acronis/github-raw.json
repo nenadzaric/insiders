@@ -308,6 +308,11 @@
         "language": "Java"
       },
       {
+        "url": "https://github.com/GuilleX7/GuilleX7.github.io",
+        "ssh_url": "git@github.com:GuilleX7/GuilleX7.github.io.git",
+        "language": "HTML"
+      },
+      {
         "url": "https://github.com/GuilleX7/Jasm",
         "ssh_url": "git@github.com:GuilleX7/Jasm.git",
         "language": "TypeScript"
@@ -331,11 +336,6 @@
         "url": "https://github.com/GuilleX7/Simon",
         "ssh_url": "git@github.com:GuilleX7/Simon.git",
         "language": "C++"
-      },
-      {
-        "url": "https://github.com/GuilleX7/Soundplanes",
-        "ssh_url": "git@github.com:GuilleX7/Soundplanes.git",
-        "language": "Java"
       },
       {
         "url": "https://github.com/GuilleX7/Soundplanes",

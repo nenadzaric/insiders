@@ -4,8 +4,8 @@
 graph LR
 COMPANY_NAME{Adobe}
 COMPANY_NAME ---> U{Users} ---> UN[200]
-COMPANY_NAME ---> R{Repositories} ---> RN[5494]
-COMPANY_NAME ---> G{Gists} ---> GN[2306]
+COMPANY_NAME ---> R{Repositories} ---> RN[5432]
+COMPANY_NAME ---> G{Gists} ---> GN[2305]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ML --> JavaScript[JavaScript]
 ML --> Java[Java]

@@ -1,4 +1,3 @@
-https://github.com/4Chan-Coin/4CC-Node
 https://github.com/4ChanMediaDownloader/4ChanMediaDownloader
 https://github.com/4ChanMeta/genshin-sorter
 https://github.com/4ChanMeta/touhou-patches

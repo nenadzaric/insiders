@@ -83,13 +83,13 @@
         "language": "C"
       },
       {
-        "url": "https://github.com/AAx13/printf",
-        "ssh_url": "git@github.com:AAx13/printf.git",
+        "url": "https://github.com/AAx13/shell-v2",
+        "ssh_url": "git@github.com:AAx13/shell-v2.git",
         "language": "C"
       },
       {
-        "url": "https://github.com/AAx13/shell-v2",
-        "ssh_url": "git@github.com:AAx13/shell-v2.git",
+        "url": "https://github.com/AAx13/simple_shell",
+        "ssh_url": "git@github.com:AAx13/simple_shell.git",
         "language": "C"
       }
     ]

@@ -2,6 +2,7 @@ https://github.com/3ch023
 https://github.com/Aarzoo75
 https://github.com/Abhinandan578
 https://github.com/Adobe-Android
+https://github.com/Adobe-CEP
 https://github.com/Adobe-Marketing-Cloud
 https://github.com/AdobeDocs
 https://github.com/Adobels
@@ -137,7 +138,6 @@ https://github.com/miguelsousa
 https://github.com/mihneaOMV
 https://github.com/mikaelasymanovich
 https://github.com/mkraley
-https://github.com/mokimo
 https://github.com/moritzraho
 https://github.com/msabramo
 https://github.com/mtilburgadobe

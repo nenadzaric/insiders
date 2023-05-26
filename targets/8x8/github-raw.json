@@ -88,11 +88,6 @@
     "user": "https://github.com/8x8",
     "repos": [
       {
-        "url": "https://github.com/8x8/.github",
-        "ssh_url": "git@github.com:8x8/.github.git",
-        "language": ""
-      },
-      {
         "url": "https://github.com/8x8/jaas-heroku",
         "ssh_url": "git@github.com:8x8/jaas-heroku.git",
         "language": "Java"

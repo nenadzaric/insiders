@@ -1406,7 +1406,6 @@ https://gist.githubusercontent.com/mibalan/3899012/raw/8f57d7c07edf3efd5b1ee2b5b
 https://gist.githubusercontent.com/miguelsousa/2a3537bf22d0d739382a996385ed605a/raw/cc40e080a85739e593ac993d01d2c405f14a29a5/areaPen_test.py
 https://gist.githubusercontent.com/miguelsousa/a67497ab2c9dbd11d8e9bb98b16a0a2f/raw/23a70d3a255ef8575b4ee1970e1f13ee67315884/calcArea.py
 https://gist.githubusercontent.com/miguelsousa/f2d7c102cf9758c74e97a75e5f4341a6/raw/7c681b7ea7c53bc8316ed1ee73f0a7afa33b6218/avar-slant.py
-https://gist.githubusercontent.com/mokimo/a8db92287a22694850589ccdb1720334/raw/074e77ed961f827ff30d4bd758a06d6f4d54c673/calendar.js
 https://gist.githubusercontent.com/moritzraho/bcad8a7a656de02af68fbf304a65bc93/raw/82995ba04aa125e123e2d4d505907ffbf452152f/preso-notes.md
 https://gist.githubusercontent.com/msabramo/04fb8022e570a418640b8033ecb13e30/raw/5b7c2fb6c77b352506f463a5fea809851aa84eae/get-serial-number.exp
 https://gist.githubusercontent.com/msabramo/05ca407f20c36da2c133/raw/907cab4529ad70fb2d215f4ff6377909fb56192b/gistfile1.txt
