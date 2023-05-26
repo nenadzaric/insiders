@@ -98,11 +98,6 @@
     "user": "https://github.com/AuburnSounds",
     "repos": [
       {
-        "url": "https://github.com/AuburnSounds/Dplug",
-        "ssh_url": "git@github.com:AuburnSounds/Dplug.git",
-        "language": "D"
-      },
-      {
         "url": "https://github.com/AuburnSounds/Dplug-wasteland-public",
         "ssh_url": "git@github.com:AuburnSounds/Dplug-wasteland-public.git",
         "language": "D"
@@ -135,6 +130,11 @@
       {
         "url": "https://github.com/AuburnSounds/intel-intrinsics",
         "ssh_url": "git@github.com:AuburnSounds/intel-intrinsics.git",
+        "language": "D"
+      },
+      {
+        "url": "https://github.com/AuburnSounds/printed",
+        "ssh_url": "git@github.com:AuburnSounds/printed.git",
         "language": "D"
       },
       {

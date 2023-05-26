@@ -1,8 +1,6 @@
 https://github.com/4ChanMediaDownloader
-https://github.com/4ChanMeta
 https://github.com/4ChanPartyBus
 https://github.com/4ChanToken
-https://github.com/4chan
 https://github.com/4chanGit
 https://github.com/4chandownloaderapp
 https://github.com/4change

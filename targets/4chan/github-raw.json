@@ -10,21 +10,6 @@
     ]
   },
   {
-    "user": "https://github.com/4ChanMeta",
-    "repos": [
-      {
-        "url": "https://github.com/4ChanMeta/genshin-sorter",
-        "ssh_url": "git@github.com:4ChanMeta/genshin-sorter.git",
-        "language": "JavaScript"
-      },
-      {
-        "url": "https://github.com/4ChanMeta/touhou-patches",
-        "ssh_url": "git@github.com:4ChanMeta/touhou-patches.git",
-        "language": "JavaScript"
-      }
-    ]
-  },
-  {
     "user": "https://github.com/4ChanPartyBus",
     "repos": [
       {
@@ -40,21 +25,6 @@
       {
         "url": "https://github.com/4ChanToken/4ChanToken.github.io",
         "ssh_url": "git@github.com:4ChanToken/4ChanToken.github.io.git",
-        "language": "JavaScript"
-      }
-    ]
-  },
-  {
-    "user": "https://github.com/4chan",
-    "repos": [
-      {
-        "url": "https://github.com/4chan/4chan-API",
-        "ssh_url": "git@github.com:4chan/4chan-API.git",
-        "language": ""
-      },
-      {
-        "url": "https://github.com/4chan/4chan-JS",
-        "ssh_url": "git@github.com:4chan/4chan-JS.git",
         "language": "JavaScript"
       }
     ]

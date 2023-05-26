@@ -1,3 +1,7 @@
-https://github.com/BorisIvanov/vps-manage
-https://github.com/BorisIvanov/centos
-https://github.com/SeniorAdvisor/docker-vpnc
+https://github.com/JL1829/nvidia_base_notebook
+https://github.com/NitendraKumar/python-script-with-stand-alone-chrome
+https://github.com/acronis/acronis-cyber-platform-bash-examples
+https://github.com/ssgreg/M4vMetaSetter
+https://github.com/ssgreg/build-libzmq-macos-ios-universal
+https://github.com/ssgreg/nginx-le
+https://github.com/viatoriche/pympld

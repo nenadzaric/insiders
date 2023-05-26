@@ -1,10 +1,7 @@
 https://github.com/4ChanMediaDownloader/4ChanMediaDownloader
-https://github.com/4ChanMeta/genshin-sorter
-https://github.com/4ChanMeta/touhou-patches
 https://github.com/4ChanPartyBus/chemistry
 https://github.com/4ChanToken/4ChanToken.github.io
 https://github.com/4chan/4chan-API
-https://github.com/4chan/4chan-JS
 https://github.com/4chanGit/k2s-downloader
 https://github.com/4chandownloaderapp/4ch_Database
 https://github.com/4chandownloaderapp/4ch_Downloader
