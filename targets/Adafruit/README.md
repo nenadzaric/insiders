@@ -4,7 +4,7 @@
 graph LR
 COMPANY_NAME{Adafruit}
 COMPANY_NAME ---> U{Users} ---> UN[24]
-COMPANY_NAME ---> R{Repositories} ---> RN[2050]
+COMPANY_NAME ---> R{Repositories} ---> RN[2053]
 COMPANY_NAME ---> G{Gists} ---> GN[516]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

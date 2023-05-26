@@ -1,8 +1,8 @@
 https://gist.githubusercontent.com/CharlesIII/0e376c919c742de8f5184a875207d180/raw/5c1e24e17dda722a401fdfaf6553e8ef7064db29/default.vcl
-https://gist.githubusercontent.com/fernandopereira/abeb8771163d1f68b033/raw/ad7609244047303982ca99b08ff6eaf67551e85e/facilitar_criacao_servidores_linode
-https://gist.githubusercontent.com/fernandopereira/9598037/raw/9851e5aefb191f09ce76bf820caacd1012a297cd/nginx.conf
-https://gist.githubusercontent.com/fernandopereira/9597979/raw/1726e055f187e206d55329e9c4b3e76d745166fe/iptable.rules
 https://gist.githubusercontent.com/fernandopereira/883876/raw/824bba987fc567da4626685a3beaa99a8613fc78/overlay%20jquery
-https://gist.githubusercontent.com/paynerichards/81fc3681bb90dcd9d2461653a7d3b3c0/raw/adf5a18db6c6507a6f8d6cab1f02501e372cb620/bowling.rb
-https://gist.githubusercontent.com/paynerichards/2d330f67a08e548430b691529099216b/raw/28cdfd1d250d216a777e69c0a528894b5116cb79/index.html
+https://gist.githubusercontent.com/fernandopereira/9597979/raw/1726e055f187e206d55329e9c4b3e76d745166fe/iptable.rules
+https://gist.githubusercontent.com/fernandopereira/9598037/raw/9851e5aefb191f09ce76bf820caacd1012a297cd/nginx.conf
+https://gist.githubusercontent.com/fernandopereira/abeb8771163d1f68b033/raw/ad7609244047303982ca99b08ff6eaf67551e85e/facilitar_criacao_servidores_linode
 https://gist.githubusercontent.com/paynerichards/1f0af0717b11afad5d8ae474192f19f5/raw/3c37d2d3b43f5b4f97b5a741c4c596d05e503034/index.html
+https://gist.githubusercontent.com/paynerichards/2d330f67a08e548430b691529099216b/raw/28cdfd1d250d216a777e69c0a528894b5116cb79/index.html
+https://gist.githubusercontent.com/paynerichards/81fc3681bb90dcd9d2461653a7d3b3c0/raw/adf5a18db6c6507a6f8d6cab1f02501e372cb620/bowling.rb

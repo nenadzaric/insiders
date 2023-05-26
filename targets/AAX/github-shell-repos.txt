@@ -1,6 +1,3 @@
-https://github.com/AAx13/Nemo
-https://github.com/AAx13/git-bash
-https://github.com/AAx13/holbertonschool-sysadmin_devops
 https://github.com/aAXEe/fluxbb-docker
 https://github.com/aAXEe/server-alpha-docker
 https://github.com/aaxis-commerce/springkube
