@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{AlaskaAirlines}
-COMPANY_NAME ---> U{Users} ---> UN[8]
-COMPANY_NAME ---> R{Repositories} ---> RN[202]
+COMPANY_NAME ---> U{Users} ---> UN[10]
+COMPANY_NAME ---> R{Repositories} ---> RN[273]
 COMPANY_NAME ---> G{Gists} ---> GN[93]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

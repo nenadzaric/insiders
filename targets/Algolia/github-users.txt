@@ -1,7 +1,9 @@
+https://github.com/AlexEven
 https://github.com/Ant-hem
 https://github.com/CharlesIII
 https://github.com/CorrineH
 https://github.com/GuiTeK
+https://github.com/Haroenv
 https://github.com/Jerska
 https://github.com/Leodau
 https://github.com/LukyVj
@@ -10,10 +12,14 @@ https://github.com/NailyaS
 https://github.com/PLNech
 https://github.com/Shipow
 https://github.com/aallam
+https://github.com/algolia
+https://github.com/algolia-plus
+https://github.com/algolia-samples
 https://github.com/alyssav
 https://github.com/aymeric-giraudet
 https://github.com/bemihai
 https://github.com/benhinchley
+https://github.com/bodinsamuel
 https://github.com/byjpr
 https://github.com/coco
 https://github.com/dhayab
@@ -22,8 +28,10 @@ https://github.com/dustincoates
 https://github.com/fernandopereira
 https://github.com/fpreimesberger
 https://github.com/francoischalifour
+https://github.com/instantsearch
 https://github.com/jvenezia
 https://github.com/marielaures
+https://github.com/mikaa123
 https://github.com/nicholasbierman
 https://github.com/paynerichards
 https://github.com/rayrutjes
@@ -34,3 +42,4 @@ https://github.com/shortcuts
 https://github.com/speedblue
 https://github.com/therealwebby
 https://github.com/tvweinstock
+https://github.com/typesense

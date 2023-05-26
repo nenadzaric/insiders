@@ -1,2 +1,2 @@
-https://github.com/mattkoskela/dotfiles
-https://github.com/mattkoskela/db_to_dropbox
+https://github.com/keith-bennett-airmap/azure-agent
+https://github.com/keith-bennett-airmap/docker-insanity

@@ -9,7 +9,17 @@ https://github.com/adobe-fonts/variable-font-collection-test
 https://github.com/adobe-fonts/white-on-black-vf
 https://github.com/adobe-fonts/width-and-vertical-width-vf
 https://github.com/adobe-type-tools/shell-scripts
+https://github.com/adobe/AEM-utility-scripts
 https://github.com/adobe/aem-dispatcher-docker
+https://github.com/adobe/alerter
+https://github.com/adobe/aquarium-bait
+https://github.com/adobe/bash-framework
+https://github.com/adobe/remotely
 https://github.com/adobe/shredder
+https://github.com/adobe/sledgehammer-registry
+https://github.com/adobe/sledgehammer-registry-skeleton
+https://github.com/adobe/spectrum-css-vr-results
+https://github.com/adobe/stasher
 https://github.com/adobe/tf-manage
+https://github.com/adobe/vertice
 https://github.com/pengwynn/dotfiles
