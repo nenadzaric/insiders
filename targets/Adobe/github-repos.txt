@@ -2506,6 +2506,7 @@ https://github.com/adobe/franklin-chat-service
 https://github.com/adobe/franklin-chat-ui
 https://github.com/adobe/franklin-dashboard
 https://github.com/adobe/franklin-json-ingestion-service
+https://github.com/adobe/franklin-library
 https://github.com/adobe/franklin-plugin-perflogger
 https://github.com/adobe/franklin-service
 https://github.com/adobe/franklin-sidekick-library
