@@ -1,2 +1,5 @@
-https://github.com/carloscuesta/materialshell
+https://github.com/MP0w/TheosInstaller
+https://github.com/MP0w/XCodeUtilitiesForTheos
 https://github.com/carloscuesta/dotfiles
+https://github.com/carloscuesta/materialshell
+https://github.com/jessicatarra/dotfiles

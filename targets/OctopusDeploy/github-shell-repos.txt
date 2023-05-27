@@ -1,0 +1,12 @@
+https://github.com/OctopusDeploy/EJBJarTest
+https://github.com/OctopusDeploy/SpringBootStopper
+https://github.com/OctopusDeploy/SpringBootWindowsService
+https://github.com/OctopusDeploy/ThymeleafSpringDemo
+https://github.com/OctopusDeploy/UberJARDemo
+https://github.com/OctopusDeploy/create-release-buildkite-plugin
+https://github.com/OctopusDeploy/push-build-information-buildkite-plugin
+https://github.com/OctopusDeploy/run-runbook-buildkite-plugin
+https://github.com/OctopusDeployLabs/DockerLinuxTentacle
+https://github.com/OctopusDeployLabs/duck.local
+https://github.com/OctopusDeployLabs/jenkins.local
+https://github.com/OctopusDeployLabs/octopus.local

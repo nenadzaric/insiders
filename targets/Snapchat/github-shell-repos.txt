@@ -1,2 +1,8 @@
 https://github.com/MichaelHills/banana-pro-lirc-gpio
 https://github.com/MichaelHills/snips-pulse-docker
+https://github.com/Snapchat/snap-kit-carthage
+https://github.com/Spiderpig86/dotfiles
+https://github.com/anglinb/dotfiles
+https://github.com/nvkelso/high-seas
+https://github.com/nvkelso/mile-high-club
+https://github.com/vimies/heroku-buildpack-go

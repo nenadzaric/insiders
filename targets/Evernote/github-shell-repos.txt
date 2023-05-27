@@ -1,1 +1,10 @@
+https://github.com/akhaku/dotfiles
+https://github.com/akhaku/useful-scripts
+https://github.com/augbog/dev-envy
+https://github.com/bbondy/dotfiles
+https://github.com/paperwork/paperplane
+https://github.com/paperwork/paperwork
+https://github.com/paperwork/service-kong
+https://github.com/paperwork/service-lbx
+https://github.com/paperwork/service-nats
 https://github.com/victorz/marks

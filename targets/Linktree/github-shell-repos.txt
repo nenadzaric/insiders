@@ -1,2 +1,11 @@
-https://github.com/karolykass/learn-packer
+https://github.com/blstrco/shallow-clone-buildkite-plugin
+https://github.com/blstrco/sparse-checkout-buildkite-plugin
+https://github.com/brsbrc/BlackOwl
+https://github.com/brsbrc/Port-Script
+https://github.com/brsbrc/Testnetler-ve-Rehberler
+https://github.com/gusleaooliveira/mrconstrucoes
+https://github.com/gusleaooliveira/mrconstrucoes-img
+https://github.com/gusleaooliveira/shellScript
+https://github.com/gusleaooliveira/so-vm
 https://github.com/karolykass/docker-scripts
+https://github.com/karolykass/learn-packer

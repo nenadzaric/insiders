@@ -1,0 +1,11 @@
+https://github.com/CxllZ/secnews
+https://github.com/Gloomywind/SecNews
+https://github.com/GroupT00/SecNews
+https://github.com/Ma3k4H3d/XuanWu_SecNews
+https://github.com/SecurityValley/SecNewsSources
+https://github.com/alvinyeats/SecNews
+https://github.com/bcgov/SecNewsFeedReader
+https://github.com/hetianlab/secnewstoday
+https://github.com/neargle/SecNewsBak
+https://github.com/piz0n/secnews
+https://github.com/secnewsbr/powercli

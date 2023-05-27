@@ -1,1 +1,2 @@
+https://github.com/NoziDev/lavalink-railways
 https://github.com/louisroy/dotfiles

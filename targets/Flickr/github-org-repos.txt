@@ -1,0 +1,17 @@
+https://github.com/flickr/App-Apollo
+https://github.com/flickr/code-pipeline-slack
+https://github.com/flickr/debezium
+https://github.com/flickr/eslint-config-flickr
+https://github.com/flickr/flconf
+https://github.com/flickr/flickr-api-swagger
+https://github.com/flickr/flickr-foundation
+https://github.com/flickr/flickr-sdk
+https://github.com/flickr/flickr.github.com
+https://github.com/flickr/handlebars-intl
+https://github.com/flickr/incoming-message-hash
+https://github.com/flickr/justified-layout
+https://github.com/flickr/mcrouter_exporter
+https://github.com/flickr/mdbm
+https://github.com/flickr/plugin-flickr
+https://github.com/flickr/tagExplodr
+https://github.com/flickr/yakbak

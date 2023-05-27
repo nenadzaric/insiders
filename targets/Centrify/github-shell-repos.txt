@@ -1,2 +1,9 @@
+https://github.com/KevSmithCentrify/centrify
+https://github.com/centrify/AWS-AutoScalingGroup
+https://github.com/centrify/AWS-Automation
+https://github.com/centrify/GCP-Automation
+https://github.com/centrify/autorenew-and-distribute-keytab
+https://github.com/centrify/container-security
+https://github.com/centrifydavid/cclient-container
 https://github.com/justinm/docker-nginx-ssl-proxy
 https://github.com/justinm/dotfiles

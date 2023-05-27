@@ -1,1 +1,14 @@
 https://github.com/TonyLuo/docker-mysql-master-slave
+https://github.com/YuZhongMa/mubuntu
+https://github.com/baidu-research/Soccernet-features
+https://github.com/baidurom/devices-h30_t00
+https://github.com/baidurom/devices-p6
+https://github.com/baidurom/devices-p6_t00
+https://github.com/baidurom/devices-u930
+https://github.com/baidurom/reference
+https://github.com/baidurom/tutorials
+https://github.com/desenmeng/ivm
+https://github.com/ecomfe/edp-cli
+https://github.com/youngyangyang04/LinuxEnvConfig
+https://github.com/youngyangyang04/PowerSqlgen
+https://github.com/youngyangyang04/leetcode-master

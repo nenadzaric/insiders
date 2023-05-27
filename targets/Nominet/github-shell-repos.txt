@@ -1,1 +1,2 @@
 https://github.com/anthonykirby/gitbook-plugin-pxt-test
+https://github.com/nominetresearch/microbit-networking-book

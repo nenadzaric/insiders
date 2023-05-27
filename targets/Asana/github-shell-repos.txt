@@ -1,3 +1,9 @@
 https://github.com/bportnoy/zshrc
 https://github.com/chang/git-backup
+https://github.com/cxxr/n
+https://github.com/cxxr/test-git-repo
+https://github.com/cxxr/test3333
+https://github.com/kharvd/djvu2pdf
+https://github.com/kharvd/paccclean
+https://github.com/mmorearty/tsserver-example
 https://github.com/thomasdale/Oracle-Backup-and-Sync

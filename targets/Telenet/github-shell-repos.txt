@@ -1,3 +1,5 @@
-https://github.com/iand/starbow
+https://github.com/calmera/tint-test
+https://github.com/haifabenaouicha/spark-kafka-prometheus
 https://github.com/iand/dotfiles
 https://github.com/iand/raupack
+https://github.com/iand/starbow

@@ -1,0 +1,7 @@
+https://github.com/CoinMetro/API-DOCS
+https://github.com/CoinMetro/assets
+https://github.com/CoinMetro/ccxt
+https://github.com/CoinMetro/jest-node-exports-resolver
+https://github.com/CoinMetro/nestjs-mongoose
+https://github.com/CoinMetro/node-quickfix
+https://github.com/CoinMetro/redis-promise

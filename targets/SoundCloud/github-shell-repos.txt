@@ -1,2 +1,9 @@
+https://github.com/ObaniGemini/Snap_ynh
+https://github.com/VojtaStavik/ios-build-script
+https://github.com/android10/Anni
+https://github.com/android10/arch-linux-utils
+https://github.com/bbq2100/super-saiyajin
+https://github.com/bbq2100/swe
 https://github.com/christhompson/slack-video
 https://github.com/roelven/dandan
+https://github.com/samstarling/prometheus-demo

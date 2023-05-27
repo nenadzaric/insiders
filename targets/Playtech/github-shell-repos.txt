@@ -1,2 +1,6 @@
+https://github.com/PlayTechnique/build-target
+https://github.com/PlayTechnique/jenkins-prep-scripts
+https://github.com/PlayTechnique/jinkies
+https://github.com/PlayTechnique/wails-container
 https://github.com/georgybu/NotificationFromLog
 https://github.com/n1ss/liferay-plugins

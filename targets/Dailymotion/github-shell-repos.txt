@@ -1,2 +1,3 @@
 https://github.com/NicolasT/static-container-registry
 https://github.com/NicolasT/vagrant-debug-kernel-oops
+https://github.com/dharFr/dotfiles

@@ -1,0 +1,9 @@
+https://github.com/akinoavx13/Xcode-Templates
+https://github.com/cmaneu/azure-iot-synapse-workshop
+https://github.com/cmaneu/devcontainer-local-test
+https://github.com/gaspaio/dockerfiles
+https://github.com/gaspaio/mydots
+https://github.com/gaspaio/packer-templates
+https://github.com/gaspaio/papache
+https://github.com/juhnny5/getSubdomain
+https://github.com/juhnny5/win2cisco

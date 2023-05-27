@@ -1,0 +1,8 @@
+https://github.com/ZoomQuiet/dev4hlf
+https://github.com/Zoomdata/export-notification-service
+https://github.com/betaveros/advent-of-code-2022
+https://github.com/shaunwarman/do-kube-deploy
+https://github.com/shaunwarman/docker-fluentd-influxdb
+https://github.com/shaunwarman/logrotate-example
+https://github.com/shaunwarman/operandi
+https://github.com/zoom-quiet/scm

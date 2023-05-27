@@ -1,0 +1,14 @@
+https://github.com/MariaDB/HammerDB
+https://github.com/MariaDB/buildbot
+https://github.com/MariaDB/connector-c-docs
+https://github.com/MariaDB/feedback-plugin-backend
+https://github.com/MariaDB/galera
+https://github.com/MariaDB/mariadb-docker
+https://github.com/MariaDB/mariadb.org-tools
+https://github.com/MariaDB/mariadb_kernel
+https://github.com/MariaDB/mergetrees
+https://github.com/MariaDB/metrics
+https://github.com/MariaDB/randgen
+https://github.com/MariaDB/server
+https://github.com/MariaDB/webscalesql-5.6
+https://github.com/MariaDB/wordpress-mariadb-health-checks

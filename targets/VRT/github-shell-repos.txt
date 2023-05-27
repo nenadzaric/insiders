@@ -1,1 +1,14 @@
 https://github.com/MarcToussaint/rai-maintenance
+https://github.com/VRToxin-AOSP/android_packages_apps_Exchange2
+https://github.com/VRToxin/android_vendor_vrtoxin
+https://github.com/Vrtak-CZ/dotfiles
+https://github.com/Vrtak-CZ/openshift-nodejs
+https://github.com/Vrtak-CZ/scripts
+https://github.com/vrtdev/r11k
+https://github.com/vrthra-forks/fastmac
+https://github.com/vrthra/lava-m-on-fuzzbench
+https://github.com/vrthra/tiling-wm
+https://github.com/vrtmrz/self-hosted-livesync-server
+https://github.com/vrto/entity-stamper
+https://github.com/vrto/rest-guardian-aop
+https://github.com/vrtsystems/grafana-packer

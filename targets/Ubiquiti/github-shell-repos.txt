@@ -1,1 +1,10 @@
+https://github.com/Ubiquiti-App/UCRM
 https://github.com/jimmyliao/dotfiles
+https://github.com/sanmiguel/prezto-kerl
+https://github.com/ubiquiti/dropbear-android
+https://github.com/ubiquiti/eot-controller
+https://github.com/ubiquiti/support-tools
+https://github.com/unifi-utilities/ansible-udmp
+https://github.com/unifi-utilities/unifios-utilities
+https://github.com/unifi-utilities/uxg-boot
+https://github.com/zicodeng/gencert

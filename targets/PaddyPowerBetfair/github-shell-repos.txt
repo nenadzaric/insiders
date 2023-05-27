@@ -1,1 +1,5 @@
 https://github.com/cameronbrown/amazon-device-sdk-sandbox
+https://github.com/gsilvapt/dotfiles
+https://github.com/gsilvapt/vagrant-ubuntu-box
+https://github.com/rodoherty1/bootstrap-my-6502-dev-env
+https://github.com/rodoherty1/bootstrap-my-linux-laptop

@@ -26,6 +26,7 @@ https://github.com/awslabs/amazon-ebs-autoscale
 https://github.com/awslabs/amazon-ecs-nodejs-microservices
 https://github.com/awslabs/amazon-eks-ami
 https://github.com/awslabs/amazon-eks-serverless-drainer
+https://github.com/awslabs/amazon-guardduty-tester
 https://github.com/awslabs/analyze-binary-tools
 https://github.com/awslabs/aws-akka-firehose
 https://github.com/awslabs/aws-blueprints
@@ -35,6 +36,7 @@ https://github.com/awslabs/aws-devops-essential
 https://github.com/awslabs/aws-groundstation-eos-pipeline
 https://github.com/awslabs/aws-lc-verification
 https://github.com/awslabs/aws-parallelcluster-pipeline-gatk-quick-start
+https://github.com/awslabs/aws-refarch-cross-account-pipeline
 https://github.com/awslabs/aws-servicebroker-documentation
 https://github.com/awslabs/aws-terraform-dev-container
 https://github.com/awslabs/aws-vpn-migration-scripts
@@ -46,6 +48,7 @@ https://github.com/awslabs/git-secrets
 https://github.com/awslabs/libfabric-ci-scripts
 https://github.com/awslabs/one-line-scan
 https://github.com/awslabs/predictive-user-engagement
+https://github.com/awslabs/rds-support-tools
 https://github.com/awslabs/route53-dynamic-dns-with-lambda
 https://github.com/jwasham/docker-nuke
 https://github.com/jwasham/sentiment-classifier-service

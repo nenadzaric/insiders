@@ -1,2 +1,12 @@
+https://github.com/Uberi/setup-machine
 https://github.com/peterwu/copr-iosevka
 https://github.com/peterwu/copr-rendezvous
+https://github.com/ryanuber/dotfiles
+https://github.com/ryanuber/puppet-module-runner
+https://github.com/ryanuber/puppetconf2013
+https://github.com/ryanuber/slide.sh
+https://github.com/uber-archive/buck-http-cache
+https://github.com/uber-web/base-image
+https://github.com/uber/denial-by-dns
+https://github.com/uberspot/dotfiles
+https://github.com/uberspot/kubectl-plugins

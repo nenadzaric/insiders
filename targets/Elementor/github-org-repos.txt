@@ -1,0 +1,16 @@
+https://github.com/elementor/editor-testing
+https://github.com/elementor/elementor
+https://github.com/elementor/elementor-cloud-domain-connect-templates
+https://github.com/elementor/elementor-dev
+https://github.com/elementor/elementor-developers-docs
+https://github.com/elementor/elementor-editor-github-actions
+https://github.com/elementor/elementor-editor-packages
+https://github.com/elementor/elementor-editor-testing
+https://github.com/elementor/elementor-gallery
+https://github.com/elementor/elementor-git-hooks
+https://github.com/elementor/elementor-hello-world
+https://github.com/elementor/elementor-icons
+https://github.com/elementor/elementor-sniffs
+https://github.com/elementor/hello-theme
+https://github.com/elementor/hello-theme-child
+https://github.com/elementor/list

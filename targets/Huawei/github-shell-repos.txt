@@ -1,1 +1,12 @@
+https://github.com/Huawei-Dev/android_device_huawei_bach
+https://github.com/Huawei-LTE-routers-mods/huawei_balong_modfw_kitchen
+https://github.com/Huawei/Server_Management_Plugin_OpenNMS
+https://github.com/Huawei/yang
+https://github.com/LiteOS/LiteOS_Documents
+https://github.com/huaweicloud/GitHubActionUploadOBS
+https://github.com/huaweicloud/cloudfoundry-deployment
+https://github.com/huaweicloud/npm-cloudartifact-workflow-samples
+https://github.com/huaweicloud/obs-helper-workflow-sample
+https://github.com/lastweek/riscv
+https://github.com/maliozer/trubarehberi
 https://github.com/shivamsharma/Log-Analyzer

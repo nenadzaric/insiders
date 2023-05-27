@@ -1,3 +1,5 @@
-https://github.com/ashleyh/zsh-mouse
+https://github.com/NonLegit/devops
 https://github.com/ashleyh/dotfiles
+https://github.com/ashleyh/zsh-mouse
 https://github.com/eyalcohen/dotfiles
+https://github.com/libreddit/libreddit-instances

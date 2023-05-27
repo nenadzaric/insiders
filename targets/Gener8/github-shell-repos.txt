@@ -1,1 +1,3 @@
 https://github.com/andrewryan/PackerArchLinux
+https://github.com/gener8ads/extension-releaser
+https://github.com/gener8ads/go-k8s-deployer

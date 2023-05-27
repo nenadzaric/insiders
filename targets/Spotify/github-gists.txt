@@ -1,3 +1,3 @@
 https://gist.githubusercontent.com/zoelubitz/bf9dbd1b3f845e4e1b4e/raw/3db746fafa0acbed036ae71c34b94131e08f78f8/curious-walrus-blog.markdown
-https://gist.githubusercontent.com/zoelubitz/bf9dbd1b3f845e4e1b4e/raw/f49f9d00ade3d73f0cf0b6c8da73a6969c29678d/index.html
 https://gist.githubusercontent.com/zoelubitz/bf9dbd1b3f845e4e1b4e/raw/be83e1f1d6a3bb47c17ec785f6f646c581b8eb40/style.css
+https://gist.githubusercontent.com/zoelubitz/bf9dbd1b3f845e4e1b4e/raw/f49f9d00ade3d73f0cf0b6c8da73a6969c29678d/index.html

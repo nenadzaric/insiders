@@ -1,1 +1,9 @@
+https://github.com/CasperLabs/casper-kube
+https://github.com/CasperLabs/ucase-1-document-notarisation
+https://github.com/Dev-CasperTheGhost/dotfiles
+https://github.com/casper-network/casper-integrations-ucase-1
+https://github.com/casper-network/casper-monitoring
+https://github.com/casper-network/casper-protocol-release
 https://github.com/casperhansen/academic-kickstart
+https://github.com/caspervonb/wacc
+https://github.com/caspervonb/wasi-test-tools

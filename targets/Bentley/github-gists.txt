@@ -1,5 +1,5 @@
+https://gist.githubusercontent.com/joebentley/3072697/raw/6a57784126b8145911921609d7ec0db865027770/levelparser.as
+https://gist.githubusercontent.com/joebentley/3072699/raw/2f1f34fd0dea334350b2bfecee5485a471b12761/update.as
 https://gist.githubusercontent.com/joebentley/3596bd17dccf5918a2026c82ac4122bd/raw/6fd88cbc8a16317a1c0ded53f6768ad3051c5495/prepare-for-arxiv.py
 https://gist.githubusercontent.com/joebentley/6e3e4198ea427545738a8202130fcc25/raw/ed18bd8740bba908e74cae2684a66e2a4440faac/process-bibliography.py
 https://gist.githubusercontent.com/joebentley/b4b53303cf024a831a76/raw/3567384e174ebcd4a58556203e86b6f290fb3aa0/gistfile1.json
-https://gist.githubusercontent.com/joebentley/3072699/raw/2f1f34fd0dea334350b2bfecee5485a471b12761/update.as
-https://gist.githubusercontent.com/joebentley/3072697/raw/6a57784126b8145911921609d7ec0db865027770/levelparser.as

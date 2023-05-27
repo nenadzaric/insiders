@@ -1,0 +1,5 @@
+https://github.com/ben-chin/foo
+https://github.com/ericbomgardner/dotfiles
+https://github.com/quizlet/it
+https://github.com/riFaulkner/configs
+https://github.com/riFaulkner/reflections

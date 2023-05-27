@@ -1,0 +1,6 @@
+https://github.com/recordedfuture/Azure-Sentinel
+https://github.com/recordedfuture/AzureIntegrations
+https://github.com/recordedfuture/PowerPlatformConnectors
+https://github.com/recordedfuture/consul
+https://github.com/recordedfuture/epic
+https://github.com/recordedfuture/rfapi-python

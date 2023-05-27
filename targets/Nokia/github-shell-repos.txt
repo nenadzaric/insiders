@@ -1,1 +1,16 @@
+https://github.com/deepfield/support-snmp
+https://github.com/nokia-mt6750/dump_nokia_ES2
+https://github.com/nokia-xl2-prototype-source/android_device_nokia_libralte
+https://github.com/nokia-xl2-prototype-source/boot-file-athena3g
+https://github.com/nokia-xl2-prototype-source/boot-file-libralte
+https://github.com/nokia/containerd-bench-security
+https://github.com/nokia/intel-nuc-router
+https://github.com/nokia/srlinux-container-image
+https://github.com/nokia/srlinux-ndk-go
+https://github.com/nokia/srlinux-yang-models
+https://github.com/peterblazejewicz/genki-flashcards
+https://github.com/peterblazejewicz/node-vagrant-box
+https://github.com/peterblazejewicz/vagrant-aspnet
+https://github.com/peterblazejewicz/vvv-custom
+https://github.com/resident-nokia/t-virus
 https://github.com/yuwang/CarND-Advanced-Lane-Lines

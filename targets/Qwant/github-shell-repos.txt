@@ -1,0 +1,9 @@
+https://github.com/lovasoa/TPCH-sqlite
+https://github.com/lovasoa/dezoom.sh
+https://github.com/lovasoa/download-book-of-kells
+https://github.com/madrisan/autospec
+https://github.com/madrisan/cisco5crack
+https://github.com/madrisan/debian-packages
+https://github.com/madrisan/docker-shell-helpers
+https://github.com/madrisan/nagios-plugins-uptime
+https://github.com/qwantanius/bash-demo-music

@@ -1,1 +1,9 @@
+https://github.com/CaffeineDuck/Balderdash
+https://github.com/Lissy93/conky-system-stats-widget
+https://github.com/Lissy93/parker
+https://github.com/caffeine-panic/shell-script
+https://github.com/caffeine01/arch-cinnamon-dotfiles
+https://github.com/caffeineflo/alarm-installscript
+https://github.com/caffeines/mongo-backup
+https://github.com/caffeinewriter/getignore
 https://github.com/lukes/dotfiles

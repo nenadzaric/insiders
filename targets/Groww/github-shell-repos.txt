@@ -1,2 +1,3 @@
+https://github.com/GrowWorkingHard/bash_tricks
 https://github.com/abhishektomar/Puppet-Monit
 https://github.com/paramaggarwal/multipart

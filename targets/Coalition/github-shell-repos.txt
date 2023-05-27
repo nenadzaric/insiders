@@ -1,1 +1,13 @@
+https://github.com/Diverse-Techs-Circle/android_device_qcom_sepolicy
+https://github.com/Diverse-Techs-Circle/android_packages_FuliaPrebuilts
+https://github.com/ViktorSheverdin/acit_4640
+https://github.com/ViktorSheverdin/testFor4640
+https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer
+https://github.com/bavc/analyzeplay
+https://github.com/bavc/analyzeplot
+https://github.com/bavc/makederivatives
+https://github.com/ga4gh/build
+https://github.com/ga4gh/ga4gh-ci
+https://github.com/ga4gh/tool-registry-service-schemas
+https://github.com/iamdamosuzuki/PBHardCore
 https://github.com/johnnorton/az-plugin

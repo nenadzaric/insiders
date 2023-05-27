@@ -1,0 +1,13 @@
+https://github.com/synack/Azure-Security-Center
+https://github.com/synack/Azure-Sentinel
+https://github.com/synack/ampersand-model-validations-mixin
+https://github.com/synack/ampersand-sync
+https://github.com/synack/docker-rsync
+https://github.com/synack/glog
+https://github.com/synack/gorb
+https://github.com/synack/nifi
+https://github.com/synack/node-prune
+https://github.com/synack/owasp-mobile-top-2016
+https://github.com/synack/owasp-mstg
+https://github.com/synack/rack-allowed_hosts
+https://github.com/synack/wstg

@@ -1,4 +1,4 @@
+https://gist.githubusercontent.com/alexanderartamonov/7ad5f8933751290cc419/raw/5eb573deb55ca1da08181dc2225c1b63622043a6/undo_redo_plugin.js
 https://gist.githubusercontent.com/alexanderartamonov/7ad5f8933751290cc419/raw/65fd879d06a6eb3d532385ab73bbcabdac765e4c/style.css
 https://gist.githubusercontent.com/alexanderartamonov/7ad5f8933751290cc419/raw/dc5ceb19ec913df358f407bede1a520a10844b88/text_editor
 https://gist.githubusercontent.com/alexanderartamonov/7ad5f8933751290cc419/raw/dc5ceb19ec913df358f407bede1a520a10844b88/text_editor.js
-https://gist.githubusercontent.com/alexanderartamonov/7ad5f8933751290cc419/raw/5eb573deb55ca1da08181dc2225c1b63622043a6/undo_redo_plugin.js

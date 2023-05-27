@@ -1,1 +1,7 @@
 https://github.com/anilthomas/break-cron-loop
+https://github.com/rewindio/aws-cloudfront-auto-invalidator
+https://github.com/rewindio/aws-connect
+https://github.com/rewindio/github-action-cloudfront-invalidate
+https://github.com/rewindio/github-action-generate-ssm-documents
+https://github.com/rewindio/github-action-is-pr-approved
+https://github.com/rewindio/github-action-s3-upload

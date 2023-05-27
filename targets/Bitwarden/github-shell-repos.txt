@@ -1,1 +1,3 @@
+https://github.com/bitwarden/self-host
 https://github.com/mylafairchild/bash
+https://github.com/vvolkgang/RepoCleaner

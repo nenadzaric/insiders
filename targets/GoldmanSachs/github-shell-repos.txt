@@ -1,1 +1,6 @@
+https://github.com/abircb/alias
+https://github.com/appwiz/ubuntu-dotfiles
+https://github.com/ketanhwr/dotfiles
+https://github.com/pinkeshbadjatiya/google-drive-sync
+https://github.com/varadharajan/aws-firelens-fluentbit-custom-image
 https://github.com/williamli/dockerfilesets-wip

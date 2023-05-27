@@ -1,3 +1,15 @@
-https://github.com/AndresMpa/dotfiles
-https://github.com/AndresMpa/deml
 https://github.com/AndresMpa/bun-test-file
+https://github.com/AndresMpa/deml
+https://github.com/AndresMpa/dotfiles
+https://github.com/PoorlyDefinedBehaviour/kubernetes_in_action
+https://github.com/bobbygrace/dotfiles
+https://github.com/damiancarrillo/objc-formatter
+https://github.com/desmondmorris/drupal-lemp
+https://github.com/desmondmorris/github-team-keys
+https://github.com/desmondmorris/heroku-buildpack-surf
+https://github.com/desmondmorris/pdf-ocr-buildpack
+https://github.com/desmondmorris/step-add-ssh-key
+https://github.com/desmondmorris/wercker-step-drush
+https://github.com/desmondmorris/wercker-step-jitsu-deploy
+https://github.com/desmondmorris/wercker-step-selenium-install
+https://github.com/desmondmorris/wercker-step-terminus

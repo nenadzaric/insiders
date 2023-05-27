@@ -1,2 +1,4 @@
-https://github.com/aristidejou/toto
 https://github.com/aristidejou/helloworld
+https://github.com/aristidejou/toto
+https://github.com/btezergil/aws-exercises
+https://github.com/hisener/slap

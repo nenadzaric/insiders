@@ -1,0 +1,15 @@
+https://github.com/dokobit/PowerPlatformConnectors
+https://github.com/dokobit/browser-plugin
+https://github.com/dokobit/certificates
+https://github.com/dokobit/chrome-token-signing
+https://github.com/dokobit/gateway-dotnet-example
+https://github.com/dokobit/gateway-php-example
+https://github.com/dokobit/gateway-sdk-php
+https://github.com/dokobit/identity-gateway-php-example
+https://github.com/dokobit/portal-api-dotnet-example
+https://github.com/dokobit/portal-api-nodejs-example
+https://github.com/dokobit/portal-api-php-example
+https://github.com/dokobit/ws-api-dotnet-example
+https://github.com/dokobit/ws-api-java-example
+https://github.com/dokobit/ws-api-php-example
+https://github.com/dokobit/ws-api-sdk-php

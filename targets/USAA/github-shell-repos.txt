@@ -1,3 +1,6 @@
-https://github.com/josephndenton/utility-scripts
-https://github.com/MichaelDaum/vagrant-foswiki
 https://github.com/MichaelDaum/borg-scripts
+https://github.com/MichaelDaum/vagrant-foswiki
+https://github.com/ianrichard/test
+https://github.com/josephndenton/utility-scripts
+https://github.com/justin-luoma/reverse-proxy
+https://github.com/justin-luoma/udacity-microservice-project

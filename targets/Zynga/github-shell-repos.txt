@@ -1,1 +1,6 @@
+https://github.com/bilalmalik4321/practice_docker
+https://github.com/bpostalci/bash_scriptz
+https://github.com/bpostalci/calc_progress
+https://github.com/ike-okonkwo/ml_microservices_api
 https://github.com/sarav/syno-packager
+https://github.com/zbase/zbase-build-tools

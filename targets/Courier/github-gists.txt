@@ -1,4 +1,4 @@
-https://gist.githubusercontent.com/benmacdonald/b6533abfd9509fe165a6894830ac4d54/raw/11cf6648dbb30648b6100f00d6ab493a5788b0b6/all.sql
-https://gist.githubusercontent.com/benmacdonald/07f1f59f9e39441ccdf05e31544b9315/raw/8190937847c521c07c244b5f682d74ba8a7c1da0/custom-nav-bar.swift
 https://gist.githubusercontent.com/benmacdonald/07f1f59f9e39441ccdf05e31544b9315/raw/06390e02b050dd5249173af1d98ca75a6dabcea6/nav-bar-title.swift
+https://gist.githubusercontent.com/benmacdonald/07f1f59f9e39441ccdf05e31544b9315/raw/8190937847c521c07c244b5f682d74ba8a7c1da0/custom-nav-bar.swift
 https://gist.githubusercontent.com/benmacdonald/07f1f59f9e39441ccdf05e31544b9315/raw/85bdce96ba844bfb46b3d4b3ed1c230fc7651d04/statusbar-color.swift
+https://gist.githubusercontent.com/benmacdonald/b6533abfd9509fe165a6894830ac4d54/raw/11cf6648dbb30648b6100f00d6ab493a5788b0b6/all.sql

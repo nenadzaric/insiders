@@ -1,2 +1,5 @@
-https://github.com/JoaoRodrigues/molmod
 https://github.com/JoaoRodrigues/fretsampling
+https://github.com/JoaoRodrigues/molmod
+https://github.com/nosami/cygwinhome
+https://github.com/nosami/dnx-bash-completion
+https://github.com/nostalgiaz/c

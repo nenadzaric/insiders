@@ -1,3 +1,16 @@
 https://github.com/DheerajJoshi/aws-scripts
 https://github.com/kritisingh/CodeDeployRepo
 https://github.com/kritisingh/codedeployrepoadvance
+https://github.com/marauder316/dot.files
+https://github.com/marauder316/meofetch
+https://github.com/oyoclass/cloud-service
+https://github.com/oyoclass/javamini-doc
+https://github.com/oyoclass/mentordashboard-doc
+https://github.com/oyoclass/python3editor-doc
+https://github.com/oyoclass/pythonmini-doc
+https://github.com/oyoclass/pythonmini3-doc
+https://github.com/oyoclass/unoeditor-doc
+https://github.com/oyoenisaiaa/alx-pre_course
+https://github.com/oyoenisaiaa/alx-system_engineering-devops
+https://github.com/oyoenisaiaa/alx-zero_day
+https://github.com/oyorooms/deploy-amppackager-aws

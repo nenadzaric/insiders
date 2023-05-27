@@ -1,3 +1,4 @@
+https://github.com/coingecko-dan/ci-docker-image
 https://github.com/pablor/mpwarAnsible
-https://github.com/pablor/workshopAnsible
 https://github.com/pablor/vmAnsibleUbuntu
+https://github.com/pablor/workshopAnsible

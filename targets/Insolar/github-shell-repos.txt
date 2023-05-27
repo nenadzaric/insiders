@@ -1,0 +1,3 @@
+https://github.com/insolar/consensus-reports
+https://github.com/insolar/insolar-scripts
+https://github.com/insolar/spec-insolar-block-explorer-api

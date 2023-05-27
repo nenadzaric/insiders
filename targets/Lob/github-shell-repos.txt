@@ -1,1 +1,12 @@
 https://github.com/joseflores/shield
+https://github.com/lobaro/restic-backup-docker
+https://github.com/lobo/aws-bootstrap
+https://github.com/lobocode/gotools
+https://github.com/lobocode/mydesk
+https://github.com/lobocode/workstation
+https://github.com/loboris/Odroid-installer
+https://github.com/loboris/OdroidC1-BuildLinux
+https://github.com/loboris/OdroidC1-tripleboot
+https://github.com/loboris/Odroid_Multiboot
+https://github.com/loboris/OrangePi-BuildLinux
+https://github.com/lobsterkatie/rowing-age

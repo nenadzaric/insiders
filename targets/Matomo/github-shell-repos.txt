@@ -1,1 +1,7 @@
+https://github.com/innocraft/matomo-enterprise
+https://github.com/matomo-org/github-action-plugin-translations
+https://github.com/matomo-org/github-action-tests
+https://github.com/matomoniwano/CTD_amplicon_analysis
+https://github.com/matomoniwano/for_fun
+https://github.com/sgiehl/matomo-plugin-translations-update
 https://github.com/yossisolomon/ML-net-docker

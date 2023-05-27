@@ -1,2 +1,15 @@
+https://github.com/TeleportXYZ/heroku-buildpack
 https://github.com/alexh/ZshProfile
+https://github.com/gravitational/cluster-ssl-app
+https://github.com/gravitational/docker-debian
+https://github.com/gravitational/docker-ubuntu
+https://github.com/gravitational/packer-manifests
+https://github.com/gravitational/selinux
+https://github.com/sclevine/cflocal-buildpack
+https://github.com/sclevine/nanocf
+https://github.com/teleport-network/github-actions
+https://github.com/twobombs/thereminq
+https://github.com/twobombs/thereminq-bonsai
+https://github.com/twobombs/thereminq-helm
+https://github.com/twobombs/thereminq-llama
 https://github.com/xinhuang/linux-setup

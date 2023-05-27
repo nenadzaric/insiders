@@ -1,1 +1,6 @@
+https://github.com/Ithildir/dotfiles
 https://github.com/MichaelSims/AndroidKotlinDuckDuckGo
+https://github.com/abbccdda/handy_tools
+https://github.com/jkrusinski/vm-provisioner
+https://github.com/zjayers/shell.handbook
+https://github.com/zjayers/zshrc

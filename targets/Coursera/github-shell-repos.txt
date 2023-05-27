@@ -1,1 +1,5 @@
 https://github.com/mahmoudFaragallah/Personal-Portfolio
+https://github.com/sb2nov/mac-setup
+https://github.com/snehankekre/Misc
+https://github.com/snehankekre/dnc-emails-downloader
+https://github.com/snehankekre/subprocess-check

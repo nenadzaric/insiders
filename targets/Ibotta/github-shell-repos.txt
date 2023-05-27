@@ -1,2 +1,9 @@
+https://github.com/Ibotta/android-emulator-cli
+https://github.com/Ibotta/asdf-brig
+https://github.com/cassamajor/Erratum
+https://github.com/cassamajor/init_brew
+https://github.com/cassamajor/init_linux
+https://github.com/daniellund14/ibotta-dev-onboarding
+https://github.com/eschlenz/bitrise-step-particle-cloud-build-status-notification
 https://github.com/williammartin/ggcpipeline
 https://github.com/williammartin/machine

@@ -1,10 +1,10 @@
 https://gist.githubusercontent.com/touhidshaikh/35e1107deb0b06b675f2cee41fe464e2/raw/02efa2eff2d6fff8219e1cc826e894fcd6bf6faa/swg.json
 https://gist.githubusercontent.com/touhidshaikh/35e1107deb0b06b675f2cee41fe464e2/raw/711692130deab8c15cb96d205982dba54d55a227/swg.yaml
+https://gist.githubusercontent.com/touhidshaikh/57ad50f5b49b87acc85c268db7031bd5/raw/55386557d701c642d471adb7c0dd20b47207d642/vmware-gcc-fix.sh
+https://gist.githubusercontent.com/touhidshaikh/8b34ac3c515e050dfdac83bcc7ee343e/raw/46a390dd21d41943ee80919277c6a570e8e2aa32/tmux-cheatsheet.markdown
+https://gist.githubusercontent.com/touhidshaikh/8d64301253769fd03d02969ce7a995ee/raw/a4f69cd1fcc5aff2b477a23f3aba3a6ff7db168a/Invoke-Mimatouhid.ps1
+https://gist.githubusercontent.com/touhidshaikh/9f1390d239a2036dadfef8881c482c66/raw/71568b3c8fcabd00ba5135b045a3878ec27b8f14/VMWare%20Workstation%2015.X.X%20and%2016%20Product%20Key
 https://gist.githubusercontent.com/touhidshaikh/a4ad1b5b5002771b3d6b698d6d98ed34/raw/c9ccdfa9d4bbe4b4c691522d1073f26e53a05f95/portainer-based.json
 https://gist.githubusercontent.com/touhidshaikh/a4ad1b5b5002771b3d6b698d6d98ed34/raw/cfdd908f88c7f89b75ea41fd7de04de50c888ed1/redteam-based.json
 https://gist.githubusercontent.com/touhidshaikh/a4ad1b5b5002771b3d6b698d6d98ed34/raw/cfdd908f88c7f89b75ea41fd7de04de50c888ed1/yatch-based.json
-https://gist.githubusercontent.com/touhidshaikh/8d64301253769fd03d02969ce7a995ee/raw/a4f69cd1fcc5aff2b477a23f3aba3a6ff7db168a/Invoke-Mimatouhid.ps1
-https://gist.githubusercontent.com/touhidshaikh/57ad50f5b49b87acc85c268db7031bd5/raw/55386557d701c642d471adb7c0dd20b47207d642/vmware-gcc-fix.sh
-https://gist.githubusercontent.com/touhidshaikh/9f1390d239a2036dadfef8881c482c66/raw/71568b3c8fcabd00ba5135b045a3878ec27b8f14/VMWare%20Workstation%2015.X.X%20and%2016%20Product%20Key
 https://gist.githubusercontent.com/touhidshaikh/eab0ed218997cc25a77a3892eb7d0b48/raw/778209c06db600416c156c587f44a5e6daa2031f/wp-installer.sh
-https://gist.githubusercontent.com/touhidshaikh/8b34ac3c515e050dfdac83bcc7ee343e/raw/46a390dd21d41943ee80919277c6a570e8e2aa32/tmux-cheatsheet.markdown

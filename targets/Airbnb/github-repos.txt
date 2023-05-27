@@ -540,6 +540,7 @@ https://github.com/hamelsmu/nbdev_foo
 https://github.com/hamelsmu/new-site
 https://github.com/hamelsmu/new_nbdev
 https://github.com/hamelsmu/new_nbdev2
+https://github.com/hamelsmu/new_nbdev_project
 https://github.com/hamelsmu/new_project
 https://github.com/hamelsmu/new_repo
 https://github.com/hamelsmu/new_stuff

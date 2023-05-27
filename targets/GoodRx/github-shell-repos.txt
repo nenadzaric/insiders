@@ -1,3 +1,5 @@
+https://github.com/GoodRx/blacken-scripts
+https://github.com/JinwoongJoung/DiseaseDetection
 https://github.com/brandonmartinez/raspberry-pi-kubernetes-cluster
 https://github.com/brandonmartinez/sundaysounds-potw-downloader
-https://github.com/JinwoongJoung/DiseaseDetection
+https://github.com/minh5/jupyter_docker

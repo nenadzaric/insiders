@@ -1,1 +1,12 @@
+https://github.com/Roger-luo/REPL_timetest
+https://github.com/Roger-luo/config
+https://github.com/check-spelling/check-spelling
+https://github.com/check-spelling/check-spelling-docs
+https://github.com/check-spelling/checkout-merge
+https://github.com/cherrry/rc2
+https://github.com/cherrry/rime.hk
 https://github.com/joecox/dotfiles
+https://github.com/languagetool-org/french-pos-dict
+https://github.com/languagetool-org/german-pos-dict
+https://github.com/ppasupat/ppasupat-resume
+https://github.com/spellcheck-ko/galkwiki

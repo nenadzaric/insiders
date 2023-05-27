@@ -1,1 +1,4 @@
 https://github.com/jackiehu/IPAAutoBuild
+https://github.com/znly/cloud-debug-go
+https://github.com/znly/docker-druid
+https://github.com/znly/docker-zookeeper

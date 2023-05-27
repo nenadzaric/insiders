@@ -1,4 +1,4 @@
 https://gist.githubusercontent.com/chrisstahl/dde530ceec0531b257daeb30bc844195/raw/3175c21912a3ef44eb2584dd1f8be0c5283e513c/react-bootcamp-day-3-1.html
-https://gist.githubusercontent.com/seanm/00938c5f6e456db8fcb1/raw/58a976842bfd45f7e2867518b55c9ccfe77724da/NSObject%2BKVOWeakPropertyDebug.h
 https://gist.githubusercontent.com/seanm/00938c5f6e456db8fcb1/raw/42dfefdec6e4b631894d1c7bc3f6b6b1c3a0d262/NSObject%2BKVOWeakPropertyDebug.m
+https://gist.githubusercontent.com/seanm/00938c5f6e456db8fcb1/raw/58a976842bfd45f7e2867518b55c9ccfe77724da/NSObject%2BKVOWeakPropertyDebug.h
 https://gist.githubusercontent.com/shravanjha/751bd2cb21a75c50b04dbf17d5f2cd57/raw/195b2602e52cd712a38b75bcfdd56d35ef08360a/ca.md

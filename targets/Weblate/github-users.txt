@@ -1,6 +1,13 @@
-https://github.com/anaVale
-https://github.com/catherineleung
+https://github.com/BoFFire
 https://github.com/JulianG
 https://github.com/MenukaIshan
 https://github.com/NicolaGonzaga
 https://github.com/OsamaAbbas
+https://github.com/PhieF
+https://github.com/WeblateOrg
+https://github.com/anaVale
+https://github.com/catherineleung
+https://github.com/pep8speaks
+https://github.com/ubuntukylin-weblate
+https://github.com/vesta-webtrees-2-custom-modules
+https://github.com/weblate

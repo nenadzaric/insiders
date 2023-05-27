@@ -1,3 +1,4 @@
-https://github.com/alexm/git-ps1-bash-prompt
 https://github.com/alexm/debian-vm-templates
+https://github.com/alexm/git-ps1-bash-prompt
 https://github.com/alexm/gitlab-vagrant
+https://github.com/clarionhoover/Server-Scripts

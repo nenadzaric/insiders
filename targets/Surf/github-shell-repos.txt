@@ -1,1 +1,17 @@
+https://github.com/SurferJeffAtGoogle/kokoro-codelab-rennie
+https://github.com/Surfi89/Born2beroot
+https://github.com/Surfndez/BiTGApps
+https://github.com/Surfndez/packages
+https://github.com/edubadges/privacy
 https://github.com/ido/nlp
+https://github.com/rico-c/ssScript
+https://github.com/surface-security/scanner-helper
+https://github.com/surface-security/scanner-proxy
+https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm
+https://github.com/surfer190/mysql-backup-and-save-remote
+https://github.com/surfer190/mysql2sqlite
+https://github.com/surfii3z/jy_master_thesis
+https://github.com/surfstudio/SwiftCodestyle
+https://github.com/surfstudio/Xcode-Project-Templates
+https://github.com/surfstudio/api-design-best-practices
+https://github.com/surfstudio/devops-k8s-shell-scripts

@@ -1,1 +1,3 @@
+https://github.com/0x4rk0/greynoise
+https://github.com/0x4rk0/wardriving
 https://github.com/drewhammond/clover-validator

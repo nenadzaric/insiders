@@ -1,3 +1,7 @@
-https://github.com/PhilipCarroll/jQuery_cards_lesson
+https://github.com/CodingGarden/mac-setup
 https://github.com/PhilipCarroll/Jasmine_test
 https://github.com/PhilipCarroll/importance_of_this
+https://github.com/PhilipCarroll/jQuery_cards_lesson
+https://github.com/danirod-live/arch-custom-install-scripts
+https://github.com/donvito/mv-spring-boot-docker
+https://github.com/giosakti/scripts

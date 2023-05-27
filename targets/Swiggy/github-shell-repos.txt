@@ -1,1 +1,5 @@
+https://github.com/anuragdevon/archrice
+https://github.com/anuragdevon/devon-django-create
+https://github.com/anuragdevon/dockerpress
+https://github.com/anuragdevon/tiny-i3bar
 https://github.com/nithinM/wp-docker

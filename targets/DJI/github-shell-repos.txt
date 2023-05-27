@@ -1,1 +1,3 @@
+https://github.com/Djib-io/djib-node-installer
 https://github.com/frankbecker/docker_starter
+https://github.com/justwillim/TX2-TX1-setup

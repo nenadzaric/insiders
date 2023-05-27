@@ -1,1 +1,4 @@
+https://github.com/Pippeloo/TM-PHP-Switcher
 https://github.com/kristoftorfs/gists
+https://github.com/torfs-ict/phansible
+https://github.com/torfs-ict/phptohtmlx

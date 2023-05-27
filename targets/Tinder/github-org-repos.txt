@@ -1,0 +1,10 @@
+https://github.com/Tinder/GeneralizedAdditiveModels
+https://github.com/Tinder/GitQuery
+https://github.com/Tinder/Scarlet
+https://github.com/Tinder/StateMachine
+https://github.com/Tinder/bazel-diff
+https://github.com/Tinder/circuit-breaker
+https://github.com/Tinder/crap
+https://github.com/Tinder/homebrew-tap
+https://github.com/Tinder/sharded-redis-client
+https://github.com/Tinder/tinder.github.io

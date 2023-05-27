@@ -1,5 +1,12 @@
 https://github.com/BeateBarth/github-slideshow
-https://github.com/dirkschrader/github-slideshow
+https://github.com/SkyWaet/DeutscheTelekomTask
 https://github.com/StefanFox/BioHackerPRO-Front
 https://github.com/StefanFox/modules
 https://github.com/ThomasBar/Exogenous-Peer-to-Peer-Electricity-Markets
+https://github.com/dirkschrader/github-slideshow
+https://github.com/doom369/DeutscheTelekom
+https://github.com/gusgad/deutschetelekom-magenta-skill-hackathon
+https://github.com/meltembalaban/DeutscheTelekom
+https://github.com/msbeiti/MachineLearning-ImageClassifier
+https://github.com/msbeiti/ROUTE-O-MATIC
+https://github.com/msbeiti/Wormhole-Attack

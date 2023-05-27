@@ -1,2 +1,8 @@
+https://github.com/ExpediaGroup/apiary-metastore-docker
+https://github.com/ExpediaGroup/apiary-ranger-docker
+https://github.com/ExpediaGroup/apiary-waggledance-docker
+https://github.com/jharmn/do-web-mongo-bootstrap
+https://github.com/jharmn/docker-ark-remote
+https://github.com/jharmn/ubuntu-mac-gestures
 https://github.com/priyankasingh/test_repo2_dd_ingest
 https://github.com/priyankasingh/test_repo_dd_ingest

@@ -1,1 +1,7 @@
+https://github.com/MiguelPeralvo/distributed-misc
+https://github.com/MiguelPeralvo/docker-snippets
+https://github.com/ankurdave/teensagainsttobacco
+https://github.com/databricks-migrations/hadoop-profiler
+https://github.com/databricks/setup-cli
+https://github.com/jhuangtw/locals
 https://github.com/zhongchen/dataproc-kedro-demo

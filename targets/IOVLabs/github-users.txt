@@ -1,7 +1,9 @@
 https://github.com/AnaGomez
 https://github.com/DiegoRosales
-https://github.com/edgarMartinez
 https://github.com/FedericoAyala
 https://github.com/JuanVillar
 https://github.com/JulianCeballos
+https://github.com/edgarMartinez
+https://github.com/iovlabs-qa
+https://github.com/lukassierra26
 https://github.com/rodrigogoncalves

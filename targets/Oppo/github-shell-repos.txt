@@ -1,1 +1,7 @@
+https://github.com/OPPO-A37/A37_dump
+https://github.com/Oppodelldog/goland-container
 https://github.com/RahulMahale/ansible-kubernetes
+https://github.com/oppo-source/android_kernel_modules_and_devicetree_oppo_sm8475
+https://github.com/oppo-source/android_kernel_modules_and_devicetree_oppo_sm8550
+https://github.com/opportunity-zh/wp_custom_theme_setup
+https://github.com/opportus/installer

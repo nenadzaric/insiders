@@ -1,1 +1,16 @@
+https://github.com/dkundel/project-templates
+https://github.com/dkundel/sslaunch
+https://github.com/fonoster/mediaserver
+https://github.com/osmanbaskaya/dotfiles
+https://github.com/robinske/lookup-demo
+https://github.com/robinske/wjh
+https://github.com/sendgrid/sendgrid-oai
+https://github.com/twilio-labs/socless-playbooks-template
+https://github.com/twilio/Wireless_Broadband_IoT_Dev_Kit
+https://github.com/twilio/pear
+https://github.com/twilio/raspbian-deb-builder
+https://github.com/twilio/twilio-boost-build
+https://github.com/twilio/twilio-sans-mono
+https://github.com/twilio/vi-workshop-signal-2019
 https://github.com/vibhorgoyal/find-your-dialogue
+https://github.com/vingiarrusso/test-function-template

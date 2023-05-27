@@ -1,1 +1,5 @@
 https://github.com/JasperZ/snips-docker
+https://github.com/lenville/dotfiles
+https://github.com/xuexb/learn-nginx
+https://github.com/xuexb/nginx-conf
+https://github.com/xuexb/npm

@@ -1,1 +1,12 @@
+https://github.com/Abhishek-AC/File-Storage-Script
+https://github.com/Lingnik/makemkvcon-auto
+https://github.com/bcaldwell/ansible
+https://github.com/bcaldwell/ansible-role-letsencrypt
+https://github.com/bcaldwell/dashboards
+https://github.com/bcaldwell/server_setup
+https://github.com/filmaj/dotfiles
+https://github.com/mattyjones/remote
+https://github.com/midzelis/ups-sys
+https://github.com/nornagon/git-rebase-all
+https://github.com/pmdartus/HTK-Digit
 https://github.com/sergiigutsal/bash_scripts

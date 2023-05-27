@@ -1,1 +1,5 @@
+https://github.com/Winniekun/my-config-files
 https://github.com/winni3/Zsh-Stuff
+https://github.com/winnieBear/my-scripts
+https://github.com/winnieBear/usefull-bash-script
+https://github.com/winningsix/sword

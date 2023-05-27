@@ -1,1 +1,16 @@
+https://github.com/cyan33/til
+https://github.com/donnemartin/gitflow
+https://github.com/facebookarchive/BridgeIC
+https://github.com/facebookarchive/caffe2
+https://github.com/facebookarchive/cassandra-aws-benchmark
+https://github.com/facebookarchive/facebook-360-spatial-workstation
+https://github.com/facebookarchive/hack-conversion-demo
+https://github.com/facebookarchive/heroku-buildpack-hhvm
+https://github.com/facebookarchive/rpm-backports
+https://github.com/facebookincubator/dnf-plugin-cow
+https://github.com/facebookresearch/decodable_information_bottleneck
 https://github.com/mohammadjalali/openconnect-bash-script
+https://github.com/qixiaohui/dotfiles
+https://github.com/wincent/buildtools
+https://github.com/wincent/vim-university
+https://github.com/zpao/actions-test

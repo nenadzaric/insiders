@@ -1,0 +1,8 @@
+https://github.com/DanskeBank/BlackBox
+https://github.com/DanskeBank/Connector
+https://github.com/DanskeBank/Connector-Syst
+https://github.com/DanskeBank/FXTradingStudentChallenge
+https://github.com/DanskeBank/MicroeventPN
+https://github.com/DanskeBank/MobilePay-AppSwitch
+https://github.com/DanskeBank/apamaeventparser
+https://github.com/DanskeBank/api-bootcamp

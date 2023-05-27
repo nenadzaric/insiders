@@ -1,8 +1,8 @@
-https://gist.githubusercontent.com/melanierichards/98d2db0692d9ea0a1e404b5b6f156b1c/raw/e79c9b0e2fafcb2e51ea53662eb1e450a1c60942/git.md
-https://gist.githubusercontent.com/melanierichards/afb4a4c278314e6579e3507c3182b074/raw/c3d0491db293fd6b4e26cfa6122e1d2841a35dc5/squoosh-cli.txt
 https://gist.githubusercontent.com/melanierichards/22f1416047e2189d3f659aef3e810342/raw/34e368a89362eb0fca34f8e7ad1be5b4fc43f429/eleventy-md-responsive-img.js
 https://gist.githubusercontent.com/melanierichards/2fb11de7981cfe292d118dc2d48c1b7d/raw/5af5d8d8bb2ceed3d271045499ce987c796b83b3/moving-the-web-forward.md
-https://gist.githubusercontent.com/zhongchen/b62ee222ecc256625e4cd64aaa73d47e/raw/a86a7050d4e72f3cb4653dbbe0f187c1f7172034/install.md
-https://gist.githubusercontent.com/zhongchen/e0021ad79940ec8ec1fa159101c21002/raw/4ad9cf25f62b3f350c459ddfab95da5486f76270/GCP%20Data%20Engineer%20Certification%20Preparation.md
+https://gist.githubusercontent.com/melanierichards/98d2db0692d9ea0a1e404b5b6f156b1c/raw/e79c9b0e2fafcb2e51ea53662eb1e450a1c60942/git.md
+https://gist.githubusercontent.com/melanierichards/afb4a4c278314e6579e3507c3182b074/raw/c3d0491db293fd6b4e26cfa6122e1d2841a35dc5/squoosh-cli.txt
 https://gist.githubusercontent.com/zhongchen/6172626361fdd458b18ab94f95c650f5/raw/96f57f7771208990a1fa43724bbf9a4d1d6c83f1/Effective%20Meetings.md
+https://gist.githubusercontent.com/zhongchen/b62ee222ecc256625e4cd64aaa73d47e/raw/a86a7050d4e72f3cb4653dbbe0f187c1f7172034/install.md
 https://gist.githubusercontent.com/zhongchen/de7c6ffcd3961a6916a6278c3ffdf80c/raw/07dfbf12f0c97706c53b813ef19ddd0ca52931b9/keybase.md
+https://gist.githubusercontent.com/zhongchen/e0021ad79940ec8ec1fa159101c21002/raw/4ad9cf25f62b3f350c459ddfab95da5486f76270/GCP%20Data%20Engineer%20Certification%20Preparation.md

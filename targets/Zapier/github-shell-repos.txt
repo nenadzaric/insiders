@@ -1,2 +1,14 @@
-https://github.com/alexhorner/WD-DX4000-Installer
 https://github.com/alexhorner/DockerExperiments
+https://github.com/alexhorner/WD-DX4000-Installer
+https://github.com/chrisdopuch/dotfiles
+https://github.com/filipalacerda/dotfiles
+https://github.com/ibolmo/d2AS3
+https://github.com/ibolmo/git-setup
+https://github.com/ibolmo/openapi-driven-development
+https://github.com/ibolmo/openshift-express-example
+https://github.com/statwonk/dockr
+https://github.com/statwonk/logging
+https://github.com/zapier/docker-brubeck
+https://github.com/zapier/docker-graphite
+https://github.com/zapier/docker-proxysql
+https://github.com/zapier/python-poetry-buildpack

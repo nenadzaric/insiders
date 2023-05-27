@@ -1,4 +1,15 @@
-https://github.com/rohitn/VCAATrollSheet
+https://github.com/AmitKulkarni9/AutomatedSecurityTesting_OwaspZapPythonAPI
+https://github.com/CJHackerz/owaspzap_api_playground
+https://github.com/Conviso-Archives/drone_owaspzap
+https://github.com/Mamun104/APISecurityTestingUsing_OwaspZap
+https://github.com/Oktaliem/OWASPZAPOdooGauge
+https://github.com/Sruthimol-p/OWASPZAP
+https://github.com/alex0701/zap
+https://github.com/kunleoluwadiya/OWASPZapScan
+https://github.com/owaspzap/stackhawk1
 https://github.com/rohitn/Mathematica
+https://github.com/rohitn/VCAATrollSheet
 https://github.com/rohitn/WSS2018
 https://github.com/rohitn/business-hours
+https://github.com/security-testing-workshop/sample01
+https://github.com/trumanng10/owaspzap

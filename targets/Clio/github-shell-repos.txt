@@ -1,2 +1,9 @@
 https://github.com/Cliowu/Hello-world
+https://github.com/clio-one/cardano-on-the-rocks
+https://github.com/cliodhnaharrison/CA282-Labs
+https://github.com/clion0003/Tools
+https://github.com/clion007/dnsmasq
+https://github.com/cliotropic/radtech14
+https://github.com/kevinhughes27/audiogrep-docker
+https://github.com/mctaylorpants/taylormade-environment
 https://github.com/paulriley/vscode-dotfiles

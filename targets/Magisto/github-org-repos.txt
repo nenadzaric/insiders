@@ -1,0 +1,4 @@
+https://github.com/magisto/BugshotKit
+https://github.com/magisto/JModalController
+https://github.com/magisto/SHEmailValidator
+https://github.com/magisto/android-ffmpeg

@@ -1,3 +1,8 @@
+https://github.com/InVisionApp/bitrise-step-validate-certificates
+https://github.com/InVisionApp/steps-set-xcode-git-build-number
 https://github.com/chuckhinson/linux-config
 https://github.com/danielschwartz/dotfiles
 https://github.com/muhammadn/arwi
+https://github.com/pbollenbeck/dotfiles
+https://github.com/pbollenbeck/keyboard-layouts
+https://github.com/sohlich/polyglot_thinking

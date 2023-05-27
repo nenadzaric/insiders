@@ -1,0 +1,2 @@
+https://github.com/DataDome/bash-methods
+https://github.com/abguimba/42-init

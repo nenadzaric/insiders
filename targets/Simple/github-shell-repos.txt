@@ -1,1 +1,4 @@
+https://github.com/simple/dotfiles
+https://github.com/simplesteph/docker-kerberos-get-keytab
+https://github.com/simpleton/config-server-scripts
 https://github.com/willr/dot_files

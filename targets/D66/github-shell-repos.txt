@@ -1,1 +1,4 @@
+https://github.com/d66pak/mybin
+https://github.com/d66pak/packer_dev
+https://github.com/d66pak/setup
 https://github.com/davidde/git

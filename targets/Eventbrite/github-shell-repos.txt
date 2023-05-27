@@ -1,1 +1,8 @@
+https://github.com/bufordtaylor/swiftcommandline
+https://github.com/eventbrite/deploy-sourcegraph
+https://github.com/eventbrite/git-copy-with-history
+https://github.com/ferreiro/Bash
+https://github.com/ferreiro/System-configurations
+https://github.com/ferreiro/dotfiles
+https://github.com/lurumad/spring-boot-api-items
 https://github.com/yuxinhuang/jmeter-ppdm-maven

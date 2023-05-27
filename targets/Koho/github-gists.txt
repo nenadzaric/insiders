@@ -1,3 +1,3 @@
-https://gist.githubusercontent.com/oliverl/769756/raw/b1f0e52cede3439ed595ea6d4d3759001fbd03ed/fixed_floating_sidebar.sass
-https://gist.githubusercontent.com/oliverl/769744/raw/b610f3dc20148b17b12194b6eeb6bfb2be2e8825/fixed_floating_sidebar.haml
 https://gist.githubusercontent.com/oliverl/769733/raw/274b7beacc726c69a09906569725cfe32b48134f/fixed_floating_sidebar.js
+https://gist.githubusercontent.com/oliverl/769744/raw/b610f3dc20148b17b12194b6eeb6bfb2be2e8825/fixed_floating_sidebar.haml
+https://gist.githubusercontent.com/oliverl/769756/raw/b1f0e52cede3439ed595ea6d4d3759001fbd03ed/fixed_floating_sidebar.sass

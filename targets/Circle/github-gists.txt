@@ -1,6 +1,6 @@
 https://gist.githubusercontent.com/shreybatra/0a3369bc505121cac5beb14549526437/raw/df5929cb052fc811f0e7b10ba9a2964e8fdb5dd9/machine.js
-https://gist.githubusercontent.com/shreybatra/41c359d6718a23d2a8d81a09aeecda0e/raw/6e14d6740439d00f6f8ccb79e572ed8f45819d59/machine.js
-https://gist.githubusercontent.com/shreybatra/684ca3a238fa6d3555491b2dabc68bc3/raw/8060e9537ac3ed87c254dae157b8170f9745c154/tokenization_stopwords.py
-https://gist.githubusercontent.com/shreybatra/6752ed56f060c9ce5d72e4498661bbbb/raw/3b6d76a0c1b8f51034a1ed3bdc0dbf6ec85b8b68/blog.py
-https://gist.githubusercontent.com/shreybatra/cfc723f224f6e78987b7a011cf6de91a/raw/4c2b15ddf7606e360de16456a88473f69b86f0f9/snakecoin-server-full-code.py
 https://gist.githubusercontent.com/shreybatra/2a951d983138f94e42165a2100efa1fc/raw/12b49449bbc2684e8fb41650e168593de3c8686c/car.py
+https://gist.githubusercontent.com/shreybatra/41c359d6718a23d2a8d81a09aeecda0e/raw/6e14d6740439d00f6f8ccb79e572ed8f45819d59/machine.js
+https://gist.githubusercontent.com/shreybatra/6752ed56f060c9ce5d72e4498661bbbb/raw/3b6d76a0c1b8f51034a1ed3bdc0dbf6ec85b8b68/blog.py
+https://gist.githubusercontent.com/shreybatra/684ca3a238fa6d3555491b2dabc68bc3/raw/8060e9537ac3ed87c254dae157b8170f9745c154/tokenization_stopwords.py
+https://gist.githubusercontent.com/shreybatra/cfc723f224f6e78987b7a011cf6de91a/raw/4c2b15ddf7606e360de16456a88473f69b86f0f9/snakecoin-server-full-code.py

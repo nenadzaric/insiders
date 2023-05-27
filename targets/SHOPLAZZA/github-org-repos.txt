@@ -1,0 +1,6 @@
+https://github.com/Shoplazza/LifeStyle
+https://github.com/Shoplazza/oauth-sdk-go
+https://github.com/Shoplazza/oauth-sdk-php
+https://github.com/Shoplazza/shoplazza-cli
+https://github.com/Shoplazza/spz-components
+https://github.com/Shoplazza/theme-extension-template

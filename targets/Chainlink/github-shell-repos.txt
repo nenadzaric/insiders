@@ -1,1 +1,3 @@
+https://github.com/QingyangKong/Club-Checkin-Contract
+https://github.com/chainlink/dotfiles
 https://github.com/patrickyoung/certsplain

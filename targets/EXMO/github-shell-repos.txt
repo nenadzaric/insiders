@@ -1,2 +1,4 @@
+https://github.com/exmo/facebook
+https://github.com/exmo/ubuntu-packages
 https://github.com/marloncarvalho/docker-demoiselle-eclipse-4.4.2
 https://github.com/robsonximenes/aquario

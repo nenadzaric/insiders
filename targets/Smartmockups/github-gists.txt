@@ -1,3 +1,3 @@
-https://gist.githubusercontent.com/ingojoseph/4251602/raw/5d1451c5e1045e7e31ef940ee289b67f4e7841ad/robot.js
-https://gist.githubusercontent.com/ingojoseph/4251505/raw/962cb1e366e9cbc046c217eb7fc0584a94080312/robot.js
 https://gist.githubusercontent.com/ingojoseph/4251216/raw/a18016856eb7ae5d5ecb491c10aa2f9b73aecd78/robot.js
+https://gist.githubusercontent.com/ingojoseph/4251505/raw/962cb1e366e9cbc046c217eb7fc0584a94080312/robot.js
+https://gist.githubusercontent.com/ingojoseph/4251602/raw/5d1451c5e1045e7e31ef940ee289b67f4e7841ad/robot.js

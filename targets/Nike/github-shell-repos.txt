@@ -1,1 +1,7 @@
+https://github.com/Nikerabbit/intense-salt
+https://github.com/Nikerabbit/mediawiki-docker-scripts
 https://github.com/meganmiller/MMiller-CyberSecCourseWork
+https://github.com/nikez/android_build
+https://github.com/nikez/android_external_htop
+https://github.com/nikez/android_vendor_ev
+https://github.com/nikez/android_vendor_htc

@@ -1,3 +1,7 @@
+https://github.com/AsahiLinux/PKGBUILDs
+https://github.com/AsahiLinux/asahi-alarm-builder
+https://github.com/AsahiLinux/asahi-calamares-configs
+https://github.com/AsahiLinux/asahi-scripts
 https://github.com/BenchR267/TouchPresenter
 https://github.com/BenchR267/blog
 https://github.com/Constellation/portable

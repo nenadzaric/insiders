@@ -1,2 +1,5 @@
+https://github.com/chrisdemars/dotfiles
 https://github.com/colbyfayock/mac
 https://github.com/colbyfayock/xbmc-confluence-min
+https://github.com/devpato/auto-commitGenerator
+https://github.com/nucliweb/images-optimization-env

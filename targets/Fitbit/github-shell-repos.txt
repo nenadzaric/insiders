@@ -1,1 +1,9 @@
+https://github.com/C-D-Lewis/chunky-fargate
 https://github.com/davidyin/MyFramework
+https://github.com/fharper/devrel
+https://github.com/fharper/git-hooks
+https://github.com/fharper/k1
+https://github.com/fharper/macsetup
+https://github.com/fharper/utils
+https://github.com/sowjumn/girlydotfiles
+https://github.com/xuy/personal_settings

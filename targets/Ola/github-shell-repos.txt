@@ -1,2 +1,9 @@
-https://github.com/felipealmeida/dropbear_initrd_encrypt
 https://github.com/felipealmeida/aur-ckb-next-git
+https://github.com/felipealmeida/dropbear_initrd_encrypt
+https://github.com/olafhartong/scripts
+https://github.com/olafhartong/unfetter-discover
+https://github.com/olafurpg/bsp-pants
+https://github.com/olafurpg/homebrew-fastpass
+https://github.com/olahol/Excel.cf
+https://github.com/olahol/log.bash
+https://github.com/olavstoppen/mac-setup

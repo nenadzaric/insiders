@@ -1,4 +1,4 @@
 https://gist.githubusercontent.com/ivans/26d86bdc45826eaf07b5fcf099c54830/raw/cf3fdb9025e8ad473d7ee1bce35f46d0e89bf923/mongo-deployment-and-service.yaml
-https://gist.githubusercontent.com/nigelpoulton/cb3d9535b89bdfbb1fb943dfc59dea99/raw/ecd922794f27b06f0de2a5a09c1622c5b6aa84a1/PsSwarmCloudFormation.json
-https://gist.githubusercontent.com/nigelpoulton/cb3d9535b89bdfbb1fb943dfc59dea99/raw/8ff7dd98d6c351568d6825caffd569f4358b3855/README
 https://gist.githubusercontent.com/nigelpoulton/bd417dc80d8d227ac006/raw/10635e3ba84c607dcefd907453ad27f3600cfbe3/keybase.md
+https://gist.githubusercontent.com/nigelpoulton/cb3d9535b89bdfbb1fb943dfc59dea99/raw/8ff7dd98d6c351568d6825caffd569f4358b3855/README
+https://gist.githubusercontent.com/nigelpoulton/cb3d9535b89bdfbb1fb943dfc59dea99/raw/ecd922794f27b06f0de2a5a09c1622c5b6aa84a1/PsSwarmCloudFormation.json

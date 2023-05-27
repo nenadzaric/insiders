@@ -1,1 +1,3 @@
 https://github.com/costinbusioc/setup-and-cheatsheets
+https://github.com/hootsuite/pre-commit-php
+https://github.com/palcu/dotfiles

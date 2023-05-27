@@ -1,1 +1,5 @@
+https://github.com/FradSer/dotflies
+https://github.com/manuelvicnt/IconAnimatedVectorDrawable
 https://github.com/michaeljones/splash-cards
+https://github.com/vivo-community/scholars-discovery-docker-setup
+https://github.com/vivo-community/vivo-vagrant

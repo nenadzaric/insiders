@@ -1,4 +1,9 @@
-https://github.com/tomgeorge/kube-ansible
+https://github.com/InformaticayHacking/autosploit
+https://github.com/InformaticayHacking/fix
+https://github.com/InformaticayHacking/metainstall
+https://github.com/InformaticayHacking/sudo-termux
+https://github.com/nginformatica/swarm-failure-report-action
 https://github.com/tomgeorge/Vagrant-dev
-https://github.com/tomgeorge/kubernetes-manifests
 https://github.com/tomgeorge/digitalocean-packer
+https://github.com/tomgeorge/kube-ansible
+https://github.com/tomgeorge/kubernetes-manifests

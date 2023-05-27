@@ -1,1 +1,6 @@
+https://github.com/bvanreeven/bootstrap-typescript-node-script
+https://github.com/mendix/azure-kubernetes-cicd-reference-impl
+https://github.com/mendix/debian-netboot
+https://github.com/mendix/oracle-java-latest
+https://github.com/mendix/travisNativeTemplateBuilder
 https://github.com/ronwellman/how-to

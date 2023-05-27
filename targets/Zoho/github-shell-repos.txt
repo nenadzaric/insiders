@@ -1,2 +1,3 @@
+https://github.com/site24x7/docker-agent
 https://github.com/varnav/BaseStation.sqb
 https://github.com/varnav/eos-node-docker

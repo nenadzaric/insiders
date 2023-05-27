@@ -1,1 +1,10 @@
+https://github.com/DeviaVir/DockerDeploy
+https://github.com/DeviaVir/aws-apparate-key
+https://github.com/DeviaVir/certbot-gcs
+https://github.com/DeviaVir/dotfiles
+https://github.com/chasestarr/dotfiles
+https://github.com/chasewyrick/kedos-builder
 https://github.com/davejacobs/dotfiles
+https://github.com/hwchase17/configs
+https://github.com/jpmorganchase/payments
+https://github.com/shanzi/CircleRippleButton

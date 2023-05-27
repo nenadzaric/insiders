@@ -1,2 +1,16 @@
+https://github.com/alexandrelam/dotfiles
+https://github.com/avatsaev/RaspBipper
+https://github.com/avatsaev/pg-backup-manager
+https://github.com/chamerling/esn-linux-packaging
+https://github.com/chamerling/glassfish4sirocco
+https://github.com/chamerling/keystone
+https://github.com/chamerling/linshare
+https://github.com/chamerling/openpaas-docker-compose
+https://github.com/chamerling/openstack-client-docker
+https://github.com/chamerling/sirocco-docker
 https://github.com/christianschmitz/play123
+https://github.com/doctolib/dual-node-modules
+https://github.com/doctolib/heroku-buildpack-ci-assets
+https://github.com/doctolib/heroku-buildpack-zipper
+https://github.com/fwuensche/42-config
 https://github.com/grigoryk/heroku-buildpack-node-bigint

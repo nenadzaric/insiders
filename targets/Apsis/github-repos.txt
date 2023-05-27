@@ -156,6 +156,7 @@ https://github.com/mdbhuiyan/w2d1
 https://github.com/mdbhuiyan/w2d3
 https://github.com/mdbhuiyan/war_practice
 https://github.com/microsoft/APSI
+https://github.com/nicktoumpelis/HiBeacons
 https://github.com/rajeshgheware/apsis
 https://github.com/rajeshgheware/apsis-cs-interns
 https://github.com/rehmanshawon/BAFVideoPlayer

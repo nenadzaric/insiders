@@ -1,5 +1,5 @@
-https://gist.githubusercontent.com/chrisjohnson/a27b64146250ceb60bf5fa7ee94a1c59/raw/67d893d5b7ce17de55450f12219bd4d6f98f80b5/gistfile1.txt
+https://gist.githubusercontent.com/chrisjohnson/1a3e92f862a887b7315c/raw/f87a8be3aec233192b7d4a53e744541cd5fdb1eb/adthemes-setup.sh
 https://gist.githubusercontent.com/chrisjohnson/57051ca27e5183156c7ca2ac3105b176/raw/652c10d917c7ed3c03294775d9b1ab2b9c6e339e/gistfile1.txt
 https://gist.githubusercontent.com/chrisjohnson/837a0df35456529b553e56405ef6319a/raw/1c7f99b4d27340edd9db0cfe433c99ae89b09a5f/gistfile1.txt
+https://gist.githubusercontent.com/chrisjohnson/a27b64146250ceb60bf5fa7ee94a1c59/raw/67d893d5b7ce17de55450f12219bd4d6f98f80b5/gistfile1.txt
 https://gist.githubusercontent.com/chrisjohnson/e38209000ad8d83ea79a89847f266ed0/raw/7433ed1d3c839b235406dc0133fbd8e635e64033/escape-string-regexp.js
-https://gist.githubusercontent.com/chrisjohnson/1a3e92f862a887b7315c/raw/f87a8be3aec233192b7d4a53e744541cd5fdb1eb/adthemes-setup.sh

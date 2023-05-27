@@ -1,2 +1,6 @@
 https://github.com/BrendanWalsh/dotfiles
+https://github.com/rnorth/ambassador
+https://github.com/rnorth/docker-disque
+https://github.com/rnorth/gh-combine-prs
+https://github.com/rnorth/gh-tidy-notifications
 https://github.com/samstradling/docker-hugo

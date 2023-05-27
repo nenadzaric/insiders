@@ -1,4 +1,4 @@
-https://gist.githubusercontent.com/mikez/7fa9e189fa427ff4ea320b2799772b56/raw/552462134550d9a4e77b50fcf728a10d8ad6c3cc/String.prototype.count.md
+https://gist.githubusercontent.com/mikez/1336268/raw/da6849ae7ceb3454804d2ee05d904b03339f09d8/hello.py
 https://gist.githubusercontent.com/mikez/483462dbf1783af4b0fd96c98d473eed/raw/71a17776534c98c67efbc35fabe389be17b73282/close-other-apps
 https://gist.githubusercontent.com/mikez/7881317/raw/775a7c888e02f8a657a8cadc43856bdb0aa4f3b8/multisub.py
-https://gist.githubusercontent.com/mikez/1336268/raw/da6849ae7ceb3454804d2ee05d904b03339f09d8/hello.py
+https://gist.githubusercontent.com/mikez/7fa9e189fa427ff4ea320b2799772b56/raw/552462134550d9a4e77b50fcf728a10d8ad6c3cc/String.prototype.count.md

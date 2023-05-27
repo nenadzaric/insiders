@@ -1,2 +1,4 @@
+https://github.com/Hypfer/futuristic-voiceinfo
 https://github.com/fangli/esxi-hardware-watchdog-driver
 https://github.com/fangli/spdk-builder
+https://github.com/getachew/concourse-tutorial

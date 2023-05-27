@@ -1,0 +1,12 @@
+https://github.com/Dexalot/avalanche-faucet
+https://github.com/Dexalot/contracts
+https://github.com/Dexalot/deploy-firebase-functions
+https://github.com/Dexalot/dexalot-docs
+https://github.com/Dexalot/dexalot-subnet
+https://github.com/Dexalot/evm-faucet
+https://github.com/Dexalot/firebase-action
+https://github.com/Dexalot/samplebot
+https://github.com/Dexalot/token-vesting-ui
+https://github.com/Dexalot/tokenlist
+https://github.com/Dexalot/vscode-solidity-comments
+https://github.com/Dexalot/vuepress-theme-hope

@@ -1,4 +1,9 @@
+https://github.com/hussaintamboli/nice-and-easy-shell-scripts
 https://github.com/natashalee/cs56-w16-lab08
+https://github.com/sluongng/bazel-profile-to-csv
+https://github.com/sluongng/consumeWebservice
+https://github.com/sluongng/dotfiles
+https://github.com/sluongng/git-care
 https://github.com/vincentkim/airflow-dask-docker
 https://github.com/yenn/svn2git
 https://github.com/yunh/brewedperlrebase

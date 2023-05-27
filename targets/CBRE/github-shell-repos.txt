@@ -1,1 +1,6 @@
+https://github.com/cbredesen/chrisbredesen.com
+https://github.com/cbrenner04/dotbrenner
+https://github.com/cbrevik/dotfiles
+https://github.com/cbrewster/brewblog-deploy-action
+https://github.com/cbrewster/nix-home
 https://github.com/ms/pass-extension-url

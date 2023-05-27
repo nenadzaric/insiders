@@ -1,4 +1,4 @@
 https://gist.githubusercontent.com/edwardzhou/4f5c17966bddb37646f7a0adcd939f0c/raw/02e8de4be0aad0577b9070ebb1d507d62bda107a/tasks.ex
 https://gist.githubusercontent.com/edwardzhou/7c29cf864942d71c12a48ecb39ad432e/raw/c9df4c308d1c270f4c9064dff52328e88a3f3bb4/import_and_export_telephones
-https://gist.githubusercontent.com/williamw/af70edb7baf6fd17e2e86982aa879edb/raw/68c612696c6a619cbfe585f574f5afcc529fe170/Binding-from-an-optional-nested-ObservableObject.swift
 https://gist.githubusercontent.com/williamw/743459/raw/d3099f822fd997a1f47eeda7e9deff4d803682fd/visio-macros
+https://gist.githubusercontent.com/williamw/af70edb7baf6fd17e2e86982aa879edb/raw/68c612696c6a619cbfe585f574f5afcc529fe170/Binding-from-an-optional-nested-ObservableObject.swift

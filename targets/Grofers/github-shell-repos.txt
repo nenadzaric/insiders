@@ -1,1 +1,6 @@
+https://github.com/PrayagS/dotfiles
+https://github.com/PrayagS/polybar-spotify
 https://github.com/atulkamble/Cloud
+https://github.com/rahulyadav170923/dotfiles
+https://github.com/shivam-kapila/dotfiles
+https://github.com/yuvraj9/Scripts

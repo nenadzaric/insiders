@@ -1,0 +1,9 @@
+https://github.com/Invision/Awesome-.NET
+https://github.com/Invision/Awesome-React
+https://github.com/Invision/Awesome-TypeScript
+https://github.com/Invision/Pterodactyl-Wings
+https://github.com/Invision/Pterodactyl-documentation
+https://github.com/Invision/React-Cheat-Sheet
+https://github.com/Invision/TypeScript-React-Starter
+https://github.com/Invision/chaosmonkey
+https://github.com/Invision/discord.ts

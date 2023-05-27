@@ -1,6 +1,13 @@
 https://github.com/ColinHebert/docker-xvfb
 https://github.com/ColinHebert/nas-compose
 https://github.com/ColinHebert/pia-openvpn
+https://github.com/Presto412/Go-Meetup-Fabric
+https://github.com/Presto412/Kafka-Fabric-Network
+https://github.com/asecurityteam/sdcli
+https://github.com/atlassian-archive/mosql-example
+https://github.com/atlassian-archive/redshift-pocs
+https://github.com/atlassian-labs/Compass-Orb
+https://github.com/atlassian-labs/jira-release-blocker
 https://github.com/awprice/SteamCache
 https://github.com/awprice/nginx-unit-php
 https://github.com/championballer/cleanser
@@ -9,6 +16,7 @@ https://github.com/d4rkr00t/SublimeSettings
 https://github.com/d4rkr00t/awesome-web-performance
 https://github.com/d4rkr00t/dotfiles
 https://github.com/d4rkr00t/pmm
+https://github.com/dsymonds/dotfiles
 https://github.com/elim/dotfiles
 https://github.com/elim/habitica-auto-quest-accepter
 https://github.com/featherbear/CTF2
@@ -20,6 +28,8 @@ https://github.com/featherbear/tcl-link
 https://github.com/featherbear/wrtbwmon
 https://github.com/harsilspatel/dotfiles
 https://github.com/harsilspatel/monarch-aerodynamics
+https://github.com/kwelch/dotfiles
+https://github.com/kwelch/install-analytics-test
 https://github.com/lucaslago/mongodb-scaling-example
 https://github.com/marcosscriven/chromebook-coreboot
 https://github.com/marcosscriven/galeforce

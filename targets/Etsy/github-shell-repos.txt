@@ -1,2 +1,6 @@
+https://github.com/cedricblondeau/ansible-role-h2o-docker-proxy-letsencrypt
+https://github.com/cedricblondeau/docker-letsencrypt-webroot
 https://github.com/kristopherkane/ansible-kafka
 https://github.com/kristopherkane/fedora-ansible
+https://github.com/kylegallatin/mysql-db-example
+https://github.com/macdoum1/ArraySafety

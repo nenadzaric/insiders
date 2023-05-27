@@ -1,1 +1,12 @@
+https://github.com/Matthbo/Ubuntu-scripts
+https://github.com/Vivyanne-504/altschool-cloud-exercise-8
 https://github.com/julien/git-get
+https://github.com/vivyir/Otobleak
+https://github.com/vivyir/compiled-asmimick
+https://github.com/vivyir/drivehash
+https://github.com/vivyir/hashtest
+https://github.com/vivyir/marchive-open-db
+https://github.com/vivyir/script-repo
+https://github.com/vivyir/trackergrab
+https://github.com/vivyles/auxillary-projects
+https://github.com/vivym/mc-server

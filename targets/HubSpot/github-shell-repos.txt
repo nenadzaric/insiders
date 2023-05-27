@@ -1,1 +1,16 @@
+https://github.com/AtaGowani/dotfiles
+https://github.com/HubSpot/netty-41
+https://github.com/HubSpot/pv
+https://github.com/HubSpot/virtualenvchdir
+https://github.com/ali/voltra-aur
 https://github.com/jamesdesmond/RPI-IP-Update-Notificiation
+https://github.com/lancewillett/dotfiles
+https://github.com/lanej/dotfiles
+https://github.com/nicksergeant/docker-nginx-lua
+https://github.com/nicksergeant/dokku-with-dbs
+https://github.com/nlaz/git-khaled
+https://github.com/ovflowd/do-you-miss-your-calendar-events
+https://github.com/ovflowd/dotfiles
+https://github.com/tlockney/home
+https://github.com/tlockney/workspace
+https://github.com/tlockney/workstation-config

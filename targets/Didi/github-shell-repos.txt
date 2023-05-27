@@ -1,1 +1,11 @@
+https://github.com/InspectorDidi/no-systemd
+https://github.com/d10r/ipfs-cdn-mapper
+https://github.com/didi/DAIBench
 https://github.com/didib/openshellmatrix
+https://github.com/didinj/grails3-mssqlserver-restful-api
+https://github.com/didinj/grails3-restapi-profile
+https://github.com/didip/mylinux
+https://github.com/didip/vagrant-go-docker
+https://github.com/didit-tech/VimSwitch
+https://github.com/didiwuliu/didiwuliu_web
+https://github.com/didiyun/cloud-image-scripts

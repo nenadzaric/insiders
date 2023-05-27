@@ -1,5 +1,5 @@
-https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/d765c90f5116c14005b639651c16a278a980c0fd/index.html
-https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/48f583e66dffa26a9e7d367a7e4fcc069bdff519/script.js
 https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/2795ee6f393ca8b9d8333ed0f596d0a2e25a41d1/scripts
-https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/aba9bf45ab36dabb1c1f20179984103b1454365d/style.scss
+https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/48f583e66dffa26a9e7d367a7e4fcc069bdff519/script.js
 https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/4d0949d6609e90d0c4dc661d5819587eac523631/wikipedia-audiovisualizer-p5-js-timbre-js.markdown
+https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/aba9bf45ab36dabb1c1f20179984103b1454365d/style.scss
+https://gist.githubusercontent.com/geisasantos/7b74c39f4e7b481bb0f88db12de39ccc/raw/d765c90f5116c14005b639651c16a278a980c0fd/index.html

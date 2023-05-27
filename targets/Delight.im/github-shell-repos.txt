@@ -1,0 +1,3 @@
+https://github.com/delight-im/2FA-Backup-Sheet
+https://github.com/delight-im/PHP-Foundation
+https://github.com/delight-im/Requests

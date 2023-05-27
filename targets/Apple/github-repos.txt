@@ -73,6 +73,7 @@ https://github.com/ApplETS/Modulo
 https://github.com/ApplETS/Modulo-Preview
 https://github.com/ApplETS/Notre-Dame
 https://github.com/ApplETS/Notre-Dame-Android
+https://github.com/ApplETS/Notre-Dame-Bug-report
 https://github.com/ApplETS/Notre-Dame-Whats-new-API
 https://github.com/ApplETS/Notre-Dame-v3
 https://github.com/ApplETS/Notre-Dame-v3-iOS
@@ -236,6 +237,20 @@ https://github.com/ApplePieGiraffe/social-proof-section
 https://github.com/ApplePieGiraffe/testimonials-grid-section
 https://github.com/ApplePieGiraffe/todo-app
 https://github.com/ApplePieGiraffe/travel-site-js
+https://github.com/AsahiLinux/AsahiLinux.github.io
+https://github.com/AsahiLinux/PKGBUILDs
+https://github.com/AsahiLinux/alsa-ucm-conf-asahi
+https://github.com/AsahiLinux/artwork
+https://github.com/AsahiLinux/asahi-alarm-builder
+https://github.com/AsahiLinux/asahi-calamares-configs
+https://github.com/AsahiLinux/asahi-installer
+https://github.com/AsahiLinux/asahi-scripts
+https://github.com/AsahiLinux/dcp-parser
+https://github.com/AsahiLinux/docs
+https://github.com/AsahiLinux/gpu
+https://github.com/AsahiLinux/m1n1
+https://github.com/AsahiLinux/macvdmtool
+https://github.com/AsahiLinux/u-boot
 https://github.com/Azoy/Echo
 https://github.com/Azoy/Jay
 https://github.com/Azoy/Sodium
@@ -637,6 +652,7 @@ https://github.com/apple-opensource/AppleK2SATA
 https://github.com/apple-opensource/AppleK2SATARoot
 https://github.com/apple-opensource/AppleKauaiATA
 https://github.com/apple-opensource/AppleKeyLargo
+https://github.com/apple-opensource/AppleKeyswitch
 https://github.com/apple-opensource/AppleKiwiATA
 https://github.com/apple-opensource/AppleKiwiRoot
 https://github.com/apple-opensource/AppleMESH
@@ -655,6 +671,7 @@ https://github.com/apple-opensource/ApplePS2Keyboard
 https://github.com/apple-opensource/ApplePS2Mouse
 https://github.com/apple-opensource/ApplePS2Trackpad
 https://github.com/apple-opensource/AppleRAID
+https://github.com/apple-opensource/AppleRS232Serial
 https://github.com/apple-opensource/AppleRTL8139Ethernet
 https://github.com/apple-opensource/AppleSCCSerial
 https://github.com/apple-opensource/AppleSMBIOS
@@ -777,11 +794,14 @@ https://github.com/apple-opensource/SMBClient
 https://github.com/apple-opensource/SULongDoubleCompat
 https://github.com/apple-opensource/Security
 https://github.com/apple-opensource/SecurityNssAsn1
+https://github.com/apple-opensource/SecurityNssPkcs12
+https://github.com/apple-opensource/SecurityNssSmime
 https://github.com/apple-opensource/SecurityTokend
 https://github.com/apple-opensource/SecurityTool
 https://github.com/apple-opensource/SharedIP
 https://github.com/apple-opensource/SmartCardServices
 https://github.com/apple-opensource/SmartcardCCID
+https://github.com/apple-opensource/SpamAssassin
 https://github.com/apple-opensource/SquirrelMail
 https://github.com/apple-opensource/Startup
 https://github.com/apple-opensource/SystemKEXT
@@ -806,12 +826,16 @@ https://github.com/apple-opensource/X11fonts
 https://github.com/apple-opensource/X11libs
 https://github.com/apple-opensource/X11misc
 https://github.com/apple-opensource/X11proto
+https://github.com/apple-opensource/X11server
 https://github.com/apple-opensource/adv_cmds
 https://github.com/apple-opensource/am_utils
+https://github.com/apple-opensource/amavisd
+https://github.com/apple-opensource/apache
 https://github.com/apple-opensource/apache1
 https://github.com/apple-opensource/apache2
 https://github.com/apple-opensource/apache_mod_bonjour
 https://github.com/apple-opensource/apache_mod_bw
+https://github.com/apple-opensource/apache_mod_dav
 https://github.com/apple-opensource/apache_mod_encoding2
 https://github.com/apple-opensource/apache_mod_fastcgi
 https://github.com/apple-opensource/apache_mod_hfs_apple
@@ -859,10 +883,13 @@ https://github.com/apple-opensource/configd_plugins
 https://github.com/apple-opensource/copyfile
 https://github.com/apple-opensource/coreTLS
 https://github.com/apple-opensource/cron
+https://github.com/apple-opensource/crontabs
 https://github.com/apple-opensource/cscope
 https://github.com/apple-opensource/cups
+https://github.com/apple-opensource/curl
 https://github.com/apple-opensource/cvs
 https://github.com/apple-opensource/cvs_wrapped
+https://github.com/apple-opensource/cxxfilt
 https://github.com/apple-opensource/dcerpc
 https://github.com/apple-opensource/developer_cmds
 https://github.com/apple-opensource/diffstat
@@ -900,6 +927,7 @@ https://github.com/apple-opensource/gcc_os_35
 https://github.com/apple-opensource/gcc_select
 https://github.com/apple-opensource/gccfast
 https://github.com/apple-opensource/gdb
+https://github.com/apple-opensource/gdbforcw
 https://github.com/apple-opensource/gimp_print
 https://github.com/apple-opensource/glibtool
 https://github.com/apple-opensource/gm4
@@ -907,6 +935,7 @@ https://github.com/apple-opensource/gnumake
 https://github.com/apple-opensource/gnuserv
 https://github.com/apple-opensource/gnutar
 https://github.com/apple-opensource/gnuzip
+https://github.com/apple-opensource/gpatch
 https://github.com/apple-opensource/gperf
 https://github.com/apple-opensource/gpt
 https://github.com/apple-opensource/graphviz
@@ -1048,6 +1077,7 @@ https://github.com/apple-opensource/ruby_dnssd
 https://github.com/apple-opensource/ruby_libxml
 https://github.com/apple-opensource/samba
 https://github.com/apple-opensource/screen
+https://github.com/apple-opensource/security_authtrampoline
 https://github.com/apple-opensource/security_certificates
 https://github.com/apple-opensource/security_certtool
 https://github.com/apple-opensource/security_crlrefresh
@@ -1070,6 +1100,7 @@ https://github.com/apple-opensource/system_cmds
 https://github.com/apple-opensource/system_config
 https://github.com/apple-opensource/tapi
 https://github.com/apple-opensource/tcl
+https://github.com/apple-opensource/tcp_wrappers
 https://github.com/apple-opensource/tcpdump
 https://github.com/apple-opensource/tcsh
 https://github.com/apple-opensource/texi2html
@@ -1084,6 +1115,7 @@ https://github.com/apple-opensource/vi
 https://github.com/apple-opensource/vim
 https://github.com/apple-opensource/volfs
 https://github.com/apple-opensource/webdavfs
+https://github.com/apple-opensource/wget
 https://github.com/apple-opensource/wxWidgets
 https://github.com/apple-opensource/xar
 https://github.com/apple-opensource/xelf
@@ -1103,6 +1135,7 @@ https://github.com/apple-oss-distributions/AppleADBDisplay
 https://github.com/apple-oss-distributions/AppleADBKeyboard
 https://github.com/apple-oss-distributions/AppleADBMouse
 https://github.com/apple-oss-distributions/AppleAPIC
+https://github.com/apple-oss-distributions/AppleBCM440XEthernet
 https://github.com/apple-oss-distributions/AppleBMacEthernet
 https://github.com/apple-oss-distributions/AppleCore99NVRAM
 https://github.com/apple-oss-distributions/AppleCore99PE
@@ -1138,6 +1171,7 @@ https://github.com/apple-oss-distributions/AppleMacRISC2PE
 https://github.com/apple-oss-distributions/AppleMacRISC4PE
 https://github.com/apple-oss-distributions/AppleMacRiscPCI
 https://github.com/apple-oss-distributions/AppleMediaBay
+https://github.com/apple-oss-distributions/AppleOnboardAudio
 https://github.com/apple-oss-distributions/AppleOnboardPCATA
 https://github.com/apple-oss-distributions/ApplePCCard16ATA
 https://github.com/apple-oss-distributions/ApplePCCardATA
@@ -1147,6 +1181,7 @@ https://github.com/apple-oss-distributions/ApplePS2Mouse
 https://github.com/apple-oss-distributions/ApplePS2Trackpad
 https://github.com/apple-oss-distributions/AppleRAID
 https://github.com/apple-oss-distributions/AppleRS232Serial
+https://github.com/apple-oss-distributions/AppleRTL8139Ethernet
 https://github.com/apple-oss-distributions/AppleSCCSerial
 https://github.com/apple-oss-distributions/AppleSMBIOS
 https://github.com/apple-oss-distributions/AppleSym8xx
@@ -1166,6 +1201,7 @@ https://github.com/apple-oss-distributions/CFNetwork
 https://github.com/apple-oss-distributions/CMD646ATA
 https://github.com/apple-oss-distributions/CPAN
 https://github.com/apple-oss-distributions/CPANInternal
+https://github.com/apple-oss-distributions/CarbonHeaders
 https://github.com/apple-oss-distributions/ChatServer
 https://github.com/apple-oss-distributions/Chess
 https://github.com/apple-oss-distributions/CommonCrypto
@@ -1218,6 +1254,7 @@ https://github.com/apple-oss-distributions/IOSCSIParallelFamily
 https://github.com/apple-oss-distributions/IOSerialFamily
 https://github.com/apple-oss-distributions/IOStorageFamily
 https://github.com/apple-oss-distributions/IOUSBFamily
+https://github.com/apple-oss-distributions/IOUSBMassStorageClass
 https://github.com/apple-oss-distributions/IPFirewall
 https://github.com/apple-oss-distributions/JBoss
 https://github.com/apple-oss-distributions/JavaScriptCore
@@ -1227,6 +1264,7 @@ https://github.com/apple-oss-distributions/KerberosHelper
 https://github.com/apple-oss-distributions/KerberosLibraries
 https://github.com/apple-oss-distributions/KeyLargoATA
 https://github.com/apple-oss-distributions/Libc
+https://github.com/apple-oss-distributions/Libcompat
 https://github.com/apple-oss-distributions/Libcpp_kext
 https://github.com/apple-oss-distributions/Libcurses
 https://github.com/apple-oss-distributions/Libinfo
@@ -1236,6 +1274,7 @@ https://github.com/apple-oss-distributions/Libnotify
 https://github.com/apple-oss-distributions/Librpcsvc
 https://github.com/apple-oss-distributions/Libstreams
 https://github.com/apple-oss-distributions/Libsystem
+https://github.com/apple-oss-distributions/Libwrappers
 https://github.com/apple-oss-distributions/Liby
 https://github.com/apple-oss-distributions/MITKerberosShim
 https://github.com/apple-oss-distributions/MySQL
@@ -1263,16 +1302,20 @@ https://github.com/apple-oss-distributions/SULongDoubleCompat
 https://github.com/apple-oss-distributions/Security
 https://github.com/apple-oss-distributions/SecurityNssAsn1
 https://github.com/apple-oss-distributions/SecurityNssPkcs12
+https://github.com/apple-oss-distributions/SecurityNssSmime
 https://github.com/apple-oss-distributions/SecurityTokend
 https://github.com/apple-oss-distributions/SecurityTool
 https://github.com/apple-oss-distributions/SharedIP
 https://github.com/apple-oss-distributions/SmartCardServices
 https://github.com/apple-oss-distributions/SmartcardCCID
 https://github.com/apple-oss-distributions/SpamAssassin
+https://github.com/apple-oss-distributions/SquirrelMail
 https://github.com/apple-oss-distributions/Startup
+https://github.com/apple-oss-distributions/SystemKEXT
 https://github.com/apple-oss-distributions/SystemStubs
 https://github.com/apple-oss-distributions/TargetConfig
 https://github.com/apple-oss-distributions/TimeZoneData
+https://github.com/apple-oss-distributions/Tokend
 https://github.com/apple-oss-distributions/Twisted
 https://github.com/apple-oss-distributions/TwistedWords
 https://github.com/apple-oss-distributions/TwistedXish
@@ -1553,6 +1596,7 @@ https://github.com/apple-oss-distributions/security_ocspd
 https://github.com/apple-oss-distributions/security_privportserver
 https://github.com/apple-oss-distributions/security_systemkeychain
 https://github.com/apple-oss-distributions/securityd
+https://github.com/apple-oss-distributions/sendmail
 https://github.com/apple-oss-distributions/shell_cmds
 https://github.com/apple-oss-distributions/smb
 https://github.com/apple-oss-distributions/srm
@@ -1773,6 +1817,7 @@ https://github.com/apple/swift-protobuf-test-conformance
 https://github.com/apple/swift-sample-distributed-actors-transport
 https://github.com/apple/swift-se0270-range-set
 https://github.com/apple/swift-se0288-is-power
+https://github.com/apple/swift-service-context
 https://github.com/apple/swift-service-discovery
 https://github.com/apple/swift-source-compat-suite
 https://github.com/apple/swift-standard-library-preview
@@ -2187,6 +2232,7 @@ https://github.com/appleopen/Libkvm
 https://github.com/appleopen/Libm
 https://github.com/appleopen/Libnotify
 https://github.com/appleopen/Librpcsvc
+https://github.com/appleopen/Libstreams
 https://github.com/appleopen/Libwrappers
 https://github.com/appleopen/Liby
 https://github.com/appleopen/MITKerberosShim
@@ -2231,6 +2277,7 @@ https://github.com/appleopen/Twisted
 https://github.com/appleopen/TwistedWords
 https://github.com/appleopen/TwistedXish
 https://github.com/appleopen/UserNotification
+https://github.com/appleopen/WTFEmbedded
 https://github.com/appleopen/WebInspectorUI
 https://github.com/appleopen/WebKit
 https://github.com/appleopen/WebKit2
@@ -2281,6 +2328,7 @@ https://github.com/appleopen/bmalloc
 https://github.com/appleopen/boot
 https://github.com/appleopen/bootp
 https://github.com/appleopen/bsdmake
+https://github.com/appleopen/bsdmanpages
 https://github.com/appleopen/bsm
 https://github.com/appleopen/bzip2
 https://github.com/appleopen/cc

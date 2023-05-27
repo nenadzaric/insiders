@@ -1,5 +1,8 @@
 https://github.com/ArSn
+https://github.com/Automattic
+https://github.com/Automattica
 https://github.com/DustyReagan
+https://github.com/GaryJones
 https://github.com/IrmaJakic
 https://github.com/Jinksi
 https://github.com/Luc45
@@ -20,6 +23,7 @@ https://github.com/alexflorisca
 https://github.com/alexmills
 https://github.com/allilevine
 https://github.com/alshakero
+https://github.com/andrewhayward
 https://github.com/andrewserong
 https://github.com/antonis
 https://github.com/apeatling
@@ -31,6 +35,7 @@ https://github.com/barryhughes
 https://github.com/beaulebens
 https://github.com/bor0
 https://github.com/brandonpayton
+https://github.com/brunobasto
 https://github.com/bummytime
 https://github.com/chihsuan
 https://github.com/chriszarate
@@ -58,6 +63,7 @@ https://github.com/eduardozulian
 https://github.com/ehg
 https://github.com/elazzabi
 https://github.com/enejb
+https://github.com/erwanlr
 https://github.com/fjorgemota
 https://github.com/flootr
 https://github.com/foosantos
@@ -67,6 +73,7 @@ https://github.com/geekygecko
 https://github.com/georgestephanis
 https://github.com/geriux
 https://github.com/gibrown
+https://github.com/gluecose
 https://github.com/hafizrahman
 https://github.com/hichamboushaba
 https://github.com/iandunn
@@ -85,6 +92,7 @@ https://github.com/jom
 https://github.com/jonathansadowski
 https://github.com/jorgeatorres
 https://github.com/jsnmoon
+https://github.com/justintadlock
 https://github.com/kathrynwp
 https://github.com/kevin940726
 https://github.com/khaykov
@@ -150,6 +158,7 @@ https://github.com/ryanmarkel
 https://github.com/ryelle
 https://github.com/scruffian
 https://github.com/sejas
+https://github.com/sgomes
 https://github.com/shiki
 https://github.com/simison
 https://github.com/sirbrillig
@@ -168,6 +177,7 @@ https://github.com/vindl
 https://github.com/wbrgss
 https://github.com/webgrrrl
 https://github.com/websupporter
+https://github.com/whyisjake
 https://github.com/wzieba
 https://github.com/xknown
 https://github.com/xristos3490

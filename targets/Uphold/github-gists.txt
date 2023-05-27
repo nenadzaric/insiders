@@ -1,9 +1,9 @@
-https://gist.githubusercontent.com/marcooliveira/fa5c31aded5b69c9c7deff5b73351729/raw/7ee61d874b4440cd7a84cc0a4ca45c539da5bf01/collaboration-lifecycle.md
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/3f63ee1a9f85df3569b278e66deef9c5ddd7e07e/twitter_update_with_media.coffee
-https://gist.githubusercontent.com/marcooliveira/10012552/raw/af987355acef916319bad75872fe91b7971e11b1/twitter_update_with_media.js
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/89c24b0eb2e4060f0222ff420fa9255bbc8dd3ec/usage.coffee
+https://gist.githubusercontent.com/marcooliveira/10012552/raw/af987355acef916319bad75872fe91b7971e11b1/twitter_update_with_media.js
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/f2836d3d5dce2b5a6db7bfd035decb4feca2e1cd/usage.js
-https://gist.githubusercontent.com/marcooliveira/9450482/raw/889d5a87ada678f986c07e5179419f11a18ccf8e/gistfile1.sh
 https://gist.githubusercontent.com/marcooliveira/2926925/raw/6db19d14ba4e731a3caf5f634079c43bc4d663fe/static_server.js
+https://gist.githubusercontent.com/marcooliveira/9450482/raw/889d5a87ada678f986c07e5179419f11a18ccf8e/gistfile1.sh
+https://gist.githubusercontent.com/marcooliveira/fa5c31aded5b69c9c7deff5b73351729/raw/7ee61d874b4440cd7a84cc0a4ca45c539da5bf01/collaboration-lifecycle.md
 https://gist.githubusercontent.com/ruimarinho/7f3e13a5856eda0cdad1276d4c25b46d/raw/50c5ee106c87ca15be28cd8426875819687f7752/gistfile1.txt
 https://gist.githubusercontent.com/ruimarinho/b351618603c729f74c24/raw/943a7d2048b98df647adc285af549049f5570d9f/keybase.md

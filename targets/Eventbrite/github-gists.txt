@@ -1,6 +1,6 @@
 https://gist.githubusercontent.com/alexrodriguez/1277971/raw/6288bad22635970ecc673f2897b2b57502fc9c89/gistfile1.rb
-https://gist.githubusercontent.com/kamalgill/5daf5650d70ee5e78173aa2589c48a57/raw/d49157eebaa2372a1f496d9432971eca6c9bbe2d/index.js
-https://gist.githubusercontent.com/kamalgill/5daf5650d70ee5e78173aa2589c48a57/raw/651089e1593b07b9ff0913abd6841adafeffda1a/package.json
 https://gist.githubusercontent.com/kamalgill/14dc00c43c3a75cde2f1222394b48c85/raw/4b1d92bf1e9bc77a4350f299af1f70bda4c60519/cors-xml-schema.rng.xml
-https://gist.githubusercontent.com/kamalgill/b1f682dbdc6d6df4d052/raw/dd1a70f380fbb6204f3a9e12bbdd54b56a5fc49a/cors.py
+https://gist.githubusercontent.com/kamalgill/5daf5650d70ee5e78173aa2589c48a57/raw/651089e1593b07b9ff0913abd6841adafeffda1a/package.json
+https://gist.githubusercontent.com/kamalgill/5daf5650d70ee5e78173aa2589c48a57/raw/d49157eebaa2372a1f496d9432971eca6c9bbe2d/index.js
 https://gist.githubusercontent.com/kamalgill/b1f682dbdc6d6df4d052/raw/d5b5be0b7395947f85d7c5e4b8a5ccdcccd1560b/web.py
+https://gist.githubusercontent.com/kamalgill/b1f682dbdc6d6df4d052/raw/dd1a70f380fbb6204f3a9e12bbdd54b56a5fc49a/cors.py

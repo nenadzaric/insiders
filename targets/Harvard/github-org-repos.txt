@@ -1,0 +1,7 @@
+https://github.com/harvard/EVPTP
+https://github.com/harvard/HOSE
+https://github.com/harvard/PGPTP
+https://github.com/harvard/cloudJHub
+https://github.com/harvard/cs
+https://github.com/harvard/de_id
+https://github.com/harvard/harvard.github.io

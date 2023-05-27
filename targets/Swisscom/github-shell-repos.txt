@@ -1,1 +1,17 @@
+https://github.com/SCS-CBU-CED-IAM/AIS
+https://github.com/SCS-CBU-CED-IAM/foldersigner-ais
+https://github.com/SwisscomTrustServices/AIS
+https://github.com/SwisscomTrustServices/foldersigner-ais
 https://github.com/lucab/ansible-zincati-marker-file
+https://github.com/mdemierre/dotfiles
+https://github.com/mdemierre/mdemierre-workstation
+https://github.com/mthambipillai/scripts_prog_python
+https://github.com/phaupt/aisworkshop
+https://github.com/phaupt/midworkshop
+https://github.com/scuzzilla/overlay_parser
+https://github.com/scuzzilla/sysrepo-netopeer2
+https://github.com/swisscom/ai-research-data-valuation-repository
+https://github.com/swisscom/gitlab-merge-request-resource
+https://github.com/swisscom/mac-fan
+https://github.com/swisscom/mongodb-enterprise-boshrelease
+https://github.com/swisscom/tomcat-external-configuration

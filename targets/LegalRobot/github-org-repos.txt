@@ -1,0 +1,5 @@
+https://github.com/LegalRobot/Algorithmic-Awareness
+https://github.com/LegalRobot/legalrobot-cli
+https://github.com/LegalRobot/mammoth.js
+https://github.com/LegalRobot/node-client
+https://github.com/LegalRobot/twofactorauth

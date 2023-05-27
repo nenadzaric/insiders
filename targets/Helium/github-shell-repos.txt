@@ -1,3 +1,10 @@
 https://github.com/EricGaona/hello-django2
-https://github.com/SvenBayer/sven-hammerdb-benchmark
+https://github.com/PaulVMo/helium-validator-deb
 https://github.com/SvenBayer/redhat-service
+https://github.com/SvenBayer/sven-hammerdb-benchmark
+https://github.com/allenan/docker-setup
+https://github.com/allenan/localdots
+https://github.com/helium18/bwake
+https://github.com/helium876/Kali-Sec-Tools
+https://github.com/heliumdatacommons/data-commons-workspace
+https://github.com/heliumdatacommons/irods-packages

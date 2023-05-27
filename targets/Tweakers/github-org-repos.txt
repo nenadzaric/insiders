@@ -1,0 +1,6 @@
+https://github.com/tweakers/Identicon
+https://github.com/tweakers/MockMock
+https://github.com/tweakers/objectpool-benchmarks
+https://github.com/tweakers/quickform
+https://github.com/tweakers/snowplow-php-tracker
+https://github.com/tweakers/symfony-service-mock

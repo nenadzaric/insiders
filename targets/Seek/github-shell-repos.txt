@@ -1,1 +1,15 @@
 https://github.com/daved/shound
+https://github.com/seek-for-android/pool
+https://github.com/seek-oss/aws-sm-buildkite-plugin
+https://github.com/seek-oss/create-ecr-buildkite-plugin
+https://github.com/seek-oss/datadog-event-buildkite-plugin
+https://github.com/seek-oss/docker-ecr-cache-buildkite-plugin
+https://github.com/seek-oss/docker-ecr-publish-buildkite-plugin
+https://github.com/seek-oss/github-merged-pr-buildkite-plugin
+https://github.com/seek-oss/npm-publish-buildkite-plugin
+https://github.com/seek-oss/package-publishing-buildkite-plugin
+https://github.com/seek-oss/private-npm-buildkite-plugin
+https://github.com/seek-oss/ssm-buildkite-plugin
+https://github.com/seek-oss/toolbox
+https://github.com/seek-ret/beanstalk-sh
+https://github.com/seek-ret/installation

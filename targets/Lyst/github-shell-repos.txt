@@ -1,1 +1,8 @@
+https://github.com/abdullahselek/facesearch
 https://github.com/jonasgreen/home
+https://github.com/maxisme/App-Deployment-Tools
+https://github.com/maxisme/Server-Monitor
+https://github.com/maxisme/amazon-bash
+https://github.com/maxisme/docker-time-machine
+https://github.com/maxisme/mega-create
+https://github.com/maxisme/rpi-radio

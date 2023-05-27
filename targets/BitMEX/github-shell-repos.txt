@@ -1,1 +1,6 @@
+https://github.com/BitMEXResearch/Parrot-Tweaks
+https://github.com/BitmexTrader/DotFiles
+https://github.com/STRML/docker-for-mac-socket-issue
 https://github.com/huynguyen/alpine-codespace-error
+https://github.com/yifan-gu/dotfiles
+https://github.com/yifan-gu/tls_rotate

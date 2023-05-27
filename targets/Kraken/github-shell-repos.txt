@@ -1,1 +1,7 @@
 https://github.com/beng/selfie
+https://github.com/codeinthehole/puppet-geodjango
+https://github.com/debjyotiC/BlackBand
+https://github.com/ismaelJimenez/.dotfiles
+https://github.com/ismaelJimenez/BitcoinEthereumRaspiNode
+https://github.com/krakendio/telemetry-dashboards
+https://github.com/zmitry/docker

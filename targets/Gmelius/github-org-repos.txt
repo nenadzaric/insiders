@@ -1,0 +1,5 @@
+https://github.com/gmelius/cordova-plugin-chooser
+https://github.com/gmelius/cordova-plugin-firebase
+https://github.com/gmelius/cordova-plugin-google-api
+https://github.com/gmelius/gmelius-getting-started-nodejs
+https://github.com/gmelius/node-gapi-resumable-upload

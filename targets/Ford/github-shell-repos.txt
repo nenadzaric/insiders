@@ -1,2 +1,15 @@
-https://github.com/michaelw/mediathek-dl
+https://github.com/Fordi/headlessly
+https://github.com/Fordi/install-kdiff3
+https://github.com/FordyceLab/cloud_scripts
+https://github.com/btford/allthethings
+https://github.com/btford/angular-bower-script
+https://github.com/btford/npm-nginx-cache
+https://github.com/btford/sublime-text-javascript
+https://github.com/ctford/subsume
+https://github.com/fordnox/flac2mp3
+https://github.com/fordnox/vagrant-aerospike
+https://github.com/fordream/myBash
+https://github.com/fordream/myzprezto
+https://github.com/ftrain/twitter-archive-to-maildir
 https://github.com/michaelw/leiningen-deb
+https://github.com/michaelw/mediathek-dl

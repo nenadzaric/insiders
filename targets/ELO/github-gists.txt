@@ -1,2 +1,2 @@
-https://gist.githubusercontent.com/joshdavidson/c73e4f3c318d0e73fbc732986ae8b69d/raw/498685485fccf14f94d7603b67b566959c78f5e3/resume.json
 https://gist.githubusercontent.com/joshdavidson/54ececfc4d51145c37d6cad66cc73922/raw/8e3bdeeac1f9d65e4762afcc7b7c229c7c37b256/example.sh
+https://gist.githubusercontent.com/joshdavidson/c73e4f3c318d0e73fbc732986ae8b69d/raw/498685485fccf14f94d7603b67b566959c78f5e3/resume.json

@@ -1,1 +1,10 @@
+https://github.com/HTCCM10/repo_update_tool
+https://github.com/HTCStarShip/htc_star_ship_rom
 https://github.com/JothiG/samplePod
+https://github.com/htc-msm8960/android_device_htc_m7att
+https://github.com/htcondor/htcondor_manylinux_docker
+https://github.com/osg-htc/user-school-2017
+https://github.com/osg-htc/user-school-2018
+https://github.com/osg-htc/user-school-2019
+https://github.com/osg-htc/user-school-2020
+https://github.com/osg-htc/virtual-school-pilot-2020

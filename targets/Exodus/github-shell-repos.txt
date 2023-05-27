@@ -1,1 +1,14 @@
+https://github.com/ExodusMovement/exodus-linux-installer
+https://github.com/ExodusOS/android_build-config
+https://github.com/ExodusOS/android_device_xiaomi_onclite
+https://github.com/ExodusOS/build-config
+https://github.com/ExodusOS/exodus_vendor_RomOTA
+https://github.com/Exodusnick/android_device_samsung_qcom-common_j5xnlte
+https://github.com/TeamExodus/device_motorola_msm8960-common
+https://github.com/TeamExodus/device_samsung_treltexx
+https://github.com/TeamExodus/device_xiaomi_cancro
+https://github.com/TeamExodus/vendor_exodus
+https://github.com/TeamExodus/vendor_vanir
+https://github.com/escapeCarthage/python
+https://github.com/exodusanto/plaravel-docker
 https://github.com/robinv/dynamic-ip-management

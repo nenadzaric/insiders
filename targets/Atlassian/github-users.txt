@@ -1,3 +1,5 @@
+https://github.com/Atlassian1989
+https://github.com/AtlassianPS
 https://github.com/Blasz
 https://github.com/Brianzchen
 https://github.com/Captain-Slippers
@@ -5,9 +7,16 @@ https://github.com/ColinHebert
 https://github.com/DanielHreben
 https://github.com/Jacobious52
 https://github.com/MariaPaulsen
+https://github.com/Presto412
 https://github.com/aelse
 https://github.com/ajaymathur
 https://github.com/alexytsu
+https://github.com/asecurityteam
+https://github.com/atlassian
+https://github.com/atlassian-api
+https://github.com/atlassian-archive
+https://github.com/atlassian-forks
+https://github.com/atlassian-labs
 https://github.com/awprice
 https://github.com/calebj0seph
 https://github.com/championballer
@@ -20,9 +29,12 @@ https://github.com/dagguh
 https://github.com/dbaxa
 https://github.com/detouched
 https://github.com/digitalpoetry
+https://github.com/dsymonds
+https://github.com/dtao
 https://github.com/dymv
 https://github.com/featherbear
 https://github.com/frinzekt
+https://github.com/gonchik
 https://github.com/gorakong
 https://github.com/gtdeng
 https://github.com/harshalmittal4
@@ -37,6 +49,7 @@ https://github.com/kamilziajka
 https://github.com/khell
 https://github.com/klauspaiva
 https://github.com/kusalk
+https://github.com/kwelch
 https://github.com/leandrowd
 https://github.com/lettertwo
 https://github.com/lucaslago
@@ -46,8 +59,11 @@ https://github.com/marcins
 https://github.com/marcosscriven
 https://github.com/mark-adams
 https://github.com/martokarski
+https://github.com/meandmax
+https://github.com/mehmetpekcan
 https://github.com/michalczukm
 https://github.com/mobeigi
+https://github.com/moveworkforward
 https://github.com/mustaphaturhan
 https://github.com/nanux
 https://github.com/nutboltu
@@ -61,9 +77,11 @@ https://github.com/shkleinik
 https://github.com/soneymathew
 https://github.com/sunnykgupta
 https://github.com/superchu
+https://github.com/thombergs
 https://github.com/timhor
 https://github.com/tur-nr
 https://github.com/vasyl-zubach
 https://github.com/vincentportella
+https://github.com/wbinnssmith
 https://github.com/zhuonanjiang
 https://github.com/zzarcon

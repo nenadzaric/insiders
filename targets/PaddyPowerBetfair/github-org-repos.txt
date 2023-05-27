@@ -1,0 +1,12 @@
+https://github.com/PaddyPowerBetfair/Cloud-Academy
+https://github.com/PaddyPowerBetfair/Option
+https://github.com/PaddyPowerBetfair/RabbitConsumer
+https://github.com/PaddyPowerBetfair/Splackup
+https://github.com/PaddyPowerBetfair/SpringSecuritySAMLKeysRollover
+https://github.com/PaddyPowerBetfair/Standards
+https://github.com/PaddyPowerBetfair/design.paddypower.com
+https://github.com/PaddyPowerBetfair/fabric
+https://github.com/PaddyPowerBetfair/intro-to-kubernetes
+https://github.com/PaddyPowerBetfair/rabbitmq-client
+https://github.com/PaddyPowerBetfair/shhbt
+https://github.com/PaddyPowerBetfair/vault-plugin-hydrant-pki

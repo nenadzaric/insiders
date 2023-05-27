@@ -1,1 +1,4 @@
 https://github.com/KenEucker/biketag-api
+https://github.com/Skasselbard/mara
+https://github.com/imGurpreetSK/mobile-dev-setup
+https://github.com/imgurnoor/scripts

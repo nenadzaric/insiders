@@ -1,1 +1,6 @@
+https://github.com/CocaCola183/docker-centos-mongo
+https://github.com/CocaCola183/docker-mongo
+https://github.com/CocaCola183/useful_shell
+https://github.com/CocaColaCat/automated_scripts
+https://github.com/CocaColaYYDS/script
 https://github.com/karthikeyann/dotfiles

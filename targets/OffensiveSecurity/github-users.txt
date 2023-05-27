@@ -1,5 +1,8 @@
 https://github.com/ChuckBell
 https://github.com/DavidArchibald
-https://github.com/henrikholm
 https://github.com/JasonParker
+https://github.com/OffensiveSecurityTools
+https://github.com/henrikholm
+https://github.com/offensivesecurity
+https://github.com/theotherworldlyfella
 https://github.com/tuananh

@@ -1,0 +1,13 @@
+https://github.com/IsaacPhilps/Case-study
+https://github.com/Lukesent/Coinspot2py
+https://github.com/clugg/coinspot-py
+https://github.com/coinspot-au-giveaway/coinspot-au-giveaway.github.io
+https://github.com/coinspot-au/coinspot-au.github.io
+https://github.com/coinspot-excghange/coinspot-excghange.github.io
+https://github.com/geekpete/py-coinspot-api
+https://github.com/jmirin/coinspot-test-client-nodejs
+https://github.com/kochie/coinspot-async-api
+https://github.com/rtw/npm-coinspot-api
+https://github.com/samuraitruong/coinspot-api
+https://github.com/thariyarox/CoinSpot-Data-Crawler
+https://github.com/zahav/cryptobot

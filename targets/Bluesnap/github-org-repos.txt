@@ -1,0 +1,12 @@
+https://github.com/bluesnap/BS-WordPress
+https://github.com/bluesnap/Checkout-page-examples
+https://github.com/bluesnap/Magento-1-
+https://github.com/bluesnap/Magento-2.1
+https://github.com/bluesnap/Magento-2.1-1
+https://github.com/bluesnap/Magento-modules
+https://github.com/bluesnap/api-resources
+https://github.com/bluesnap/bluesnap-android
+https://github.com/bluesnap/bluesnap-android-int
+https://github.com/bluesnap/bluesnap-ios-int
+https://github.com/bluesnap/bluesnap-ios-sdk
+https://github.com/bluesnap/payment-api-resources

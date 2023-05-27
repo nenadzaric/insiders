@@ -1,1 +1,10 @@
 https://github.com/adamm/hid-magicmouse-dkms
+https://github.com/hellobrian/dotfiles
+https://github.com/indeedassessments/heroku-buildpack-datadog
+https://github.com/indeedeng-alpha/grpcgen-docker
+https://github.com/indeedeng/imhotep-docker
+https://github.com/indeedeng/maven-publish
+https://github.com/indeedops/vault-rpm-rhel6
+https://github.com/kyzn/dot-files
+https://github.com/mbillow/dotfiles
+https://github.com/rjmoggach/dotfiles

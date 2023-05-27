@@ -1,1 +1,10 @@
+https://github.com/liyaodong/sdemo
+https://github.com/maximumbreak/terminal_setup_firstnaruto
+https://github.com/maximumstock/giphynator
+https://github.com/maximumtiu/dotfiles
+https://github.com/maximumtiu/install
 https://github.com/michaelt/streaming-tutorial
+https://github.com/sdleffler/insta-rados
+https://github.com/threeML/binder_env
+https://github.com/threeML/threeML-meta
+https://github.com/thundercore/public-full

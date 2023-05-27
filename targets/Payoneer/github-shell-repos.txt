@@ -1,2 +1,6 @@
-https://github.com/stefanbuck/test
+https://github.com/jdelic/12factor-readconfig-helper
+https://github.com/jdelic/salt37545
+https://github.com/jdelic/saltshaker
+https://github.com/jdelic/secureboot
 https://github.com/stefanbuck/action-playground
+https://github.com/stefanbuck/test

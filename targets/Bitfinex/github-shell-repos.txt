@@ -1,1 +1,3 @@
+https://github.com/bitfinexcom/bfx-svc-js
+https://github.com/bitfinexcom/bfx-util-js
 https://github.com/valenting/sublime-start

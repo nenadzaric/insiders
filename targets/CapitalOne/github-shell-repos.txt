@@ -1,1 +1,5 @@
+https://github.com/afnanenayet/afnan.io
+https://github.com/afnanenayet/logiops-aur
+https://github.com/capitalone/bash_shell_mock
+https://github.com/jason-riddle/dotfiles
 https://github.com/lukeblanchard/jekyll-shell-script

@@ -1,2 +1,2 @@
-https://gist.githubusercontent.com/pankajvashisht/d12abd87623e527873fa1e45e7cdd670/raw/e0bab2cf2d8c3482bfedc720c77f1c1f0d8890e6/php
 https://gist.githubusercontent.com/pankajvashisht/3970ddd8d8ba82f5cd7058f4607afbf7/raw/3492d3f574ecc0fc1ab46ccec12acb498355a885/we%20accept%20payment%20gate%20PhP%20step
+https://gist.githubusercontent.com/pankajvashisht/d12abd87623e527873fa1e45e7cdd670/raw/e0bab2cf2d8c3482bfedc720c77f1c1f0d8890e6/php

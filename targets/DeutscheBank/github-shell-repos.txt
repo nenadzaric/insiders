@@ -1,2 +1,4 @@
+https://github.com/dhruvio/aur_t-git
+https://github.com/pateash/bash
 https://github.com/saschalucas/ganeti-hook-grow-disk
 https://github.com/saschalucas/instance-guestfish

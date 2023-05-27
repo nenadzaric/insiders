@@ -1,1 +1,6 @@
+https://github.com/core-infra-svcs/dashboard-api-go
+https://github.com/hungtruong/GlassFart
 https://github.com/mohamedmagdy/odoo-pycharm-templates
+https://github.com/mrpaws/dockerfiles
+https://github.com/mrpaws/misc
+https://github.com/mrpaws/timelapse-push-service

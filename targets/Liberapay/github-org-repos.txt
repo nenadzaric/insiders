@@ -1,0 +1,10 @@
+https://github.com/liberapay/environment.py
+https://github.com/liberapay/git-lfs-fetch.py
+https://github.com/liberapay/liberapay-qt
+https://github.com/liberapay/liberapay.com
+https://github.com/liberapay/liberapay.org
+https://github.com/liberapay/openshift-cartridge-postgres
+https://github.com/liberapay/payment-cards.js
+https://github.com/liberapay/postgres.py
+https://github.com/liberapay/salon
+https://github.com/liberapay/specs

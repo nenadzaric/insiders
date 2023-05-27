@@ -1,2 +1,4 @@
+https://github.com/devrdias/nodes
 https://github.com/maciejszewczyk/wunderlist_bash
+https://github.com/oanda/oanda-shell
 https://github.com/patrickdano/polybar

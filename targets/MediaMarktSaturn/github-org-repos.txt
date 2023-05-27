@@ -1,0 +1,3 @@
+https://github.com/MediaMarktSaturn/.github
+https://github.com/MediaMarktSaturn/helm-charts
+https://github.com/MediaMarktSaturn/technolinator

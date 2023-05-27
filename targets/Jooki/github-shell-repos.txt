@@ -1,3 +1,8 @@
-https://github.com/willmoffat/regenboog-laptops
+https://github.com/Jookia/gituuids
+https://github.com/Jookia/linuxaudio_dualinput
+https://github.com/Jookie262/my-ubuntu-setup
+https://github.com/jookies/docker-jasmin-supervisor
+https://github.com/jookies/jasmin-packager
 https://github.com/willmoffat/dot-files
 https://github.com/willmoffat/netatmo-lastnight
+https://github.com/willmoffat/regenboog-laptops

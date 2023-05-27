@@ -1,1 +1,7 @@
+https://github.com/DTrejo/browncomputerscience.com
+https://github.com/acburdine/dotfiles
+https://github.com/acburdine/dotfiles-old
 https://github.com/ericlewis/weedlymenus
+https://github.com/stve/awesome-dropwizard
+https://github.com/stve/awesome-ratpack
+https://github.com/stve/old-dotfiles

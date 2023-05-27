@@ -1,1 +1,7 @@
+https://github.com/FGMEMBERS/L-159
 https://github.com/abhishekmishra/dockerfiles
+https://github.com/clauseHQ/hackathons
+https://github.com/clauseHQ/hyperledger-fabric-utils
+https://github.com/clauseggers/dotfiles
+https://github.com/clausewitzer/helloGit
+https://github.com/dclause/proxy_switch

@@ -1,0 +1,8 @@
+https://github.com/easyname/api
+https://github.com/easyname/aws-cli-docker
+https://github.com/easyname/contrib-helm-chart
+https://github.com/easyname/debops
+https://github.com/easyname/docker-powerdns
+https://github.com/easyname/helm-teamcity
+https://github.com/easyname/maildev-helm
+https://github.com/easyname/php-sdk

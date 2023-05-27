@@ -1,0 +1,2 @@
+https://github.com/kindredgroup/docker-gocd-agent
+https://github.com/kindredgroup/docker-gocd-server

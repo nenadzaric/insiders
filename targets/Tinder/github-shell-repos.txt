@@ -1,1 +1,8 @@
 https://github.com/igorsokolov/oh-my-zsh
+https://github.com/micahbenn/fish
+https://github.com/neilsarkar/swarm
+https://github.com/rounak/RJCircularCollectionViewLayout
+https://github.com/tejacques/dotfiles
+https://github.com/williamkapke/dotfiles
+https://github.com/williamkapke/heroku-buildpack-n
+https://github.com/williamkapke/heroku-buildpack-nvm

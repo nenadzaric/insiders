@@ -1,3 +1,8 @@
-https://github.com/ericzhu/spring_new_tech
+https://github.com/PlaidypusDev/mup-github-action
 https://github.com/ericzhu/learn-spring-boot
 https://github.com/ericzhu/spring-boot-booster
+https://github.com/ericzhu/spring_new_tech
+https://github.com/nathankot/fake-s3-docker
+https://github.com/nathankot/git-sketch
+https://github.com/plaid/core-exchange
+https://github.com/plaid/npmserve

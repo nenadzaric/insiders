@@ -1,1 +1,13 @@
+https://github.com/AmanWho101/0x02-shell_redirections
+https://github.com/AmanWho101/all_at_once
+https://github.com/AmanWho101/alx-pre_course
+https://github.com/AmanWho101/alx-system_engineering-devops
+https://github.com/AmanWho101/alx-zero_day
+https://github.com/AmanWho101/install_all_tools
+https://github.com/AmanWho101/nahamsec_bbht
+https://github.com/AmanWho101/nahamsec_recon_profile
+https://github.com/alph4byt3/bucketUploader
+https://github.com/alph4byt3/subrecon
 https://github.com/arthurp/jumpto
+https://github.com/dhtzs/FBLinkTester
+https://github.com/infosec-us-team/Immunefi-Bug-Bounty-Programs-Unofficial

@@ -1,1 +1,6 @@
 https://github.com/FadiAL/projectBuilder
+https://github.com/mod/cnfrc
+https://github.com/openware/cronjobs
+https://github.com/openware/images
+https://github.com/rubykube/kubernetes-resource
+https://github.com/rubykube/module-bash

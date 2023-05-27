@@ -1,1 +1,5 @@
+https://github.com/TeslaGov/gpkg-optimizer
+https://github.com/tesla-android/tesla-android-os
+https://github.com/tesla/book-tycho
+https://github.com/teslamint/openwrt-builder
 https://github.com/zhongchen/dataproc-kedro-demo

@@ -1,0 +1,8 @@
+https://github.com/deutschebank/Compliant-Financial-Infrastructure
+https://github.com/deutschebank/dbcore
+https://github.com/deutschebank/deutsche-bank-api-program
+https://github.com/deutschebank/mFAST-1
+https://github.com/deutschebank/maven
+https://github.com/deutschebank/plexus-interop
+https://github.com/deutschebank/spring-bot
+https://github.com/deutschebank/waltz

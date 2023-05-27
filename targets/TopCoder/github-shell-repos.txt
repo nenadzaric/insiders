@@ -1,1 +1,13 @@
+https://github.com/appirio-tech/arena-vm
+https://github.com/appirio-tech/dev-tools
+https://github.com/appirio-tech/docker-images-sup
 https://github.com/brianfitzgerald/minecraft-terraform
+https://github.com/topcoder-platform/autopilot-application
+https://github.com/topcoder-platform/challenges-logstash-conf
+https://github.com/topcoder-platform/ifx-sessioncount-check
+https://github.com/topcoder-platform/legacy-pacts-processor
+https://github.com/topcoder-platform/member-profile-processor
+https://github.com/topcoder-platform/member-stats-sync-lambda
+https://github.com/topcoder-platform/tc-deploy-scripts
+https://github.com/topcoder-platform/topcoder-standards
+https://github.com/topcoderinc/tcProjWrapper

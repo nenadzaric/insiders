@@ -1,0 +1,3 @@
+https://github.com/mobiledesres/Apple-system-fonts
+https://github.com/mobiledesres/Google-Sans-web-fonts
+https://github.com/mobiledesres/SF-Symbols

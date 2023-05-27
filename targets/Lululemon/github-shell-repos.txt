@@ -1,1 +1,2 @@
+https://github.com/michaelorionmcmanus/directory-servers
 https://github.com/ryane/ansible-crouton

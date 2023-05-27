@@ -1,4 +1,14 @@
+https://github.com/D-32/DMListener
+https://github.com/ScopeyNZ/bash-kickstart
 https://github.com/daniel-thompson/pinebook-pro-debian-installer
+https://github.com/daniel-thompson/toys
 https://github.com/daniel-thompson/ultraeasy
 https://github.com/daniel-thompson/vboot-update
-https://github.com/daniel-thompson/toys
+https://github.com/marriott-library/Automated-CI-Service
+https://github.com/rktjmp/systemd-reset-nic
+https://github.com/rktjmp/virt-up
+https://github.com/rktjmp/zsh-soup-prompt
+https://github.com/univ-of-utah-marriott-library-apple/802.1x_reconnect
+https://github.com/univ-of-utah-marriott-library-apple/bht_ui_demo
+https://github.com/univ-of-utah-marriott-library-apple/disable_sip
+https://github.com/univ-of-utah-marriott-library-apple/inventory_manager

@@ -1,1 +1,7 @@
+https://github.com/ng-alt/buildroot_support_extra
+https://github.com/ng-alt/libid3tag
+https://github.com/ng-alt/netstat-nat
+https://github.com/ng-alt/vendor_broadcom_buildroot_br-external
+https://github.com/ng-alt/wakelan
+https://github.com/nvdmedianl/unofficail-pterodactyl-install
 https://github.com/paul-chambers/asymmetric-raid-array

@@ -1,1 +1,2 @@
+https://github.com/Picsart-Academy-UI/scripts
 https://github.com/nickwells/shell.scripts

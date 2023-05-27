@@ -1,2 +1,8 @@
-https://github.com/nickgaski/hyperledger-fabric
+https://github.com/Kaleidophon/machine-zoo
+https://github.com/kaleidos-ventures/taiga-docker
+https://github.com/kaleidos/grails-my-malcom
+https://github.com/kaleidos/grails-urban-airship-api
+https://github.com/kaleidos/spacedeck-cloudron
+https://github.com/kaleidoscope-app/man-diff
 https://github.com/nickgaski/docker-peer
+https://github.com/nickgaski/hyperledger-fabric

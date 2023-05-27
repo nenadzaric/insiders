@@ -1,0 +1,14 @@
+https://github.com/upserve/CleanroomLogger
+https://github.com/upserve/PHPExcel
+https://github.com/upserve/aerosol
+https://github.com/upserve/docker-api
+https://github.com/upserve/dockly
+https://github.com/upserve/firestore-ios-sdk-frameworks
+https://github.com/upserve/foreman
+https://github.com/upserve/giraph
+https://github.com/upserve/honeybadger-php
+https://github.com/upserve/inv-lead-tracking
+https://github.com/upserve/oktadboto
+https://github.com/upserve/react-debounce-input
+https://github.com/upserve/sqstaskmaster
+https://github.com/upserve/uppend

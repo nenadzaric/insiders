@@ -1,1 +1,10 @@
+https://github.com/Nutanix-APJ/NHT
+https://github.com/Nutanix-APJ/Technologybootcamp
+https://github.com/ideadevice/k8petstore
+https://github.com/nutanix-japan/localhow
+https://github.com/nutanix/ntnx-api-cmdlet-help
+https://github.com/nutanix/solutions
+https://github.com/nutanixdev/nutanix-devstation
+https://github.com/nutanixdev/stateful-app_ocp_nutanix
+https://github.com/semk/alpine-docker-host
 https://github.com/thomashuber/debian-setup

@@ -1,1 +1,5 @@
 https://github.com/robinrosenberg/cev
+https://github.com/socrata-platform/simianarmy-docker
+https://github.com/socrata-platform/trafficserver-deb
+https://github.com/socrata/kibana
+https://github.com/socrata/socrata-py-walkthrough

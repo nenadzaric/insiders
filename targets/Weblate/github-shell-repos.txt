@@ -1,1 +1,6 @@
 https://github.com/HafidZiti/.bashrc
+https://github.com/PhieF/MiscConfig
+https://github.com/WeblateOrg/docker
+https://github.com/WeblateOrg/docker-compose
+https://github.com/WeblateOrg/meta
+https://github.com/WeblateOrg/scripts

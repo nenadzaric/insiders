@@ -1,3 +1,7 @@
-https://github.com/LuleD/alx-system_engineering-devops
 https://github.com/LuleD/alx-pre_course
+https://github.com/LuleD/alx-system_engineering-devops
 https://github.com/LuleD/alx-zero_day
+https://github.com/etojama/alx-system_engineering-devops
+https://github.com/etojama/alx-zero_day
+https://github.com/quantuminformation/aws-x-ray
+https://github.com/quantuminformation/my-configs

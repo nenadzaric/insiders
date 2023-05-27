@@ -1,2 +1,11 @@
+https://github.com/ericmigi/fastmac
 https://github.com/evandrodutra/dotfiles
 https://github.com/evandrodutra/heroku-buildpack-nginx-pagespeed
+https://github.com/migmartri/helm-hack-night-charts
+https://github.com/ycombinator/DbMigrations
+https://github.com/ycombinator/dotfiles
+https://github.com/ycombinator/ePortfolio
+https://github.com/ycombinator/funny-commit-messages
+https://github.com/ycombinator/louisville-open-data-demo
+https://github.com/ycombinator/php-opencloud-samples
+https://github.com/ycombinator/random_log_generator

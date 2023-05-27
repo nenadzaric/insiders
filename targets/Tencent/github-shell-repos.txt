@@ -1,1 +1,17 @@
+https://github.com/FrankFang/dot-files
+https://github.com/FrankFang/oh-my-docker
+https://github.com/FrankFang/oh-my-docker-for-rust
+https://github.com/FrankFang/oh-my-docker-m1
+https://github.com/FrankFang/ubuntu-dotfiles
+https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-cos
+https://github.com/TencentBlueKing/bk-install
+https://github.com/TencentCloud/cli-action
+https://github.com/TencentCloudBase/cloudbase-action
+https://github.com/TencentCloudBase/pai-mate-hello-example-py
 https://github.com/franklai/rust-tools
+https://github.com/tencentmusic/qqmusic-innovocation-openapi-sdk-android-demo
+https://github.com/tencentyun/cos-ranger-service
+https://github.com/tencentyun/tcaplusdb-restapi-examples
+https://github.com/youngyangyang04/LinuxEnvConfig
+https://github.com/youngyangyang04/PowerSqlgen
+https://github.com/youngyangyang04/leetcode-master

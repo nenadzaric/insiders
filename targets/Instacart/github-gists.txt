@@ -1,2 +1,2 @@
-https://gist.githubusercontent.com/jackbutler/9e27aac220830183ca6c351ca04be0b9/raw/caad2ad353e3c8232e70baa45d9718cfbb094d06/es-bulk-index-movies
 https://gist.githubusercontent.com/jackbutler/34f09cb8ce4897473479ab59017d34a9/raw/82af462c26046ab9665fe1cf4036e4ee0ab447b0/keybase.md
+https://gist.githubusercontent.com/jackbutler/9e27aac220830183ca6c351ca04be0b9/raw/caad2ad353e3c8232e70baa45d9718cfbb094d06/es-bulk-index-movies

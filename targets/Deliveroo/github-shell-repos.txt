@@ -1,1 +1,7 @@
 https://github.com/aashirjaved/bash-images-filter
+https://github.com/deliveroo/bitrise-step-github-script-runner
+https://github.com/deliveroo/heroku-buildpack-pgbouncer-no-stunnel
+https://github.com/deliveroo/heroku-buildpack-tsung
+https://github.com/deliveroo/nginx-sidecar
+https://github.com/gregbeech/dotfiles
+https://github.com/gregbeech/elgato-keylight

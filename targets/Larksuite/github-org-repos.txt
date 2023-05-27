@@ -1,0 +1,17 @@
+https://github.com/larksuite/SDMagicHook
+https://github.com/larksuite/appframework-java
+https://github.com/larksuite/appframework-java-example
+https://github.com/larksuite/botframework-go
+https://github.com/larksuite/feishu
+https://github.com/larksuite/jsonpath
+https://github.com/larksuite/lark-samples
+https://github.com/larksuite/node-sdk
+https://github.com/larksuite/oapi-sdk-gin
+https://github.com/larksuite/oapi-sdk-go
+https://github.com/larksuite/oapi-sdk-java
+https://github.com/larksuite/oapi-sdk-java-ext
+https://github.com/larksuite/oapi-sdk-nodejs
+https://github.com/larksuite/oapi-sdk-python
+https://github.com/larksuite/perf-monitor-rs
+https://github.com/larksuite/rsmpeg
+https://github.com/larksuite/tarojs-plugin-platform-lark

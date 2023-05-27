@@ -1,6 +1,6 @@
 https://gist.githubusercontent.com/christophercurley/a48b4611532fb537b6d562095a5e0f38/raw/1ea254a0f9b997849f51370f880aea0fc9ad569f/resume.json
-https://gist.githubusercontent.com/fanglinliu/7c412e605426b48c2843c10fbc6486c4/raw/5e0a0643b7cb55340a857802d6e5d7e7e2c0ed4f/convertAyncMethodtoSyncMethod.swift
 https://gist.githubusercontent.com/fanglinliu/1ee2f120487a8ad2bcf4efb86b15a40b/raw/372b984ee73acc7645455c9eb7797392358ef4cb/SynchronouslyCallAsyncMethod.swift
-https://gist.githubusercontent.com/franktisellano/da6134c5826046ca2bff/raw/d5ec0600e5fa392239fee7620f3e54f05bb92029/keybase.md
+https://gist.githubusercontent.com/fanglinliu/7c412e605426b48c2843c10fbc6486c4/raw/5e0a0643b7cb55340a857802d6e5d7e7e2c0ed4f/convertAyncMethodtoSyncMethod.swift
 https://gist.githubusercontent.com/franktisellano/292171fcca7094422834/raw/2b9c02cadbfc65f7baa170619a36029f84b158b7/gistfile1.js
 https://gist.githubusercontent.com/franktisellano/6756747/raw/a15ab74bcf2a54438b2ce78e88f229ae3aca7d7f/gistfile1.txt
+https://gist.githubusercontent.com/franktisellano/da6134c5826046ca2bff/raw/d5ec0600e5fa392239fee7620f3e54f05bb92029/keybase.md

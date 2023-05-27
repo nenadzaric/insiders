@@ -1,2 +1,4 @@
+https://github.com/SandroMachado/xcassetsutils
+https://github.com/hpereira98/QAVID19_crawler
 https://github.com/ruimarinho/docker-mosquitto
 https://github.com/ruimarinho/dotfiles

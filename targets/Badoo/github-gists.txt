@@ -1,2 +1,2 @@
-https://gist.githubusercontent.com/philc/ed70ae4e60062c2d494fae97d5da43ce/raw/a8362d30600e1e2b71241dbe6832dcbf8a168e70/init.lua
 https://gist.githubusercontent.com/philc/e849b48e6c5f32592d62/raw/f1b88969717bde4b36c0b1ecd6ea1b6c5c07f7f5/gistfile1.sh
+https://gist.githubusercontent.com/philc/ed70ae4e60062c2d494fae97d5da43ce/raw/a8362d30600e1e2b71241dbe6832dcbf8a168e70/init.lua

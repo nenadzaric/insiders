@@ -1,0 +1,7 @@
+https://github.com/RAZERZ/pwnpi
+https://github.com/RaZer/dotfiles
+https://github.com/Razer6/dotfiles
+https://github.com/RazerM/sqlalchemy-wheels
+https://github.com/RazerRom/vendor_razer
+https://github.com/openrazer/OBS-packaging
+https://github.com/razertory/simple-chat-room

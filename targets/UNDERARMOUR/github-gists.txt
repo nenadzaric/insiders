@@ -1,5 +1,5 @@
 https://gist.githubusercontent.com/alexwasner/e658ba3f2021711626c6e7d78870ce96/raw/b62c7eac3e8166e6413dda3e1aa9ebac8da43f53/gistfile1.txt
-https://gist.githubusercontent.com/tonyzhu/4bc10bee9f011f4f4ba278d67f179688/raw/d1d118a17a8c2ac805e70dbfedaf75399e57d920/mongo_index.js
 https://gist.githubusercontent.com/tonyzhu/2f30282e6072cbc7d13d58ec0a38bfdc/raw/02fc57a9d826d952bbcb151ea09f9974c133669b/wechat-useragent.js
-https://gist.githubusercontent.com/tonyzhu/8399d8664cf54a462f2c/raw/adc714a7c4827d2ed873b05759cc836328ceec51/nginx
+https://gist.githubusercontent.com/tonyzhu/4bc10bee9f011f4f4ba278d67f179688/raw/d1d118a17a8c2ac805e70dbfedaf75399e57d920/mongo_index.js
 https://gist.githubusercontent.com/tonyzhu/7003292/raw/f5f6a48cf6b693adc5e05880f8215885cf1a80e5/ubuntu_setup.sh
+https://gist.githubusercontent.com/tonyzhu/8399d8664cf54a462f2c/raw/adc714a7c4827d2ed873b05759cc836328ceec51/nginx

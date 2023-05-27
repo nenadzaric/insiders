@@ -1,0 +1,5 @@
+https://github.com/core/cachecore
+https://github.com/core/hardcore
+https://github.com/core/httpcore
+https://github.com/core/uricore
+https://github.com/core/wsgicore

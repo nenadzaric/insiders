@@ -1,0 +1,8 @@
+https://github.com/takeaway/bob-challenge-employee-service
+https://github.com/takeaway/bob-challenge-event-service
+https://github.com/takeaway/codemotion
+https://github.com/takeaway/hacktoberfest
+https://github.com/takeaway/python-sensor
+https://github.com/takeaway/scoober-fe-challenge-starter
+https://github.com/takeaway/spring-cloud-stream-examples
+https://github.com/takeaway/takeaway.github.io

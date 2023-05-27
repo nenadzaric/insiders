@@ -1,0 +1,2 @@
+https://github.com/GenasysTechnologies/Delphi-XmlLite
+https://github.com/GenasysTechnologies/ng-data-binding-dojo-challenge

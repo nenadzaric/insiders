@@ -1,2 +1,4 @@
 https://github.com/JoshuaKing/SimplifyConfig
+https://github.com/jonathanbranam/dotfiles-local
+https://github.com/lifeomic/okta-aws-cli-assume-role-builder
 https://github.com/virdesai/AWS-VPCS-Tree-Traversal

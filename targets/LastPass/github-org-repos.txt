@@ -1,0 +1,10 @@
+https://github.com/lastpass/confluence-saml
+https://github.com/lastpass/generic-password-app-extension
+https://github.com/lastpass/jira-saml
+https://github.com/lastpass/joomla-saml
+https://github.com/lastpass/lastpass-cli
+https://github.com/lastpass/lp-aws-saml
+https://github.com/lastpass/openam-auth-module
+https://github.com/lastpass/openam-auth-node
+https://github.com/lastpass/saml-sdk-java
+https://github.com/lastpass/uwp-systray

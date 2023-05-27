@@ -1,0 +1,9 @@
+https://github.com/SendCloud/SendCloud-API-PHP-Wrapper
+https://github.com/SendCloud/api-integration-example
+https://github.com/SendCloud/django-dramatiq-email
+https://github.com/SendCloud/mapbox-sdk-py
+https://github.com/SendCloud/prestashop-thirtybees-module
+https://github.com/SendCloud/python-amazon-sp-api
+https://github.com/SendCloud/salesforce-b2c-commerce-cartridge
+https://github.com/SendCloud/sendcloud
+https://github.com/SendCloud/spp-integration-example

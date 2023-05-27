@@ -1,2 +1,9 @@
+https://github.com/SwiftAOSP/sw_device_qcom_sepolicy
+https://github.com/SwiftAOSP/sw_vendor_swift
+https://github.com/TheAmalShibu/Amal-nome
+https://github.com/fastruby/setup
+https://github.com/marigold-dev/tezos-nodes-setup
 https://github.com/sriprasanna/alfresco-docker
 https://github.com/sriprasanna/arch-setup
+https://github.com/upgradeadvice/MonetaryUnit-Azure
+https://github.com/upgradeadvice/mue-rpm

@@ -1,2 +1,14 @@
+https://github.com/joninvski/fluxbox
+https://github.com/joninvski/git_tutorial
+https://github.com/joninvski/zsh
+https://github.com/kavalerov/ably_dummy_data
+https://github.com/onfido/code-club
+https://github.com/onfido/k8s-aws-autoscaler
+https://github.com/onfido/k8s-cleanup
+https://github.com/onfido/k8s-node-check
+https://github.com/onfido/k8s-rabbit-pod-autoscaler
+https://github.com/sardaukar/cursorsPosy
+https://github.com/sardaukar/synchronet-docker
+https://github.com/sardaukar/tailscale-systray-git
 https://github.com/sergiomartins8/jenkins-k8s-minikube
 https://github.com/sergiomartins8/jenkins-k8s-nfs-dynamic-provisioner

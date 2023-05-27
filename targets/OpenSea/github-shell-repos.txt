@@ -1,6 +1,13 @@
-https://github.com/sergeylukin/dotfiles-xfce
-https://github.com/sergeylukin/rtorrent-spritzer
+https://github.com/OpenSeaMap/garmin
+https://github.com/OpenSeaMap/osm-tileserver
+https://github.com/miukki/vagrant_project_canvas
+https://github.com/opensean/s3fs-sidecar
+https://github.com/opensearch-project/dashboards-docker-images
+https://github.com/opensearch-project/docker-images
+https://github.com/opensearch-project/project-meta
 https://github.com/sergeylukin/cfgmock
+https://github.com/sergeylukin/dotfiles-xfce
 https://github.com/sergeylukin/netwalk-cordova
 https://github.com/sergeylukin/npmlock.sh
 https://github.com/sergeylukin/render-debug-scenario
+https://github.com/sergeylukin/rtorrent-spritzer

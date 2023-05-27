@@ -1,0 +1,5 @@
+https://github.com/nextiva/flow.lib.scheduling
+https://github.com/nextiva/jackal
+https://github.com/nextiva/krolib
+https://github.com/nextiva/nextkala
+https://github.com/nextiva/nextkala-java-agent

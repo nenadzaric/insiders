@@ -1,2 +1,7 @@
 https://github.com/trongthanh/geany-osx-essentials
 https://github.com/trongthanh/ubuntu-vi-ibus-setup
+https://github.com/vngcloud/vmonitor-metrics-agent
+https://github.com/vngcloud/vmonitor-uptime-agent
+https://github.com/vnghia/dotfiles
+https://github.com/vnghia/font-changer-mali
+https://github.com/vngrv/bash

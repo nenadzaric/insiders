@@ -1,1 +1,15 @@
+https://github.com/PaytmLabs/aws-s3-uploader
 https://github.com/harshpatil/misc
+https://github.com/khannavidur/BashScripting
+https://github.com/khannavidur/Bash_Yoda
+https://github.com/khannavidur/gitHooks
+https://github.com/shashank-ssriva/FileSizeCalc
+https://github.com/shashank-ssriva/Kubernetes-Secrets-Copier
+https://github.com/shashank-ssriva/Linux-Server-HTML-Health-Report-Using-Shell-Script
+https://github.com/shashank-ssriva/RemovePDFPassword
+https://github.com/shashank-ssriva/Shell2HTML
+https://github.com/shashank-ssriva/ola-cabs-total-fare-calculator
+https://github.com/shashank-ssriva/whiteSpaceRemover
+https://github.com/taranjeet/dotfiles
+https://github.com/taranjeet/reference
+https://github.com/taranjeet/utility-scripts

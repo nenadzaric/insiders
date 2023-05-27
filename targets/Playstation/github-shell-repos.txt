@@ -1,3 +1,12 @@
+https://github.com/PSP-Archive/Pang
+https://github.com/PSP-Archive/libsidplay
+https://github.com/ProLoser/Battlefield-2--Dam-Warfare
+https://github.com/diogoab/Docker
+https://github.com/diogoab/Teste_Morpheus
+https://github.com/diogoab/devops
+https://github.com/diogoab/info
+https://github.com/diogoab/samba4easy
 https://github.com/jasonwhite/jfish
-https://github.com/thomaslee/haiku-helloworld
+https://github.com/ps2homebrew/Open-PS2-Loader-Compatibility-list
 https://github.com/thomaslee/autotools-tutorial
+https://github.com/thomaslee/haiku-helloworld

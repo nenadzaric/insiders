@@ -1,1 +1,8 @@
+https://github.com/Zilliqa/scilla-workshop
+https://github.com/Zilliqa/zilliqa-isolated-server
 https://github.com/elliottgreen/slack-wtf-bot-acronyms
+https://github.com/mauromedda/devops-workspace
+https://github.com/mauromedda/ja-ansible-examples
+https://github.com/ramisra/my_bash
+https://github.com/ramisra/trading-engine
+https://github.com/zilliqa-hw/docs

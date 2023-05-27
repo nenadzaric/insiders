@@ -1,3 +1,12 @@
 https://github.com/PrayagS/polybar-spotify
+https://github.com/Zomato/android-lib-release-action
+https://github.com/agrim123/dotfiles
+https://github.com/agrim123/scripts
+https://github.com/championswimmer/CodingPractice
+https://github.com/championswimmer/device_sony_honami
+https://github.com/championswimmer/judge-workers
+https://github.com/championswimmer/oh-my-zsh
+https://github.com/championswimmer/tmobile_themechoser_template
+https://github.com/championswimmer/universal-linux-installer
 https://github.com/tronku/libPublish
 https://github.com/yuvraj9/Scripts

@@ -1,0 +1,12 @@
+https://github.com/mujs/dom
+https://github.com/mujs/dom.events
+https://github.com/mujs/fn
+https://github.com/mujs/fungi
+https://github.com/mujs/is
+https://github.com/mujs/list
+https://github.com/mujs/module
+https://github.com/mujs/module.umdify
+https://github.com/mujs/mujs
+https://github.com/mujs/object
+https://github.com/mujs/task
+https://github.com/mujs/tree

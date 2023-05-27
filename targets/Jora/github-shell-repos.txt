@@ -1,1 +1,8 @@
 https://github.com/dyadyaJora/fs-require-test
+https://github.com/jorainer/install_scripts
+https://github.com/richardneililagan/.brewfiles
+https://github.com/richardneililagan/dtx-simfile-catalog
+https://github.com/richardneililagan/kat.sh
+https://github.com/richardneililagan/pi-camera-bootstrap
+https://github.com/richardneililagan/wordpress-php-ec2-bootstrap
+https://github.com/richardneililagan/workshop-containers-kubernetes-eks-101

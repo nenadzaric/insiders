@@ -1,8 +1,8 @@
-https://gist.githubusercontent.com/adityasrivastava/8c5cf1307a52aeab7345285a1d91d251/raw/4e0f578cd52e671857dc2da0d938f1616f25da90/jaxb-maven-stub.xml
+https://gist.githubusercontent.com/ChrisCooper/3238a39dc6431a0d19bc0fd2a9a5d40c/raw/280e97702ba8ad52d9b055553c9c6d35992290a5/new_ssh_machine.sh
+https://gist.githubusercontent.com/ChrisCooper/3922883/raw/d83e12a9192a9d990bb87ced09253f5168a845da/bayesian_integration.py
+https://gist.githubusercontent.com/ChrisCooper/cab2f62ed7ec042f33e7365dbed8ed2c/raw/322f09c1cc98dd9677d5381074107418fa149c16/Flexible-search-CSV-export-bookmarklet.md
 https://gist.githubusercontent.com/adityasrivastava/3531129a2e0e6a5b3143ebb260eb3d46/raw/c267455e6fcfbf2f874a57bc573279a83c9c3afc/AddImageToPDF.java
 https://gist.githubusercontent.com/adityasrivastava/3531129a2e0e6a5b3143ebb260eb3d46/raw/e8135ff258b1b5b6178e8e2abe9702f2456e5d7f/ScaleImage.java
 https://gist.githubusercontent.com/adityasrivastava/5d2ab3506d4bbd79f8ef/raw/463222642a919aeafb639038345df1abe261137d/Question1
 https://gist.githubusercontent.com/adityasrivastava/5d2ab3506d4bbd79f8ef/raw/96d7ad91b2c58d8a1884cb2b53560653561d6d4d/Question2
-https://gist.githubusercontent.com/ChrisCooper/3238a39dc6431a0d19bc0fd2a9a5d40c/raw/280e97702ba8ad52d9b055553c9c6d35992290a5/new_ssh_machine.sh
-https://gist.githubusercontent.com/ChrisCooper/cab2f62ed7ec042f33e7365dbed8ed2c/raw/322f09c1cc98dd9677d5381074107418fa149c16/Flexible-search-CSV-export-bookmarklet.md
-https://gist.githubusercontent.com/ChrisCooper/3922883/raw/d83e12a9192a9d990bb87ced09253f5168a845da/bayesian_integration.py
+https://gist.githubusercontent.com/adityasrivastava/8c5cf1307a52aeab7345285a1d91d251/raw/4e0f578cd52e671857dc2da0d938f1616f25da90/jaxb-maven-stub.xml

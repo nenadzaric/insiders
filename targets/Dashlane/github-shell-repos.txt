@@ -1,1 +1,3 @@
 https://github.com/robastel/fish_config
+https://github.com/statox/docker-seedbox
+https://github.com/statox/setup

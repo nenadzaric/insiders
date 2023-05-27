@@ -1,1 +1,17 @@
+https://github.com/Oros42/CustomDebian
+https://github.com/Oros42/CustomDebianSetup
+https://github.com/Oros42/IP-count.ries
+https://github.com/Oros42/RHSync
+https://github.com/Oros42/checkemailexists
+https://github.com/Oros42/dropWindowsPwd
+https://github.com/Oros42/dwlive
+https://github.com/Oros42/github_backup
+https://github.com/Oros42/hubic_gpg
+https://github.com/Oros42/mixcloud-dl
 https://github.com/michaeljones/splash-cards
+https://github.com/orodio/dotfiles
+https://github.com/oroinc/docker-build
+https://github.com/oroinc/environment
+https://github.com/oroszgy/dev-env
+https://github.com/orozcohsu/docker-cluster-hadoop
+https://github.com/orozcohsu/docker-hadoop-capacity

@@ -1,1 +1,17 @@
 https://github.com/ColinKennedy/rez-scripts
+https://github.com/FIGLAB/FastAccel
+https://github.com/FigBug/ProjucerOnDemand
+https://github.com/FigBug/SocaLabs
+https://github.com/Figma-Linux/figma-linux-aur
+https://github.com/Figma-Linux/figma-linux-docker
+https://github.com/brendanfalk/pin-prompt
+https://github.com/fightingtheboss/fed-dev-box
+https://github.com/figma/plugin-typings
+https://github.com/figma/widget-typings
+https://github.com/figment-networks/gh-tag-action
+https://github.com/figment-networks/tezos-batch-payments
+https://github.com/figozhang/build_debian_for_raspberry
+https://github.com/withfig/config
+https://github.com/withfig/dotfiles
+https://github.com/withfig/features
+https://github.com/withfig/proto-api

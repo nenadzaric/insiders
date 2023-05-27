@@ -1,0 +1,3 @@
+https://github.com/Ford/AVData
+https://github.com/Ford/HDRDataset
+https://github.com/Ford/open-data-registry

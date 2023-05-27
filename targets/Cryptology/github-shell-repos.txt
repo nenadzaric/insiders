@@ -1,1 +1,8 @@
+https://github.com/RAZERZ/pwnpi
+https://github.com/cr-marcstevens/homepage
+https://github.com/dohmatob/minimal_distcorr
+https://github.com/dohmatob/vizu
 https://github.com/muratyarali/github-actions
+https://github.com/musaprg/blog
+https://github.com/musaprg/cluster-api-kubelet-config-examples
+https://github.com/wownmedia/qredit-commander

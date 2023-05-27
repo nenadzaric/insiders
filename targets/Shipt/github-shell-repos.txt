@@ -1,2 +1,5 @@
-https://github.com/alexjwong/dotfiles
 https://github.com/BrianMorris/dockerPipeRDS
+https://github.com/alexjwong/dotfiles
+https://github.com/shiptest-ami-master/servicestest_u14all
+https://github.com/shiptest-ami-master/servicestest_u16all
+https://github.com/wshirey/growl.loggingscripts

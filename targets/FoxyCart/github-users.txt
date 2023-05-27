@@ -1,3 +1,5 @@
+https://github.com/FoxyCart
+https://github.com/VladimirSerov
 https://github.com/adeelfiaz
 https://github.com/balajip
 https://github.com/brettflorio
@@ -6,5 +8,4 @@ https://github.com/gauravmishra
 https://github.com/kimstephens
 https://github.com/lukestokes
 https://github.com/monicaSmith
-https://github.com/VladimirSerov
 https://github.com/yanncam

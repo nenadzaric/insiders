@@ -1,1 +1,11 @@
+https://github.com/Ovoda/mac_setup
+https://github.com/flipace/docker-dev
+https://github.com/liuran001/GJZS
+https://github.com/liuran001/GJZS-old
+https://github.com/liuran001/GJZS_Cloud
+https://github.com/liuran001/Lanzou_DirectLink_sh
+https://github.com/liuran001/openwrt-packages_action
 https://github.com/ovoovo/1
+https://github.com/ovotech/circleci-orbs
+https://github.com/ovotech/cloud_sql_backup
+https://github.com/xiya233/bbr2

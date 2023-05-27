@@ -1,1 +1,5 @@
+https://github.com/cheetosysst/ArchScript
+https://github.com/redbull05689/HW30-mysqlbackup
+https://github.com/redbull05689/HW31-MysqlCluster
+https://github.com/redbull05689/rebrain_postgres
 https://github.com/scottedwards/my-nativefier-apps

@@ -1,8 +1,15 @@
 https://github.com/AlexanderL
-https://github.com/bendelo
-https://github.com/canselcik
+https://github.com/BitMEX
+https://github.com/BitMEXResearch
+https://github.com/BitmexTrader
 https://github.com/ChristianRamos
 https://github.com/DominicTobias
 https://github.com/FloraC
+https://github.com/STRML
+https://github.com/TradingToolCrypto
+https://github.com/bendelo
+https://github.com/bitmexmania
+https://github.com/canselcik
 https://github.com/hanutsingh
 https://github.com/ryanlim
+https://github.com/yifan-gu

@@ -1,2 +1,12 @@
+https://github.com/OTL/ez_ros_installer
 https://github.com/PaulW/papyruscs-docker-builder
+https://github.com/achalddave/Homework-Template
+https://github.com/achalddave/bash-backup
+https://github.com/achalddave/dotfiles
+https://github.com/achalddave/ffmpeg-incantations
+https://github.com/achalddave/git-state
+https://github.com/achalddave/shrink-path.zsh
+https://github.com/ksk001100/arch_setup
+https://github.com/ksk001100/macos-setup
+https://github.com/ksk001100/zsh-config
 https://github.com/taylorsmith/gibson

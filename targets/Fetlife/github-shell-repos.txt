@@ -1,3 +1,5 @@
 https://github.com/Antti/docker-acestream-proxy
+https://github.com/fetlife/translations
+https://github.com/joaocunha/OSeXy
 https://github.com/matsrietdijk/osx
 https://github.com/nielsenramon/kickster

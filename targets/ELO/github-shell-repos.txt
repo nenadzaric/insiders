@@ -1,2 +1,11 @@
+https://github.com/ElofssonLab/misc_sys_admin_scripts
+https://github.com/ElotlMX/Esquite-docker
+https://github.com/XxB1a/diskfiller
+https://github.com/eLoopWoo/environment-android-kernel
+https://github.com/eLoopWoo/environment-linux-kernel
+https://github.com/eLoopWoo/environment-windows-kernel
+https://github.com/elolab/VarSCAT-analysis
+https://github.com/elonehoo/1990-script
+https://github.com/elorest/setup_rails
 https://github.com/joshdavidson/stellarkin-linux
 https://github.com/joshdavidson/stuffinspace-docker

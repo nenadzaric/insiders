@@ -1,0 +1,3 @@
+https://github.com/dpgmedia/marshmallow-annotations
+https://github.com/dpgmedia/partisan-news2019
+https://github.com/dpgmedia/spaCy

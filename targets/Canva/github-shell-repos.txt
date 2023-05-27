@@ -1,1 +1,10 @@
+https://github.com/DarkMatterMatt/AWS_EC2_OnDemand_SSH
+https://github.com/DarkMatterMatt/DarkMatterMatt
+https://github.com/DarkMatterMatt/Octopus
+https://github.com/DarkMatterMatt/Reconnaissance
 https://github.com/bend/backup.sh
+https://github.com/christianscott/christianfscott.com
+https://github.com/olebedev/theme-olebedev
+https://github.com/solarnz/docker-nginx-redirect
+https://github.com/solarnz/dotfiles
+https://github.com/solarnz/virtualenvwrapper

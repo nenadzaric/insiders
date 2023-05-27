@@ -1,1 +1,10 @@
+https://github.com/GrabarzUndPartner/nuxt-custom-elements-example
+https://github.com/MichaelChirico/isc-translations-proposal
+https://github.com/grabear/Raspbian-ShinyServerAndPython36
+https://github.com/grabnerandi/automation-samples
+https://github.com/grabnerandi/hotday2019_contperf_openshift
+https://github.com/grabnerandi/installer
+https://github.com/grabnerandi/keptn-qualitygate-examples
+https://github.com/grabnerandi/keptn06_simpleproject
 https://github.com/isaacperez/isaacperez.github.io
+https://github.com/yansfil/awesome-class-materials

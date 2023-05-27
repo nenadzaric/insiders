@@ -1,4 +1,11 @@
-https://github.com/anashakim/Laravel-User-Management-System
 https://github.com/AndyLindberg/VideoSampleProject
 https://github.com/AndyLindberg/foreflight-project
+https://github.com/MuhammaAbdurRehman/DellTechnologies
+https://github.com/anashakim/Laravel-User-Management-System
+https://github.com/aungsoemin-ycc/cafe.delltechnologies.com
+https://github.com/delltechnologies-learning-devops/gitpractise
+https://github.com/delltechnologies-learning-devops/google
+https://github.com/delltechnologies-learning-devops/wallmart
+https://github.com/delltechnologies2019/delltechnologies
+https://github.com/intuneaccount1/DellTechnologies
 https://github.com/martinmartin/khorne-flakes

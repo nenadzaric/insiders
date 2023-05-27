@@ -1,5 +1,15 @@
-https://github.com/huynguyen/alpine-codespace-error
-https://github.com/JeremyGrosser/codenames
 https://github.com/JeremyGrosser/binscripts
+https://github.com/JeremyGrosser/codenames
 https://github.com/JeremyGrosser/openbsd-ami-builder
+https://github.com/huynguyen/alpine-codespace-error
+https://github.com/rudSarkar/thanos.sh
+https://github.com/synackd/dotfiles
+https://github.com/synackme/dotfiles
+https://github.com/synackme/pentest
+https://github.com/synackme/secret-octo-ninja
+https://github.com/synacktraa/Assembly-Compiler
+https://github.com/synacktraa/ani-skip
+https://github.com/synacktraa/crawl
+https://github.com/synacktraa/purge
+https://github.com/synacktraa/wallhDL
 https://github.com/touhidshaikh/bin2shell

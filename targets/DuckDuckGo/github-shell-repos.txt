@@ -1,2 +1,14 @@
-https://github.com/alexfeng/hadoop-spark
+https://github.com/aitorvs/gh-install-apk
+https://github.com/aitorvs/gh-merge-pr
 https://github.com/alexfeng/dotfiles
+https://github.com/alexfeng/hadoop-spark
+https://github.com/chrisbolin/configs
+https://github.com/chrisbolin/singletask
+https://github.com/duckduckgo/OpenSSL-XCFramework
+https://github.com/duckduckgo/content-blocking-whitelist
+https://github.com/malmstein/gradle-example-project
+https://github.com/manrajgrover/PCifi
+https://github.com/manrajgrover/dotfiles
+https://github.com/shakyShane/le-nginx
+https://github.com/shakyShane/nginx-cors-plus
+https://github.com/shakyShane/nginx-yarn

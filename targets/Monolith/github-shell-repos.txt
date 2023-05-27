@@ -1,1 +1,10 @@
+https://github.com/MonolithProjects/JasperWatchdog
+https://github.com/MonolithProjects/KVMshut
+https://github.com/MonolithProjects/MyOScopy
+https://github.com/MonolithProjects/NC_VNF_MANO_ArtIracts
+https://github.com/MonolithProjects/SimpleOSbackup
+https://github.com/MonolithProjects/docker-tailscale-up
+https://github.com/MonolithProjects/orphantracker
+https://github.com/MonolithProjects/vbox-EPcheck
+https://github.com/MonolithProjects/virt_wizard
 https://github.com/talkabaso/Bash-basic_check

@@ -1,4 +1,9 @@
 https://github.com/ayatk/dotfiles
-https://github.com/harukasan/hello-norikra
+https://github.com/geta6/HandBraker
+https://github.com/geta6/dotfiles
+https://github.com/geta6/hello-scala
+https://github.com/geta6/nexts
 https://github.com/harukasan/gostarter
+https://github.com/harukasan/hello-norikra
 https://github.com/ikasoumen/dotfiles
+https://github.com/logica0419/dotfiles

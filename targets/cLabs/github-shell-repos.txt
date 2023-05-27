@@ -1,1 +1,3 @@
+https://github.com/clabs/rocktreff-gstreamer
+https://github.com/clabs/rt-netboot
 https://github.com/marcinc/dotfiles

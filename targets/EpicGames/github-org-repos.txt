@@ -1,0 +1,11 @@
+https://github.com/EpicGames/DirectXShaderCompiler
+https://github.com/EpicGames/EOS-Getting-Started
+https://github.com/EpicGames/MetaHuman-DNA-Calibration
+https://github.com/EpicGames/PixelStreamingInfrastructure
+https://github.com/EpicGames/SPIRV-Cross
+https://github.com/EpicGames/SPIRV-Reflect
+https://github.com/EpicGames/SPIRV-Tools
+https://github.com/EpicGames/ShaderConductor
+https://github.com/EpicGames/Signup
+https://github.com/EpicGames/ThirdParty
+https://github.com/EpicGames/include-what-you-use

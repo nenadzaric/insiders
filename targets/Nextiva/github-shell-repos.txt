@@ -1,3 +1,5 @@
 https://github.com/scottw/dvcsh
 https://github.com/scottw/git-rewrite-author
 https://github.com/scottw/muttview
+https://github.com/zkadish/cloud9-utilities
+https://github.com/zkadish/over-quota-authn-authz-mongodb

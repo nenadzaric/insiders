@@ -1,2 +1,3 @@
 https://github.com/JohnB/meteor-poker-calculator
+https://github.com/trycourier/courier-notification-service-extension-template
 https://github.com/yangeric/docker-nginx-rtmp

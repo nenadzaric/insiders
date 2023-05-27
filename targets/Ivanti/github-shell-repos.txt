@@ -1,1 +1,3 @@
+https://github.com/ivantikal/git-tools
+https://github.com/ivantikal/shell-configs
 https://github.com/willcoffey/tmux-streaming

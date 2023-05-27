@@ -1,2 +1,6 @@
 https://github.com/CheukLeung/docker-doxygen
+https://github.com/Rabobank-Archive/workstation-setup
+https://github.com/tmustafad/Microservices-Routing-Filtering-With-Netflix-Zuul
+https://github.com/tmustafad/SpringBootScheduler
+https://github.com/tmustafad/Spring_ActiveMQ_Integration
 https://github.com/tomburns/dotfiles

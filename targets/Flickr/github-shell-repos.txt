@@ -1,1 +1,8 @@
+https://github.com/anarchist-raccoons/ulcc-core-docker
 https://github.com/kevinBecker/setup
+https://github.com/straup/flamework-littleprinter-edition
+https://github.com/straup/flamework-tools
+https://github.com/straup/naturalearth-tools
+https://github.com/straup/parallel-flickr-solr
+https://github.com/straup/postgis-tools
+https://github.com/straup/solr-tools

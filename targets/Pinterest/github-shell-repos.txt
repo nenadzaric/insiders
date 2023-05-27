@@ -1,5 +1,15 @@
+https://github.com/KevinGrandon/dev-bootstrap
+https://github.com/KevinGrandon/enzyme-react-16-context-patch
+https://github.com/KevinGrandon/run-docker-compose-buildkite-plugin
+https://github.com/csstaub/certlint-docker
+https://github.com/csstaub/zsh-config
 https://github.com/fvgs/wifi-toggle
 https://github.com/johngibbons/dotfiles
+https://github.com/jonluca/MasterRepo
+https://github.com/jonluca/dotfiles
+https://github.com/pinterest/pagerduty-monit
+https://github.com/rpandey1234/AdbAliases
+https://github.com/rpandey1234/bashrc
 https://github.com/rqueue/VIPER-template-script
 https://github.com/rqueue/module-template-script
 https://github.com/yongwen/postgres-backup

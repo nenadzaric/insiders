@@ -1,2 +1,2 @@
-https://gist.githubusercontent.com/juhap/6f541ffd260380d63cd199528f6046e7/raw/c18614522596b3d523db61f9c681a2f004a9ee91/keybase.md
 https://gist.githubusercontent.com/juhap/3215044/raw/1f0b848e660f7303faa7f4e21ec9291bbc9519e7/service_clp_serializer.ftl
+https://gist.githubusercontent.com/juhap/6f541ffd260380d63cd199528f6046e7/raw/c18614522596b3d523db61f9c681a2f004a9ee91/keybase.md

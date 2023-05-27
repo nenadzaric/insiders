@@ -1,0 +1,2 @@
+https://github.com/CodeIgniter/codeigniter.github.io
+https://github.com/CodeIgniter/coding-standard

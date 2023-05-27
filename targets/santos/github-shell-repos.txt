@@ -1,1 +1,9 @@
+https://github.com/SaNToS/AX3600_Action
+https://github.com/SaNToS/OPENWRT-AX3600
 https://github.com/luissantos/every-lua-vm
+https://github.com/santosfamilyfoundation/EnvironmentSetup
+https://github.com/santosfamilyfoundation/SantosInstallation
+https://github.com/santoshrajan/dotfiles
+https://github.com/santosoide/node-vagrant
+https://github.com/santosomar/boot_clean
+https://github.com/santosomar/log4j-ioc-detector

@@ -1,0 +1,7 @@
+https://github.com/smartsheet/cloudenv
+https://github.com/smartsheet/smartsheet-csharp-sdk
+https://github.com/smartsheet/smartsheet-java-sdk
+https://github.com/smartsheet/smartsheet-javascript-sdk
+https://github.com/smartsheet/smartsheet-python-sdk
+https://github.com/smartsheet/smartsheet-sdk-tests
+https://github.com/smartsheet/terraform-provider-snowflake

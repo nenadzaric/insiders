@@ -1,2 +1,15 @@
-https://github.com/jeffpeterson/lch
+https://github.com/gwpl/handy_scripts
 https://github.com/jeffpeterson/dotfiles
+https://github.com/jeffpeterson/lch
+https://github.com/parity/linode
+https://github.com/paritytech/command-bot-scripts
+https://github.com/paritytech/labels
+https://github.com/paritytech/parity-ansible
+https://github.com/paritytech/parity-snappy
+https://github.com/paritytech/pipeline-scripts
+https://github.com/paritytech/polkadot_network_directory
+https://github.com/paritytech/ppa
+https://github.com/paritytech/releng-scripts
+https://github.com/paritytech/srtool
+https://github.com/paritytech/substrate-up
+https://github.com/paritytrading/parity-docker

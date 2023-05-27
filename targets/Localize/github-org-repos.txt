@@ -1,0 +1,5 @@
+https://github.com/Localize/Localize-Javascript-SDK-Releases
+https://github.com/Localize/google-tag-manager
+https://github.com/Localize/localize-cli
+https://github.com/Localize/localize-node
+https://github.com/Localize/phonegap-demo

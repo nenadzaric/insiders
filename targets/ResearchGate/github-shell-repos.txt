@@ -1,2 +1,17 @@
 https://github.com/Naoto-Ida/Jasper-Installation-Tool
+https://github.com/danigunawan/PDO_OCI_UBUNTU_16.04_PHP7.1
+https://github.com/danigunawan/docker-compose-all-mysql-versions
+https://github.com/danigunawan/rclone_minio_remote_sync
+https://github.com/erikw/eit060-project1
+https://github.com/erikw/ewxb-gcc-cross-compiler-builder
+https://github.com/erikw/jekyll-utility-scripts
+https://github.com/erikw/restic-automatic-backup-scheduler
+https://github.com/erikw/tmux-dark-notify
+https://github.com/erikw/tmux-powerline
+https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list
+https://github.com/erikw/vimomap
+https://github.com/jose-r-lopez/SSI_Infraestructure_Automation_Materials
+https://github.com/kaniska/logstash-realtime-analytics
 https://github.com/mustafah15/elastica-js
+https://github.com/pspelman/ud-kafka-series-pt-1
+https://github.com/sariths/radTutorialFiles

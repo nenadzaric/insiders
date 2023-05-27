@@ -1,1 +1,4 @@
 https://github.com/HarshitRuwali/dotfiles
+https://github.com/Quorafind/myscript
+https://github.com/quorauk/dash-deploy
+https://github.com/quorauk/ssh-private-key-buildpack

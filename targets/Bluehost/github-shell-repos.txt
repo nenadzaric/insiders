@@ -1,3 +1,5 @@
+https://github.com/bluehost/wp-plugin-readme-assets-updater
+https://github.com/desrosj/media-locations
 https://github.com/scottw/dvcsh
 https://github.com/scottw/git-rewrite-author
 https://github.com/scottw/muttview

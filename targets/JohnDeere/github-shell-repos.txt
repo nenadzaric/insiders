@@ -1,1 +1,4 @@
 https://github.com/alexfernandez/floqq-unix
+https://github.com/natanascimento/data-engineering
+https://github.com/zpratt/kube-playground
+https://github.com/ztoben/dotfiles

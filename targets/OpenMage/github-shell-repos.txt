@@ -1,4 +1,10 @@
-https://github.com/colinmollenhour/modman
+https://github.com/OpenMage/docker-debian
+https://github.com/OpenMage/docker-php-base
+https://github.com/OpenMage/migrate
+https://github.com/OpenMageModuleFostering/meta_cassandra
+https://github.com/Sekiphp/useful-scripts
 https://github.com/colinmollenhour/docker-confd-firewall
-https://github.com/colinmollenhour/haproxy-service
 https://github.com/colinmollenhour/dotfiles
+https://github.com/colinmollenhour/haproxy-service
+https://github.com/colinmollenhour/modman
+https://github.com/fballiano/docker-nginx-ssl-for-magento2

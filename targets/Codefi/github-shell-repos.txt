@@ -1,4 +1,6 @@
+https://github.com/Codefied/docker-aws-snowflake-layer
 https://github.com/SeanMcGrath/lynx-google
 https://github.com/SeanMcGrath/r9-git-tools
 https://github.com/StephenAshmore/dotfiles
 https://github.com/StephenAshmore/hugo-site
+https://github.com/codefireX/platform_prebuilts_gcc_linux-x86_arm_linux_androideabi-4.8

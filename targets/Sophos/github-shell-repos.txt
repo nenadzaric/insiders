@@ -1,3 +1,8 @@
 https://github.com/himanshutank/dotfiles
+https://github.com/juliedavila/centos7_builder
 https://github.com/paperclip/pi-scanning
+https://github.com/sophos-iaas/sg-iaas
+https://github.com/sophos/Incident-Response
+https://github.com/sophos/XgOnAzurePOC
+https://github.com/sophos/factory-runner-utils
 https://github.com/threez/blockdev

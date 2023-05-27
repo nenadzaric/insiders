@@ -1,0 +1,5 @@
+https://github.com/devolksbank/AWS-IoT-Fresh-Cloud-Coffee
+https://github.com/devolksbank/NL-Help-U
+https://github.com/devolksbank/Raspberry-Pi-Movidius-Person-Detector
+https://github.com/devolksbank/driverkit
+https://github.com/devolksbank/yadop

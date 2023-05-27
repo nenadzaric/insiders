@@ -1,6 +1,6 @@
 https://gist.githubusercontent.com/aliceh/0234a0c720b20f783803e8bd2a49add9/raw/a67358ea8315eabaaae74526e22038d14cdbf2e8/max_temperature.py
 https://gist.githubusercontent.com/aliceh/2645d5904d655390d7ce3926dd5cddb3/raw/a8ba4892f460ef6138d0fc8449f46a93aa0d5462/islands_in_matrix.py
+https://gist.githubusercontent.com/aliceh/87dd54a41c60a0d54500/raw/6070b4b363d0042c6fe6ec39b9ed366ba9b4a0e2/install_motherbrain_and_chef_zero.sh
 https://gist.githubusercontent.com/aliceh/ad6de92dea0715c9eb4e/raw/bcf57fc94c81252eb27737afcb0c1426e619e31b/Run_CI_sequences.sh
 https://gist.githubusercontent.com/aliceh/b21f60a0d7370d67f615/raw/cdead554a6cf0d4c4a46270979ada7841d64759c/gistfile1.txt
 https://gist.githubusercontent.com/aliceh/f996dfbad4b115aaf60b/raw/d7f62caff48b59703f76337151d6f5426a7545d6/gistfile1.txt
-https://gist.githubusercontent.com/aliceh/87dd54a41c60a0d54500/raw/6070b4b363d0042c6fe6ec39b9ed366ba9b4a0e2/install_motherbrain_and_chef_zero.sh

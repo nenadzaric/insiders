@@ -1,0 +1,16 @@
+https://github.com/PicsArt/ClangFormatPod
+https://github.com/PicsArt/Lockbox
+https://github.com/PicsArt/Mobile-Document-Scanner-CppBind-example
+https://github.com/PicsArt/XCMetrics
+https://github.com/PicsArt/cppbind
+https://github.com/PicsArt/gpt4-wordpress-plugin
+https://github.com/PicsArt/grider
+https://github.com/PicsArt/iOS-Deferred-Deep-Linking-SDK
+https://github.com/PicsArt/luabind
+https://github.com/PicsArt/pa-developer-support
+https://github.com/PicsArt/passport-picsart
+https://github.com/PicsArt/picsart-android-startup
+https://github.com/PicsArt/removebg-wordpress
+https://github.com/PicsArt/shared-data-structures
+https://github.com/PicsArt/stateful
+https://github.com/PicsArt/winston-graphite

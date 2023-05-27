@@ -1,1 +1,7 @@
 https://github.com/HsinYa/Ubuntu
+https://github.com/chrone81/raid-tools
+https://github.com/viatoriche/pympld
+https://github.com/viatoro/docker_miner
+https://github.com/viatoro/dotfile-bak
+https://github.com/viatoro/setupaddress
+https://github.com/zkg/meta-metapixel

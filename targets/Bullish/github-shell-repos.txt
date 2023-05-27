@@ -1,1 +1,2 @@
+https://github.com/bullishgopher/trading-bot
 https://github.com/williampratt/splunk-installers

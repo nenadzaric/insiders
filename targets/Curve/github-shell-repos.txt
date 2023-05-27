@@ -1,1 +1,8 @@
+https://github.com/Curve-Labs/template-impact-evaluator
+https://github.com/ba11b0y/newTestApp
+https://github.com/curvenote/action-myst-publish
+https://github.com/curvenote/base-tlssh
+https://github.com/curvenote/curvenote-github
+https://github.com/curvenote/notebooks-in-publishing
 https://github.com/jeffwilliams/dirhistory
+https://github.com/rwightman/ariac-workspace
