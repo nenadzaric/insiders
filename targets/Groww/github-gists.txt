@@ -16,6 +16,12 @@ https://gist.githubusercontent.com/AkashDaga/e1fb68f2eaffb4cb96fbabbe4ac3a4bb/ra
 https://gist.githubusercontent.com/AkashDaga/fb5261aeb88ff1873375bde329c9970e/raw/535ba91dddabb045e77da3f3e42ff5429756ee92/SftpFolderConfigMySqlRepository.java
 https://gist.githubusercontent.com/AkashDaga/fe5d780d79d4eb7bff26df2303e63334/raw/5e34e42a3cc03ac2d9f93d4fe5fe65464abca6b1/SftpAuthContext.java
 https://gist.githubusercontent.com/RishabhVerma/7228939/raw/16671688df75fdb4e9b0bd6051cd6a9feeb1f53a/Flask-Restful_S3_File_Upload.py
+https://gist.githubusercontent.com/SarthakSri98/f5ef1563d21a41c91868dda734a249e0/raw/49a9548f16d6a7c2db38dffeb5ac5444f78f2ef8/globalStorage%7Cgithub.codespaces%7Creload-tasks.json
+https://gist.githubusercontent.com/SarthakSri98/f5ef1563d21a41c91868dda734a249e0/raw/732ddf195dff972f1de3433019ee8934e11cf66e/keybindingsMac.json
+https://gist.githubusercontent.com/SarthakSri98/f5ef1563d21a41c91868dda734a249e0/raw/76ce8b5dbb015a4eb9b105cb06d3138a4a4e8e1e/cloudSettings
+https://gist.githubusercontent.com/SarthakSri98/f5ef1563d21a41c91868dda734a249e0/raw/93bc12a4f4b34d763b714eaf82e2f23104c81b19/extensions.json
+https://gist.githubusercontent.com/SarthakSri98/f5ef1563d21a41c91868dda734a249e0/raw/d7995822c243c3aeef1c4b8de79d0fa526a725fc/settings.json
+https://gist.githubusercontent.com/The-Fuse/27687b34a4715fc2186eaf534d3377b4/raw/3ee7e93567092701b45fc302d10efde18b715581/getlocation.kt
 https://gist.githubusercontent.com/abhishektomar/2993549/raw/3e762df75824e992fbf477c7ba4902f24de7011d/graphite_statsd
 https://gist.githubusercontent.com/abhishektomar/783111d1caabe5b67ee0/raw/366f79f0cfb4c5acaa28738c0ab16c5c2fc4c5f4/elk.sh
 https://gist.githubusercontent.com/paramaggarwal/0528a8f63683398c709e33fa2e350a2b/raw/7691d56ecb7059c669e6e636abbcd73ed297fee7/README.md
@@ -53,4 +59,10 @@ https://gist.githubusercontent.com/paramaggarwal/e640831652a0a0f2d2ae8f4b814b526
 https://gist.githubusercontent.com/paramaggarwal/f0880c2ad63c06da6ca1cf3cc8ec926a/raw/e605f167cbcc5675535c5b9e2d43922d9fd5190b/hough.md
 https://gist.githubusercontent.com/paramaggarwal/fdd344aad7f55c29ac1e59d9dfea56bd/raw/22355a3dc1263c863a841740a89329f82f3ff134/index.html
 https://gist.githubusercontent.com/payalsingh/3720504/raw/62822d94439bd83239f4d5754413584104ce531c/Himalaya%20Face%20Wash%20%40%20Rs.%2049
+https://gist.githubusercontent.com/pvsmounish/7309b02008d3bfdd71308e5e98c78728/raw/5d143d3e6bc521c5e99872a00d8f7bfa310a1081/springrole-verify.txt
 https://gist.githubusercontent.com/varunarora/a1b195660295a4e4410b935eacd8ef2f/raw/132c3494896a7625c78b1b0dad1dff5ec4159876/no_test_label_semantic_roles.py
+https://gist.githubusercontent.com/vinitraj10/027afdd0f5a370278e89c8d77341ddd4/raw/e550d5bda2c82c3ff8a7354a3b16de870743bb88/manifest.json
+https://gist.githubusercontent.com/vinitraj10/5df3bc1bf064d8dc7e256884bdcfe913/raw/253b9f8e5f1521e3e1775d24e363d1371ab13ea1/dj_heroku.md
+https://gist.githubusercontent.com/vinitraj10/916b1a2039d6cb3494bf7ba1909d7977/raw/e1e165e4f2b1626c2834811111924cadc184d590/CustomActivity.java
+https://gist.githubusercontent.com/vinitraj10/954a3a95253528f6b99ce530eacc5edb/raw/f677ba67eb21c99e784bb006988775066edf32e8/isValidChrome.java
+https://gist.githubusercontent.com/vinitraj10/ecd6f32eb56234543951ccf319fa2dd9/raw/ff4b37b6b1b9f8181c7f1feeec7218661e4bbbca/push-notification-twa.xml

@@ -148,6 +148,10 @@ https://github.com/neuromaster/NEUROWAVES
 https://github.com/neuromaster/NXR
 https://github.com/neuromaster/VeUber
 https://github.com/neuromaster/keyfind
+https://github.com/qause/default_workspace
+https://github.com/qause/github-slideshow
+https://github.com/qause/project-name
+https://github.com/qause/reviewing-a-pull-request
 https://github.com/ruiyangWang/CRM
 https://github.com/ruiyangWang/DriveTestSwift
 https://github.com/ruiyangWang/NIDataService

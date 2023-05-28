@@ -118,6 +118,14 @@ https://github.com/Robson/White-Noise-Image-Generator
 https://github.com/Robson/Yogscast-YouTube-Statistics
 https://github.com/Robson/ephemeral
 https://github.com/Robson/robson.github.io
+https://github.com/RussTedrake/NeedhamSquirts
+https://github.com/RussTedrake/htmlbook
+https://github.com/RussTedrake/manipulation
+https://github.com/RussTedrake/manipulation-data
+https://github.com/RussTedrake/slides
+https://github.com/RussTedrake/svgcat
+https://github.com/RussTedrake/underactuated
+https://github.com/RussTedrake/underactuated-data
 https://github.com/TRI-ML/DDAD
 https://github.com/TRI-ML/HAICU
 https://github.com/TRI-ML/KP2D
@@ -283,6 +291,9 @@ https://github.com/jeytoyota/smileRec-API
 https://github.com/jeytoyota/smilerec-front
 https://github.com/jeytoyota/testeFinger
 https://github.com/jeytoyota/turma21
+https://github.com/kiksworks/docker-build-env
+https://github.com/kiksworks/ssl-protos
+https://github.com/kiksworks/ssl-simulation-env
 https://github.com/ksk001100/EasyML
 https://github.com/ksk001100/ImageDownloader
 https://github.com/ksk001100/NyaanOS

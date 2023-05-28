@@ -1,3 +1,4 @@
+https://github.com/GromNaN/gitconfig
 https://github.com/SensitiveMix/daily_task
 https://github.com/SensitiveMix/node-cluster
 https://github.com/UnicodeSnowman/automagic-missile
@@ -11,6 +12,7 @@ https://github.com/colinhoglund/docker-fpm
 https://github.com/colinhoglund/dotfiles
 https://github.com/colinhoglund/go-web-app
 https://github.com/colinhoglund/terraform-example-workflow
+https://github.com/damieng/BBCMicroTools
 https://github.com/ehershey/ernie-chef-server
 https://github.com/ehershey/mci-docker
 https://github.com/jmikola/mongo-php-toolchain

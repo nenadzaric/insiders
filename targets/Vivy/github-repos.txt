@@ -1,4 +1,8 @@
 https://github.com/JarodMica/Vivy
+https://github.com/MaiTestarossa/AndroidLearnDemo
+https://github.com/MaiTestarossa/anki-wordquery-forvo-service
+https://github.com/MaiTestarossa/anki_word_query_hjdict_service
+https://github.com/MaiTestarossa/maitestarossa.github.io
 https://github.com/Matthbo/AJAX-SQL
 https://github.com/Matthbo/BeamBot
 https://github.com/Matthbo/BetterTwitter
@@ -287,6 +291,7 @@ https://github.com/vivym/weibo-spider
 https://github.com/vivym/x2r
 https://github.com/vivym/x2r-3d
 https://github.com/vivym/x2r-cli
+https://github.com/vivym/x2r-infra
 https://github.com/vivym/x2r-template
 https://github.com/vivym/zhihu-api-note
 https://github.com/vivym/zhihu-spider

@@ -1,3 +1,12 @@
+https://gist.githubusercontent.com/DrManganese/1989408/raw/9e2a2275e5d56d2de2e1a56643ad87bf88254e57/gistfile1
+https://gist.githubusercontent.com/DrManganese/1989410/raw/1b8d95403d9a94e151b03d7bbeee143db8b7dffe/gistfile1
+https://gist.githubusercontent.com/DrManganese/1989429/raw/980d6bd4abef89fdf5b846d6b83cefb632847d54/gistfile1
+https://gist.githubusercontent.com/DrManganese/2120893/raw/15097ab53aac0e5bbda30bb4680c073e51559d7e/gistfile1
+https://gist.githubusercontent.com/DrManganese/431f0ea7232e1cb37e88ef6aaf0d3211/raw/fc5bb67075104d93ebc05b0acd2c35a15f21017b/endercrop.cfg
+https://gist.githubusercontent.com/DrManganese/b2cef15a91f0402c8f1b57649a4e7469/raw/22728b636b0c54ae891c4c3c955ee351a3ff227e/ammonite.sh
+https://gist.githubusercontent.com/DrManganese/b2cef15a91f0402c8f1b57649a4e7469/raw/d2737cd6ea26bfb3a1d3b131bad1432d5b92eb6f/hudi.sc
+https://gist.githubusercontent.com/KoenV/564b85bb3c60270d25579ca993f6409d/raw/1a294a966f6a61307d09edae4b78579fcbaa0f97/ggkm.R
+https://gist.githubusercontent.com/KoenV/564b85bb3c60270d25579ca993f6409d/raw/d71e2bf7f70c788b3b0c38a3cd8e03541da64a0a/ggkmTable.R
 https://gist.githubusercontent.com/iand/1019058/raw/31180c67f3fd4506c38b340a9762308808e1d6f7/getrdfa.py
 https://gist.githubusercontent.com/iand/23af1a408d7eec29117fa260a397f02d/raw/d8d63e2092b7e95475643e6c26b10782afbfd8b1/gistfile1.txt
 https://gist.githubusercontent.com/iand/2948220/raw/d30382891aff5f8639a7242ce190eaaf71079725/gistfile1.go

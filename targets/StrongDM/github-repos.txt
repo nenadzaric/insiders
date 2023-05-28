@@ -41,6 +41,7 @@ https://github.com/camposer/curso_in_java
 https://github.com/camposer/curso_in_persistence
 https://github.com/camposer/curso_in_spring
 https://github.com/camposer/curso_in_web
+https://github.com/camposer/curso_in_webservices
 https://github.com/camposer/curso_java
 https://github.com/camposer/curso_java_tuning
 https://github.com/camposer/curso_jsf

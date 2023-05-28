@@ -159,11 +159,13 @@ https://github.com/SpellholdStudios/Allison_One-Day_NPC
 https://github.com/SpellholdStudios/Almaterias_Restoration_Project
 https://github.com/SpellholdStudios/Arath_NPC
 https://github.com/SpellholdStudios/Arnel-Nalia-Romance-Revision
+https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB
 https://github.com/SpellholdStudios/BG2_Improved_GUI
 https://github.com/SpellholdStudios/BGGOEET
 https://github.com/SpellholdStudios/BGSpawn
 https://github.com/SpellholdStudios/BGT-Spawn-Tweak
 https://github.com/SpellholdStudios/BGT-WeiDU
+https://github.com/SpellholdStudios/BP-BGT-Worldmap
 https://github.com/SpellholdStudios/BP-BGT-Worldmap_French_addon
 https://github.com/SpellholdStudios/BP-BGT-Worldmap_German_addon
 https://github.com/SpellholdStudios/BP-BGT-Worldmap_Italian_addon
@@ -173,6 +175,7 @@ https://github.com/SpellholdStudios/BP-BGT-Worldmap_Spanish_addon
 https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate
 https://github.com/SpellholdStudios/Beyond_the_Law
 https://github.com/SpellholdStudios/Bolsa
+https://github.com/SpellholdStudios/CerndFriendship
 https://github.com/SpellholdStudios/Check_the_Bodies
 https://github.com/SpellholdStudios/DSotSC
 https://github.com/SpellholdStudios/Dace_NPC

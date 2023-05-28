@@ -1,2 +1,2 @@
-https://github.com/ramonsantos/my-vs-code-things
 https://github.com/ramonsantos/dotfiles
+https://github.com/ramonsantos/my-vs-code-things

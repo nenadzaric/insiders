@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/Exmortem/9de0ffd51a76b5de5fb30c7ba3880766/raw/d86185904feddde2ce17cdaa13dcaed6e883614b/gistfile1.txt
 https://gist.githubusercontent.com/IvanSuarez/04525b8d75bcd2aca9a4/raw/cafd63beef7a49a1d9881e440a0a80ae0efff0df/gistfile1.css
 https://gist.githubusercontent.com/IvanSuarez/1450f541e79c02fdf0c0/raw/1903f5a5f6dc23466a75c55c3f43f7e033628b29/gistfile1.html
 https://gist.githubusercontent.com/IvanSuarez/17d876553ac36315d4cd/raw/0b327ca3c172ce31d1a234878c52a828f96c1bce/styles.css
@@ -13,6 +14,7 @@ https://gist.githubusercontent.com/IvanSuarez/bb4405f69a877b52e2f7/raw/a4b630587
 https://gist.githubusercontent.com/IvanSuarez/ce409536f9b6e58b1204/raw/8c7c44650eeef1ef6cbf7b0144094f137273f642/Google%20Maps%20APIs.js
 https://gist.githubusercontent.com/IvanSuarez/d918820d41d525238c56/raw/6adb0eb6da4439d0a3ff3bd62ad28965d1b30a4f/Object%20literals.js
 https://gist.githubusercontent.com/IvanSuarez/dcf078e899f0cf97f266/raw/0e08916118342621d46817f7483c902f784c407f/pet.rb
+https://gist.githubusercontent.com/PerfilovStanislav/4dfa67d33598dfbf5b6f898634959daa/raw/10e403d94d6721c23255ccab3002d4353d9911f4/License_PhpStorm
 https://gist.githubusercontent.com/artemartemov/0adebec280562d946f047667df0a7e39/raw/a1ef5b1971ed55a913cda892ef41c73e988608d9/global-gitignore-dsstore.md
 https://gist.githubusercontent.com/artemartemov/28b5f79042970cf442d5b83bf11e78ed/raw/cfd160a3603f605ffb47d2c56f109e0d92675334/sanitySchemas.js
 https://gist.githubusercontent.com/artemartemov/3fd798b3f0345be4267f4366dcf29672/raw/928d61a871b130d6182afc9fc3022cebaeafe616/localSetup.md
@@ -34,3 +36,6 @@ https://gist.githubusercontent.com/artemartemov/db224a5c8f0c34725f2a6fe3e48f6f7b
 https://gist.githubusercontent.com/artemartemov/db224a5c8f0c34725f2a6fe3e48f6f7b/raw/cc2bfdf347582c822dc80233cd2b5bef09dc8a9c/homeVideoAssets.js
 https://gist.githubusercontent.com/artemartemov/db224a5c8f0c34725f2a6fe3e48f6f7b/raw/d2d9e80c521bff3782a9f198d084ebf2798f2a25/index.js
 https://gist.githubusercontent.com/artemartemov/db224a5c8f0c34725f2a6fe3e48f6f7b/raw/f68b5b960a4523e8f4ad639a7cefa85478a9126e/video.js
+https://gist.githubusercontent.com/exmo-dev/9d514de21ce094e1f614/raw/6ecc6a79f128e6bf331846d7a7c8449d283c1b4f/api.rb
+https://gist.githubusercontent.com/exmosis/3d9638346aea2c5ee737/raw/27d5a0c3c21d7fafef73d7d87cae32c13ff4d2f8/aberavon.json
+https://gist.githubusercontent.com/exmosis/a37cfad30a8ea302cfa4b1c3302687bf/raw/4200968d596827795e9bbf48407158a6b1f7343d/txt_includer.php

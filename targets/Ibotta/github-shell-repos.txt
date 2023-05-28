@@ -1,5 +1,6 @@
 https://github.com/Ibotta/android-emulator-cli
 https://github.com/Ibotta/asdf-brig
+https://github.com/adamisom/dotfiles
 https://github.com/cassamajor/Erratum
 https://github.com/cassamajor/init_brew
 https://github.com/cassamajor/init_linux

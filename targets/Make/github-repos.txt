@@ -52,6 +52,7 @@ https://github.com/MakeAppPiePublishing/TIps_11_06_MapFilter_Reduce_End
 https://github.com/MakeAppPiePublishing/TIps_13_06_CollectionLayout_End
 https://github.com/MakeAppPiePublishing/TIps_14_09_CGsetup_End
 https://github.com/MakeAppPiePublishing/Tip_06_06_ARC_Begin
+https://github.com/MakeAppPiePublishing/Tips-04_08_Drop-Shadow_End
 https://github.com/MakeAppPiePublishing/Tips-05_04_TimePicker_Begin
 https://github.com/MakeAppPiePublishing/Tips-07_01_Substrings_Begin
 https://github.com/MakeAppPiePublishing/Tips-07_06_BarcodeGenerator_Begin
@@ -76,9 +77,11 @@ https://github.com/MakeAppPiePublishing/Tips_01_25_AttributedTextLabel_Begin
 https://github.com/MakeAppPiePublishing/Tips_01_25_AttributedTextLabel_End
 https://github.com/MakeAppPiePublishing/Tips_01_26_SceneKitText_Begin
 https://github.com/MakeAppPiePublishing/Tips_01_26_SceneKitText_End
+https://github.com/MakeAppPiePublishing/Tips_01_27_NLP_Tagging_Begin
 https://github.com/MakeAppPiePublishing/Tips_01_27_NLP_Tagging_End
 https://github.com/MakeAppPiePublishing/Tips_01_28_UIColorExtension_Begin
 https://github.com/MakeAppPiePublishing/Tips_01_28_UIColorExtension_End
+https://github.com/MakeAppPiePublishing/Tips_01_29_DateTime_End
 https://github.com/MakeAppPiePublishing/Tips_01_30_DateComponents_Begin
 https://github.com/MakeAppPiePublishing/Tips_01_30_DateComponents_End
 https://github.com/MakeAppPiePublishing/Tips_01_31_TimerComparison_Begin
@@ -90,6 +93,7 @@ https://github.com/MakeAppPiePublishing/Tips_02_01_WatchMenus_End
 https://github.com/MakeAppPiePublishing/Tips_02_02_ImageLiterals_Begin
 https://github.com/MakeAppPiePublishing/Tips_02_02_ImageLiterals_End
 https://github.com/MakeAppPiePublishing/Tips_02_03_UInt8_End
+https://github.com/MakeAppPiePublishing/Tips_02_04_HexColors_Begin
 https://github.com/MakeAppPiePublishing/Tips_02_04_HexColors_End
 https://github.com/MakeAppPiePublishing/Tips_02_05_UnwrapAny_Begin
 https://github.com/MakeAppPiePublishing/Tips_02_05_UnwrapAny_End
@@ -147,6 +151,8 @@ https://github.com/MakeAppPiePublishing/Tips_05_08_Haptics_End
 https://github.com/MakeAppPiePublishing/Tips_05_10_MultiSelection_End
 https://github.com/MakeAppPiePublishing/Tips_05_10_MultiselectionButton_Begin
 https://github.com/MakeAppPiePublishing/Tips_05_11_RangeDemo_Begin
+https://github.com/MakeAppPiePublishing/Tips_05_11_RangeDemo_End
+https://github.com/MakeAppPiePublishing/Tips_05_12_UnicodeCharacters_Begin
 https://github.com/MakeAppPiePublishing/Tips_05_12_UnicodeCharacters_End
 https://github.com/MakeAppPiePublishing/Tips_05_SafeArea_Begin
 https://github.com/MakeAppPiePublishing/Tips_05_SafeArea_End
@@ -367,12 +373,14 @@ https://github.com/MakeAppPiePublishing/Tips_14_10_CGRect_End
 https://github.com/MakeAppPiePublishing/Tips_14_11_CGLines_Begin
 https://github.com/MakeAppPiePublishing/Tips_14_11_CGLines_End
 https://github.com/MakeAppPiePublishing/Tips_14_12_DistanceLine_End
+https://github.com/MakeAppPiePublishing/Tips_14_12_DistanceLines_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_01_Snowflake_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_01_Snowflake_End
 https://github.com/MakeAppPiePublishing/Tips_15_02_CGCurve_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_02_CGCurve_End
 https://github.com/MakeAppPiePublishing/Tips_15_03_MKMapRect_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_03_MKMapRect_End
+https://github.com/MakeAppPiePublishing/Tips_15_04_MapZoom_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_04_MapZoom_End
 https://github.com/MakeAppPiePublishing/Tips_15_05_SUIPages_Begin
 https://github.com/MakeAppPiePublishing/Tips_15_05_SUIPages_End
@@ -1930,6 +1938,7 @@ https://github.com/makeuseofcode/JES-sound-processing-techniques
 https://github.com/makeuseofcode/JS-Recipe-Book
 https://github.com/makeuseofcode/JS-Word-Counter
 https://github.com/makeuseofcode/JavaScript-Tic-Tac-Toe-Game
+https://github.com/makeuseofcode/Level-Designing-in-PyGame
 https://github.com/makeuseofcode/Login-Page-Using-Python
 https://github.com/makeuseofcode/MERN-Stack-Application
 https://github.com/makeuseofcode/MUOExampleWebsite
@@ -1994,6 +2003,7 @@ https://github.com/makeuseofcode/display-xml-data-in-html-page
 https://github.com/makeuseofcode/go-mail
 https://github.com/makeuseofcode/inventor-pico
 https://github.com/makeuseofcode/javascript-searchbar
+https://github.com/makeuseofcode/jes-jython-program
 https://github.com/makeuseofcode/js-image-gallery
 https://github.com/makeuseofcode/localStorage-in-JavaScript
 https://github.com/makeuseofcode/multer-tutorial
@@ -2099,6 +2109,7 @@ https://github.com/makevoid/browserify_example
 https://github.com/makevoid/btc_balance_watcher
 https://github.com/makevoid/btc_broker
 https://github.com/makevoid/btc_browser_wallet
+https://github.com/makevoid/btc_chart_analysis
 https://github.com/makevoid/btc_sms_wallets
 https://github.com/makevoid/btc_transactions_viz
 https://github.com/makevoid/btcusd-resistance-lines
@@ -2133,6 +2144,7 @@ https://github.com/makevoid/docker_ssh
 https://github.com/makevoid/docker_ui
 https://github.com/makevoid/dokku_config_converter
 https://github.com/makevoid/donacoin
+https://github.com/makevoid/donacoin_web
 https://github.com/makevoid/easyconomy
 https://github.com/makevoid/easywallet
 https://github.com/makevoid/edison_cylon_js
@@ -2225,6 +2237,7 @@ https://github.com/makevoid/metronom
 https://github.com/makevoid/miner
 https://github.com/makevoid/mkpool
 https://github.com/makevoid/mkv-thegrid
+https://github.com/makevoid/mkvbuild2
 https://github.com/makevoid/mkvstack
 https://github.com/makevoid/ml_chef_terraform
 https://github.com/makevoid/mobilize
@@ -2348,6 +2361,7 @@ https://github.com/makevoid/try_tlsnotary
 https://github.com/makevoid/twilio_sms_sample
 https://github.com/makevoid/twitter_analytic
 https://github.com/makevoid/twitter_search
+https://github.com/makevoid/unlicense
 https://github.com/makevoid/up-and-coming-style-mag-web
 https://github.com/makevoid/vanieth
 https://github.com/makevoid/vanityUI

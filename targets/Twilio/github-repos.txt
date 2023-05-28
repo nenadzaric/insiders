@@ -519,6 +519,7 @@ https://github.com/craigsdennis/intro-to-apis-node
 https://github.com/craigsdennis/jq-workshop
 https://github.com/craigsdennis/lithium
 https://github.com/craigsdennis/llm-companies-api
+https://github.com/craigsdennis/llm-competitor-trips
 https://github.com/craigsdennis/llm-trip-saver
 https://github.com/craigsdennis/netlify-hook
 https://github.com/craigsdennis/potty-party

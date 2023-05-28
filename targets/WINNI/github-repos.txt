@@ -349,7 +349,12 @@ https://github.com/winnipegfreepress/dispatch-calls-2017-18
 https://github.com/winnipegfreepress/flood-data
 https://github.com/winnipegfreepress/mbbridges
 https://github.com/winnipegfreepress/wildfires
+https://github.com/winnitron/LauncherSetup
+https://github.com/winnitron/WinnitronHighScoreUnity
 https://github.com/winnitron/WinnitronLauncher
+https://github.com/winnitron/launcher_keep_awake
+https://github.com/winnitron/winnitron.github.io
+https://github.com/winnitron/winnitron_network
 https://github.com/wneessen/CovidStats
 https://github.com/wneessen/IperBackup
 https://github.com/wneessen/Ipernity-API

@@ -7,6 +7,8 @@ https://github.com/ahunnargikar/vagrant-mesos
 https://github.com/burnto/docker-tensorflow-starter
 https://github.com/daxwann/42-init
 https://github.com/daxwann/vagrant_demo
+https://github.com/dushmis/grepmail
+https://github.com/dushmis/misc
 https://github.com/felipealbertao/et-phone-home
 https://github.com/gesa/bt-lifecycle-scripts
 https://github.com/gesa/plex-dvr-run
@@ -28,6 +30,11 @@ https://github.com/jasisk/docker-kappa
 https://github.com/jasisk/docker-kappa-consul-template
 https://github.com/jasisk/docker-npm-registry-couchapp
 https://github.com/jasisk/githooks
+https://github.com/jshawl/1000-commits
+https://github.com/jshawl/bin
+https://github.com/jshawl/git-templates
+https://github.com/jshawl/orb-storybook
+https://github.com/jshawl/postman-collection-client-generator
 https://github.com/kevinvincent/RedditFixer
 https://github.com/lkorth/dotfiles
 https://github.com/paypal/docker-selion

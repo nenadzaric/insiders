@@ -9,6 +9,7 @@ https://github.com/benoitmasson
 https://github.com/blaryjp
 https://github.com/carlospinera
 https://github.com/carsso
+https://github.com/equelin
 https://github.com/faas-ovh
 https://github.com/jamesgoddard
 https://github.com/maxime-agusti

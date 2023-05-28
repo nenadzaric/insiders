@@ -9,6 +9,7 @@ https://github.com/CheckPointSW-Community/Jenkins-SourceGuard
 https://github.com/CheckPointSW/android_appfuzz
 https://github.com/CheckPointSW/android_unpacker
 https://github.com/CheckPointSW/terraform-checkpoint-dynobj-nia
+https://github.com/PoorlyDefinedBehaviour/kubernetes_in_action
 https://github.com/checkpointsw-devsec/chkp-api-examples
 https://github.com/checkpointsw-devsec/london_lab
 https://github.com/chkp-dhouari/DevSecOps-bootcamp

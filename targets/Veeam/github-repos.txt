@@ -5,6 +5,7 @@ https://github.com/FrediKats/Codeforces-hall-of-fame
 https://github.com/FrediKats/DictionaryBenchmark
 https://github.com/FrediKats/FrediKats
 https://github.com/FrediKats/ItmoIsHomework
+https://github.com/FrediKats/ListAmParser
 https://github.com/FrediKats/ProgrammingTechLectureSamples
 https://github.com/FrediKats/SqliteProviderBenchmarking
 https://github.com/FrediKats/Tamgly

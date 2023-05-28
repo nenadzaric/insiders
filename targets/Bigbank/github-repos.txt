@@ -1,3 +1,4 @@
+https://github.com/Abhi2591/bigbankexchange
 https://github.com/BigBankLittleBank/BigBank
 https://github.com/BigBankers/Analysis-Document
 https://github.com/Bigbank/Bigbang
@@ -27,10 +28,14 @@ https://github.com/bigbank-as/vue-cli-plugin-express
 https://github.com/bigbank-as/watchback
 https://github.com/bigbankbourt/bigbankbourt
 https://github.com/bigbankbourt/bigbankbourt.github.io
+https://github.com/bigbankfrank19/Adventure-Quest
 https://github.com/bigbankfrank19/BlankGames
+https://github.com/bigbankfrank19/EmployeeStatus
 https://github.com/bigbankfrank19/G0nZy.github.io
 https://github.com/bigbankfrank19/Homework-1
+https://github.com/bigbankfrank19/Homework1
 https://github.com/bigbankfrank19/Note-Taker
+https://github.com/bigbankfrank19/Portfolio
 https://github.com/bigbankfrank19/Portfolio1
 https://github.com/bigbankfrank19/Practice-Site
 https://github.com/bigbankfrank19/QuestI
@@ -39,6 +44,7 @@ https://github.com/bigbankfrank19/Weather-Dashboard
 https://github.com/bigbankfrank19/WeeklyPlanner
 https://github.com/bigbankfrank19/budgetTracker
 https://github.com/bigbankfrank19/eat-the-donut
+https://github.com/bigbankfrank19/fitnessTracker
 https://github.com/bigbankfrank19/hello-world2
 https://github.com/bigbankfrank19/hello-world3
 https://github.com/bigbankfrank19/pygamePractice
@@ -46,7 +52,9 @@ https://github.com/bigbankfrank19/quest
 https://github.com/bigbankfrank19/reverseEng
 https://github.com/bigbankfrank19/song-in-the-life
 https://github.com/bigbankfrank19/statequiz2-
+https://github.com/bigbankfrank19/statesquiz
 https://github.com/bigbankfrank19/userDirectory
+https://github.com/bigbankfrank19/weatherChaser
 https://github.com/bigbanks757/bigbanks757
 https://github.com/erickssagala/Bigbank
 https://github.com/hristo-grudev/bigbank

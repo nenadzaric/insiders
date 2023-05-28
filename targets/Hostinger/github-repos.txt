@@ -14,6 +14,7 @@ https://github.com/EmmaYoung/test-restapi-2
 https://github.com/Gamer08YT/Hostinger
 https://github.com/InScript/hostinger-sdk-php
 https://github.com/LukoJy3D/dupehunter
+https://github.com/LukoJy3D/ez-discord-oauth2
 https://github.com/LukoJy3D/pcshaman
 https://github.com/LukoJy3D/perfect100
 https://github.com/PurviAgarwal/Flash-ADC

@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/WhiteBite/9b81afc5c5dc9bff1f3676a7addf8158/raw/ba3a8413a69163dbb27062e61a4b424dddd78626/FileLoggerAndPaster
+https://gist.githubusercontent.com/robertwhitebit/692c954da71c8b76260c/raw/449894263afc5c5702309eac23a3080c26dc21fb/checkstyle.xml
+https://gist.githubusercontent.com/robertwhitebit/692c954da71c8b76260c/raw/c4cb0ae5050a6f6eda993aedddeda8ec27ee2d2a/p.py

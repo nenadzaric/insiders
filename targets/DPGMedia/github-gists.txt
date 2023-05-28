@@ -1,3 +1,8 @@
+https://gist.githubusercontent.com/anneschuth/0f7798da113c435d0a4dc2c055e334ee/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/anneschuth/0f7798da113c435d0a4dc2c055e334ee/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/anneschuth/0f7798da113c435d0a4dc2c055e334ee/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/anneschuth/0f7798da113c435d0a4dc2c055e334ee/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/anneschuth/9283ad7e532690ac0f5f/raw/e3907dbf6bf8a04842aa49b21142e26369a4e960/keybase.md
 https://gist.githubusercontent.com/yavuzgedik/a0aabce64c511879d1a5/raw/9618d4555fc9df3c0931c805888b699bc9c345ba/ArduinoCar
 https://gist.githubusercontent.com/yavuzgedik/b13d0be64866a5ae4ddee3de083cd0bc/raw/5ee3baef430e184b1db397788386de577a8f6bc7/Location.js
 https://gist.githubusercontent.com/yavuzgedik/b88891bc503fd3bc7cff/raw/54ff37dc0c771b37ea370911b49e44bfb41d18a5/car

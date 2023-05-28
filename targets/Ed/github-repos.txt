@@ -1588,6 +1588,7 @@ https://github.com/edureka-intership/assignment-1-Tukarambarure
 https://github.com/edureka-intership/assignment-1-TusharTonk
 https://github.com/edureka-intership/assignment-1-TyrantVoid
 https://github.com/edureka-intership/assignment-1-UK2028
+https://github.com/edureka-intership/assignment-1-VENKATAKRISHNANLAKSHMANAN
 https://github.com/edureka-intership/assignment-1-Varunv003
 https://github.com/edureka-intership/assignment-1-VasudhaMGabhane
 https://github.com/edureka-intership/assignment-1-Venkat3008
@@ -1673,6 +1674,7 @@ https://github.com/edureka-intership/assignment-1-shubhpanchal16-1
 https://github.com/edureka-intership/assignment-1-sindhureddykristipati
 https://github.com/edureka-intership/assignment-1-snehaISL
 https://github.com/edureka-intership/assignment-1-spawar440
+https://github.com/edureka-intership/assignment-1-sujith74
 https://github.com/edureka-intership/assignment-1-sumeetpevekar
 https://github.com/edureka-intership/assignment-1-sushilsaroya
 https://github.com/edureka-intership/assignment-1-tejaswinijithendra
@@ -2020,6 +2022,7 @@ https://github.com/edureka-intership/final-product-kajol1507
 https://github.com/edureka-intership/final-product-nikhil689
 https://github.com/edureka-intership/final-product-prasadsontakke731
 https://github.com/edureka-intership/final-product-rajithsuvarna
+https://github.com/edureka-intership/javascrript-assignment-4-Megha-Grover
 https://github.com/edwei/edwei.github.io
 https://github.com/edwei/mynewrepo
 https://github.com/edx/.github
@@ -2544,6 +2547,7 @@ https://github.com/sungik-choi/airbnb-clone
 https://github.com/sungik-choi/algorithm
 https://github.com/sungik-choi/amazon-clone
 https://github.com/sungik-choi/catchmind.io
+https://github.com/sungik-choi/country-app
 https://github.com/sungik-choi/figma-icon-plugin
 https://github.com/sungik-choi/gatsby-starter-apple
 https://github.com/sungik-choi/git

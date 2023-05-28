@@ -218,6 +218,7 @@ https://github.com/statox/p5-pool
 https://github.com/statox/p5-svelte-template
 https://github.com/statox/p5-vue-boilerplate
 https://github.com/statox/p5-vue-boilerplate-test
+https://github.com/statox/particles-life
 https://github.com/statox/pixijs-langton-ant
 https://github.com/statox/procedural-race
 https://github.com/statox/programmation_systeme_M1_S7

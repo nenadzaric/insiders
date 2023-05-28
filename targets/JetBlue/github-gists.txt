@@ -1,6 +1,7 @@
 https://gist.githubusercontent.com/AlexisAguila/eb4bdf32b00b5f43448279709dc3f3fd/raw/21c393b0c20c13c7be72aaf19d3362fed0fa0457/1907-06-10.xml
 https://gist.githubusercontent.com/RichardOliver/655300cc2b3228f84ca53ac37b4131a6/raw/04dca5bd15e52f9990232844a79dd81a4bb81e05/Sparse%20Crypto%20type%204%20UUID
 https://gist.githubusercontent.com/carlosmartinez/7a3cdd2b4753b6ff6380a5ba594d11f2/raw/4653a0ad8f7fbcac1f8b3174b3aff3b91af180c4/keybase.md
+https://gist.githubusercontent.com/carsonmeiling/436fd11e536ffe288dfb7e8414fdabe0/raw/0972868e870c8a7d4c11dd6cb55379c737b8e674/AuthProvider.js
 https://gist.githubusercontent.com/danielscott/ba533e1586add10f3598/raw/4bd8c88638996057183fc0fccbdfbda677360470/Birthdate_Datepicker.js
 https://gist.githubusercontent.com/danielscott/ba533e1586add10f3598/raw/51ba21428b250f5213cd497863230b533806e285/BBNC-BBIS%20JavaScript%20Repo
 https://gist.githubusercontent.com/danielscott/ba533e1586add10f3598/raw/56f8584d28fe25c11715b64d2c85e47f5928a88e/ValidationBasedOnInput.js
@@ -187,6 +188,9 @@ https://gist.githubusercontent.com/joshdover/9887fdbaa3dde3095da4b6482695d654/ra
 https://gist.githubusercontent.com/joshdover/d2bf3efc2b7c029cd59e/raw/f4395ea480a6531f9dc0e9a13c5d764e9b340bbb/activity.js
 https://gist.githubusercontent.com/joshdover/e0e67fa696823e8b7d06eee6533bdf0c/raw/f4fc5a126e7adfdf5887c142bb2bad19d0b62cef/pointer.patch
 https://gist.githubusercontent.com/joshdover/e3c449d165498da49e8e4a4fb6f2cef5/raw/3be11ac261e49b9f92739816bec018ff234d1ad5/so_types.js
+https://gist.githubusercontent.com/kaidez/298628e397ec2aa5f2dc/raw/59b89acb6b98c3e9870221e48266138365ad89f8/source.js
+https://gist.githubusercontent.com/kaidez/298628e397ec2aa5f2dc/raw/9f5e2f6909ecfd3ed332164b19e33762d786e09f/main.js
+https://gist.githubusercontent.com/kaidez/298628e397ec2aa5f2dc/raw/a951b6dccf34299915f2381cda57c052a4802389/resources.js
 https://gist.githubusercontent.com/kevinburke/055690692e322d56c587/raw/21fdfcf0ead91a7e8f7bbdcb87747aba10269496/gistfile1.txt
 https://gist.githubusercontent.com/kevinburke/08d1432064c516dddb3d49496ec028d7/raw/ed986fa171033bf149d3fa8f9961df6885b7b791/windy-hill.md
 https://gist.githubusercontent.com/kevinburke/11188314/raw/7fcfe347e90890258a839794ecafec822bb5937f/track_properties.go

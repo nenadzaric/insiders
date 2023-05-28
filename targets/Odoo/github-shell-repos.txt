@@ -1,3 +1,4 @@
+https://github.com/Julien00859/Projet_Admin_Sys
 https://github.com/OCA/ansible-odoo
 https://github.com/SeniorAdvisor/docker-vpnc
 https://github.com/Tecnativa/docker-cron
@@ -21,8 +22,15 @@ https://github.com/Vauxoo/ny
 https://github.com/Vauxoo/odoo-ci
 https://github.com/Vauxoo/odoo-ci-common
 https://github.com/Vauxoo/staticv
+https://github.com/amigrave/toothbrush
+https://github.com/assellalou/handy-scripts
 https://github.com/hnjm/WhatsApp-Noob-Hackers-Help
 https://github.com/marionumza/base_localization
 https://github.com/marionumza/cli-bolsaselperuano
+https://github.com/moerradi/U30_Ubuntu_20.04_v1.5
+https://github.com/moerradi/U30_Ubuntu_20.04_v2.0
+https://github.com/nouraellm/gpc
 https://github.com/odoochain/chain_dotfiles
 https://github.com/odooerpdevelopers/curso-odoo12
+https://github.com/sleepy-monax/dots
+https://github.com/sleepy-monax/odoo-scripts

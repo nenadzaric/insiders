@@ -1,6 +1,11 @@
 https://gist.githubusercontent.com/angelic/1677749/raw/d8b558cb7967ae212c3ab59520f2afd5e796495a/gistfile1.js
 https://gist.githubusercontent.com/angelic/204303/raw/042d5cf9d6c93433eb0b83df4852320a2db8d535/gistfile1.rb
 https://gist.githubusercontent.com/davewise/81a336cc542c6e413e20a18ea82543db/raw/6da0052bb17e7c269ee30bec5ac3d4c7c495cdce/keybase.md
+https://gist.githubusercontent.com/mohitDeshpande/b9984127dc6cc36a9976/raw/0b5453c1a978e3345950e936f001604c60953d1c/banker.c
+https://gist.githubusercontent.com/mohitDeshpande/b9984127dc6cc36a9976/raw/514bd06024263c142647db3e364e673cb17d6fe8/fcfs.c
+https://gist.githubusercontent.com/mohitDeshpande/e2d166d46ae002cbf3e41091b4800541/raw/9838b535e84dd48cc3b362098fee96b859f4681e/remitly_rate_checker.py
+https://gist.githubusercontent.com/mohitDeshpande/e2d166d46ae002cbf3e41091b4800541/raw/bde26c5bbc954706ffde9ff03237455aa3e1173d/Readme.md
+https://gist.githubusercontent.com/mohitDeshpande/e6c8e737af5ce991ff30eeebd7de9646/raw/c5b6c1e81db909c5e2e4e470f81e5bb1df72e5af/view-blocked-queries.sql
 https://gist.githubusercontent.com/robertc/37c408218698a0c633ba/raw/a5ac0b0600d4592e243c5df55a8b8806057fe745/StormUnited.log
 https://gist.githubusercontent.com/robertc/4556455/raw/5deb2406e3d86ee4a0b5b72002d96e40cb66c5cb/fizzbuzz.html
 https://gist.githubusercontent.com/robertc/59bea39cb2317ff133ef/raw/c34d67ef4cf7caac4d2c9196f24c41ef6160704c/steaminfo.txt

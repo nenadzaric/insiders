@@ -97,6 +97,16 @@ https://github.com/paritygeeker/fullstack_eth_dapp
 https://github.com/paritygeeker/td_first
 https://github.com/paritytech-actions/.github
 https://github.com/paritytech-ci/mta-sts
+https://github.com/paritytech-stg/alvicsam-playground
+https://github.com/paritytech-stg/command-bot-test
+https://github.com/paritytech-stg/companion-for-processbot-staging
+https://github.com/paritytech-stg/gitlab-guard-test
+https://github.com/paritytech-stg/gitspiegel-test
+https://github.com/paritytech-stg/hookshot-test-repo
+https://github.com/paritytech-stg/main-for-processbot-staging
+https://github.com/paritytech-stg/mirrorme
+https://github.com/paritytech-stg/playground
+https://github.com/paritytech-stg/sk-test-dependabot
 https://github.com/paritytech/.github
 https://github.com/paritytech/EIP-712
 https://github.com/paritytech/MultiSigil

@@ -305,6 +305,8 @@ https://github.com/swiggy-2022-bootcamp/cdp-team4
 https://github.com/swiggy-2022-bootcamp/training-i-plus-plus
 https://github.com/swiggy-app/admin
 https://github.com/swiggy-app/core
+https://github.com/swiggy-app1/core
+https://github.com/swiggy-app1/restraunt
 https://github.com/swiggy-application/admin2
 https://github.com/swiggy-application/core
 https://github.com/swiggy-vendor/charts-ios

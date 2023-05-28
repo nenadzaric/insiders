@@ -293,6 +293,10 @@ https://github.com/teleport-actions/auth-database
 https://github.com/teleport-actions/auth-k8s
 https://github.com/teleport-actions/root
 https://github.com/teleport-actions/setup
+https://github.com/teleport-cop/.github
+https://github.com/teleport-cop/teleport-cop.github.io
+https://github.com/teleport-cop/teleport-github-actions-kubernetes-app-deployment
+https://github.com/teleport-cop/teleport-github-actions-provisioning
 https://github.com/teleport-network/audit
 https://github.com/teleport-network/documents
 https://github.com/teleport-network/github-actions
@@ -306,6 +310,7 @@ https://github.com/teleport-network/xibc-contracts
 https://github.com/teleport-network/xibc-examples
 https://github.com/teleport/autocomplete
 https://github.com/teleport/bubert
+https://github.com/teleport/react-dnd-treeview
 https://github.com/teleport21/Telegram_Stealer
 https://github.com/teleport21/project2
 https://github.com/teleportR/TeleportR
@@ -395,6 +400,11 @@ https://github.com/twobombs/twobombs
 https://github.com/twobombs/vramfs
 https://github.com/twobombs/xacc-theia
 https://github.com/twobombs/zen-kernel-docker
+https://github.com/xinding33/FOSSA-test-environment
+https://github.com/xinding33/cicd-buzz
+https://github.com/xinding33/fossa-ms-eula-test
+https://github.com/xinding33/hello-world
+https://github.com/xinding33/json-license-test
 https://github.com/xinhuang/CubicClock
 https://github.com/xinhuang/FP-Principles-in-Scala
 https://github.com/xinhuang/HelloCinder

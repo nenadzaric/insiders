@@ -415,6 +415,7 @@ https://github.com/TeamExodus/external_stagefright-plugins
 https://github.com/TeamExodus/external_stlport
 https://github.com/TeamExodus/external_strace
 https://github.com/TeamExodus/external_tinyalsa
+https://github.com/TeamExodus/external_tinycompress
 https://github.com/TeamExodus/external_tinyxml2
 https://github.com/TeamExodus/external_toybox
 https://github.com/TeamExodus/external_unrar
@@ -523,6 +524,7 @@ https://github.com/TeamExodus/kernel_google_msm
 https://github.com/TeamExodus/kernel_htc_flounder
 https://github.com/TeamExodus/kernel_htc_m7
 https://github.com/TeamExodus/kernel_htc_msm8974
+https://github.com/TeamExodus/kernel_huawei_angler
 https://github.com/TeamExodus/kernel_lge_g3
 https://github.com/TeamExodus/kernel_lge_hammerhead
 https://github.com/TeamExodus/kernel_lge_mako
@@ -678,6 +680,7 @@ https://github.com/TeamExodus/vendor_lge_d851
 https://github.com/TeamExodus/vendor_lge_d852
 https://github.com/TeamExodus/vendor_lge_d855
 https://github.com/TeamExodus/vendor_lge_f400
+https://github.com/TeamExodus/vendor_lge_g2-common
 https://github.com/TeamExodus/vendor_lge_g3-common
 https://github.com/TeamExodus/vendor_lge_g4-common
 https://github.com/TeamExodus/vendor_lge_h811
@@ -696,6 +699,7 @@ https://github.com/TeamExodus/vendor_oneplus_bacon
 https://github.com/TeamExodus/vendor_oneplus_oneplus2
 https://github.com/TeamExodus/vendor_oneplus_oneplus3
 https://github.com/TeamExodus/vendor_oneplus_onyx
+https://github.com/TeamExodus/vendor_oppo_find7-common
 https://github.com/TeamExodus/vendor_oppo_msm8974-common
 https://github.com/TeamExodus/vendor_qcom_binaries
 https://github.com/TeamExodus/vendor_qcom_opensource_dataservices

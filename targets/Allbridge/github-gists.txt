@@ -9,3 +9,4 @@ https://gist.githubusercontent.com/mattconnell/a6f0615f9d978fb1abeda3692807977a/
 https://gist.githubusercontent.com/mattconnell/ac990efb49deb5dad2f59961f4321e3d/raw/3009272b0acd43d14189b5825c0752c3fa95e913/wav2mp3all.sh
 https://gist.githubusercontent.com/mattconnell/d210a378643051d73def6d8704b2f2dc/raw/be54a3777f23cae0534b77dce6a8e2c669e4cfb6/to-mp3.sh
 https://gist.githubusercontent.com/mattconnell/ee983fb89edd1f151bdef949e1d0780b/raw/7f06b43c95b021620c35a3cd6c7d980a5d5c90cc/docker-unifi.sh
+https://gist.githubusercontent.com/progdawn/b3a3717ddf3b219a427745d98fc3d039/raw/4a3e4571ec54c6dc1fc1647279d35232062b4f28/teraTermMacro

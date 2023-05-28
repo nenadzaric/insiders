@@ -135,6 +135,7 @@ https://github.com/etoromol/repo-ops
 https://github.com/etorox/docs
 https://github.com/etoroxlabs/eToken
 https://github.com/etoroxlabs/ens
+https://github.com/etoroxlabs/etoken-libra
 https://github.com/etoroxlabs/etoroxlabs.github.io
 https://github.com/etoroxlabs/lira
 https://github.com/gila/kcdemo2019

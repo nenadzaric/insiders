@@ -1,0 +1,8 @@
+https://github.com/SIDN/trace-ssh
+https://github.com/sidneyarcidiacono/git-branchy-tutorial
+https://github.com/sidneycadot/ArduinoDueBuildEnvironment
+https://github.com/sidneycadot/same70
+https://github.com/sidneymiranda/Gerenciador-de-IP
+https://github.com/sidneymiranda/Ping
+https://github.com/sidneys/cordova-autocrosswalk
+https://github.com/sidntrivedi012/dotfiles

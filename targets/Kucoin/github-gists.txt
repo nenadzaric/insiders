@@ -1,3 +1,7 @@
+https://gist.githubusercontent.com/TradingToolCrypto/047d19226e985d3e596f8669734e5ac3/raw/0310fdfcbbdee7d95d679fa1ec2159dc6aa11b14/gistfile1.txt
+https://gist.githubusercontent.com/TradingToolCrypto/3dca023a34b0dffb132d2b52621e29c0/raw/b9e721d4a1a4050f9069f246d3323b6f60315967/gistfile1.txt
+https://gist.githubusercontent.com/TradingToolCrypto/7818816e6879a951267fb403e5fa5c2b/raw/b4431e0e76dde22f27535de338079826c745f575/hmac.cpp
+https://gist.githubusercontent.com/TradingToolCrypto/e827abc5d3d1d2dca4a39f8e4c1658d9/raw/e909db47328247396a93d92ce50837fbe635bd4e/Set_Text
 https://gist.githubusercontent.com/alexp/28db7db35c58741aabfa/raw/2397e679ef4e00af167a3be538770ad91c0f1715/gistfile1.txt
 https://gist.githubusercontent.com/alexp/2a711e83f658e34fb9a3e652705a40ef/raw/5048b9e3587301dc556f556809a48643fa542b5e/alert.js
 https://gist.githubusercontent.com/rayluo/3575eaeba05db9e55d3e/raw/5e1c309dae7f45e0f39b1bf3ac3cd9db12e7d689/test.txt

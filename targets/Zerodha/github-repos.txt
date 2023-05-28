@@ -527,9 +527,11 @@ https://github.com/zerodha/fastglue-adapter
 https://github.com/zerodha/fastglue-csrf
 https://github.com/zerodha/fastglue-metrics
 https://github.com/zerodha/flask-kiteconnect
+https://github.com/zerodha/frappe-attachments-s3
 https://github.com/zerodha/gchatgpt
 https://github.com/zerodha/gokiteconnect
 https://github.com/zerodha/javakiteconnect
+https://github.com/zerodha/kite-connect-python-example
 https://github.com/zerodha/kite-discourse-sso
 https://github.com/zerodha/kiteconnect-mocks
 https://github.com/zerodha/kiteconnect-rs

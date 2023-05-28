@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/Svyatik-Bak/98c28ce743c55f24584d9d2e8da948fd/raw/ee3b000d339ddd18dacc059c5076279d020f1384/arch.sh
 https://gist.githubusercontent.com/TijmenWierenga/1cbd7cfdc0c5811a7c484f5bd9d2ce3b/raw/20f6e320386c8dc4412a839950af59734246f3dc/Dockerfile
 https://gist.githubusercontent.com/TijmenWierenga/1cbd7cfdc0c5811a7c484f5bd9d2ce3b/raw/85b4fe49ec734e6fca09a982cf278877aa8aac38/.dockerignore
 https://gist.githubusercontent.com/TijmenWierenga/2ff1e8aad58ea666d5aa2f5afa65b55d/raw/9446a1373761064ed957c9c5a7ac14646a995ea2/Dockerfile
@@ -14,3 +15,12 @@ https://gist.githubusercontent.com/koenverburg/acb0c6111d18f8a0097d36726072605c/
 https://gist.githubusercontent.com/koenverburg/c23dbf04576c209d3da5/raw/c22351fc70c85e2b4a2fa68e15cf9ca7e70c4a10/deploy.sh
 https://gist.githubusercontent.com/koenverburg/c90a8f8c374f9e5ca640a2e6407ddb65/raw/77474f66566962041197c530f2cad6e9b56ed006/fun.js
 https://gist.githubusercontent.com/koenverburg/ddc87e5a90c753d37d119265fdd1b538/raw/281d2d28ae1174c7ae92427552d7581abe516961/init.vim
+https://gist.githubusercontent.com/tweakers-parknow-2020/169a3c4752b41926a86cd386a8f12389/raw/da7c1c1a6b0684b84bd14f7304a54f3ba483f7c8/aws_amplify_installation.md
+https://gist.githubusercontent.com/tweakers-parknow-2020/17654c5623095eac028cf4f2cb35e67c/raw/7a4a074083442b2cbef1b8879f13945e5b9361c2/car_react_component.js
+https://gist.githubusercontent.com/tweakers-parknow-2020/35e23975e66c055b61f80f7bdd35c49f/raw/3dd060045621194162efce960bb2333fad58ccf4/App.js
+https://gist.githubusercontent.com/tweakers-parknow-2020/5af2ff3b5114bac2fa6fb6c1f2ed5fa0/raw/796858ae7360a5c7697facf3e988154c175c5873/stop_watch_react_component.js
+https://gist.githubusercontent.com/tweakers-parknow-2020/7fc854888190fa259c7a0ad4e27aeb28/raw/37ef28dd20722dcc5447ffd0fb5113b4d1b2a236/App.js
+https://gist.githubusercontent.com/tweakers-parknow-2020/8063c9b0eac8848087f36d7b57438a2b/raw/e3b9dc18a9bcd8ccaa2422dadfabb0e740bed7c5/App.js
+https://gist.githubusercontent.com/tweakers-parknow-2020/9d0c98dec684fbe7b2d77e1f1d18683e/raw/877e5922594c43d35b6d68b7048553bec4c1fb02/backend_amplify.md
+https://gist.githubusercontent.com/tweakers-parknow-2020/f412012346c8064cd87f16af24e0b282/raw/84d2a07de9f63da6274647af3db3808392aefc92/aws_amplify_configuration.md
+https://gist.githubusercontent.com/tweakers-parknow-2020/fbb7e5505cf6561c9fa6469fc4780d1c/raw/8f328dd1d138c3d5a4f435bbf7a236465b8d49d2/App.js

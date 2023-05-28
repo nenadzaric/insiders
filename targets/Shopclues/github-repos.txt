@@ -62,6 +62,7 @@ https://github.com/rohitshakya/Web-Projects
 https://github.com/rohitshakya/bug-free-tribble
 https://github.com/rohitshakya/rohitshakya
 https://github.com/rohitshakya/rohitshakya.github.io
+https://github.com/sher-yadav/shopclues
 https://github.com/shivanks/shopclues
 https://github.com/shopclues/shopclues
 https://github.com/sudhagupta/sudhagupta

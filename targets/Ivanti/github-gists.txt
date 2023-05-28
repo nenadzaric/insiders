@@ -19,6 +19,16 @@ https://gist.githubusercontent.com/AaronHudson/f4cad7a4fd2138f4aaba/raw/64034cf3
 https://gist.githubusercontent.com/RahulShaw/0cb28b1edf2631d6bb4a/raw/1fc2549dc56c56e8adc79c97d895470cd718cb97/example.php
 https://gist.githubusercontent.com/RahulShaw/28719fc61ce66a7b406e/raw/8a0b271e3273a2bb7dc45624ea515a76219f31ac/Calculation.js
 https://gist.githubusercontent.com/RahulShaw/7c28a3bdea1a33881597e030a348b105/raw/6781624388fbca0017f58185b939f84a9fae5441/find.js
+https://gist.githubusercontent.com/ivantikal/21fdd76d7b7f2edeb5030f8c0f573545/raw/ec7c5093e2fa4917e4238b4e588c6840d2c6b759/clean_binaries.sh
+https://gist.githubusercontent.com/ivantikal/36b6841f65824a06fc159b4a3b710dd4/raw/347cf84c240830652fb68af24cb91e74cc9d4ac1/vars.yml
+https://gist.githubusercontent.com/ivantikal/36b6841f65824a06fc159b4a3b710dd4/raw/72140892dcd502aa58967bf4bc985756bb89ecd1/ansible_conditionals_examples.yaml
+https://gist.githubusercontent.com/ivantikal/51620d2edf06aef18872ac9da29bfc7e/raw/6ef652f32b9589438f3b8ca08c23058ce114c775/questions.md
+https://gist.githubusercontent.com/ivantikal/9ad4a2b830d29ee5ac4b4172e9369439/raw/46c5044bb83e2f4aa413165c02bc856bc18b17c1/Yana.asm
+https://gist.githubusercontent.com/ivantikal/b44b3ac2c5e5894218244a6d3a609c8c/raw/2f79ec21d80eab5fb02dafcf9dedec9714189cb6/pre-receive-hook.sh
+https://gist.githubusercontent.com/ivantikal/c1ac80bf32d81313dfa7c81526d26778/raw/9845fa0cc26b4862e242f36d77ac12f9438b030f/find_binaries.sh
+https://gist.githubusercontent.com/ivantikal/d603c84b5b94155902e34fb0999fce24/raw/78378092ecf143f274b40d2c9441b6f4e1d7f899/get_biggest_files_in_history.sh
+https://gist.githubusercontent.com/ivantikal/f4ad62c372ed62a1c30fb61dda5eab7e/raw/8be896cf41e0bf07458ff75db241bfbf9090f7a8/show-big-files
+https://gist.githubusercontent.com/ivantishchenko/716f7dce6f9ba5691ae0e16df8768663/raw/c026834d06e44739a114b67a2ab258aafb2528ca/gpa_v2.py
 https://gist.githubusercontent.com/nhattan/0c208c23674a8dea883c/raw/6990fe451f560c8a8d6230fc73958732900bb177/gistfile1.md
 https://gist.githubusercontent.com/nhattan/1d265153db4277d94db848bd55bf29fe/raw/a29d3c66424fed587b10d55aa9f14f7588e870b3/postman-pre-request.js
 https://gist.githubusercontent.com/nhattan/20b422f008b9be88bfd657f2c3728e7e/raw/1f687c3990069cf29bc25130f413ab428b7c367b/upload.js

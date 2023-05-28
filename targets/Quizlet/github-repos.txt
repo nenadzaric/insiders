@@ -137,6 +137,7 @@ https://github.com/pjaws/pjaws.github.io
 https://github.com/pjaws/ponto-api
 https://github.com/pjaws/ponto-api-old
 https://github.com/pjaws/ponto-ui
+https://github.com/pjaws/react-dripicons
 https://github.com/pjaws/react-kanban
 https://github.com/pjaws/shopify-css-cleaner
 https://github.com/quizlet/abracadabra

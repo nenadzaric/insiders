@@ -1,1 +1,3 @@
 https://gist.githubusercontent.com/carolineli/21df44836627e62b1fb85c3e4a747c97/raw/cb5aed0c2c4e353dd4c69a7a3efce8d74a1ca5e9/gistfile1.js
+https://gist.githubusercontent.com/pruthvishetty/7f08992ce14f6ae30572/raw/9228038ecc43069739f7cc169eaf5d1793719b68/The%20Technical%20Interview%20Cheat%20Sheet.md
+https://gist.githubusercontent.com/pruthvishetty/c9f0819df9a5d29bd58888d61dae5ef5/raw/d3aec1bed4ab5fcaea007e54e3931e975e9cae14/athena_cheatsheet.md

@@ -16,3 +16,9 @@ https://gist.githubusercontent.com/ashleydavis/af1958d3f22bd876959ebcc97105dd14/
 https://gist.githubusercontent.com/ashleydavis/db9593714e179c9bb378f63651ecaf71/raw/f8fde4dc945cc3f025d2e39d75d654258e7628a0/prototype.ts
 https://gist.githubusercontent.com/ashleydavis/ee0ef4d216f5b4fc9a6bc7c72197e9c4/raw/730b8a87b34f39f0dd20a44581291e85892c38c1/event-source.ts
 https://gist.githubusercontent.com/ashleydavis/f025c03a9221bc840a2b/raw/963bbbe61da1160e8ea67107c74e8f4dd1867eb6/Unity%20FreeCam
+https://gist.githubusercontent.com/asrospie/27491ce719f823c832ab4ec613230647/raw/03d42c64020918ce7e95ce33617f22932c10454c/SketchSystems_prototype.js
+https://gist.githubusercontent.com/asrospie/27491ce719f823c832ab4ec613230647/raw/9619efbc6da55b4cb43b0947f005c06c394a82a7/SketchSystems.spec
+https://gist.githubusercontent.com/asrospie/77521be8923097e87e96577d46e1998f/raw/03d42c64020918ce7e95ce33617f22932c10454c/SketchSystems_prototype.js
+https://gist.githubusercontent.com/asrospie/77521be8923097e87e96577d46e1998f/raw/5b788e4fe27d1ffa9b76c218e4536e5b3b0c4d95/SketchSystems.spec
+https://gist.githubusercontent.com/asrospie/8297ccef449cd2a41f28435fcf8f8008/raw/03d42c64020918ce7e95ce33617f22932c10454c/SketchSystems_prototype.js
+https://gist.githubusercontent.com/asrospie/8297ccef449cd2a41f28435fcf8f8008/raw/949ac160c8a8a2a26d3b71bfbc1ff4d8645a0804/SketchSystems.spec

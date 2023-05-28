@@ -1,0 +1,14 @@
+https://github.com/ShapeShiftOS-Devices/device_oneplus_common
+https://github.com/ShapeShiftOS-Devices/device_oneplus_sdm845-common
+https://github.com/ShapeShiftOS-Devices/device_oneplus_sm8250-common
+https://github.com/ShapeShiftOS-Devices/device_realme_sdm710-common
+https://github.com/ShapeShiftOS-Devices/device_xiaomi_msm8953-common
+https://github.com/ShapeShiftOS-Devices/device_xiaomi_msm8953-common-ysl
+https://github.com/ShapeShiftOS-Devices/device_xiaomi_sm8250-common
+https://github.com/ShapeShiftOS-Devices/device_xiaomi_vince
+https://github.com/ShapeShiftOS-WIP/android_vendor_aosp
+https://github.com/ShapeShiftOS/android_vendor_aosp
+https://github.com/ShapeShiftOS/android_vendor_qcom_opensource_interfaces
+https://github.com/ShapeShiftOS/android_vendor_ssos
+https://github.com/ShapeShifter499/android_build_script
+https://github.com/ShapeShifter499/osk-sdl_arch

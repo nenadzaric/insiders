@@ -20,6 +20,7 @@ https://github.com/RecordedFutureOskbo/SentinelPlayground
 https://github.com/abhilashd/abhilashd
 https://github.com/amitasthana/recordedfuture
 https://github.com/apikoros/recordedfuture
+https://github.com/bpna/recordedfuture
 https://github.com/cansubirdal/recordedfuture
 https://github.com/drewhammond/AvailityAuthProvider
 https://github.com/drewhammond/DH-Genesis-Child
@@ -54,8 +55,11 @@ https://github.com/drewhammond/yak-hunt
 https://github.com/epireve/recordedfuture
 https://github.com/essejhsif/recordedfuture
 https://github.com/kziemski/recordedfuture
+https://github.com/mefumetsub/recordedfuture
 https://github.com/nathanm/hello-world
 https://github.com/olivianagel/hello-world
+https://github.com/recordedfuture/AzureIntegrations
+https://github.com/recordedfuture/rfapi-python
 https://github.com/recordedfuture1/api
 https://github.com/splunk-soar-connectors/recordedfuture
 https://github.com/teobecerra/Connect-Four

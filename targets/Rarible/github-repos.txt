@@ -33,6 +33,7 @@ https://github.com/ifelsedeveloper/lcard-analysis
 https://github.com/ifelsedeveloper/thermicsgsm
 https://github.com/jdereg/java-util
 https://github.com/kingdayx/RaribleNFT
+https://github.com/ordinals/ord
 https://github.com/rarible/aptos-openapi
 https://github.com/rarible/benchmark-image-proxies
 https://github.com/rarible/biconomy

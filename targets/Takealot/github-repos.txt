@@ -57,6 +57,7 @@ https://github.com/LyleH/references
 https://github.com/LyleH/splinter_python_web_test_1
 https://github.com/LyleH/youtube-dl
 https://github.com/Mothamo/TakealotA
+https://github.com/PulengMphahlele/TakealotBootcamp
 https://github.com/RossKohler/EnergyTrack2.0
 https://github.com/RossKohler/HoughDetector
 https://github.com/RossKohler/Kinect_PCL

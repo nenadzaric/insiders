@@ -117,6 +117,7 @@ https://github.com/IBM/ibm-cos-vm-iac
 https://github.com/IBM/ibm-crossplane-operator
 https://github.com/IBM/ibm-elastic-stack-operator
 https://github.com/IBM/ibm-garage-tekton-tasks
+https://github.com/IBM/ibm-ingress-nginx-operator
 https://github.com/IBM/ibm-platform-api-operator
 https://github.com/IBM/ibm-spectrum-discover-resources
 https://github.com/IBM/ibm-spectrum-scale-container-native-helm
@@ -253,6 +254,7 @@ https://github.com/ibm-cloud-architecture/terraform-module-wps-deploy
 https://github.com/ibm-cloud-architecture/tutorial-vpc-IoT_service
 https://github.com/ibm-cloud-architecture/vaccine-gitops
 https://github.com/ibm-cloud-docs/Cloudant
+https://github.com/ibm-cloud-docs/sql-query
 https://github.com/ibm-developer-skills-network/fgskh-new_horizons
 https://github.com/ibm-developer-skills-network/ooxwv-docker_hadoop
 https://github.com/ibm-messaging/cp4i-mq-samples

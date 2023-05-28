@@ -410,9 +410,12 @@ https://github.com/uber-go/atomic
 https://github.com/uber-go/automaxprocs
 https://github.com/uber-go/cadence-client
 https://github.com/uber-go/config
+https://github.com/uber-go/dig
 https://github.com/uber-go/dosa
 https://github.com/uber-go/flagoverride
+https://github.com/uber-go/fx
 https://github.com/uber-go/go-helix
+https://github.com/uber-go/goleak
 https://github.com/uber-go/gopatch
 https://github.com/uber-go/guide
 https://github.com/uber-go/gwr
@@ -421,9 +424,11 @@ https://github.com/uber-go/icu4go
 https://github.com/uber-go/kafka-client
 https://github.com/uber-go/mapdecode
 https://github.com/uber-go/multierr
+https://github.com/uber-go/ratelimit
 https://github.com/uber-go/sally
 https://github.com/uber-go/tally
 https://github.com/uber-go/tools
+https://github.com/uber-go/zap
 https://github.com/uber-research/CRISP
 https://github.com/uber-research/CoordConv
 https://github.com/uber-research/D3G
@@ -610,6 +615,11 @@ https://github.com/uber/uberscriptquery
 https://github.com/uber/uncaught-exception
 https://github.com/uber/xviz-data
 https://github.com/uber/zanzibar
+https://github.com/uberduck-ai/dataset_viewer
+https://github.com/uberduck-ai/uberduck-discord-example
+https://github.com/uberduck-ai/uberduck-dvc-tutorial
+https://github.com/uberduck-ai/uberduck-ml-dev
+https://github.com/uberduck-ai/utterances
 https://github.com/ubernostrum/akismet
 https://github.com/ubernostrum/b_list
 https://github.com/ubernostrum/blog

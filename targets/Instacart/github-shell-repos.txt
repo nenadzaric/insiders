@@ -1,4 +1,5 @@
 https://github.com/andykim/docker-elk
 https://github.com/instacart/ohmycron
+https://github.com/jrnold/r-strat
 https://github.com/patrickxrivera/Social-View
 https://github.com/viktor-evdokimov/docker-python

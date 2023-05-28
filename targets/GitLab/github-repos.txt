@@ -2,6 +2,8 @@ https://github.com/GNOME/NetworkManager-fortisslvpn
 https://github.com/GNOME/NetworkManager-libreswan
 https://github.com/GNOME/NetworkManager-openconnect
 https://github.com/GNOME/NetworkManager-openvpn
+https://github.com/GNOME/NetworkManager-pptp
+https://github.com/GNOME/NetworkManager-vpnc
 https://github.com/GNOME/accerciser
 https://github.com/GNOME/adwaita-icon-theme
 https://github.com/GNOME/aisleriot
@@ -16,11 +18,14 @@ https://github.com/GNOME/babl
 https://github.com/GNOME/balsa
 https://github.com/GNOME/baobab
 https://github.com/GNOME/brasero
+https://github.com/GNOME/buoh
 https://github.com/GNOME/calls
 https://github.com/GNOME/cantarell-fonts
 https://github.com/GNOME/cheese
 https://github.com/GNOME/chronojump
+https://github.com/GNOME/chronojump-docs
 https://github.com/GNOME/chronojump-web
+https://github.com/GNOME/citemplates
 https://github.com/GNOME/connections
 https://github.com/GNOME/console
 https://github.com/GNOME/d-feet
@@ -39,6 +44,7 @@ https://github.com/GNOME/evince
 https://github.com/GNOME/evolution
 https://github.com/GNOME/evolution-activesync
 https://github.com/GNOME/evolution-data-server
+https://github.com/GNOME/evolution-etesync
 https://github.com/GNOME/evolution-ews
 https://github.com/GNOME/evolution-mapi
 https://github.com/GNOME/extensions-web
@@ -63,6 +69,7 @@ https://github.com/GNOME/genius
 https://github.com/GNOME/geocode-glib
 https://github.com/GNOME/gexiv2
 https://github.com/GNOME/ghex
+https://github.com/GNOME/gi-docgen
 https://github.com/GNOME/gimp
 https://github.com/GNOME/gimp-book-painting
 https://github.com/GNOME/gimp-data-extras
@@ -116,6 +123,7 @@ https://github.com/GNOME/gnome-keyring
 https://github.com/GNOME/gnome-keysign
 https://github.com/GNOME/gnome-kiosk
 https://github.com/GNOME/gnome-klotski
+https://github.com/GNOME/gnome-kra-ora-thumbnailer
 https://github.com/GNOME/gnome-logs
 https://github.com/GNOME/gnome-mahjongg
 https://github.com/GNOME/gnome-maps
@@ -131,6 +139,7 @@ https://github.com/GNOME/gnome-network-displays
 https://github.com/GNOME/gnome-nibbles
 https://github.com/GNOME/gnome-notes
 https://github.com/GNOME/gnome-online-accounts
+https://github.com/GNOME/gnome-ostree-integration
 https://github.com/GNOME/gnome-packagekit
 https://github.com/GNOME/gnome-panel
 https://github.com/GNOME/gnome-photos
@@ -161,6 +170,7 @@ https://github.com/GNOME/gnome-user-docs
 https://github.com/GNOME/gnome-user-share
 https://github.com/GNOME/gnome-video-effects
 https://github.com/GNOME/gnome-weather
+https://github.com/GNOME/gnomemm-website
 https://github.com/GNOME/gnote
 https://github.com/GNOME/gnumeric
 https://github.com/GNOME/gnumeric-web
@@ -171,6 +181,7 @@ https://github.com/GNOME/goocanvas
 https://github.com/GNOME/goocanvasmm
 https://github.com/GNOME/gparted
 https://github.com/GNOME/grilo
+https://github.com/GNOME/grilo-mediaserver2
 https://github.com/GNOME/grilo-plugins
 https://github.com/GNOME/gsettings-desktop-schemas
 https://github.com/GNOME/gsound
@@ -211,9 +222,12 @@ https://github.com/GNOME/krb5-auth-dialog
 https://github.com/GNOME/libadwaita
 https://github.com/GNOME/libchamplain
 https://github.com/GNOME/libdazzle
+https://github.com/GNOME/libdex
 https://github.com/GNOME/libdmapsharing
+https://github.com/GNOME/libepc
 https://github.com/GNOME/libgd
 https://github.com/GNOME/libgda
+https://github.com/GNOME/libgdamm
 https://github.com/GNOME/libgdata
 https://github.com/GNOME/libgee
 https://github.com/GNOME/libgepub
@@ -226,12 +240,14 @@ https://github.com/GNOME/libgnomekbd
 https://github.com/GNOME/libgovirt
 https://github.com/GNOME/libgrss
 https://github.com/GNOME/libgsf
+https://github.com/GNOME/libgtkmusic
 https://github.com/GNOME/libgtop
 https://github.com/GNOME/libgudev
 https://github.com/GNOME/libgweather
 https://github.com/GNOME/libgxps
 https://github.com/GNOME/libhandy
 https://github.com/GNOME/libhttpseverywhere
+https://github.com/GNOME/libmanette
 https://github.com/GNOME/libmediaart
 https://github.com/GNOME/libnma
 https://github.com/GNOME/libnotify
@@ -240,6 +256,7 @@ https://github.com/GNOME/libpeas
 https://github.com/GNOME/librest
 https://github.com/GNOME/librsvg
 https://github.com/GNOME/libsecret
+https://github.com/GNOME/libshumate
 https://github.com/GNOME/libsoup
 https://github.com/GNOME/libwnck
 https://github.com/GNOME/libxml2
@@ -258,10 +275,12 @@ https://github.com/GNOME/nautilus
 https://github.com/GNOME/nautilus-ideviceinfo
 https://github.com/GNOME/nautilus-python
 https://github.com/GNOME/network-manager-applet
+https://github.com/GNOME/network-manager-iodine
 https://github.com/GNOME/network-manager-sstp
 https://github.com/GNOME/niepce
 https://github.com/GNOME/ocrfeeder
 https://github.com/GNOME/odrs-web
+https://github.com/GNOME/office-runner
 https://github.com/GNOME/openqa-needles
 https://github.com/GNOME/openqa-tests
 https://github.com/GNOME/orca
@@ -306,7 +325,10 @@ https://github.com/GNOME/telegnome
 https://github.com/GNOME/template-glib
 https://github.com/GNOME/totem
 https://github.com/GNOME/totem-pl-parser
+https://github.com/GNOME/totem-video-thumbnailer
 https://github.com/GNOME/tracker
+https://github.com/GNOME/tracker-miner-chatlog
+https://github.com/GNOME/tracker-miner-media
 https://github.com/GNOME/tracker-miners
 https://github.com/GNOME/twenty-years
 https://github.com/GNOME/vala

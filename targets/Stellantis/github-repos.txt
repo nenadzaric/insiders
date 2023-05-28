@@ -245,6 +245,7 @@ https://github.com/shivagur/IBM_Datascience_Specialisation_Course_Assignment
 https://github.com/shivagur/ML_BHP
 https://github.com/shivagur/MachineLearning_Project
 https://github.com/shivagur/Programming-in-Cpp-A-Hands-on-Introduction
+https://github.com/shivagur/Text_Outlier_Project
 https://github.com/shivagur/asd_daily_tasks
 https://github.com/vhsabino/Autinho
 https://github.com/vhsabino/MATLAB

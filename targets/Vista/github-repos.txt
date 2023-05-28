@@ -467,6 +467,7 @@ https://github.com/vistart/IoTRecordAndPushToServer
 https://github.com/vistart/Lab1PlaceGroup
 https://github.com/vistart/OrthogonalLinkedOctree
 https://github.com/vistart/S3DIS
+https://github.com/vistart/ap-sh-info-manager
 https://github.com/vistart/copyright-supporter
 https://github.com/vistart/minibase2
 https://github.com/vistart/scs-demo
@@ -498,6 +499,7 @@ https://github.com/vistasunil/Redhat-Service-Mesh
 https://github.com/vistasunil/azure-adv
 https://github.com/vistasunil/ckan
 https://github.com/vistasunil/devops
+https://github.com/vistasunil/devops1
 https://github.com/vistasunil/devops_training
 https://github.com/vistasunil/devops_training_4Aug
 https://github.com/vistasunil/eShopOnWeb

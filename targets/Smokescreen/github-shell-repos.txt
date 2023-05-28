@@ -1,1 +1,2 @@
+https://github.com/SmokeScreen999/LookupTermux
 https://github.com/eduardb/dotfiles

@@ -1,5 +1,11 @@
+https://gist.githubusercontent.com/PalinuroSec/7a91f2f9b080d7f0a6ea995036baa59e/raw/effff0a9e2a387b03e2c29315a9d47dea7a3815b/gistfile1.txt
+https://gist.githubusercontent.com/PalinuroSec/a4a2fbc3ffcaff460babe027184c7729/raw/be3d1064a8dc9f0a4def33bbe27e7d120bc78bd0/resolvconf
+https://gist.githubusercontent.com/PalinuroSec/add75b7d7295c42e4894f1c32919e6fe/raw/255ee1a37a838fb51e5520edd6988066c8d43722/keybase.md
+https://gist.githubusercontent.com/PalinuroSec/c11108a12fced3df2adb00efd0d85cba/raw/078b0263a3f4639da8ac73d3df1b308758fa670f/bludit-brute.go
+https://gist.githubusercontent.com/PalinuroSec/f0bfb815240573ab1b0b58f3c76620d4/raw/7ef582f398819e48021708698e9dcc78d8b5125a/mirrorbits-nginx.conf
 https://gist.githubusercontent.com/lucasb/52329e0c6f51e6a7992863c9ed98eed2/raw/3a9b2631d8f5b64bc188a17195a397dd6ff2c6f9/component1.js
 https://gist.githubusercontent.com/lucasb/7f3de56d968c2e1d38f026a5aadfa9b8/raw/c4227aa3fd4699c9dad4e9d04d89f8ad0dcb4151/cla-fleeg.md
 https://gist.githubusercontent.com/lucasb/9712c68b4922dc85c52bddcae8c77213/raw/6410eb10ffed29a40ef9162252ef53a080fbdbd7/component2.js
 https://gist.githubusercontent.com/lucasb/cc281b3dad2bd81d0c38a7a8c07051da/raw/d8de25cc5eb4673bbb5b768d772bf1a94e1ffa84/sharedata.js
 https://gist.githubusercontent.com/lucasb/da0e4a4cbf2bc2a629f5fc73cea5bee8/raw/8adb085e687b9f3d3c3fe39f9dea16871081c5e1/component1improve.js
+https://gist.githubusercontent.com/mibofra/37989d642bc74df86ba4e77204970986/raw/3e18da0fe900925ebdbedfb04a23f7fe4e0659b0/openpgp.txt

@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/SamsungMobiles/3dd70f4cba36ecd95d1b0082b254e547/raw/cd314c6a002fbdbd5b724504cbc4c01df9192a36/Html%20Table%20Code
 https://gist.githubusercontent.com/amitkumar/076c15c6d66273b066e1/raw/ef493aa41783a161f9aa9500ffcd109fa5431243/join-with-commas.js
 https://gist.githubusercontent.com/amitkumar/2221ad9ed9d425a76068a9b6944fa3a1/raw/2b99cd57bd009095579f4a8ed22db75821216cd2/getObjectId.js
 https://gist.githubusercontent.com/amitkumar/64398466b6fe24fadd4a8beedeed783b/raw/9f5be3a1f738db5a5e4fc6f4aab8e5c443c8f5e7/extensions.json

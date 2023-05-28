@@ -1,1 +1,3 @@
 https://github.com/kylekatarnls/ExtractTest
+https://github.com/sashabaranov/ship-packer
+https://github.com/sashabaranov/skygrid-xgb-distributed

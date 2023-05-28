@@ -1,3 +1,11 @@
+https://gist.githubusercontent.com/Americas/2b2e7c1becf0217b0e8f/raw/63dbc654243b102b24dc5fab6c162687794ad7c8/keybase.md
+https://gist.githubusercontent.com/SandroMachado/34834c353fe353a7bf668ad2977b5ece/raw/6458509977327e242d9f9e06918ff2edbca0ab2f/gistfile1.txt
+https://gist.githubusercontent.com/SandroMachado/7ecb1f2d7ffde3738fb9c810e33247b5/raw/923a4c584fb01592b4ac22cdf9744b83e8adb868/gistfile1.txt
+https://gist.githubusercontent.com/SandroMachado/87e591fc42f368636b251b566485ae46/raw/aa77b0c0336dad0a658abf4fa4dd833bed057c06/pi-reboot-on-network-failure
+https://gist.githubusercontent.com/SandroMachado/9ee516bbd36768ca3844876c50cf4618/raw/702f4f9be22dd90e8cf753885ba4b84580afc5e9/convert-to-webp.sh
+https://gist.githubusercontent.com/franciscocardoso/845c42da6553afffc259/raw/d38684eaea1c06ad42683f223e3eff72040e1c89/keybase.md
+https://gist.githubusercontent.com/hpereira98/1026e0f78944580cc506b5fbdc814a53/raw/2ad51ff732a47738586d74e9eee26300929e3bd7/keybase.md
+https://gist.githubusercontent.com/kurayama/4121edf2cd97f5c1fe7bc41edf2a5eed/raw/298ad64fcde3bd07f29a2d0f47c99f662a874fd1/gistfile1.txt
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/3f63ee1a9f85df3569b278e66deef9c5ddd7e07e/twitter_update_with_media.coffee
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/89c24b0eb2e4060f0222ff420fa9255bbc8dd3ec/usage.coffee
 https://gist.githubusercontent.com/marcooliveira/10012552/raw/af987355acef916319bad75872fe91b7971e11b1/twitter_update_with_media.js
@@ -7,3 +15,12 @@ https://gist.githubusercontent.com/marcooliveira/9450482/raw/889d5a87ada678f986c
 https://gist.githubusercontent.com/marcooliveira/fa5c31aded5b69c9c7deff5b73351729/raw/7ee61d874b4440cd7a84cc0a4ca45c539da5bf01/collaboration-lifecycle.md
 https://gist.githubusercontent.com/ruimarinho/7f3e13a5856eda0cdad1276d4c25b46d/raw/50c5ee106c87ca15be28cd8426875819687f7752/gistfile1.txt
 https://gist.githubusercontent.com/ruimarinho/b351618603c729f74c24/raw/943a7d2048b98df647adc285af549049f5570d9f/keybase.md
+https://gist.githubusercontent.com/ruipenso/8d4270b9fa8ffdf3143259d92d47d41d/raw/b7a4c2251b70fabecdd93da8122c5370b9f7fd31/keybase.md
+https://gist.githubusercontent.com/ruipenso/9f887108d249bab98895/raw/84aaa6425f0aebeba1b89deac78e402b4cebe3d3/gistfile1.txt
+https://gist.githubusercontent.com/satazor/055de251c823048817812c427e2ab604/raw/1197e1646719580ebeb1b0c079345b30c9ab7dd0/true-serverless-workshop.md
+https://gist.githubusercontent.com/satazor/415244ecbe80f424ea51f403c24aa79a/raw/e88784e63409fb7b09a4c7f49de1df9fbcaebf1e/identity-breakdown.md
+https://gist.githubusercontent.com/satazor/5363520/raw/3601d1b7b3156223cd5bb8861603d7aea382abf5/git-remove-file
+https://gist.githubusercontent.com/satazor/5795702/raw/0dd35589356d8cb0dffe9657efc609a7c8f2006a/bashprofile
+https://gist.githubusercontent.com/satazor/aedfbe251826aa06f67f5013d85a24fb/raw/1fe5ce5d73d240a80905a38e240e42c58d6c5cf3/gistfile1.txt
+https://gist.githubusercontent.com/satazor/c473756fadbb54826ce6004f297c7121/raw/3165e6b38298f35cca6d8f3e0a776a9272e24882/join-url.js
+https://gist.githubusercontent.com/satazor/c473756fadbb54826ce6004f297c7121/raw/ff2e3bc771aa734f179b4a102ab3153f8d121d9f/test.js

@@ -217,6 +217,7 @@ https://github.com/dsdude123/CSS385-PlaygroundChallenge
 https://github.com/dsdude123/CosmosRIF
 https://github.com/dsdude123/Crob
 https://github.com/dsdude123/Crob-DC
+https://github.com/dsdude123/DivoomDoneQuick
 https://github.com/dsdude123/GroovyRP
 https://github.com/dsdude123/LifeAdvanced-Prototype
 https://github.com/dsdude123/MariBot

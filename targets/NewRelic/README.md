@@ -5,6 +5,6 @@ graph LR
 COMPANY_NAME{NewRelic}
 COMPANY_NAME ---> U{Users} ---> UN[26]
 COMPANY_NAME ---> R{Repositories} ---> RN[1046]
-COMPANY_NAME ---> G{Gists} ---> GN[56]
+COMPANY_NAME ---> G{Gists} ---> GN[291]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

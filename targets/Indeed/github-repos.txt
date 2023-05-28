@@ -61,6 +61,7 @@ https://github.com/JithinKS97/iexec-frontend
 https://github.com/JithinKS97/iexec-spotify-oracle
 https://github.com/JithinKS97/jlk-todo
 https://github.com/JithinKS97/next-chakra-starter
+https://github.com/JithinKS97/nft-test-project
 https://github.com/JithinKS97/node-typescript-starter
 https://github.com/JithinKS97/numberline-visualization
 https://github.com/JithinKS97/p5.2DGraph

@@ -16,6 +16,7 @@ https://github.com/paritygeeker
 https://github.com/paritytech
 https://github.com/paritytech-actions
 https://github.com/paritytech-ci
+https://github.com/paritytech-stg
 https://github.com/paritytrading
 https://github.com/raed
 https://github.com/rossbulat

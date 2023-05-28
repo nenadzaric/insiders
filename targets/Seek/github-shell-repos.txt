@@ -13,3 +13,6 @@ https://github.com/seek-oss/ssm-buildkite-plugin
 https://github.com/seek-oss/toolbox
 https://github.com/seek-ret/beanstalk-sh
 https://github.com/seek-ret/installation
+https://github.com/seekaddo/Betriebsysteme
+https://github.com/seekayel/seekayel-theme
+https://github.com/seekshiva/CISCEResults2013

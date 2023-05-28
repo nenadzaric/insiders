@@ -16,10 +16,12 @@ https://github.com/DEcSENT/YamblzHomeProject
 https://github.com/DEcSENT/cv
 https://github.com/DEcSENT/flutter_playground
 https://github.com/DEcSENT/k8s-sandbox
+https://github.com/Didenko1998/inDrive
 https://github.com/Kayyum1543/indrive
 https://github.com/Kayyum1543/indrive2
 https://github.com/MohamedTarek20196046/IndriverApp
 https://github.com/arstoktarov/indriverAnalog
+https://github.com/graetzer/inDrive
 https://github.com/inDriver/OSSRH-87163
 https://github.com/inDriver/UDF
 https://github.com/inDriver/laniakea-gradle-plugin

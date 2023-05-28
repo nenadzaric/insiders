@@ -1,6 +1,9 @@
 https://github.com/RedisLabs/DockerHub
 https://github.com/RedisLabs/docker-library-redis
 https://github.com/RedisLabs/redis-enterprise-azure
+https://github.com/RedisOptimal/redis-cluster-support-mget
+https://github.com/Redish101/612-people
+https://github.com/Redish101/QQBotHub
 https://github.com/Redislabs-Solution-Architects/cloudformation-aws-Redislabs-Cloud-Account-IAM-Resources
 https://github.com/Redislabs-Solution-Architects/json-search-demo
 https://github.com/Redislabs-Solution-Architects/presto-redis
@@ -13,6 +16,8 @@ https://github.com/codecrafters-io/heroku-buildpack-dbmate
 https://github.com/codecrafters-io/heroku-buildpack-gh
 https://github.com/codecrafters-io/sqlite-starter-ruby
 https://github.com/enjoy-binbin/docker-django-blog
+https://github.com/itamarhaber/lolwutbm
+https://github.com/itamarhaber/streams-cpubattmp
 https://github.com/kamransarwar/Microservices_Spring_Boot
 https://github.com/redis/redis-debian
 https://github.com/redis/redis-doc
@@ -23,3 +28,4 @@ https://github.com/redislabs-training/ocsp-responder
 https://github.com/redislabs-training/slides-as-code-setup
 https://github.com/slorello89/cipher-restricted-redis
 https://github.com/slorello89/rhel7-issue-minimal-repro
+https://github.com/yihuang/cardano-devnet

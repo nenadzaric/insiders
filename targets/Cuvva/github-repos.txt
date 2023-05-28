@@ -8,6 +8,7 @@ https://github.com/Hais/usefulsite-hubot
 https://github.com/Hais/wall-e
 https://github.com/PatrickSocha/DumbDNS
 https://github.com/PatrickSocha/browserupdate.zip
+https://github.com/PatrickSocha/inboxes.app
 https://github.com/PatrickSocha/patricksocha.github.io
 https://github.com/RichAppz/Cuvva-Theme
 https://github.com/aaronbutler/AndroidPortfolio

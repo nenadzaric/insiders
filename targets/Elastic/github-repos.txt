@@ -205,7 +205,9 @@ https://github.com/elastic/ElasticGPT_Plugin
 https://github.com/elastic/Elastiflix
 https://github.com/elastic/Example-Watches
 https://github.com/elastic/Machinebeat
+https://github.com/elastic/PPLGuard
 https://github.com/elastic/RegionalDG
+https://github.com/elastic/Silhouette
 https://github.com/elastic/aeroelastic
 https://github.com/elastic/ai.elastic.co
 https://github.com/elastic/anonymize-it
@@ -235,6 +237,7 @@ https://github.com/elastic/apm-agent-rum-js
 https://github.com/elastic/apm-aws-lambda
 https://github.com/elastic/apm-contrib
 https://github.com/elastic/apm-data
+https://github.com/elastic/apm-integration-testing
 https://github.com/elastic/apm-mutating-webhook
 https://github.com/elastic/apm-nodejs-http-client
 https://github.com/elastic/apm-parser
@@ -245,6 +248,7 @@ https://github.com/elastic/apm-server
 https://github.com/elastic/apm-server-docker
 https://github.com/elastic/apm-server-integration
 https://github.com/elastic/app-search-firestore-extension
+https://github.com/elastic/app-search-javascript
 https://github.com/elastic/app-search-kb-demo
 https://github.com/elastic/app-search-magento
 https://github.com/elastic/app-search-nlp-insurance
@@ -272,6 +276,7 @@ https://github.com/elastic/beefheart
 https://github.com/elastic/behavioral-analytics-tracker
 https://github.com/elastic/bigquery_oauth_python
 https://github.com/elastic/blog-langchain-elasticsearch
+https://github.com/elastic/bower-elasticsearch-js
 https://github.com/elastic/bpfcov
 https://github.com/elastic/buildkite-agent-manager
 https://github.com/elastic/buildkite-demo
@@ -294,6 +299,7 @@ https://github.com/elastic/connectors-github
 https://github.com/elastic/connectors-python
 https://github.com/elastic/connectors-ruby
 https://github.com/elastic/crd-ref-docs
+https://github.com/elastic/csp-security-policies
 https://github.com/elastic/ctags-langserver
 https://github.com/elastic/cti-docs
 https://github.com/elastic/curator
@@ -329,6 +335,7 @@ https://github.com/elastic/ecs-logging-ruby
 https://github.com/elastic/ecs-mapper
 https://github.com/elastic/ecs-typescript
 https://github.com/elastic/eland
+https://github.com/elastic/elastic-agent
 https://github.com/elastic/elastic-agent-autodiscover
 https://github.com/elastic/elastic-agent-changelog-tool
 https://github.com/elastic/elastic-agent-client
@@ -401,6 +408,7 @@ https://github.com/elastic/elasticsearch-rails
 https://github.com/elastic/elasticsearch-river-couchdb
 https://github.com/elastic/elasticsearch-river-rabbitmq
 https://github.com/elastic/elasticsearch-river-twitter
+https://github.com/elastic/elasticsearch-river-wikipedia
 https://github.com/elastic/elasticsearch-rs
 https://github.com/elastic/elasticsearch-ruby
 https://github.com/elastic/elasticsearch-servicewrapper
@@ -476,10 +484,12 @@ https://github.com/elastic/go-lookslike
 https://github.com/elastic/go-lumber
 https://github.com/elastic/go-perf
 https://github.com/elastic/go-resource
+https://github.com/elastic/go-seccomp-bpf
 https://github.com/elastic/go-sinewave
 https://github.com/elastic/go-structform
 https://github.com/elastic/go-sysinfo
 https://github.com/elastic/go-txfile
+https://github.com/elastic/go-ucfg
 https://github.com/elastic/go-windows
 https://github.com/elastic/gobench
 https://github.com/elastic/goko
@@ -501,6 +511,7 @@ https://github.com/elastic/homebrew-ecctl
 https://github.com/elastic/homebrew-geneve
 https://github.com/elastic/homebrew-harp
 https://github.com/elastic/homebrew-tap
+https://github.com/elastic/hunspell
 https://github.com/elastic/ingest-docs
 https://github.com/elastic/ingest-opa
 https://github.com/elastic/integrations
@@ -584,6 +595,7 @@ https://github.com/elastic/opbeans-frontend
 https://github.com/elastic/opbeans-go
 https://github.com/elastic/opbeans-java
 https://github.com/elastic/opbeans-loadgen
+https://github.com/elastic/opbeans-node
 https://github.com/elastic/opbeans-php
 https://github.com/elastic/opbeans-python
 https://github.com/elastic/opbeans-ruby
@@ -945,6 +957,18 @@ https://github.com/mrinalmohan/Portfllio-Website
 https://github.com/mrinalmohan/Travel-Destination-Recommendation-System
 https://github.com/mrinalmohan/coursera-test
 https://github.com/olivere/elastic
+https://github.com/original-brownbear/Frams
+https://github.com/original-brownbear/docker-builds
+https://github.com/original-brownbear/dotfiles
+https://github.com/original-brownbear/percona
+https://github.com/original-brownbear/phar-builder-docker
+https://github.com/original-brownbear/php-cli-docker
+https://github.com/original-brownbear/php-fpm
+https://github.com/original-brownbear/php-performance-demos
+https://github.com/original-brownbear/php-transpiler
+https://github.com/original-brownbear/private-ethereum-network
+https://github.com/original-brownbear/vld-docker
+https://github.com/original-brownbear/vld-web
 https://github.com/paultilly/rails-stupid-coaching
 https://github.com/paultilly/rails-task-manager
 https://github.com/paultilly/rails-task-manager2

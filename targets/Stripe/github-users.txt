@@ -1,4 +1,5 @@
 https://github.com/BenEmdon
+https://github.com/StripedMonkey
 https://github.com/The-Stripes-NFT
 https://github.com/chrishunt
 https://github.com/cjavilla-stripe
@@ -11,6 +12,7 @@ https://github.com/pc
 https://github.com/qaisjp
 https://github.com/stripe
 https://github.com/stripe-archive
+https://github.com/stripe-certification
 https://github.com/stripe-ctf
 https://github.com/stripe-interview
 https://github.com/stripe-ios

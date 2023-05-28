@@ -1,1 +1,4 @@
+https://github.com/RyanSchaefer/twitch-market-dockerfile
 https://github.com/robflynn/dotfiles
+https://github.com/samwize/ffsplit
+https://github.com/samwize/flickr-video-splitter

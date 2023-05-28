@@ -1,0 +1,11 @@
+https://github.com/shakepay/feathers-authentication-hooks
+https://github.com/shakepay/mwaa-tf-deployment
+https://github.com/shakepay/pipelinewise-tap-postgres
+https://github.com/shakepay/react-native-device-info
+https://github.com/shakepay/react-native-fingerprint-scanner
+https://github.com/shakepay/react-native-notifications
+https://github.com/shakepay/react-native-simple-toast
+https://github.com/shakepay/react-native-spring-scrollview
+https://github.com/shakepay/react-native-svg-charts
+https://github.com/shakepay/vue-feather-icon
+https://github.com/shakepay/wyre-node

@@ -1,3 +1,4 @@
 https://gist.githubusercontent.com/ChintanMehta/6397391/raw/2cb19ea2040eeb3135b66f7e2c4d3b1b14459783/gistfile1.txt
 https://gist.githubusercontent.com/ChintanMehta/6397417/raw/2130b8ed8a8789e9bdcb14a40dc9d604bf9c0079/gistfile1.txt
 https://gist.githubusercontent.com/ChintanMehta/6398356/raw/51b12323e552548c1ee42d23f3f62e4af3a6632f/gistfile1.js
+https://gist.githubusercontent.com/dalmatele/d139ff5630fb45edca3e7c6a251637ae/raw/44891784ffda94ae32ff645a8dfec85ee84fd695/install_ffmpeg_ubuntu.sh

@@ -97,6 +97,7 @@ https://github.com/nksazonov/cake-factory
 https://github.com/nksazonov/compilers
 https://github.com/nksazonov/computational-geometry-lab-1
 https://github.com/nksazonov/computational-geometry-lab2
+https://github.com/nksazonov/crypto-health
 https://github.com/nksazonov/crypto-year3
 https://github.com/nksazonov/distributed-computations
 https://github.com/nksazonov/fp-lab1

@@ -1,2 +1,6 @@
 https://gist.githubusercontent.com/AmritKumar/471238cac51362120fa15a6236be8990/raw/d1b559fa7a7fa5dc384a4455a82c33d37e76001d/event_schedule.csv
 https://gist.githubusercontent.com/elliottgreen/2d7ea3f395aedcab32ad3a42fea17e3a/raw/3ae234ba8637a533e268c2fea084d557fac1b475/remap-capslock-to-control-win10.md
+https://gist.githubusercontent.com/mauromedda/7f5b6af0441a184fd88c2a44403c1f4c/raw/e7e4de9eefc2d1dd77a68c74e1e7e1c1ac8dc2e5/vault-aws-backend-config.sh
+https://gist.githubusercontent.com/mauromedda/95de320249ed1357f99d14decab6b114/raw/e71019396954d621ce970d340125b6ac520d6b96/rundeck-ansible-runner.sh
+https://gist.githubusercontent.com/ramisra/a6a559ebc7ec856ad34eb3fe364820d1/raw/5f5946cd8c9fb5b76d2763d1ae8d712938034269/README.md
+https://gist.githubusercontent.com/robin-thomas/781bcb5f311d46d17b07d7544c9a4839/raw/23c0d64273b7c46d65528dda217620c737361e9e/.vimrc

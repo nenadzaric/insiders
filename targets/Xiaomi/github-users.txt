@@ -5,6 +5,7 @@ https://github.com/XiaomiFirmwareUpdater
 https://github.com/XiaomiFirmwareUpdaterReleases
 https://github.com/Xiaoming-Zhao
 https://github.com/Yangji
+https://github.com/hardianto01
 https://github.com/harshm
 https://github.com/liuguoyou
 https://github.com/manujain

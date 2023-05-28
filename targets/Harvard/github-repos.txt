@@ -396,6 +396,7 @@ https://github.com/broadinstitute/datarepo-actions
 https://github.com/broadinstitute/datarepo-helm
 https://github.com/broadinstitute/datarepo-helm-definitions
 https://github.com/broadinstitute/datarepo-umbrella-release-action
+https://github.com/broadinstitute/ddp-android-sdk
 https://github.com/broadinstitute/ddp-angular
 https://github.com/broadinstitute/ddp-study-manager
 https://github.com/broadinstitute/ddp-study-manager-ui
@@ -453,6 +454,7 @@ https://github.com/broadinstitute/docker-timefix
 https://github.com/broadinstitute/docker-vault-server
 https://github.com/broadinstitute/docker-vaultcli
 https://github.com/broadinstitute/dockerized_mts
+https://github.com/broadinstitute/dockstore-tool-cms2
 https://github.com/broadinstitute/dockstore-tool-selscan
 https://github.com/broadinstitute/dos-drs-perf
 https://github.com/broadinstitute/dpg_static_content
@@ -768,6 +770,7 @@ https://github.com/broadinstitute/py3-bio
 https://github.com/broadinstitute/pyfrost
 https://github.com/broadinstitute/pyqtl
 https://github.com/broadinstitute/pyro-cov
+https://github.com/broadinstitute/python-alteon
 https://github.com/broadinstitute/python-cert_manager
 https://github.com/broadinstitute/python-clearpass
 https://github.com/broadinstitute/python-mistery

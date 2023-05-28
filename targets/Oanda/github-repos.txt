@@ -84,6 +84,7 @@ https://github.com/devrdias/react-ethereum-auction
 https://github.com/devrdias/react-ethereum-bounty
 https://github.com/devrdias/react-ethereum-donate
 https://github.com/devrdias/react-native-clone-nubank
+https://github.com/devrdias/react-native-clone-uber
 https://github.com/devrdias/react-native-form-using-hooks
 https://github.com/devrdias/react-native-form4u
 https://github.com/devrdias/react-native-my-recipes

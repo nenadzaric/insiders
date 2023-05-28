@@ -43,6 +43,7 @@ https://github.com/C-D-Lewis/todo-cli
 https://github.com/C-D-Lewis/tube-status
 https://github.com/C-D-Lewis/wear-os-dev
 https://github.com/FitBitGym/FitBitGym
+https://github.com/Fitbit-Analysis/README
 https://github.com/Fitbit/.allstar
 https://github.com/Fitbit/FitbitSummerSchool2019
 https://github.com/Fitbit/HibernateConnectionProvider
@@ -114,6 +115,14 @@ https://github.com/MilesGordenker/ParkerBehaviorAnalysis
 https://github.com/aam4510/fitbit4j
 https://github.com/aarondcoleman/Fitbit.NET
 https://github.com/alfredjones/bily-fake
+https://github.com/cancui/BLDC-Motor-Controller
+https://github.com/cancui/EMG-Signal-Processing-Library
+https://github.com/cancui/FCNN-for-Road-Detection
+https://github.com/cancui/Gait-Cycle-Classifier
+https://github.com/cancui/Hack-the-North-2016
+https://github.com/cancui/HackPrinceton
+https://github.com/cancui/SpartaHack
+https://github.com/cancui/sklearn-workshop
 https://github.com/corynissen/fitbitScraper
 https://github.com/cozie-app/cozie
 https://github.com/cozie-app/cozie-apple

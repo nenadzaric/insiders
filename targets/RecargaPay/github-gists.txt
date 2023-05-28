@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/BassiRenata/9fa10e408e2ab0359d9e511848628a0f/raw/24e9ee4eeb84504733213f20e795aff4da46af24/template_amp.html
 https://gist.githubusercontent.com/nelsonleite/1478d0133308362a7f6b2d77e024922f/raw/7be0f1cdebd5389ae3012cb02520fa19a134576a/isTouchDevice.js
 https://gist.githubusercontent.com/nelsonleite/29d06863582ac73ddbc34efe1819ed73/raw/5bf53a19ad0c8c8332dbb4a768ac55904729a149/regex-sublime-find-replace
 https://gist.githubusercontent.com/nelsonleite/48467c9a769baff3fe7e17303469c8ed/raw/c4cba53b658a9983fb218793105e9a416372f1be/detect-ie.js

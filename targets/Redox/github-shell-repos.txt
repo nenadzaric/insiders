@@ -1,2 +1,10 @@
+https://github.com/100health/redox-github-management
+https://github.com/Redoxm/alx-pre_course
+https://github.com/Redoxm/alx-system_engineering-devops
+https://github.com/Redoxm/alx-zero_day
 https://github.com/amyrrich/jumpstart
 https://github.com/amyrrich/lupatch
+https://github.com/jackpot51/popcorn
+https://github.com/redox-os/assets
+https://github.com/redox-os/cookbook
+https://github.com/redox-os/redox

@@ -20,6 +20,7 @@ https://github.com/JasonParker/doingstuffwithdata
 https://github.com/JasonParker/miniml
 https://github.com/JasonParker/slds2017
 https://github.com/JasonParker/waveform-fun
+https://github.com/OffensiveSecurityLabs/OffensiveSecurityLabs.github.io
 https://github.com/OffensiveSecurityTools/Blackeye
 https://github.com/OffensiveSecurityTools/blackeyega
 https://github.com/bigb0sss/RedTeam-OffensiveSecurity

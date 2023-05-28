@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/ODINAKACHUKWU/3f065c2f46145443f0d8a49905701053/raw/9fbfaf34af93bc6252fea80fdf1848a75fb88de5/plaqad-technical-writing.md
 https://gist.githubusercontent.com/gakuakachi/0d3404e1e2cf963db9e97084643c9fc2/raw/16f9309755052b2b03cf2198e9031366d857c1d9/jest-ui.config.json
 https://gist.githubusercontent.com/gakuakachi/0d3404e1e2cf963db9e97084643c9fc2/raw/3c24ff17b5653e3f1d85a0086250cfd93e2ecafe/package.json
 https://gist.githubusercontent.com/gakuakachi/6c8ebe75f06d2c69489d46374335281a/raw/e940f8b7e6bd98c121df91fbf7f523b1f23c32f3/gistfile1.txt
@@ -14,6 +15,17 @@ https://gist.githubusercontent.com/ivylee/b2f47d1ad787d7f7079c596bb0ac9c0f/raw/3
 https://gist.githubusercontent.com/ivylee/b2f47d1ad787d7f7079c596bb0ac9c0f/raw/42010df49ee9498efc1cbf5df1da31cb100d23a0/visualize.py
 https://gist.githubusercontent.com/ivylee/b2f47d1ad787d7f7079c596bb0ac9c0f/raw/6fd7a76bc6871d2bc3ec7dd2107e1cea53d3be1d/train.py
 https://gist.githubusercontent.com/ivylee/f1b00ce54f948e627605598ccf3cf4b9/raw/144225b3edd39ede3559e3721671bb9cc51188ea/server.py
+https://gist.githubusercontent.com/kaorism/453ffc3094e801a59bd361d641cde985/raw/ba9cfd8b842d9c8278b348c8cfe37429e8501813/index.json
+https://gist.githubusercontent.com/kaorism/7600a792c103907886c5ce65c69d540c/raw/07143ff04050c122c69d81c522c207124765fd08/20160831_131722.json
+https://gist.githubusercontent.com/kaorism/9d026f7f3630c4de51d8/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/kaorism/9d026f7f3630c4de51d8/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/kaorism/9d026f7f3630c4de51d8/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/kaorism/9d026f7f3630c4de51d8/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/kaorism/a869369adde24efc598f4bbb71ea456a/raw/e2151806251082788c06a7c1f5a4f2c61ffb694e/s3_bucket_structure
+https://gist.githubusercontent.com/omisekawa/cb92a2dde65c1344a43fe909ede38342/raw/930f06e480bd95c4bca2fbddfbbdf2a7e1874ec7/key%20base.md
+https://gist.githubusercontent.com/phureewat29/4c56565bc1b1566cfdf9/raw/9df8dd666f774f40397216d060234e3f52bdce88/Vagrantfile
+https://gist.githubusercontent.com/phureewat29/4c58928d299d834a19988caf1ce36f28/raw/fe0240c08cf4a359e0fde1d961a1cf704f4b12c3/keybase.md
+https://gist.githubusercontent.com/phureewat29/5ff4448e77ca2a36d565bb49d180019a/raw/666e0d251b6c2b539669cb8078c72877343a688f/line-bot-sheet.js
 https://gist.githubusercontent.com/timothybrown/0385cb16562c45a1b8a513db90fb8723/raw/92bfd092b1ccb2e8607bdf5a8d4e60951825cb14/PKGBUILD
 https://gist.githubusercontent.com/timothybrown/1527c6664662ad2810c9f3180f328d3f/raw/79e0e647ddd0b0aa2333cfacd3a4ad2299f75eed/retropie_update.sh
 https://gist.githubusercontent.com/timothybrown/3ff7e8ea281d8148f1cb2be52ef0e608/raw/bee95491f238ded6dc9c06d7d47d59cc5415c723/rehash_skyscraper.py

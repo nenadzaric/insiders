@@ -1,3 +1,6 @@
+https://gist.githubusercontent.com/paymill/3666426/raw/698c0af9d16958354f47a57167b86a0631fda04b/zahlungsformular.html
+https://gist.githubusercontent.com/paymill/3699104/raw/902367512aea653f330169fdef3eceb796286dd5/zahlungsformular-komplett.html
+https://gist.githubusercontent.com/paymill/3705660/raw/e47f63190e4770b4bf827e2fd71dabfac823c759/request.php
 https://gist.githubusercontent.com/tschelabaumann/4194158/raw/970721b063f9df7185af27a58ec0285f7f4a05e9/paymill_payment_form.html
 https://gist.githubusercontent.com/tschelabaumann/4194175/raw/b3ed8c5500cc349954f135c651a603b1245c5ba5/request.php
 https://gist.githubusercontent.com/tschelabaumann/4232879/raw/f5f3e69a122ec57fbb3c156b21b4faabe848b527/paymill_payment_form.html

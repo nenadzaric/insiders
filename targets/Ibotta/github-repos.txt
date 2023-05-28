@@ -30,6 +30,7 @@ https://github.com/Ibotta/tini-static
 https://github.com/Mikelew88/Intro_to_python
 https://github.com/adamisom/adamisom.github.io
 https://github.com/adamisom/async-js
+https://github.com/adamisom/dotfiles
 https://github.com/adamisom/kanban-board
 https://github.com/adamisom/package-delivery-app
 https://github.com/adamisom/smbc-fourier

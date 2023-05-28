@@ -1,2 +1,4 @@
 https://gist.githubusercontent.com/bartoszc/484ab8838d87acbeba158eda717bdac3/raw/829875b91696d18b2c632274b26222782744a362/CLASSSHOPPINGCART.cs
 https://gist.githubusercontent.com/bartoszc/82e70c2582f23b593ca2505bab8a3cee/raw/ab6dcd93441732786072feddd6c1f61bb5c0b156/SEARCH.cs
+https://gist.githubusercontent.com/devrdias/24c96e1b807414899748d97699f2bc3e/raw/a9f53de085f2b03ceb0d0806ce036ee216bb513e/readmeSample.md
+https://gist.githubusercontent.com/devrdias/b232de8b1b083b6d8d7a2a096b9b062b/raw/466f24f4a053a360ad13a3863e300f00f74f517b/media-query.css

@@ -152,6 +152,7 @@ https://github.com/CodAffection/jQuery-Ajax-with-ASP.NET-Core-MVC-using-Modal-Po
 https://github.com/CodAre-Development/discord-bot-login-panel
 https://github.com/CodAre-Development/discord-bot-sitesi
 https://github.com/CodAre-Development/discord-chart.js
+https://github.com/CodAre-Development/discord-rpbot-ornek
 https://github.com/CodAre-Development/discord.js-gif-bot
 https://github.com/CodAre-Development/discord.js-guard-bot
 https://github.com/CodAre-Development/discord.js-komutsuz-altyapi
@@ -237,6 +238,7 @@ https://github.com/Codaisseur/React-Routing-Example
 https://github.com/Codaisseur/ReactOnRailsWithDeviseDemo
 https://github.com/Codaisseur/React_Intro
 https://github.com/Codaisseur/ReaderFrontend
+https://github.com/Codaisseur/ReadingListChromeExtension
 https://github.com/Codaisseur/Sentimentel
 https://github.com/Codaisseur/SentimentsAPI
 https://github.com/Codaisseur/ShatApp-demo
@@ -1035,6 +1037,7 @@ https://github.com/codacy-badger/ComputerNetworksPratices
 https://github.com/codacy-badger/Corenet
 https://github.com/codacy-badger/Cr
 https://github.com/codacy-badger/DDR4-iet-2018
+https://github.com/codacy-badger/DFFC
 https://github.com/codacy-badger/DataMallLibrary
 https://github.com/codacy-badger/Database_IReporter_API
 https://github.com/codacy-badger/DementCore.MultiTenantKit
@@ -1123,6 +1126,7 @@ https://github.com/codacy-badger/NY-Times-Most-Popular
 https://github.com/codacy-badger/NamedEntityRecognition
 https://github.com/codacy-badger/NickvisionPOS
 https://github.com/codacy-badger/NickvisionSales
+https://github.com/codacy-badger/NidamTech-PiranhaSites
 https://github.com/codacy-badger/Note-Taker
 https://github.com/codacy-badger/Notes
 https://github.com/codacy-badger/Omni
@@ -1130,6 +1134,7 @@ https://github.com/codacy-badger/OnlineAssessment
 https://github.com/codacy-badger/Os-Detection
 https://github.com/codacy-badger/OverlookingBot
 https://github.com/codacy-badger/P5_vergne_thomas
+https://github.com/codacy-badger/PANDORA
 https://github.com/codacy-badger/PanzerProj
 https://github.com/codacy-badger/Pong-sample
 https://github.com/codacy-badger/Portfolio
@@ -1197,6 +1202,7 @@ https://github.com/codacy-badger/U-net-adaption-Pytorch
 https://github.com/codacy-badger/UOSPC-2020-Div.2-No.4
 https://github.com/codacy-badger/UltimateTowerDefense
 https://github.com/codacy-badger/UnitOfWork
+https://github.com/codacy-badger/UnityGames
 https://github.com/codacy-badger/VAA2018
 https://github.com/codacy-badger/Vookly
 https://github.com/codacy-badger/Vulcan
@@ -1219,6 +1225,7 @@ https://github.com/codacy-badger/algorithms-golang
 https://github.com/codacy-badger/ample
 https://github.com/codacy-badger/amuzak
 https://github.com/codacy-badger/android-support-openssl
+https://github.com/codacy-badger/anigrab
 https://github.com/codacy-badger/api-graphql
 https://github.com/codacy-badger/apicalypse
 https://github.com/codacy-badger/apm
@@ -1424,6 +1431,7 @@ https://github.com/codacy-badger/pagmoby-sdk-java
 https://github.com/codacy-badger/panda.cli
 https://github.com/codacy-badger/pascivite.com
 https://github.com/codacy-badger/pelukis
+https://github.com/codacy-badger/personal-site
 https://github.com/codacy-badger/php-test
 https://github.com/codacy-badger/php-ussd
 https://github.com/codacy-badger/pic_to_site
@@ -1448,6 +1456,7 @@ https://github.com/codacy-badger/python-reverse-shell
 https://github.com/codacy-badger/quizzer-master
 https://github.com/codacy-badger/ramverk1
 https://github.com/codacy-badger/randgoart
+https://github.com/codacy-badger/react-compose-tools
 https://github.com/codacy-badger/react-express
 https://github.com/codacy-badger/react-finder
 https://github.com/codacy-badger/react-mintl
@@ -1549,6 +1558,7 @@ https://github.com/codacy-badger/wirecard-sdk-php
 https://github.com/codacy-badger/www.devnerd.me
 https://github.com/codacy-badger/xkcd_publisher
 https://github.com/codacy-badger/xne
+https://github.com/codacy-badger/xokul
 https://github.com/codacy-badger/yae
 https://github.com/codacy-badger/yae-1
 https://github.com/codacy-badger/youtrack-badger-mock

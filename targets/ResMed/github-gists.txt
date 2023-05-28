@@ -1,2 +1,7 @@
+https://gist.githubusercontent.com/Resmedia/0a65fe760ecfa5b4b7fe53cb1806d9e5/raw/c54d28b113a42f08432db99b9361c8c189008bd2/nginx.conf
+https://gist.githubusercontent.com/Resmedia/92d95bce05483e9a7d9eea7f635dc83a/raw/e97493f0f3fd596fb5a2ea4d9f32c673c22f88a0/GitHub-Forking.md
+https://gist.githubusercontent.com/Resmedia/99d968846e3cdd08757d37673b5bd076/raw/d96a85b3f5f3d32de62c0083c87f35387b2b6b6e/mongodb_and_php7.md
+https://gist.githubusercontent.com/g0ld2k/83f2e7c39ff0bc6b3299/raw/0ea03ee56982071a81f142fd220c9940820291ab/center-collection-view.swift
+https://gist.githubusercontent.com/g0ld2k/c0a352141f64cab71711/raw/bebae7aaa9e5102de3bbc10f7be577b117245b7e/.bash_profile
 https://gist.githubusercontent.com/stefanmuller/700ce9cc1464eab4b7e89ce8f140b9ff/raw/8e0a613967664690af4c73ba37ab1ece9219f6f7/custom_aovs_redshift_maya.py
 https://gist.githubusercontent.com/stefanmuller/ea3021cb7f949e4cc20df356670eca06/raw/8e0a613967664690af4c73ba37ab1ece9219f6f7/custom_aovs_redshift_maya.py

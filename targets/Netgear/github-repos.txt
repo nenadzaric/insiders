@@ -140,3 +140,4 @@ https://github.com/poc-by-cryptoknight028/indeed
 https://github.com/poc-by-cryptoknight028/poc
 https://github.com/tabacha/ProSafeLinux
 https://github.com/tracemouse/luci-theme-netgear
+https://github.com/twrecked/hass-aarlo

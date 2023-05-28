@@ -85,6 +85,7 @@ https://github.com/YoDiDi/Unauthorizedorblastingmongodb
 https://github.com/YoDiDi/YoDiDi.github.io
 https://github.com/YoDiDi/blog_img
 https://github.com/YoDiDi/coremailleak
+https://github.com/YoDiDi/cors-jsonp
 https://github.com/YoDiDi/test
 https://github.com/carloscarrillo/autarco_test
 https://github.com/d10r/7energy-backend

@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/AlexLamond/27fc7096fd8532d4d62d0e101b0038a2/raw/b3e6ec7b32890a49e7c11257427e75eb6983af6b/setup-woocommerce.sh
+https://gist.githubusercontent.com/AlexLamond/3c864824f50c1b459a7a02131ba390c0/raw/8c743719a0cc22f3585e84b7b758a150c7a46884/response.data.txt
+https://gist.githubusercontent.com/AlexLamond/3c864824f50c1b459a7a02131ba390c0/raw/c1670009b9457a62f333483791a2d924009e6ec0/getDataFromURL.swift

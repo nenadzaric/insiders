@@ -2,6 +2,7 @@ https://github.com/AdrienPensart/rsync-s3ql
 https://github.com/PhilippBuschhaus/shell
 https://github.com/amoriarty/docker-typescript
 https://github.com/amoriarty/roger-skyline-1
+https://github.com/equelin/vmware-centos-rhel-template
 https://github.com/faas-ovh/api-debian
 https://github.com/faas-ovh/promagen
 https://github.com/maxime-agusti/DockerCommonScripts

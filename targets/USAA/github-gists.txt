@@ -1,4 +1,6 @@
 https://gist.githubusercontent.com/MichaelDaum/74804b986d412fd5dc99e266670b1a74/raw/466f898310b9ec3152eafbcb2541549c6cd02e2b/gistfile1.txt
+https://gist.githubusercontent.com/dkreth/e78e0ed5a5d7d34e5763f9068b6456e0/raw/b608068a9102b25597ff99c65dae4472b50ac66b/TickTickProviderHelper
+https://gist.githubusercontent.com/ianrichard/1b34d199e9a3c322b28cded2068cdc4d/raw/32bd746761e7f47c88d948f48e4fd508940a4ad9/messenger.sh
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/6b29ee4bb556be915cc35109912de46132e9c3b3/test-modal-one.template.hbs
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/7c4485b8733c02852f0ec8ee73b908719f424291/x-modal.component.js
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/8ebaa50e10565e2c1ffcd6633d5ea3de9adadf99/application.controller.js
@@ -10,4 +12,13 @@ https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/ce9118
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/d7e21f4bfece8c8fed73c26b372f4a9b4bf52204/styles.app.css
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/df78fff2e4c9bc13466a450a927f934aa52a2f1b/test-modal-two.template.hbs
 https://gist.githubusercontent.com/josephndenton/5f2f731956f3d0931014/raw/f1440f5f748b9f3359f58a1890702cb94dad669b/twiddle.json
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/03a93dd35a7b7242232e0078b404b86246ef9ce1/6-18-b-3-audit.log
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/0f064a6e38b3078920bfabf3e13bee6028d740e8/auditd.rules
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/60758a1c3e58d215630a1b0b6c3a9cc1191d4435/6-19-b-2-audit.log
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/66e2210d1b2a80e38b4f4a946203e6b7bdc9f4e9/6-18-b-2-journal.log
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/6a0d78326bf04b77419edd6f3cda16cc4ae2374b/kernel%20parameters
+https://gist.githubusercontent.com/justin-luoma/5eb74ce8f4a47f7e0b7795c3530c9453/raw/7d41bff1a3f3246f809327f839c11ac60d3fa73f/6-17-b-8-journal.log
+https://gist.githubusercontent.com/justin-luoma/a320c15f7baa589ca7f3d30485809d87/raw/af06cbf84842b38ff57f65da25679dd40e7009f4/Main.java
 https://gist.githubusercontent.com/sameersingh/30fd88f66f81f07452d1680393f15ad3/raw/d168bf78518994316a76a4a08d55abc00ff6218e/gistfile1.txt
+https://gist.githubusercontent.com/supertechninja/628cfdb9a1da485b03e9aef4599c4214/raw/6e809a9408fac8cbacf6df4829bc712f04e06f0b/MaterialYouSlidingIndicatorBottomNavigation.kt
+https://gist.githubusercontent.com/usaama-ansari/ebda0f347b085c7738028d46b350c925/raw/e3f2863d37edafe592c6a848ec476086a3850135/css_utils_and_solutions.css

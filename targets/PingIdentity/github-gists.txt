@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/TechnoRoss/74852354b9e9fc0cd65e2d1cba828e01/raw/28c1d90595a0aa3a71a90a3cccec1edd9f8d9fa4/docker-composeCICD.yml
 https://gist.githubusercontent.com/andreas/0e580b19df542f1dbe1ee2676a2c6768/raw/c8ad530b5e997bae24e484a89a0083fc4448e01f/ocaml-mariadb-osx.patch
 https://gist.githubusercontent.com/andreas/210849/raw/8ec4b2e43b74105a43de29df13a3eefae8da047c/gistfile1.rb
 https://gist.githubusercontent.com/andreas/5432990/raw/e44ae048108957097330b9cdce07bc953fd6baf2/gistfile1.rb
@@ -12,3 +13,7 @@ https://gist.githubusercontent.com/andreas/986444/raw/6d3861c388e14e76fb308cd1ea
 https://gist.githubusercontent.com/andreas/9930618/raw/a84403e0689efc3f72163ee1aababca176cef5f2/bowling_scores.rb
 https://gist.githubusercontent.com/andreas/c1689310eb0b6177f4b6459deae49ede/raw/5e9c991fb1d85060feab15c0444b6ed554bfdfbc/keybase.md
 https://gist.githubusercontent.com/andreas/eea322d73ca21e66b55b/raw/ebcdc419d7a617ad9642a121c5b59947079c7da0/envelope_encryption.go
+https://gist.githubusercontent.com/dirmgr/7beff8b5c9b88edbe0388648c0c4bb8a/raw/1340ca55cd94e74f089d7913889d261a30dedf44/keybase.md
+https://gist.githubusercontent.com/eeeeeric/10698051/raw/a972ad9ace6c77ae84244b1e7b134812451e0903/stripExif.py
+https://gist.githubusercontent.com/samir-gandhi/95aed6ddfc29b272c5cb37b7908a8a10/raw/901e3394c1dc82892b8e13f8fe4cc41cf0273219/connect_samir_k8s_cluster.md
+https://gist.githubusercontent.com/samir-gandhi/a353784d1e1b48b91cd51428aacefdae/raw/fd99465edb2bb34bc934445dbe38b8f4eb5851ab/eslintrc.json

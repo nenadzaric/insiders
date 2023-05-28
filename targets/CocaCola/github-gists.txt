@@ -17,6 +17,16 @@ https://gist.githubusercontent.com/AlistairWallace/8f0a29c2b2c610b63a9253a24ecf7
 https://gist.githubusercontent.com/AlistairWallace/8f0a29c2b2c610b63a9253a24ecf76ef/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
 https://gist.githubusercontent.com/AlistairWallace/bb55de983b52996829a0ca757352f1a4/raw/e0b6dcd19cd55126f8f3fe5ea09213c40f7cf8d0/PY0101EN-4-1-ReadFile.ipynb
 https://gist.githubusercontent.com/AlistairWallace/cf1624dcf6b48ee69a9017a15cb89bb2/raw/d8514084ea9722d34f5451833221ebb4e4e6a24e/PY0101EN-3-4-Classes.ipynb
+https://gist.githubusercontent.com/CocaCola183/90e3d8598d9bc300b44d09d1be6b6409/raw/7c8440ce60a6eb393c8224fc77526a8116eb46a8/gulpfile.js
+https://gist.githubusercontent.com/CocaColaCat/144ad175c3ce45d40b4f/raw/ef00af81f677e6804e0ed576a70872c655e10bad/wba-WechatAuthCtrl
+https://gist.githubusercontent.com/CocaColaCat/190eb432cf8a2e536c96/raw/8d0fb58ce296069e77abda86357ba88f71c3e834/wba-backend
+https://gist.githubusercontent.com/CocaColaCat/3993146/raw/3eb04259893ab631a1287dc1737c67f94de6dde7/challenge-1-7.js
+https://gist.githubusercontent.com/CocaColaCat/a605bc9c6228031a156f/raw/2ef20ffc40aa783654d08a04008ae818bffc77c5/wba-AuthToken
+https://gist.githubusercontent.com/CocaColaCat/c8470ff5a569fcd205be/raw/2ce3474d8c8be9ff4ea33c90d827286c44046136/active_admin_customization.rb
+https://gist.githubusercontent.com/CocaColaCat/d76ab10a4ebf08782a99/raw/205ab09ed4dd7033a1a75dd680b1c71e3b2f24e3/wba-rout
+https://gist.githubusercontent.com/CocaColaCat/f72ab76381b20e12a6c6/raw/f66176bf884108d51dc3f9a6eee5a254c89ba26a/gistfile1.rb
+https://gist.githubusercontent.com/CocaColaCat/fbc36659e9de3f2f1bef/raw/c06fdbcfd4782eb9270e2b90ecde4cf8b1d55b7a/gistfile1.textile
+https://gist.githubusercontent.com/CocaColaCat/fe2bd4066b65a63f19b5/raw/7e65311fb9942fb5dfa65ab1cef0bc804699f2b0/gistfile1.txt
 https://gist.githubusercontent.com/MiguelGonzalez/5c00b679abf0aeee8e0623aa3e28df50/raw/2a5f79169cee38ed23084ef66c37aee4dba33436/transform_oracle_to_mysql.py
 https://gist.githubusercontent.com/MiguelGonzalez/8693e286050ac38182d27e1498897bf7/raw/d2111f45564bada75d60efe78bed57ae1b75ac90/Instructions.sh
 https://gist.githubusercontent.com/MiguelGonzalez/a58a8e582fbfc10bcbbb13e903624a66/raw/b1eb7629cc1c90460be87e09062f64dcff06a8ac/gistfile1.txt

@@ -49,6 +49,13 @@ https://github.com/esastack/hey-jdk8
 https://github.com/jsoriano/beaglebone-tools
 https://github.com/jsoriano/docker-mariadb-galera
 https://github.com/jsoriano/sensu-embedded-fpm
+https://github.com/original-brownbear/docker-builds
+https://github.com/original-brownbear/percona
+https://github.com/original-brownbear/phar-builder-docker
+https://github.com/original-brownbear/php-cli-docker
+https://github.com/original-brownbear/php-fpm
+https://github.com/original-brownbear/private-ethereum-network
+https://github.com/original-brownbear/vld-docker
 https://github.com/pieterhumphrey/spring-rest-astra1
 https://github.com/pmoust/dnsmasq-catchall
 https://github.com/pmoust/docker-redis

@@ -11,3 +11,8 @@ https://gist.githubusercontent.com/ryanpeach/c14644eb4fa22dd34b1417c893ed1b38/ra
 https://gist.githubusercontent.com/ryanpeach/c655c816c21381fd83fbf0d417a4cbd7/raw/534734cfcad2357320fe3f91d33290503983d7af/frozenlakeq675.md
 https://gist.githubusercontent.com/ryanpeach/e073a58272ec9b4db3b186705edc363a/raw/65cd84d8673309b5d14e60ca9e78e26e82247f17/duality.py
 https://gist.githubusercontent.com/ryanpeach/e57a5e17cdc685b734351a4d5f8bd3c7/raw/0a5c8b72b3d36e786ef9e3ae0e6991de8983ecc8/flatten.py
+https://gist.githubusercontent.com/sanchay-kumar-olx/1397ff1ab7e4603d86cd5c14cc7124bb/raw/1f4b53debe94a19c5715c67084c478851a9abb73/webpack.js
+https://gist.githubusercontent.com/sanchay-kumar-olx/199cd89c017662fcb6bfb593bf3ef342/raw/76c38e4bbd88653d36e9e7ff120bc440f31f2ce7/babelrc
+https://gist.githubusercontent.com/sanchay-kumar-olx/4216f1716e7d0a96d63020d733130ad5/raw/1719e6250d6f277a2cdaae19214c06bf65a54943/package.json
+https://gist.githubusercontent.com/sanchay-kumar-olx/ac3330cf71bcbda9c2d50f6150905e2c/raw/f06b6121a29622c4e2c045367503816d40d578b0/bundleName.js
+https://gist.githubusercontent.com/sanchay-kumar-olx/dafa6ec4369e33425710798dcc041ba9/raw/c9301c3d5866b286a3608a5897b16608e23a0166/.browserlistrc

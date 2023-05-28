@@ -311,6 +311,7 @@ https://github.com/eMahtab/4sum
 https://github.com/eMahtab/Bootstrapp
 https://github.com/eMahtab/Cache-Control
 https://github.com/eMahtab/Caching
+https://github.com/eMahtab/Conditional-Get-ETag
 https://github.com/eMahtab/DjangoProject
 https://github.com/eMahtab/Java8
 https://github.com/eMahtab/ParsingWithSAX
@@ -641,6 +642,8 @@ https://github.com/eMahtab/node-express-hello-world
 https://github.com/eMahtab/node-heroku-s3-direct-upload
 https://github.com/eMahtab/node-http-call
 https://github.com/eMahtab/node-mongoose-authentication
+https://github.com/eMahtab/node-q-promises
+https://github.com/eMahtab/node-request-module
 https://github.com/eMahtab/nodejs-fs-module
 https://github.com/eMahtab/nodejs-module-loading
 https://github.com/eMahtab/number-of-closed-islands
@@ -707,6 +710,7 @@ https://github.com/eMahtab/rotate-2D-square-matrix
 https://github.com/eMahtab/rotate-array
 https://github.com/eMahtab/rotting-oranges
 https://github.com/eMahtab/routes
+https://github.com/eMahtab/s3-bucket
 https://github.com/eMahtab/same-tree
 https://github.com/eMahtab/sami-yusuf-timeline
 https://github.com/eMahtab/sample-data
@@ -725,6 +729,7 @@ https://github.com/eMahtab/shortest-distance-from-all-buildings
 https://github.com/eMahtab/shortest-path-to-get-food
 https://github.com/eMahtab/shuffle-an-array
 https://github.com/eMahtab/shuffle-the-array
+https://github.com/eMahtab/simple-ant-java-project
 https://github.com/eMahtab/simple-node-app
 https://github.com/eMahtab/single-number
 https://github.com/eMahtab/single-page-rails-app

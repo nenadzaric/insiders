@@ -28,11 +28,15 @@ https://github.com/CasperAndresen/SOK-1004-mappeoppgave2
 https://github.com/CasperDash/casper-key-manager
 https://github.com/CasperDash/casper-react-native-sdk
 https://github.com/CasperDash/casper-scaffold
+https://github.com/CasperDash/casper-storage
 https://github.com/CasperDash/casper-wallet-connector
 https://github.com/CasperDash/casperdash-api
+https://github.com/CasperDash/casperdash-client
 https://github.com/CasperDash/casperdash-lib
 https://github.com/CasperDash/casperdash-materials
+https://github.com/CasperDash/casperdash-mobile-wallet
 https://github.com/CasperDash/casperdash-utils
+https://github.com/CasperDash/casperdash-web
 https://github.com/CasperDash/roadmap
 https://github.com/CasperDash/useWallet
 https://github.com/CasperLabs/CaskNFT
@@ -283,6 +287,7 @@ https://github.com/Wcc723/hexschool-payment-testing
 https://github.com/Wcc723/hexschoolOpenFiles
 https://github.com/Wcc723/hexschool_201808_livedemo
 https://github.com/Wcc723/ironman-gulp-sass
+https://github.com/Wcc723/layout_sample_202305-PORTFOLIO
 https://github.com/Wcc723/linePaySample
 https://github.com/Wcc723/lottery-tool
 https://github.com/Wcc723/mopcon2017_Testing

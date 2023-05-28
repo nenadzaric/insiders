@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{HubSpot}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[562]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[566]
+COMPANY_NAME ---> G{Gists} ---> GN[248]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

@@ -1727,6 +1727,7 @@ https://github.com/alibabacloud-sdk-php/codeup-20200414
 https://github.com/alibabacloud-sdk-php/commondriver
 https://github.com/alibabacloud-sdk-php/companyreg
 https://github.com/alibabacloud-sdk-php/companyreg-20200306
+https://github.com/alibabacloud-sdk-php/composer-20181212
 https://github.com/alibabacloud-sdk-php/computenest-20210601
 https://github.com/alibabacloud-sdk-php/computenestsupplier-20210521
 https://github.com/alibabacloud-sdk-php/config
@@ -2030,6 +2031,7 @@ https://github.com/alibabacloud-sdk-php/pvtz
 https://github.com/alibabacloud-sdk-php/pvtz-20180101
 https://github.com/alibabacloud-sdk-php/qssj-20220112
 https://github.com/alibabacloud-sdk-php/qualitycheck
+https://github.com/alibabacloud-sdk-php/qualitycheck-20190115
 https://github.com/alibabacloud-sdk-php/quickbi-public-20220101
 https://github.com/alibabacloud-sdk-php/quotas-20200510
 https://github.com/alibabacloud-sdk-php/ram

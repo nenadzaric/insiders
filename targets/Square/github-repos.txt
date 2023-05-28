@@ -416,6 +416,7 @@ https://github.com/lsst-sqre/flattenator
 https://github.com/lsst-sqre/flux-training
 https://github.com/lsst-sqre/folder-test
 https://github.com/lsst-sqre/gafaelfawr
+https://github.com/lsst-sqre/ghowlauth
 https://github.com/lsst-sqre/ghslacker
 https://github.com/lsst-sqre/git-lfs-s3-server
 https://github.com/lsst-sqre/ick-deployment

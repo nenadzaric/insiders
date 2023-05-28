@@ -348,6 +348,7 @@ https://github.com/FrankFang/resume-15-2
 https://github.com/FrankFang/resume-15-3
 https://github.com/FrankFang/resume-15-4
 https://github.com/FrankFang/resume-15-5
+https://github.com/FrankFang/resume-15-6
 https://github.com/FrankFang/resume-15-7
 https://github.com/FrankFang/resume-15-8
 https://github.com/FrankFang/rhFVNCEqPWWU
@@ -774,6 +775,7 @@ https://github.com/TencentARC/HOSNeRF
 https://github.com/TencentARC/MCQ
 https://github.com/TencentARC/MM-RealSR
 https://github.com/TencentARC/MasaCtrl
+https://github.com/TencentARC/Mix-of-Show
 https://github.com/TencentARC/OpenCompatible
 https://github.com/TencentARC/RepSR
 https://github.com/TencentARC/SFDA

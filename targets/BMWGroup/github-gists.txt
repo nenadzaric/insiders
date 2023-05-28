@@ -7,3 +7,5 @@ https://gist.githubusercontent.com/martinboy/bbed918e841c9bb716a070f8b6f38afb/ra
 https://gist.githubusercontent.com/martinboy/c22e867a5b9ba0f96d1ca735051d70a5/raw/47b0354101d79123c202c28e5ead54ad54c1882d/quickies.md
 https://gist.githubusercontent.com/martinboy/cdac1b24946cd7b55e71b3c092019f36/raw/2f1b20db84434f76807550c053896e1212356799/m2_clear_order_customer_data.sql
 https://gist.githubusercontent.com/martinboy/d98cac53fdfd1a7176609e9687345be7/raw/8287eb48c9b5cb47447ab01bf99afdc167089e94/gistfile1.txt
+https://gist.githubusercontent.com/tneotia/adc61196cfa59a5a7bdef6efb0ab5883/raw/2fe65019ef84d09d4cf6f26f726d6615a3b20917/newActivity.java
+https://gist.githubusercontent.com/tneotia/ccdb84ba66d6863980b9d558fb95312e/raw/64be00d09fa683341c1bfac5acc11db6cc854874/FlutterWebView.java

@@ -4,6 +4,8 @@ https://github.com/Kraden13/flutter-socket.io-server
 https://github.com/Kraden8SL/Laboratorio
 https://github.com/KradenHayes/hello-world
 https://github.com/Kradenov/Kradenov
+https://github.com/KradenovKV/SMART_Pc_Remote
+https://github.com/KradenovKV/SmartSQLiteAD
 https://github.com/MindaugasVarkalys/Android-Task-Mindaugas
 https://github.com/MindaugasVarkalys/DD2360-gpu-programming
 https://github.com/MindaugasVarkalys/artris

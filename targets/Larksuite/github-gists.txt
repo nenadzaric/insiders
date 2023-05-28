@@ -4,3 +4,6 @@ https://gist.githubusercontent.com/chyroc/589a7984a4482a734fcb514969a5e381/raw/3
 https://gist.githubusercontent.com/chyroc/8dc21c2ea65dc3c83e43a62b3f2759e8/raw/4fbfe5e52de5c9b233beafa30f9f4ce4d67853ab/case_test.go
 https://gist.githubusercontent.com/ldm0/1cd74b7d2a2e0d9f6e09ffc62c306e60/raw/cd313010dac097600505e7c534d44d9c4274d612/gistfile1.txt
 https://gist.githubusercontent.com/ldm0/f2230b0f1b48fbc6ab3efc0907994b86/raw/fdd04ad252400c8cc4c59e3e3feefab2d0c22104/README.md
+https://gist.githubusercontent.com/name1e5s/6e2b47e1027b2cbcd5da1d403ed86f0d/raw/94f6e0bd0f4eeb695edc2597793fc74ef977b087/RegistrationDeclarations.h
+https://gist.githubusercontent.com/name1e5s/7af581a5b56b06feb83c75c4a230392b/raw/f08e5388e7faf50f249c2581a2e42c686fb6248b/gistfile1.txt
+https://gist.githubusercontent.com/name1e5s/d8bc78ffefd9b69985746fb5ad3760b8/raw/f80362dc291c1029dfa3f0c04cf50884eaa30df1/%F0%9F%93%8A%20Weekly%20development%20breakdown

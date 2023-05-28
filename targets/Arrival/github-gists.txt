@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/System3748/0771760d06c7483c904c0e5e133bc7f0/raw/0e8770453f90f38779a59d33f7a2281e88fe8939/request.ts
 https://gist.githubusercontent.com/drbooth/15b4ce487b13f25fb3ad4c19f40d398c/raw/cb319ba333ae642d295f7b8514dbfb3bb6c49a96/Caesar%20Cipher
 https://gist.githubusercontent.com/drbooth/16806a8ab4dad1d0eedfc90949484052/raw/edc8406c07b3ae6014546108b0a39af27816bfbc/HelloWorld
 https://gist.githubusercontent.com/drbooth/70c1ad5365ba49022d494a04a1770073/raw/adb467a8b8827008b3f2e2bc4aaf5cc9e02df6fb/Image%20Filterer
@@ -9,3 +10,12 @@ https://gist.githubusercontent.com/drbooth/c26e4c946b6670abf6a2fa4e411c3ce6/raw/
 https://gist.githubusercontent.com/drbooth/dd867b4fdc16371b11faf9eac26d6814/raw/8eae9ebec386f1289dfc4ebbfebdc84597b506ab/Guessing%20Game
 https://gist.githubusercontent.com/drbooth/ec7773498f3caab86ea6271612cea36d/raw/be73377b2365404aaa9c07a02aa3c57770290ad7/Bar%20Graph
 https://gist.githubusercontent.com/drbooth/f2b178baa2602e19b51483e514baa756/raw/3c8195f311cff94ee994775e4e87b03137292d19/2D%20Color%20Array
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/064771b211eadc68a9b3f5a29e675990f625d8f7/Nature.md
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/0c1ca2d6630b7e46fa395b825a67b0f715d9660c/Places.MD
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/699423772a80a30c94499000aa6e8ad0f3a1ae4e/Symbols.MD
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/77fff335fea5c4c9acbfb08b95a83ced47673086/People.md
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/a6fd7d609bc1962cab4f6df3a633d3e64997c5f9/A_EMOJI%20CHEAT%20SHEET
+https://gist.githubusercontent.com/jingxinxin/cbbaecc8ba714ad31a0449eff127ee46/raw/bc049aabfd78e72020eab4ae2e7444e94b07ae7f/Objects.MD
+https://gist.githubusercontent.com/kresent/37b94083ab307dffc102662ed01ce8cf/raw/b924d63c43e3d80834a544e575ddfb205fdb50ca/pickerScript
+https://gist.githubusercontent.com/kresent/b5c3126bb2afefd5715269c7346e1f78/raw/4cb0eeecb743342db2996656609971f3e04011f2/shapesource.m
+https://gist.githubusercontent.com/something15525/4322478/raw/0ebea769c8171bb26eea16467880ffba17e33dbf/gistfile1.txt

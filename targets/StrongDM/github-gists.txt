@@ -1,2 +1,10 @@
+https://gist.githubusercontent.com/camposer/ae10a47971726b8a4ddbb60c35fa6519/raw/2a87f137f30270cd825af61036424f95b576ef4f/JSON%20Test
+https://gist.githubusercontent.com/etodd/9551942/raw/ddac7c62b3b272671872003dc2012c6650a3f0a9/CurrentSettings.vssettings
+https://gist.githubusercontent.com/etodd/d8184b91c02306b889c13eb03f81fb6d/raw/0f7618d9364ee57fc55b65bd4cdc580a3fcfe76f/test.c
+https://gist.githubusercontent.com/etodd/d8184b91c02306b889c13eb03f81fb6d/raw/c4332c53a7e81ed3f5e0e804ff6b1ef7948420e5/test2.c
+https://gist.githubusercontent.com/etodd/d8184b91c02306b889c13eb03f81fb6d/raw/fd883accb76da77d68dd1df9f8d7f4dc69c5f89d/test3.c
+https://gist.githubusercontent.com/jmccarthy/4f5345218b6678f3321f95d2b28a27f8/raw/8932424da23c77bdc57d26c7be29704da1faf930/gistfile1.txt
+https://gist.githubusercontent.com/jmccarthy/5361432/raw/67c3fdfb509f3b74e71931f82ecb9a5f8b449fff/gistfile1.rb
+https://gist.githubusercontent.com/jmccarthy/f5f2e86ba460b2ff4b84/raw/f554154ed9d3eebd61f3464db6cad15646a33159/keybase.md
 https://gist.githubusercontent.com/joshh/411e6596f6aade6cd0c065c731aaf498/raw/c03632fcad96895899abd3d675ce4544737abc22/gistfile1.txt
 https://gist.githubusercontent.com/joshh/9167d50a57340795fd6c4925f80e2221/raw/7c002a0db62f045a88f873f807f6d32e22cef528/gistfile1.txt

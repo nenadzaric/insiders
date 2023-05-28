@@ -6,7 +6,9 @@ https://github.com/Niharikar
 https://github.com/OverstockMedici
 https://github.com/Rasha27
 https://github.com/SeniorEngineer
+https://github.com/baens
 https://github.com/benwille
+https://github.com/brocarlson
 https://github.com/cindirosner
 https://github.com/guimulu
 https://github.com/jiiehe
@@ -15,5 +17,6 @@ https://github.com/justinta
 https://github.com/karyafar
 https://github.com/lili
 https://github.com/marcuss
+https://github.com/ntaylor1781
 https://github.com/overstock
 https://github.com/sappenin

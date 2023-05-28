@@ -899,6 +899,7 @@ https://github.com/joinpursuit/AC-iOS-React-Native-CitiBike-App
 https://github.com/joinpursuit/AC-iOS-React-Native-FlickrPhotosApp
 https://github.com/joinpursuit/AC-iOS-Recipes-APIKeys
 https://github.com/joinpursuit/AC-iOS-RetainCycles
+https://github.com/joinpursuit/AC-iOS-StackProblems
 https://github.com/joinpursuit/AC-iOS-StocksFromOnline
 https://github.com/joinpursuit/AC-iOS-StructsClasses
 https://github.com/joinpursuit/AC-iOS-TableViewCustomCells
@@ -1319,6 +1320,7 @@ https://github.com/joinpursuit/Pursuit-Core-npm-and-Modules-Lab
 https://github.com/joinpursuit/Pursuit-Interview-Process-Sample
 https://github.com/joinpursuit/Pursuit-iOS-Strings-Intro
 https://github.com/joinpursuit/QC_Exemplar
+https://github.com/joinpursuit/React-Github-Collab-Color-Battle
 https://github.com/joinpursuit/React-YouTube-Project-Prompt
 https://github.com/joinpursuit/SongsSearchBar
 https://github.com/joinpursuit/SplashDash
@@ -1516,6 +1518,7 @@ https://github.com/joinpursuit/react_redux_example
 https://github.com/joinpursuit/react_review
 https://github.com/joinpursuit/recaptcha-fullstack-example
 https://github.com/joinpursuit/redux_assignment
+https://github.com/joinpursuit/redux_todo_example
 https://github.com/joinpursuit/resource-accumulator-pattern-practice
 https://github.com/joinpursuit/resource-photography-api
 https://github.com/joinpursuit/resource-television-shows-api

@@ -732,6 +732,7 @@ https://github.com/stuartpb/dabwords
 https://github.com/stuartpb/dealerwheel
 https://github.com/stuartpb/debrochure-pdf
 https://github.com/stuartpb/dinsdale
+https://github.com/stuartpb/docker-opencv-utils
 https://github.com/stuartpb/dockitall
 https://github.com/stuartpb/dokku-addons
 https://github.com/stuartpb/dokku-bind-port
@@ -820,6 +821,7 @@ https://github.com/stuartpb/monospew
 https://github.com/stuartpb/msgpack-fs
 https://github.com/stuartpb/my-adventofcode
 https://github.com/stuartpb/neckfx-hardware
+https://github.com/stuartpb/neckfx-software
 https://github.com/stuartpb/nerd-first
 https://github.com/stuartpb/no-see-i-mean-like-this
 https://github.com/stuartpb/nobby

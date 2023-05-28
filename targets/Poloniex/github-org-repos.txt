@@ -1,0 +1,7 @@
+https://github.com/poloniex/futures-java-sdk
+https://github.com/poloniex/polo-futures-sample-strategies
+https://github.com/poloniex/polo-futures-sdk-python
+https://github.com/poloniex/polo-sdk-java
+https://github.com/poloniex/polo-sdk-python
+https://github.com/poloniex/polo-spot-sdk
+https://github.com/poloniex/poloniex.js

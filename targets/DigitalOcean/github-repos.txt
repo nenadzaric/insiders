@@ -110,6 +110,7 @@ https://github.com/aaishikasb/hackJaipur
 https://github.com/aaishikasb/major-project
 https://github.com/aaishikasb/parallax
 https://github.com/aaishikasb/pickhacks
+https://github.com/aaishikasb/wmn23
 https://github.com/andrewsomething/ansible-role-do-agent
 https://github.com/andrewsomething/app-platform-json-schema
 https://github.com/andrewsomething/blog.andrewsomething.com

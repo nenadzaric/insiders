@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Onfido}
-COMPANY_NAME ---> U{Users} ---> UN[20]
-COMPANY_NAME ---> R{Repositories} ---> RN[360]
-COMPANY_NAME ---> G{Gists} ---> GN[21]
+COMPANY_NAME ---> U{Users} ---> UN[22]
+COMPANY_NAME ---> R{Repositories} ---> RN[418]
+COMPANY_NAME ---> G{Gists} ---> GN[149]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

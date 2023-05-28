@@ -83,6 +83,7 @@ https://github.com/AbhishekChauhan9036/Open-to-Intern-Project-Requirement
 https://github.com/AbhishekChauhan9036/Pep-Coding
 https://github.com/AbhishekChauhan9036/Practice-WebDev
 https://github.com/AbhishekChauhan9036/Python-DSA
+https://github.com/AbhishekChauhan9036/Questions-of-the-Day-GFG-NS
 https://github.com/AbhishekChauhan9036/React-
 https://github.com/AbhishekChauhan9036/React-Interview-Questions
 https://github.com/AbhishekChauhan9036/React-Quizz-App

@@ -21,6 +21,15 @@ https://github.com/HuobinTan/scVAT
 https://github.com/baibinghere/huobi-autotrading
 https://github.com/carriec/carriec.github.io
 https://github.com/carriec/pewi
+https://github.com/etcola/ExData_Plotting2
+https://github.com/etcola/RecruitingOnRails
+https://github.com/etcola/annotation
+https://github.com/etcola/datasciencecoursera
+https://github.com/etcola/getdata-003
+https://github.com/etcola/latex-resume
+https://github.com/etcola/playaround_java
+https://github.com/etcola/poem-generator
+https://github.com/etcola/rprog-003
 https://github.com/hadrianl/huobi
 https://github.com/hbdmapi/huobi_futures_Python
 https://github.com/huobi/btc-kline-history

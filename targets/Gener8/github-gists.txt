@@ -1,2 +1,7 @@
 https://gist.githubusercontent.com/davidstelter/2cfb27fd29ce5fcb241fb656656f0d4a/raw/12cbbc57758de05beba9ce67d1d819445b733a30/init.vim
 https://gist.githubusercontent.com/davidstelter/825c2f3443fd4ce963bdab9f9cde0815/raw/ed39ca46230dfa16b12aeefd2ce8a30aeee53eaa/keybase.md
+https://gist.githubusercontent.com/jacobsapps/13fdbd38e0c55e927903ee6baeb017c8/raw/fac25bb1292f63c73f32678feb7e5377b7e585ce/printf.c
+https://gist.githubusercontent.com/jacobsapps/5d2d4373b546763398d3e7973e53693f/raw/6d0bbbf8756b3f7a801815687911f3de61c0a284/SkeletonableView.swfit
+https://gist.githubusercontent.com/jacobsapps/72b9f8c30676600c91680eed637d9014/raw/1a3a234a8b3289b0ffe528fa63e61bdf94e3f628/vprintf.c
+https://gist.githubusercontent.com/jacobsapps/abb305843bf5929f0ff1335a82c9eda4/raw/ebcaa6eed3cd79e35b10536a46905cd333709a6f/Jacob%20Bartlett.tex
+https://gist.githubusercontent.com/jacobsapps/b592e8ad19a9d3f0a452fe117ab67d93/raw/b5f50f2b2e5184811ec2e62a188c554258501c20/EfficientPrint.swift

@@ -423,6 +423,7 @@ https://github.com/santoshyadavdev/Express-API-Jun19
 https://github.com/santoshyadavdev/ExpressAPI
 https://github.com/santoshyadavdev/GitHubTips
 https://github.com/santoshyadavdev/GoTutorial
+https://github.com/santoshyadavdev/IIHT-demo
 https://github.com/santoshyadavdev/NestJS-Series
 https://github.com/santoshyadavdev/Ngrx-getting-started-master
 https://github.com/santoshyadavdev/Nx-build-issue
@@ -647,6 +648,7 @@ https://github.com/santosomar/openvuln-bot
 https://github.com/santosomar/responsible_ai
 https://github.com/santosomar/rpi-pico-rubber-ducky-ctf
 https://github.com/santosomar/rtv-dc-safemode
+https://github.com/santosomar/santosomar
 https://github.com/santosomar/sbom
 https://github.com/santosomar/stat104
 https://github.com/santosomar/talos-threat-roundup-iocs

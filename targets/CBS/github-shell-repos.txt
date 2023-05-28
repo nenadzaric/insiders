@@ -31,6 +31,8 @@ https://github.com/cbsd/modules-forms-rtorrent
 https://github.com/cbsd/modules-forms-timezone
 https://github.com/cbsd/modules-garm
 https://github.com/cbsd/modules-ipam
+https://github.com/cbsd/modules-k8s
 https://github.com/cbsd/modules-monit
 https://github.com/cbsd/puppet-empty
+https://github.com/cbsd/reggae
 https://github.com/hengzhang/third_party

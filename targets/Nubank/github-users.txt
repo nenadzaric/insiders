@@ -13,5 +13,6 @@ https://github.com/mguardarini
 https://github.com/nubank
 https://github.com/nubank-testing
 https://github.com/nubankstaging
+https://github.com/pedroaxl
 https://github.com/victorferreira
 https://github.com/zanfranceschi

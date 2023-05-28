@@ -129,6 +129,9 @@ https://github.com/Helithumper/unit-circle-calculator
 https://github.com/Helithumper/webdev-realm
 https://github.com/Johnserf-Seed/TikTokDownload
 https://github.com/Semporia/TikTok-Unlock
+https://github.com/TikHubIO/Data_Analysis_waibao
+https://github.com/TikHubIO/Douyin-TikTok-API-Python-SDK
+https://github.com/TikHubIO/TikHub
 https://github.com/TikTokteam/JuejinWeb
 https://github.com/TiktokFR/modmail-plugins
 https://github.com/VarunPatelius/Adult-Swim-Trend

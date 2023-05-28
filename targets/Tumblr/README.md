@@ -5,6 +5,6 @@ graph LR
 COMPANY_NAME{Tumblr}
 COMPANY_NAME ---> U{Users} ---> UN[21]
 COMPANY_NAME ---> R{Repositories} ---> RN[399]
-COMPANY_NAME ---> G{Gists} ---> GN[190]
+COMPANY_NAME ---> G{Gists} ---> GN[388]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

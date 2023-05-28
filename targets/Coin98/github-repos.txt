@@ -1,3 +1,4 @@
+https://github.com/Seifollahi23/Coin98
 https://github.com/coin98/baryon-farm
 https://github.com/coin98/baryon-lp-token-list
 https://github.com/coin98/baryon-swap

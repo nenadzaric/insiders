@@ -112,6 +112,8 @@ https://github.com/sanjokkarki/Spylogger
 https://github.com/sanjokkarki/sanjokkarki
 https://github.com/sanjokkarki/wordlists
 https://github.com/someapp/fireeye-bootswatch
+https://github.com/srividya-ravi/CyberSecurityLearnings
+https://github.com/srividya-ravi/Simple_java_app_with_GCP_services_using_spring_boot
 https://github.com/zhengmin1989/DroidAnalytics
 https://github.com/zhengmin1989/GreatiOSJailbreakMaterial
 https://github.com/zhengmin1989/MyArticles

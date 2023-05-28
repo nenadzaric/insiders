@@ -383,6 +383,7 @@ https://github.com/bbc/alephant-cache
 https://github.com/bbc/alephant-harness
 https://github.com/bbc/alephant-logger
 https://github.com/bbc/alephant-logger-cloudwatch
+https://github.com/bbc/alephant-logger-json
 https://github.com/bbc/alephant-logger-statsd
 https://github.com/bbc/alephant-lookup
 https://github.com/bbc/alephant-preview

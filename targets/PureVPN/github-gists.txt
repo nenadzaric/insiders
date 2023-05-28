@@ -5,6 +5,10 @@ https://gist.githubusercontent.com/amirraza/830b1c08b51761e9e50eccbf55b49eda/raw
 https://gist.githubusercontent.com/amirraza/89ff8ad7c3607f5dcf49f604fbad7c91/raw/993a995acb1a50ec65ce41f40f06ed89c0dd0d1d/Cryptography.kt
 https://gist.githubusercontent.com/amirraza/df6d591374a7d6f80289f359f88bda15/raw/76babab2dd42bc45d2b3a52826ef063af674a98f/User%20-%20HtmlCodeGenerator.kt
 https://gist.githubusercontent.com/amirraza/f6e7edf310c53f500c2273bd59640514/raw/9e0f5cc0f07a535543bfd81841171460785d793f/Leaf%20-%20HtmlElement.kt
+https://gist.githubusercontent.com/m-alishan/4220555151029a1146082c2998e85c1e/raw/635d213020a2256d921c91edecb9cdf94b4b38d6/load_spark_from_jdbc.py
+https://gist.githubusercontent.com/m-alishan/5e7d50d8c404ce207b2b55961e70aaa6/raw/b5707ae7c709a74392cd3cd29811b6542722ebba/ESDataFetch.py
+https://gist.githubusercontent.com/m-alishan/685900766506ae5e5ad6ca1ac867f88b/raw/e24d78d61c84031e326a186351cae20fd792aa67/parent_directory_path.py
+https://gist.githubusercontent.com/m-alishan/f9aacf679e9010866836d3b4d3583fd8/raw/1b5f1bf5a2bc35c9296a9daea3a0f8434779e94c/module_loader.py
 https://gist.githubusercontent.com/rameezusmani/399fd7909b344efe63f1c11328d06243/raw/eb213f09b11303f406f1c3bd840728707ccf452b/misscalculator.py
 https://gist.githubusercontent.com/rameezusmani/7a2fe39553bd7c369884c94e313a5149/raw/7bffaa6a94bf5b365ff48f4d9ed67c065a2f4f19/ImageUtils.cs
 https://gist.githubusercontent.com/rameezusmani/99d3a1aaeff40bc54fd68567d6d36662/raw/288b275ea0f89800e0fbc11eb399c1da9986f94b/build_ionic_android.bat

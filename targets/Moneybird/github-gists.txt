@@ -5,3 +5,5 @@ https://gist.githubusercontent.com/Remcoman/7d7b9ac52f5bab69f42a2b14ab7d3aca/raw
 https://gist.githubusercontent.com/Remcoman/7d7b9ac52f5bab69f42a2b14ab7d3aca/raw/d1305501573958b3d190237666ee11c6bcd31e6a/minified.js
 https://gist.githubusercontent.com/Remcoman/7d7b9ac52f5bab69f42a2b14ab7d3aca/raw/ea056c5cf54a598fc172cc56930cc1b4750f340f/requirebin.md
 https://gist.githubusercontent.com/Remcoman/7d7b9ac52f5bab69f42a2b14ab7d3aca/raw/f6d84735315af6a1146c820dd9541793708ef045/index.js
+https://gist.githubusercontent.com/jdiepenmaat/1e91024c532d735f7e60fdf3f2bb6c55/raw/b4d39875d8f6cbab400e660f64ef952e3ab2bf22/keybase.md
+https://gist.githubusercontent.com/moneybird/1232228/raw/b4e3fad5dbbc7a72552cbb5060355a3e7737ea02/gistfile1.aw

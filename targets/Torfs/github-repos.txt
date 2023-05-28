@@ -17,6 +17,7 @@ https://github.com/TorfsJoryan/TorfsJoryan.github.io
 https://github.com/TorfsJoryan/demoLes2
 https://github.com/TorfsJoryan/github.io.
 https://github.com/TorfsJoryan/project1
+https://github.com/bentorfs/AI-algorithms
 https://github.com/bentorfs/angular-bootstrap-multiselect
 https://github.com/bentorfs/angular-slopegraph
 https://github.com/bentorfs/ddb

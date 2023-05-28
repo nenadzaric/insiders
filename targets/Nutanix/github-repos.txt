@@ -220,6 +220,7 @@ https://github.com/nutanix/Nutanix-Calm-Jenkins-Plugin
 https://github.com/nutanix/ServiceNow
 https://github.com/nutanix/api-guidelines-validator
 https://github.com/nutanix/blueprints
+https://github.com/nutanix/calm-dsl
 https://github.com/nutanix/conntrack-migrator
 https://github.com/nutanix/csi-plugin
 https://github.com/nutanix/curie
@@ -230,6 +231,8 @@ https://github.com/nutanix/generate-jwt-key
 https://github.com/nutanix/hackathon
 https://github.com/nutanix/helm
 https://github.com/nutanix/helm-releases
+https://github.com/nutanix/homebrew-tap
+https://github.com/nutanix/karbon-platform-services
 https://github.com/nutanix/kps-connector-go-sdk
 https://github.com/nutanix/kps-connector-go-template
 https://github.com/nutanix/kps-connector-idl
@@ -239,6 +242,7 @@ https://github.com/nutanix/larmier
 https://github.com/nutanix/libvfio-user
 https://github.com/nutanix/nai-dl-bench
 https://github.com/nutanix/ntnx-api-cmdlet-help
+https://github.com/nutanix/ntnx-api-golang-clients
 https://github.com/nutanix/ntnx-api-java-clients
 https://github.com/nutanix/ntnx-api-javascript-clients
 https://github.com/nutanix/ntnx-api-python-clients
@@ -246,6 +250,7 @@ https://github.com/nutanix/nutanix.ansible
 https://github.com/nutanix/objects-analytics-elk-config
 https://github.com/nutanix/openshift
 https://github.com/nutanix/papiea
+https://github.com/nutanix/papiea-clj
 https://github.com/nutanix/papiea-js-example
 https://github.com/nutanix/passport-wso2
 https://github.com/nutanix/patrao

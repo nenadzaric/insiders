@@ -117,5 +117,6 @@ https://github.com/wordpress-mobile/publish-to-s3-buildkite-plugin
 https://github.com/wordpress-mobile/release-toolkit-gutenberg-mobile
 https://github.com/wordpress-mobile/sentry-rn-test-app
 https://github.com/wordpressmonk/herokuphp
+https://github.com/wp-plugins/tinymce-code-button
 https://github.com/zzap/WordPress-Through-The-Terminal
 https://github.com/zzap/WordPress-Through-The-Terminal-Workshop

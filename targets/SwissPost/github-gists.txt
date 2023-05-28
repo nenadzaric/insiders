@@ -1,1 +1,12 @@
 https://gist.githubusercontent.com/ThomasTopuz/899903a26f2a8cc8f1cf8ca1bcc68e0a/raw/085f4b9b48e74ae5db4abf38db805f53a202ead3/dockercomposewp
+https://gist.githubusercontent.com/gfellerph/a646a5ba2ae7606c0f77396f29b30afa/raw/c01bc717c984dc61f456b5fb0308ab3ed844b04b/output.css
+https://gist.githubusercontent.com/gfellerph/a646a5ba2ae7606c0f77396f29b30afa/raw/db881a3b4fe214733313533636a5e1a75a176983/input.scss
+https://gist.githubusercontent.com/gfellerph/a646a5ba2ae7606c0f77396f29b30afa/raw/fe60318f89c5346086cbdafb1a608560980f2551/settings.json
+https://gist.githubusercontent.com/gfellerph/bb3bd788168cb906108f3348475a581a/raw/beef43057a6bb03d80cc1171ec484655abd9de19/why-does-the-page-scroll-horizontally.js
+https://gist.githubusercontent.com/philipsahli/1263548/raw/1ec0debe692c69f449ee0c87046e1f67c1a19c6e/views.py
+https://gist.githubusercontent.com/philipsahli/1263548/raw/4943c855ca3f9a5ad5950ccdf63faa8243e3a378/tests.py
+https://gist.githubusercontent.com/philipsahli/1280254/raw/c8b0046a3c1aacccb7c620f5e279d68fab7d7ec8/Imaging-1.1.7_setup.patch
+https://gist.githubusercontent.com/philipsahli/b4a13bbb3c90d12d8756c3fd6f5306bd/raw/74906cf4f0b541748d584256368b10d76220771b/Mongoblog
+https://gist.githubusercontent.com/the-technat/4c3393d06d623174fe1639d5c5d970f9/raw/7af95db899f6786b0e4a749844805e196af6d2eb/dex-values.yaml
+https://gist.githubusercontent.com/the-technat/b62bff858998cd9097b1dde85eb6f426/raw/d79dfbf8a06a798a3a5bca4b3083ef49ec6889e6/letsencrypt-contour.yaml
+https://gist.githubusercontent.com/the-technat/c7370cabb1181be66e75bd50828cb1d8/raw/f9014d589a2038419b77a95233ba0a9509ddb413/app.yaml

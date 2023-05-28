@@ -5,3 +5,7 @@ https://gist.githubusercontent.com/HarrisonW/2872590/raw/9abc1ef6f0aed0e64e5eee4
 https://gist.githubusercontent.com/HarrisonW/2872590/raw/caaee40d7a8e6e044ecbf6d125d6b012fa47dceb/resque-production.rb
 https://gist.githubusercontent.com/HarrisonW/2872590/raw/f8800bf8546005499154ffb3a99fe012985ad464/master.conf
 https://gist.githubusercontent.com/HarrisonW/7e33d2ff5970a9283e38361cfd8c14c4/raw/644dfa7fb15a465198073fda7ab5412996d9133b/hvac_pause.yaml
+https://gist.githubusercontent.com/volkis88/6b9d277169c415c1aebcba660f8c4a4e/raw/bef229c7ce5098be3c44cd5bdd1566f1c1c45eac/playerco.php
+https://gist.githubusercontent.com/volkish/18ab66f7c64975a1c0b9fe20bbe392d7/raw/956221803e0445bd50f372d519010c1258e57899/keybase.md
+https://gist.githubusercontent.com/volkish/6f72c2fdfa42f1131070730116705ab7/raw/ee12659a095232e000899c9774317b6f627a8f0a/check_response_time.sh
+https://gist.githubusercontent.com/volkish/dab2a1b204b5b8241087c47a04e13bff/raw/d003c2ec3731e1f73dae580a3572103c2853592d/README.md

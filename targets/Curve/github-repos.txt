@@ -293,7 +293,17 @@ https://github.com/curveresearch/curvesim
 https://github.com/curveresearch/usdc_depeg_plots
 https://github.com/curvesoft/curvesoft.github.io
 https://github.com/curvesoft/goqqpushapi
+https://github.com/dalek-cryptography/bulletproofs
 https://github.com/dalek-cryptography/curve25519-dalek
+https://github.com/dalek-cryptography/dalek-rangeproofs
+https://github.com/dalek-cryptography/dalek.rs
+https://github.com/dalek-cryptography/dalek_workspace
+https://github.com/dalek-cryptography/doppio
+https://github.com/dalek-cryptography/ed25519-dalek
+https://github.com/dalek-cryptography/merlin
+https://github.com/dalek-cryptography/subtle
+https://github.com/dalek-cryptography/x25519-dalek
+https://github.com/dalek-cryptography/zkp
 https://github.com/dsuare1/FriendFinder
 https://github.com/dsuare1/GiphyAPI
 https://github.com/dsuare1/NYTReact
@@ -328,7 +338,9 @@ https://github.com/honghyeong/backend-cs-interview
 https://github.com/honghyeong/backend-study-course
 https://github.com/honghyeong/blog
 https://github.com/honghyeong/corca-nx-cicd
+https://github.com/honghyeong/corca-stress-generator
 https://github.com/honghyeong/cv
+https://github.com/honghyeong/draw-io
 https://github.com/honghyeong/go-problem-solving
 https://github.com/honghyeong/honghyeong
 https://github.com/honghyeong/honghyeong.github.io
@@ -374,6 +386,7 @@ https://github.com/opencurve/curve
 https://github.com/rwightman/androids-dream
 https://github.com/rwightman/ariac-workspace
 https://github.com/rwightman/boost
+https://github.com/rwightman/efficientdet-pytorch
 https://github.com/rwightman/efficientnet-jax
 https://github.com/rwightman/gen-efficientnet-pytorch
 https://github.com/rwightman/obstacle-tower-pytorch-a2c-ppo

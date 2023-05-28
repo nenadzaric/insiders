@@ -27,6 +27,7 @@ https://github.com/michellymenezes/mapa-ninja
 https://github.com/omariosouto/dotfiles
 https://github.com/peagha/dotfiles
 https://github.com/peagha/front-end
+https://github.com/pedroaxl/opsworks-resque-scheduler
 https://github.com/pitalig/dotfiles-old
 https://github.com/pitalig/pitalister
 https://github.com/pvgomes/docker-datomic

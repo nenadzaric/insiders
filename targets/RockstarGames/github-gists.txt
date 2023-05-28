@@ -8,3 +8,4 @@ https://gist.githubusercontent.com/LeonelF/a5e3603663ed1b51375dae3737a2be95/raw/
 https://gist.githubusercontent.com/LeonelF/bcc45a00ffa0d56e854acdb0391136ce/raw/9e86b661b3c7f9e9153e80f783d9be0ef09aefc2/plugin.py
 https://gist.githubusercontent.com/LeonelF/c8a96277914baa2890d88a81620ad5e2/raw/dc7e5949e7bbaa81bb3e0f8e0bc3f5c2cd14de6d/keybase.md
 https://gist.githubusercontent.com/LeonelF/cbbff207caa7961318f305b6bce02173/raw/fa55adb8319fadf4a91045014e8f32578dddc4d0/keybase.md
+https://gist.githubusercontent.com/mway/9373014/raw/bbc5ba6ff91d33ecc25a8da1685876f464fb8c3a/keybase.md

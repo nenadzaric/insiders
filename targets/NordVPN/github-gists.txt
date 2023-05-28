@@ -1,2 +1,6 @@
+https://gist.githubusercontent.com/alxstu/10475035/raw/7a8564e4b4a935517d32f9721a5faf7ede6f5e40/keybase.md
+https://gist.githubusercontent.com/alxstu/2584442731d49cebd74a/raw/80918d70cc764a1b67065d8cda8bb98b8f23a4e7/filePath.swift
 https://gist.githubusercontent.com/chrisward/bfb83e79a9c16e7161bb3edfc2c47b49/raw/397ca706960ed04f0800d41223d10070668e2280/MainActivity.kt
 https://gist.githubusercontent.com/chrisward/bfb83e79a9c16e7161bb3edfc2c47b49/raw/d0b4f22b198876ef801d268ce146b0f19ad5bbb1/activity_main.xml
+https://gist.githubusercontent.com/nordvpn3yeardeal/7e900d62803beaabc67eb061678c23b9/raw/477384cc722ddb7e587b4fdca2a3145bbba082e3/NordVPN%20MR%20Beast%20Gaming
+https://gist.githubusercontent.com/nordvpn3yeardeal/7e900d62803beaabc67eb061678c23b9/raw/f3b097f7591c4848143397bd55ec843638a3e37c/gistfile1.txt

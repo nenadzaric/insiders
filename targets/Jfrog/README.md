@@ -5,6 +5,6 @@ graph LR
 COMPANY_NAME{Jfrog}
 COMPANY_NAME ---> U{Users} ---> UN[38]
 COMPANY_NAME ---> R{Repositories} ---> RN[582]
-COMPANY_NAME ---> G{Gists} ---> GN[13]
+COMPANY_NAME ---> G{Gists} ---> GN[43]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

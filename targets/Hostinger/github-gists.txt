@@ -31,3 +31,9 @@ https://gist.githubusercontent.com/benben/4442954/raw/4193e3178d65da3f526f526777
 https://gist.githubusercontent.com/benben/4442954/raw/44a928e67e1665798dd9e055903aebfe3a8667f8/vproweather%20realtime%20output
 https://gist.githubusercontent.com/benben/4442954/raw/d8eeba5153d82ca50d5faab3e3f5d8076195cc36/wview%20archiv%20table%20structure
 https://gist.githubusercontent.com/benben/cf6f12d4b69de18ed664/raw/38a9080e5dc6fc33eafa553c06ac1df4fb745628/ruby.i
+https://gist.githubusercontent.com/simposk/3ee740bd570e1cda458b2b18fa2051c4/raw/f8e8e613b748e6ec49127a16d7f4befd54979e58/create%20construct%20snippet
+https://gist.githubusercontent.com/simposk/5535a2314cc1aca630ab3fad519f1012/raw/d83c64fbb9f04faacf1dbaf66461ee4fefc28c09/sublime%203%20config
+https://gist.githubusercontent.com/simposk/6e83f4d8c004d942cb1911e56369c117/raw/01229459f50a89597676b13a8372866528f7d024/packages
+https://gist.githubusercontent.com/simposk/9b044a1b26f23da57b465dcfba8b1196/raw/acf7b962655d16f892afd43c61d2c7f6fec5de40/this%20snippet
+https://gist.githubusercontent.com/simposk/bd4a4585ba3a56dc3ff6f2945dcee0b1/raw/79abd923f9fe374f344008a0420481823ccbf614/create%20public%20function%20snippet
+https://gist.githubusercontent.com/simposk/cdf8ff4aa43570254fcc7c2c8259ab3b/raw/9f479b56cc3e43d5dc479685a2558459523750aa/create%20protected%20method%20snippet

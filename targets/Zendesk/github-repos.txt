@@ -714,6 +714,7 @@ https://github.com/zendesk/zendeskes-facebook-identifier
 https://github.com/zendesk/zendeskes-handle-time-redux
 https://github.com/zendesk/zendeskes-heyApp
 https://github.com/zendesk/zendeskes-legacy-archive
+https://github.com/zendesk/zendeskes-quick-lang-change-app
 https://github.com/zendesk/zendeskes-sso-redirect
 https://github.com/zendesk/zendeskes-suspendedUsers
 https://github.com/zendesk/zendeskes-training-tickets-creator-app

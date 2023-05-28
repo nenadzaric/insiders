@@ -1,2 +1,6 @@
+https://github.com/alejandrosocorro/configfiles
+https://github.com/rakuten-frontend/rff-setup
+https://github.com/rakutentech/cf-tools
+https://github.com/rakutentech/postgres-backup-boshrelease
 https://github.com/yunfan/jyf
 https://github.com/yunfan/k3s-play

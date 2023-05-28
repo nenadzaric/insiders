@@ -17,8 +17,10 @@ https://github.com/pxlsspace
 https://github.com/rachelbates
 https://github.com/raspberry-vanilla
 https://github.com/schirrel
+https://github.com/tiagombp
 https://github.com/vanilla
 https://github.com/vanilla-dpup
+https://github.com/vanilla-extract-css
 https://github.com/vanilla-thunder
 https://github.com/vanillacoding
 https://github.com/vanilladefi

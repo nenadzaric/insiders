@@ -158,6 +158,7 @@ https://github.com/michaeld/vagrant_basebox_cookbook
 https://github.com/navaei/TeleNet
 https://github.com/telenet-s/HelloKri
 https://github.com/telenet-s/kristina
+https://github.com/telenet-takahashi/sample_udemy
 https://github.com/telenetdemexico/tesseract
 https://github.com/wimmaes/environment-legfoul-production
 https://github.com/wimmaes/environment-legfoul-staging

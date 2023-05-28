@@ -25,6 +25,10 @@ https://github.com/AtaGowani/support-blm
 https://github.com/AtaGowani/the-office
 https://github.com/AtaGowani/the-office-extension
 https://github.com/AtaGowani/wind-turbine-simulation
+https://github.com/HubSpot-Academy/cms-for-developers-ii-best-practices
+https://github.com/HubSpot-Academy/developing-scalable-hubspot-solutions
+https://github.com/HubSpot-Academy/integrating-with-hubspot-i-foundations
+https://github.com/HubSpot-Academy/integrating-with-hubspot-i-foundations-practicum
 https://github.com/HubSpot/APIWebApp
 https://github.com/HubSpot/Backbone.HookSync
 https://github.com/HubSpot/Baragon

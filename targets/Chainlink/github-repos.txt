@@ -105,6 +105,11 @@ https://github.com/Chainlink-Indonesia/chainlink-market-feeds
 https://github.com/Chainlink-Indonesia/infura-integrated
 https://github.com/Chainlink-Indonesia/solidity-fundamental
 https://github.com/Chainlink-Indonesia/web3-frontend
+https://github.com/Chainlink-Turkiye/ethernaut-turkce
+https://github.com/ChainlinkHackathon-StakingMonitor/.github
+https://github.com/ChainlinkHackathon-StakingMonitor/architecture_and_design
+https://github.com/ChainlinkHackathon-StakingMonitor/contract
+https://github.com/ChainlinkHackathon-StakingMonitor/front_end
 https://github.com/ChainlinkResources/FSmarket1
 https://github.com/ChainlinkResources/defi-simulation
 https://github.com/ChainlinkResources/loopielounft
@@ -361,6 +366,10 @@ https://github.com/patrickyoung/spacebook
 https://github.com/patrickyoung/stencil
 https://github.com/patrickyoung/userxp
 https://github.com/patrickyoung/webapp
+https://github.com/polyroll/polyroll-farm
+https://github.com/polyroll/polyroll-game
+https://github.com/polyroll/polyroll-game-erc20
+https://github.com/polyroll/polyroll-game-v2
 https://github.com/sergeynazarov/nazarov.github.io
 https://github.com/sergeynazarov/sergeynazarov.github.io
 https://github.com/smartcontractkit/LinkToken

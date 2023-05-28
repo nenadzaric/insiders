@@ -1,2 +1,12 @@
 https://gist.githubusercontent.com/evanheisler/6a2a59915f2f46f7b57d/raw/efa57c6215428a0ab2ea82a691527f426397ba02/keybase.md
 https://gist.githubusercontent.com/evanheisler/de00d2ba79a73b753dafb1b5273e28c6/raw/43ea6d6ac12a20d4829ee6325f4b6ecdd4df3278/gistfile1.json
+https://gist.githubusercontent.com/jonathanbranam/13837/raw/22aaaf68880d4525363c4b9a240040d9b53c947d/ruby_test.as
+https://gist.githubusercontent.com/jonathanbranam/14595/raw/c88426d3fdf8e063b411fce27e43a13e57bb9ac5/constant_lookup.rb
+https://gist.githubusercontent.com/jonathanbranam/16993/raw/07cc393711ae1f8138fbd7b695c80800a958a83c/text_input.rb
+https://gist.githubusercontent.com/jonathanbranam/16994/raw/db857f8ffc8528f9a6a466054e4882c6f73c9a73/event_listener.rb
+https://gist.githubusercontent.com/jonathanbranam/16994/raw/e94011c93500adb878e6e9dd5c02ee2492d421dc/event_dispatcher.rb
+https://gist.githubusercontent.com/jonathanbranam/65771/raw/986381ad632d004448ae3637b51acc0c29372160/Worker.as
+https://gist.githubusercontent.com/jonathanbranam/65771/raw/caccc0561ebb219797230d7fefdb66fe982fd1dc/WorkerScheduler.as
+https://gist.githubusercontent.com/jonathanbranam/8010/raw/0435723feeb59cca75ef3c92c4e60df6afef9630/ISillyCommandFactory.as
+https://gist.githubusercontent.com/jonathanbranam/8010/raw/2ebc612cd66a222f8dadef2dc7a0cd056ee046ac/SillyCommandFactory%20.as
+https://gist.githubusercontent.com/jonathanbranam/c2b121237d1954c574b0a2bbc075e662/raw/38ef0dc8008c6146913890b52ef3adbf1104ce6b/ex-assign50

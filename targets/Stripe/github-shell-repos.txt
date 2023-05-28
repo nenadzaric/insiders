@@ -1,4 +1,6 @@
 https://github.com/BenEmdon/dotfiles
+https://github.com/StripedMonkey/gsc-minecraft-modded
+https://github.com/StripedMonkey/minecraft-docker
 https://github.com/chrishunt/battery
 https://github.com/chrishunt/negfix8
 https://github.com/dsymonds/dotfiles

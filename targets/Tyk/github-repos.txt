@@ -193,6 +193,12 @@ https://github.com/Tykok/learn-svg
 https://github.com/Tykok/learn-threejs
 https://github.com/Tykok/pokedex
 https://github.com/Tykok/why-jsdoc
+https://github.com/Tykovka777/test
+https://github.com/Tykovka777/test1
+https://github.com/Tykovka777/test2
+https://github.com/Tykovka777/test3
+https://github.com/Tykovka777/test4
+https://github.com/Tykovka777/test5
 https://github.com/aaronsinclair/Safesurfer_Lifeguard
 https://github.com/aaronsinclair/aaronsinclair
 https://github.com/aaronsinclair/lifeguard

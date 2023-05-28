@@ -13,6 +13,12 @@ https://github.com/ViatorSun/Pytorch_solov2
 https://github.com/ViatorSun/Typora
 https://github.com/ViatorSun/ViatorCV
 https://github.com/ViatorSun/ViatorSun.github.io
+https://github.com/Viatorus/compile-time-printer
+https://github.com/Viatorus/conan-test-diamond
+https://github.com/Viatorus/dispono
+https://github.com/Viatorus/emio
+https://github.com/Viatorus/neo2-external-keyboard
+https://github.com/Viatorus/quom
 https://github.com/alvatip/Nordzy-cursors
 https://github.com/chelseac/myonlinerepo
 https://github.com/chelseac/qq

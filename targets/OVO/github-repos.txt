@@ -84,6 +84,7 @@ https://github.com/lillian039/TrainTicketSystem2022
 https://github.com/lillian039/bpt_buffer
 https://github.com/lillian039/bpt_test
 https://github.com/lillian039/buddy-test
+https://github.com/lillian039/fuse_chat
 https://github.com/lillian039/lillian039
 https://github.com/lillian039/malloc_test
 https://github.com/lintangtimur/ovoid

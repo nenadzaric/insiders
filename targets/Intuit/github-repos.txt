@@ -99,6 +99,7 @@ https://github.com/IntuitiveHarmony/midi-controller
 https://github.com/IntuitiveHarmony/midi-interface
 https://github.com/IntuitiveHarmony/moviefrontend
 https://github.com/IntuitiveHarmony/party-dots
+https://github.com/IntuitiveHarmony/party-dots-history
 https://github.com/IntuitiveHarmony/party-dots2
 https://github.com/IntuitiveHarmony/pokemon
 https://github.com/IntuitiveHarmony/portfolio

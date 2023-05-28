@@ -695,6 +695,7 @@ https://github.com/magentobrazil/google-customer-reviews
 https://github.com/magentobrazil/google-merchant-promotions
 https://github.com/magentobrazil/google-product-ratings
 https://github.com/magentobrazil/google-rich-snippets
+https://github.com/magentobrazil/google-shopping
 https://github.com/magentobrazil/googleshopping
 https://github.com/magentobrazil/hub2b
 https://github.com/magentobrazil/integracommerce
@@ -817,12 +818,14 @@ https://github.com/markshust/docker-meteor-ssl
 https://github.com/markshust/docker-mongoclient
 https://github.com/markshust/docker-nginx-phpfpm-alpine
 https://github.com/markshust/docker-nginx-phpfpm-percona-alpine
+https://github.com/markshust/docker-php
 https://github.com/markshust/docker-ubuntu-trusty-lamp
 https://github.com/markshust/drop-target-rank
 https://github.com/markshust/falcon
 https://github.com/markshust/firebase-express-proxy
 https://github.com/markshust/firebase-keen
 https://github.com/markshust/firebase-nfl-liveupdate
+https://github.com/markshust/foobar
 https://github.com/markshust/git-remotebranch
 https://github.com/markshust/hello-github-actions
 https://github.com/markshust/hymn-composer

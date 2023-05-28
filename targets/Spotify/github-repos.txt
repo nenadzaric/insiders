@@ -139,6 +139,7 @@ https://github.com/Tarrasch/motion-planning
 https://github.com/Tarrasch/motion-serving
 https://github.com/Tarrasch/my-tetris-solver-hs
 https://github.com/Tarrasch/nla-CSE6643
+https://github.com/Tarrasch/numerical-linear-algebra
 https://github.com/Tarrasch/pddl.vim
 https://github.com/Tarrasch/rack-example
 https://github.com/Tarrasch/ravens-test

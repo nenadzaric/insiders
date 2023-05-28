@@ -540,6 +540,10 @@ https://github.com/vivocha/vubsub
 https://github.com/vivocha/vvc
 https://github.com/vivocha/vvc-app
 https://github.com/vivocha/yaas-sdk
+https://github.com/vivocoin/ansible
+https://github.com/vivocoin/centralstrings
+https://github.com/vivocoin/docker
+https://github.com/vivocoin/sentinel
 https://github.com/vivocoin/vivo
 https://github.com/vivonk/CampusFood
 https://github.com/vivonk/CommitMaster

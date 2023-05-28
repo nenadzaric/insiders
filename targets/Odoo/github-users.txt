@@ -1,5 +1,6 @@
 https://github.com/CybroOdoo
 https://github.com/JosephBoyd
+https://github.com/Julien00859
 https://github.com/LauraUribe
 https://github.com/OCA
 https://github.com/Odoo-mobile
@@ -8,11 +9,15 @@ https://github.com/SeniorAdvisor
 https://github.com/Tecnativa
 https://github.com/Trust-Code
 https://github.com/Vauxoo
+https://github.com/amigrave
+https://github.com/assellalou
 https://github.com/hnjm
 https://github.com/marcelsavegnago
 https://github.com/marionumza
 https://github.com/mart-e
+https://github.com/moerradi
 https://github.com/nelsonramirezs
+https://github.com/nouraellm
 https://github.com/odoo
 https://github.com/odoo-dev
 https://github.com/odoo-ide
@@ -22,3 +27,4 @@ https://github.com/odooerpdevelopers
 https://github.com/odoogap
 https://github.com/odoomates
 https://github.com/odoousers2014
+https://github.com/sleepy-monax

@@ -1,10 +1,12 @@
 https://github.com/C-D-Lewis
 https://github.com/FitBitGym
 https://github.com/Fitbit
+https://github.com/Fitbit-Analysis
 https://github.com/JustinScott
 https://github.com/KennyRozario
 https://github.com/MilesGordenker
 https://github.com/alfredjones
+https://github.com/cancui
 https://github.com/cozie-app
 https://github.com/fharper
 https://github.com/fitbit-time-series-mj

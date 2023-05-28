@@ -157,6 +157,8 @@ https://github.com/Shopify/goreferrer
 https://github.com/Shopify/gozk
 https://github.com/Shopify/graphicsmagick-backport
 https://github.com/Shopify/graphql-batch
+https://github.com/Shopify/graphql-design-tutorial
+https://github.com/Shopify/graphql-js-client
 https://github.com/Shopify/graphql-js-client-compiler
 https://github.com/Shopify/graphql-js-schema
 https://github.com/Shopify/graphql-js-schema-fetch
@@ -207,6 +209,8 @@ https://github.com/Shopify/keychain-status
 https://github.com/Shopify/kitchen-shopify-provisioner
 https://github.com/Shopify/kitt
 https://github.com/Shopify/koa-shopify-auth
+https://github.com/Shopify/krane
+https://github.com/Shopify/kubeaudit
 https://github.com/Shopify/kubepacity
 https://github.com/Shopify/libcidr-shopify
 https://github.com/Shopify/libra-web-tools
@@ -241,6 +245,7 @@ https://github.com/Shopify/minitest-failure_reporter
 https://github.com/Shopify/minitest-silence
 https://github.com/Shopify/mirrors
 https://github.com/Shopify/mobile-buy-android-sample
+https://github.com/Shopify/mobile-buy-sdk-android
 https://github.com/Shopify/mobile-buy-sdk-ios
 https://github.com/Shopify/mobile-buy-sdk-ios-sample
 https://github.com/Shopify/mode-notebook-assets
@@ -338,6 +343,7 @@ https://github.com/Shopify/shopify-cli-example-app
 https://github.com/Shopify/shopify-cli-extensions
 https://github.com/Shopify/shopify-codemod
 https://github.com/Shopify/shopify-css-import
+https://github.com/Shopify/shopify-demo-app-node-react
 https://github.com/Shopify/shopify-express
 https://github.com/Shopify/shopify-frontend-template-react
 https://github.com/Shopify/shopify-fulfillment-integration
@@ -359,6 +365,7 @@ https://github.com/Shopify/shopify_apt_get_on_change
 https://github.com/Shopify/shopify_django_app
 https://github.com/Shopify/shopify_python
 https://github.com/Shopify/shopify_python_api
+https://github.com/Shopify/shopify_theme
 https://github.com/Shopify/shopify_transporter
 https://github.com/Shopify/skeleton-theme
 https://github.com/Shopify/slate
@@ -376,6 +383,7 @@ https://github.com/Shopify/starter-theme
 https://github.com/Shopify/statsd-instrument
 https://github.com/Shopify/storefront-api-examples
 https://github.com/Shopify/storefront-api-feedback
+https://github.com/Shopify/storefront-api-learning-kit
 https://github.com/Shopify/stylelint-config-shopify
 https://github.com/Shopify/sublime-shadowenv
 https://github.com/Shopify/sublimelinter-rorybot

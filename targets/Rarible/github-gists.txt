@@ -1,3 +1,6 @@
+https://gist.githubusercontent.com/eduardstal/dbde41564ed568aded3965e135eaa64b/raw/770d97bae3eb4cb3d2c7c5a5ecacd3d351cb5cd9/gistfile1.txt
 https://gist.githubusercontent.com/evgenynacu/44e33f0556538f9aeba98a1ef5783999/raw/4c902603b6808569faa73a4ceab4a8894568fa78/gistfile1.txt
 https://gist.githubusercontent.com/evgenynacu/72c0d3300a4cadc3dca414910064a524/raw/66461ce2854b1dd9de0d6cef0b2ca56f237ded8e/ApiClient.mustache
 https://gist.githubusercontent.com/evgenynacu/72c0d3300a4cadc3dca414910064a524/raw/6d570ddc8741f0aa68e74e5199f77b7fc69345f7/api.mustache
+https://gist.githubusercontent.com/ifelsedeveloper/2741836c16e1d53beed66d38e54626e8/raw/72f781bec570b383744a40d36f558019176eda01/gistfile1.txt
+https://gist.githubusercontent.com/ifelsedeveloper/59123a8272cc4d637a026f45b2fe932c/raw/57afc376adfa97c53a48b8c28170f2505f70186c/gistfile1.txt

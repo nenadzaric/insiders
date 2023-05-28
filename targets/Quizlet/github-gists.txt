@@ -1,6 +1,16 @@
 https://gist.githubusercontent.com/al/4153593/raw/34b39e08f088078a4b7c980d05d23e00edf1aff7/backbone-relational.js
 https://gist.githubusercontent.com/al/8913632/raw/84b0c0a010926c147430f7a6c867bef683642615/curie-example.hal.json
 https://gist.githubusercontent.com/al/dbd2201db1e43d1a477258198ccc7a9f/raw/f84fcc5446f78f5657d7c957ee8e31df64acae3f/openhouse-2018-10-14.md
+https://gist.githubusercontent.com/asuth/1285282/raw/97fb478b38014ebf11609c4c4acc5b7d7a528bed/gistfile1.txt
+https://gist.githubusercontent.com/asuth/5625635/raw/dcdc22a94269a9a04bb44d3c464e08ee32eb368c/jquery.classlist.js
+https://gist.githubusercontent.com/asuth/774026/raw/d4fb81c06985d2cdb5c2d652777739156226429e/php%20lint%20all%20files
+https://gist.githubusercontent.com/asuth/806757/raw/9ee2861bf70425de8f07eb278dace8769b61f5cf/Puppet%20syntax%20checking%20pre-commit%20hook
+https://gist.githubusercontent.com/asuth/819654/raw/de3016a4bc7abccfbe6cfb259db76ba81791783f/gmailfrom.user.js
+https://gist.githubusercontent.com/ben-chin/8f77ed17ef80dad60630/raw/2e3fa038ac9d2994f9df8001dced1e960ef509d6/cw.md
+https://gist.githubusercontent.com/ben-chin/96c211e86272022ef4e2195c689901e3/raw/b166edfe0959d29446eca7f49d271c26dc657320/keybase.md
+https://gist.githubusercontent.com/erator/14208610d0decb19b2c3/raw/f6187627457c0661e67c3e143a68a4b7f1ffa773/ContainerViewControllerSample.m
+https://gist.githubusercontent.com/erator/34f3f8b9e575f5dc3f86/raw/5fbe750df84018f76320d65975c21138fb14f220/stringValidation.m
+https://gist.githubusercontent.com/erator/5144420/raw/29851b6a0b6e8af51b83a86feddccd22a178e228/gistfile1.m
 https://gist.githubusercontent.com/jayhack/1071cd3b8dcca7a5cf97/raw/597d4f9d4295d21389156b0f100cfa5ef9f25f78/gistfile1.txt
 https://gist.githubusercontent.com/jayhack/10a465dcf61df39b9855/raw/19c0aad17239137f7c708104ba32c7e06b93d9a3/gistfile1.txt
 https://gist.githubusercontent.com/jayhack/59c4214ed62bd5852cd321f35dbb2b04/raw/f575d89a422fe6051d4f73e2260d1a51c9960f68/gistfile1.txt
@@ -18,3 +28,5 @@ https://gist.githubusercontent.com/kevingorski/5958985/raw/7a1e5d9d3bc89b967b3e3
 https://gist.githubusercontent.com/kevingorski/5958985/raw/7cb2d31e4823cc41b1c734ce2222684fa6a29c21/knockout-delegatedEvents.js
 https://gist.githubusercontent.com/kevingorski/823121/raw/6bd40902b3c1b8c064f218d47973f638b0c08713/Alfred-test.js
 https://gist.githubusercontent.com/kevingorski/e274343eabeb678f5d75834af2e47efa/raw/eb0b156875ec13ded640ebe532081cf0556fda5a/gistfile1.txt
+https://gist.githubusercontent.com/tijanae/4a645b818ef4c3bde7f47d4347f85bc2/raw/e935f8b25d3045f8a94dcf2cceba31af8f1d17dc/binarySearch
+https://gist.githubusercontent.com/tijanae/803b4a357746ebb4de22fd271b1e0607/raw/9809cff9a066f54c3ecde92f6f941f9c6a471b2c/TiaLResume.md

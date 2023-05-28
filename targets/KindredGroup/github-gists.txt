@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/Deco354/52ca2e699103c667e21dbbc1ed1a033b/raw/cdf0cbed46c8058fe58df69cf60e15c1622c4ec1/shortcuts.md
+https://gist.githubusercontent.com/Deco354/5fbcd74b2cfbc4bcc75a337f0e157c1a/raw/08aaeb91b5737db3c84d7806905da6b72c5f0761/RetainCycle.swift
+https://gist.githubusercontent.com/Deco354/716cd67ae0f733b5cff0b330e9ab8f18/raw/3a6051dfbf78a3e640092a77868204b0553aae3c/URLSessionRetainCycle.swift
+https://gist.githubusercontent.com/Deco354/83e2b4fa27a8d43906d6f6267f722cdd/raw/08aaeb91b5737db3c84d7806905da6b72c5f0761/Retain%20Cycle
+https://gist.githubusercontent.com/Deco354/cc2d30d28767a82464ac048141e25751/raw/11295fd6684719603868488a8d23fa8796b19870/Imagen
+https://gist.githubusercontent.com/Deco354/d1a3b119d92e3c7f156e7c4684c29b3b/raw/b71da6f031b6443df765918c7ece91a71698e589/Pirate.swift
+https://gist.githubusercontent.com/Deco354/e94b48aede0acd50c1225c44d817b61b/raw/1efdf8e166741bf9ee3b122da147992c834db85b/Architecture.swift

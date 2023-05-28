@@ -130,6 +130,7 @@ https://github.com/avatsaev/r-bets-frontend
 https://github.com/avatsaev/rails-admin-users
 https://github.com/avatsaev/rails-devise-token-seed
 https://github.com/avatsaev/rails_5_api_seed
+https://github.com/avatsaev/rails_api_auth_sample
 https://github.com/avatsaev/react-native-test
 https://github.com/avatsaev/react-ts-test
 https://github.com/avatsaev/ruby_multithreaded_downloader

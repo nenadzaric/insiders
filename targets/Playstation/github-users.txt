@@ -8,6 +8,7 @@ https://github.com/PSP-Archive
 https://github.com/ProLoser
 https://github.com/RPCS3
 https://github.com/RicardoSantos
+https://github.com/SujeethJinesh
 https://github.com/Vita3K
 https://github.com/bishalqc
 https://github.com/christinele

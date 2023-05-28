@@ -35,6 +35,8 @@ https://github.com/adamcarr/require-test
 https://github.com/adamcarr/tsconfig-test
 https://github.com/adamcarr/typescript-definition-tester
 https://github.com/adamcarr/typescript-ioc-example
+https://github.com/arlymiguelfernandezgmailsh/aleHansson
+https://github.com/arlymiguelfernandezgmailsh/larryclaman
 https://github.com/ashutoshkaushik/first-neural-network
 https://github.com/ashutoshkaushik/firstRepo
 https://github.com/augustusCade/Udacity-Personal-Blog
@@ -79,6 +81,7 @@ https://github.com/generalhenry/tracking
 https://github.com/generalhenry/voicebox
 https://github.com/jayfk/statuspage
 https://github.com/justinedavis/resume
+https://github.com/limestonenetworks/statuspage
 https://github.com/nerdbaggy/StatusPage
 https://github.com/orels1/statusreport
 https://github.com/ryanc/ansible

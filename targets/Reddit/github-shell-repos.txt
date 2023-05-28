@@ -1,5 +1,9 @@
 https://github.com/NonLegit/devops
+https://github.com/SuperPaintman/Tomorrow-Night-Telegram-Theme
+https://github.com/SuperPaintman/dotfiles
+https://github.com/aaronoe/matching_thesis
 https://github.com/ashleyh/dotfiles
 https://github.com/ashleyh/zsh-mouse
 https://github.com/eyalcohen/dotfiles
+https://github.com/konradreiche/framer
 https://github.com/libreddit/libreddit-instances

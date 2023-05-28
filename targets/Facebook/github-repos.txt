@@ -1993,3 +1993,16 @@ https://github.com/zpao/you-complete-me
 https://github.com/zpao/yweather
 https://github.com/zpao/zarzpao.com
 https://github.com/zpao/zpao.com
+https://github.com/zziz/cart
+https://github.com/zziz/gitess
+https://github.com/zziz/kalman-filter
+https://github.com/zziz/leetcode
+https://github.com/zziz/markdown-portfolio
+https://github.com/zziz/matplotlib
+https://github.com/zziz/mc
+https://github.com/zziz/mean-shift
+https://github.com/zziz/measure
+https://github.com/zziz/pwc
+https://github.com/zziz/reinforce
+https://github.com/zziz/sm
+https://github.com/zziz/stl

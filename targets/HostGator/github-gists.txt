@@ -41,3 +41,10 @@ https://gist.githubusercontent.com/gordonwatts/8f9c6a1fbb3fe5fa7f78/raw/bc047d78
 https://gist.githubusercontent.com/gordonwatts/9297917/raw/ed913b943f2b1b7c97e918a850fa32cfb0805845/UnitTestMoq
 https://gist.githubusercontent.com/gordonwatts/968e71064f96adb7d0a1274415ffa8bd/raw/039dd06e090d1603695e8f08b2a2a5608b6459ac/plot_pt.cs
 https://gist.githubusercontent.com/gordonwatts/9825493/raw/5c0a9ba4008314cd71397f633d88e2e0e2790529/MoqMultiple
+https://gist.githubusercontent.com/goshlanguage/3ed197239eca0fb7b919fcfb458444e6/raw/abbc2dd7f26bb05a7d27faa93cfcce2d37c7b8d5/kubernetes-real-quick.md
+https://gist.githubusercontent.com/goshlanguage/57f6252fe9680e0f814833e6f36d5f9f/raw/8ecd92c74acd2ec85709c61a7f2ff93c5fc7612c/keybase.md
+https://gist.githubusercontent.com/goshlanguage/78efeecd06d797ba503561a26d8cb816/raw/e56afe2a53d797f1bef8c308a7ef11ebaad71032/docker-compose.yaml
+https://gist.githubusercontent.com/goshlanguage/a832d5be312380fa4757296259ad4e5e/raw/4d066336ae1ad4d3ebc044f2730e2e065d472f66/golang-tls.md
+https://gist.githubusercontent.com/goshlanguage/b2846b5fc8023a3a3769e7d14e5d2dfd/raw/bd0166094283716e27467efda274b9d3894cb060/keybase.md
+https://gist.githubusercontent.com/goshlanguage/dd694940573a48e5d32f032a533a78fd/raw/2479b3165e74421b058b69cb10d78545abf48161/fun.asm
+https://gist.githubusercontent.com/goshlanguage/dd694940573a48e5d32f032a533a78fd/raw/70f47074d058aa756f1942aea4b99b0ce25a787b/fun.c

@@ -1,5 +1,12 @@
 https://gist.githubusercontent.com/dustinxie/017455d8ca4a361aa5143ac764cf2826/raw/f4d019b16eae5b010248db92a1079383d11d7a00/gistfile1.txt
 https://gist.githubusercontent.com/dustinxie/22a04230b3bf522768fabd75db70d0d2/raw/62543bc038c16ae4557eb82ea4c3cf158b07c002/gistfile1.txt
+https://gist.githubusercontent.com/guo/23bd1dcd646b9ae30767/raw/4d70bd80af7bcf98151bf8842f18f9e510b781f8/gistfile1.txt
+https://gist.githubusercontent.com/guo/49e58483ec20066c605e/raw/270240f072fa98ef88c02d5bf4579019ad1959a8/gistfile1.txt
+https://gist.githubusercontent.com/guo/4ebe5afafc311f9897569bc9123c35ab/raw/da12e97b969b89fa3a0f364b2620ed9090f2f884/gistfile1.txt
+https://gist.githubusercontent.com/guo/82d54ebd97ac1d34c56b20bc29408a2e/raw/35fb13e9011af8b1ab96d5be046b56c7c277e914/gistfile1.txt
+https://gist.githubusercontent.com/guo/9c821138dbd5449aed909d223afb468e/raw/49d379e8fa880976f6980d3b9eb688e4bcd28ff7/github-notes.md
+https://gist.githubusercontent.com/guo/a3e2e3df1e73d2162730cfd1e2d93858/raw/61d4afae50d99f0870dcca10ad06524c1d9d8065/Locale%20list
+https://gist.githubusercontent.com/guo/a6cf51f8dcc49f0ef64a88278850ccfa/raw/1bb7664cb06bee3c1e579ea01e5725980db4f1e2/gistfile1.txt
 https://gist.githubusercontent.com/raullenchai/1f3e9abe26176974b656c9c3f7d8c045/raw/d906158182f01ebbd81980a6a2b183de6ff895ec/err
 https://gist.githubusercontent.com/raullenchai/2219045/raw/969a58cdd668bc681bd12a4f19e4f9746a0de990/w1q1.py
 https://gist.githubusercontent.com/raullenchai/2219060/raw/853f4f3d17276b1fd5022e595d1119158dc81221/w1q2.py

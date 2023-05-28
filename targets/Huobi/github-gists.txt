@@ -1,2 +1,9 @@
+https://gist.githubusercontent.com/etcola/1eef48271dbe394c8a3e/raw/b27fbae8bbd85a7010cbfddf5897593396983f61/Dev-RSS
+https://gist.githubusercontent.com/etcola/e97cc4ec66bc5c6acfa2/raw/a9e6caf5e0ebba3fd4579dc3c38f802923b71455/WhyRSS
+https://gist.githubusercontent.com/huobiapi/e81f3714d37c7d92c3e9e6b6566a4cbe/raw/e1ee2b47d241a4608bdfafc6cb3a5d39e55d927a/gtest.rb
+https://gist.githubusercontent.com/lenville/4e3acccfbf629f9735ae/raw/64e80e430f0b6b74556f9db7caab2077e69ce182/gistfile1.js
+https://gist.githubusercontent.com/lenville/9e13e63af075c145d662/raw/2c7fa6af833799c303933a9c67f5f1421c8cb138/rAF.js
 https://gist.githubusercontent.com/leonli/55ac0cbe383887e6dcea4ca90e9caf3f/raw/0f5f47119c74db76b128a13645c4092278fdf520/keybase.md
 https://gist.githubusercontent.com/xind/825dd30dc125d9c5267d355685e46fd6/raw/3fd80e3c937d2201eca96c455d0a8b5d5e4b0668/keybase.md
+https://gist.githubusercontent.com/xuexb/37919b6939e1e32ad67537d9b9362532/raw/05041d1526a29af53166b92eeda7567a4ab33845/js-data2html.md
+https://gist.githubusercontent.com/xuexb/ea89f41626e7780d2b2c0aa93194f7d4/raw/fafc9d492a5b70332ad4b60b292a52665c748ac8/demo.vue

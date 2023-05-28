@@ -1,3 +1,5 @@
+https://gist.githubusercontent.com/bimehta/8ad68004511fe1b2f4d0/raw/4015b3b92ba76cb632655ef53dbb478ee0fe6615/BART_spectral.R
+https://gist.githubusercontent.com/bimemto/7d53670677e93cc95ea86473d57214a7/raw/d75b79e428513cc944056b56c480f348e8f8406a/html
 https://gist.githubusercontent.com/hamidr/2aff6be94d9916f9517fb429f1aae660/raw/0c942f5202907193d2903554a5917c14bd54761e/keybase.md
 https://gist.githubusercontent.com/hamidr/591c8737e419969d1567d899be1e245e/raw/07965bd8485546ec575f97a2d6f8c268116b2db9/gistfile1.txt
 https://gist.githubusercontent.com/hamidr/7f829088a40cace4b183/raw/7814d7dec3a8b44e83d0cb222b90c82ccdbc0dba/gistfile1.txt

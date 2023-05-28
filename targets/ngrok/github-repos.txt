@@ -147,11 +147,14 @@ https://github.com/russorat/influxdata-operator
 https://github.com/russorat/influxdb-action-test
 https://github.com/russorat/influxdb-assets
 https://github.com/russorat/influxdb-cli-tools
+https://github.com/russorat/influxdb-data-examples
+https://github.com/russorat/influxdb-quickstart
 https://github.com/russorat/kubecon-2020-gitops
 https://github.com/russorat/logstash-filter-youtube
 https://github.com/russorat/logstash-input-googleanalytics
 https://github.com/russorat/logstash-input-salesforce
 https://github.com/russorat/logstash-output-salesforce
+https://github.com/russorat/ngrok-testing-scripts
 https://github.com/russorat/probable-octo-guacamole
 https://github.com/russorat/savage-leads
 https://github.com/russorat/savage-leads-api

@@ -14,3 +14,7 @@ https://gist.githubusercontent.com/alexm/87727b44d1b2b7b15d60/raw/4e02b08d63d48e
 https://gist.githubusercontent.com/alexm/956821/raw/c7fff392a02b25311376b6df31c3b255a8d7502e/barcelona.p6
 https://gist.githubusercontent.com/alexm/a788570788e8b39feb26/raw/751ae39ee8a2e081f9de6893933f27b4685791ba/check-auth-pubtkt-cookie.pl
 https://gist.githubusercontent.com/alexm/bead30b6f5efed8d75b8/raw/70a171216f3f15208dd6f8d4f9e766715c466dd2/check-template
+https://gist.githubusercontent.com/clario/2508519/raw/a4a4c66d7dfea2f062c4516da22e7b1f6a7249c1/Skatteyter.java
+https://gist.githubusercontent.com/clario/2508522/raw/8bd32d1e8ad5f26a465b7efda528521c0574addf/BinaerTre.java
+https://gist.githubusercontent.com/clario/5560e95f07d8fed888d904f88e7d833f/raw/97bca8ca0ae33fd6afed491cd23aacf4b9361b2c/keybase.md
+https://gist.githubusercontent.com/clarionhoover/611b72e6f7dea714b1d0cb4bb3497c33/raw/c42b288f64f355b92605ac8a32ffb4dc1b59db73/keybase.md

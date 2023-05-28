@@ -35,6 +35,13 @@ https://github.com/heubeck/heubeck
 https://github.com/heubeck/samler
 https://github.com/heubeck/smallrye-context-reproducer
 https://github.com/heubeck/statuspage-prometheus-exporter
+https://github.com/kharf/declcd-test-repo
+https://github.com/kharf/dotfiles
+https://github.com/kharf/flux-k8s-stack
+https://github.com/kharf/flux2-kustomize-multi-env-example
+https://github.com/kharf/kharf
+https://github.com/kharf/monoreleaser
+https://github.com/kharf/networking-playground
 https://github.com/mustafabas/AndroidKutuphane
 https://github.com/mustafabas/HangiKrediCase
 https://github.com/mustafabas/HesapDefteri

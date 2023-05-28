@@ -213,6 +213,7 @@ https://github.com/andykenward/next-with-msw
 https://github.com/andykenward/old-flash-in-flash-cc
 https://github.com/andykenward/react-boilerplate-no-router
 https://github.com/andykenward/ss-boilerplate-react-talk
+https://github.com/angular-eslint/angular-eslint
 https://github.com/babel/babel-eslint
 https://github.com/bradzacher/6184-repro
 https://github.com/bradzacher/Eaglesong

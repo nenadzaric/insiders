@@ -5,6 +5,6 @@ graph LR
 COMPANY_NAME{Ubiquiti}
 COMPANY_NAME ---> U{Users} ---> UN[18]
 COMPANY_NAME ---> R{Repositories} ---> RN[266]
-COMPANY_NAME ---> G{Gists} ---> GN[5]
+COMPANY_NAME ---> G{Gists} ---> GN[56]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

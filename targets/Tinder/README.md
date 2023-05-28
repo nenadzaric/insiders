@@ -3,8 +3,8 @@
 ```mermaid
 graph LR
 COMPANY_NAME{Tinder}
-COMPANY_NAME ---> U{Users} ---> UN[22]
-COMPANY_NAME ---> R{Repositories} ---> RN[344]
-COMPANY_NAME ---> G{Gists} ---> GN[47]
+COMPANY_NAME ---> U{Users} ---> UN[23]
+COMPANY_NAME ---> R{Repositories} ---> RN[370]
+COMPANY_NAME ---> G{Gists} ---> GN[186]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```

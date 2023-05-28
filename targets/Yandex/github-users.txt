@@ -11,12 +11,14 @@ https://github.com/mrmlnc
 https://github.com/nikitam
 https://github.com/romanbelov
 https://github.com/rybalkinsd
+https://github.com/tavriaforever
 https://github.com/terraform-yc-modules
 https://github.com/thevery
 https://github.com/voischev
 https://github.com/yandex
 https://github.com/yandex-cloud
 https://github.com/yandex-cloud-examples
+https://github.com/yandex-load
 https://github.com/yandex-lyceum-yakovlev
 https://github.com/yandex-php
 https://github.com/yandex-qatools

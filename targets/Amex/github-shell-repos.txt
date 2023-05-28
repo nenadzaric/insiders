@@ -17,6 +17,7 @@ https://github.com/amex-playground/checkmarx-cxflow-github-action-v1.7-463
 https://github.com/amex-playground/checkmarx-cxflow-github-action-v1.7-484
 https://github.com/amex-playground/checkmarx-cxflow-github-action-v1.7-503
 https://github.com/amex-playground/checkmarx-cxflow-github-action-v1.7-521
+https://github.com/amex-playground/checkmarx-cxflow-github-action-v1.7-539
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-226
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-440
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-445
@@ -24,6 +25,7 @@ https://github.com/amex-playground/codefresh-pipeline-runner-v7-461
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-482
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-501
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-519
+https://github.com/amex-playground/codefresh-pipeline-runner-v7-537
 https://github.com/amex-playground/codefresh-pipeline-runner-v7-54
 https://github.com/amex-playground/delete-old-branches-action-v0.0.3-373
 https://github.com/amex-playground/delete-old-branches-action-v0.0.5-369
@@ -82,6 +84,7 @@ https://github.com/amex-playground/rebase-1.8-457
 https://github.com/amex-playground/rebase-1.8-477
 https://github.com/amex-playground/rebase-1.8-497
 https://github.com/amex-playground/rebase-1.8-515
+https://github.com/amex-playground/rebase-1.8-533
 https://github.com/amex-playground/run-node-formatter-1.6.9-285
 https://github.com/amex-playground/rust-build.action-v1.3.1-803
 https://github.com/amex-playground/rust-build.action-v1.3.2-272
@@ -136,6 +139,7 @@ https://github.com/amex-playground/sync-up-to-codecommit-action-v1.0.6-482
 https://github.com/amex-playground/sync-up-to-codecommit-action-v1.0.6-483
 https://github.com/amex-playground/sync-up-to-codecommit-action-v1.0.6-484
 https://github.com/amex-playground/sync-up-to-codecommit-action-v1.0.6-495
+https://github.com/amex-playground/sync-upstream-repo-v1.3.0-1349
 https://github.com/amex-playground/sync-upstream-repo-v1.3.0-248
 https://github.com/amex-playground/sync-upstream-repo-v1.3.0-249
 https://github.com/amex-playground/sync-upstream-repo-v1.3.0-252

@@ -1,3 +1,8 @@
 https://github.com/FestiveAkp/misc
 https://github.com/bsiver/dotfiles
 https://github.com/danrjohnson/vault-kubernetes-sandbox
+https://github.com/gjreda/dotfiles
+https://github.com/ltw/dotfiles
+https://github.com/voxxit/docker-archlinuxarm
+https://github.com/voxxit/docker-plex
+https://github.com/voxxit/katacoda-scenarios

@@ -10,6 +10,10 @@ https://gist.githubusercontent.com/adamcarr/7875676/raw/623a320147b60fde0cc1d261
 https://gist.githubusercontent.com/adamcarr/7875740/raw/b4cc2f9ebb0fecb2e62df8ff2e2666fbe8826db9/gistfile1.txt
 https://gist.githubusercontent.com/adamcarr/831307/raw/7569d230bdf74d03589a4cc8917e3edd5d9a720e/CRUD_SP_Generation.sql
 https://gist.githubusercontent.com/ericj/1d32b2b7d48396f9ecbe5dd3a1c4e46c/raw/bed8f3e188904e0545c0437a9033787a8b4b9640/s3_usage.tsv
+https://gist.githubusercontent.com/generalhenry/4747382/raw/17420fef6f5f92975b4e5f233bf7746717d4c9cc/index.js
+https://gist.githubusercontent.com/generalhenry/4747382/raw/20fa3c4aa3a249d29f3a899e9100bd402ff5d945/minified.js
+https://gist.githubusercontent.com/generalhenry/5166498/raw/88c615a09370b727b1a325b38afeb637f6647a54/gistfile1.txt
+https://gist.githubusercontent.com/generalhenry/b33f7c80ee705de292a1/raw/5084fc9d78d17b7ee32611d677889889c41e8d5a/gistfile1.txt
 https://gist.githubusercontent.com/ryanc/4575883/raw/6cf7bca487adfe4876d6f4308ef976204f7fd559/hashstore.py
 https://gist.githubusercontent.com/spencerwilson/11ce621dcc6e577fe2f32542868ebb3b/raw/2e77e1de29a27a3438296f2b3bfd3862f02e606e/otel_sampler_survey.md
 https://gist.githubusercontent.com/spencerwilson/1fd612464829f2b7b9acb04c5e22e203/raw/b7b49eb21163011ce91403747db8a81bf36a30a8/code.js

@@ -145,5 +145,6 @@ https://github.com/infosec-us-team/Immunefi-Bug-Bounty-Programs-Unofficial
 https://github.com/infosec-us-team/PoC-fi
 https://github.com/infosec-us-team/prettify-address
 https://github.com/intigriti-fix-it/hashcode2020-problem-statement
+https://github.com/intigriti/markdown-guide
 https://github.com/pdelteil/BugBountyReportTemplates
 https://github.com/sw33tLie/bbscope

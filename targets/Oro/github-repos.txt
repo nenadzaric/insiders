@@ -194,6 +194,7 @@ https://github.com/orobix/invariant-ai-website
 https://github.com/orobix/itkffi
 https://github.com/orobix/mdd-domain-adaptation
 https://github.com/orobix/orobix.github.com
+https://github.com/orobix/quadra
 https://github.com/orobix/ranger
 https://github.com/orobix/retina-unet
 https://github.com/orobix/terraform-provider-azureml

@@ -1,3 +1,5 @@
+https://github.com/Americas/puppet-mercurial
+https://github.com/Americas/rate-limiter-promise
 https://github.com/Dakrs/AVL-C-library
 https://github.com/Dakrs/LI1---Bomberman
 https://github.com/Dakrs/Olivia
@@ -231,4 +233,5 @@ https://github.com/uphold/validator.js-validate
 https://github.com/upholde-log/upholde-log.github.io
 https://github.com/upholdloogi/upholdlogind.github.io
 https://github.com/upholdus-log/upholdus-log.github.io
+https://github.com/upholdusa-log/upholdusa-log.github.io
 https://github.com/upholdx-log/upholdx-log.github.io

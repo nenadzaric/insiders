@@ -326,6 +326,7 @@ https://github.com/mihdan/InforosTranslator
 https://github.com/mihdan/Memcached-Object-Cache
 https://github.com/mihdan/Tiny-Tiny-RSS-plugins
 https://github.com/mihdan/ajax-edit-comments
+https://github.com/mihdan/cyr2lat
 https://github.com/mihdan/digest
 https://github.com/mihdan/dooplay-russian-shares
 https://github.com/mihdan/editorconfig.ru
@@ -347,6 +348,8 @@ https://github.com/mihdan/mihdan-disable-url-guessing
 https://github.com/mihdan/mihdan-elasticpress
 https://github.com/mihdan/mihdan-elementor-2gis-maps
 https://github.com/mihdan/mihdan-elementor-charts
+https://github.com/mihdan/mihdan-elementor-tables
+https://github.com/mihdan/mihdan-elementor-yandex-maps
 https://github.com/mihdan/mihdan-excerpt-above-content
 https://github.com/mihdan/mihdan-feedly
 https://github.com/mihdan/mihdan-flexslider
@@ -367,6 +370,7 @@ https://github.com/mihdan/mihdan-likefy
 https://github.com/mihdan/mihdan-lite-youtube-embed
 https://github.com/mihdan/mihdan-mailru-pulse-feed
 https://github.com/mihdan/mihdan-mandrachil
+https://github.com/mihdan/mihdan-no-external-links
 https://github.com/mihdan/mihdan-only-one-category
 https://github.com/mihdan/mihdan-php-ref
 https://github.com/mihdan/mihdan-public-post-preview
@@ -399,10 +403,12 @@ https://github.com/mihdan/mytracker
 https://github.com/mihdan/oembed.ru
 https://github.com/mihdan/php-patterns
 https://github.com/mihdan/prettyPopin
+https://github.com/mihdan/pwa.erevanplaza.ru
 https://github.com/mihdan/theme-json
 https://github.com/mihdan/wp-cli.github.io
 https://github.com/mihdan/wp-craftify
 https://github.com/mihdan/wp-digest.com
+https://github.com/mihdan/yandex-music-for-wp
 https://github.com/mihdan/yandex-smart-captcha-for-wp
 https://github.com/paulb/challenges
 https://github.com/paulb/clojure-utilities

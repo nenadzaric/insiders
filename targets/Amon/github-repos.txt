@@ -37,6 +37,9 @@ https://github.com/A-amon/amon-smashing-mag-workshop
 https://github.com/A-amon/blog
 https://github.com/A-amon/json-merger
 https://github.com/A-amon/windbnb
+https://github.com/AMONCHO/CosmosBrowserAndroid
+https://github.com/AMONCHO/Interactive-CSS3-iPhone6
+https://github.com/AMONCHO/charter
 https://github.com/AMONIC-Airlines/android_app_amonic
 https://github.com/AMONIC-Airlines/backend
 https://github.com/AMONIC-Airlines/frontend

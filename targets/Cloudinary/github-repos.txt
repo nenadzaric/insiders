@@ -671,6 +671,7 @@ https://github.com/devpato/Natours
 https://github.com/devpato/NgRXTODO
 https://github.com/devpato/NgRXTODO-FE
 https://github.com/devpato/OFM
+https://github.com/devpato/OR-test
 https://github.com/devpato/PHP-Contact-form
 https://github.com/devpato/PWA-Sample-demo
 https://github.com/devpato/PWA-Workbox-Sample-App
@@ -742,6 +743,7 @@ https://github.com/devpato/isItPrime
 https://github.com/devpato/joberistyNode
 https://github.com/devpato/jobersity
 https://github.com/devpato/laude
+https://github.com/devpato/loopback-starwars-api
 https://github.com/devpato/mac-config
 https://github.com/devpato/market-calculator-react
 https://github.com/devpato/maza

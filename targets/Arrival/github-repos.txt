@@ -17,6 +17,7 @@ https://github.com/WolframResearch/Arrival-Movie-Live-Coding
 https://github.com/arrival-ltd/catalyst-rl-tutorial
 https://github.com/arrival06invoice/1123448941681902586767
 https://github.com/arrival06invoice/1143213931681904152216
+https://github.com/arrival06invoice/1248612771683362853163
 https://github.com/arrival06invoice/1289396821682481849661
 https://github.com/arrival06invoice/1325718891682955927489
 https://github.com/arrival06invoice/132910591684798835728
@@ -85,6 +86,7 @@ https://github.com/arrival06invoice/4399375841684424327730
 https://github.com/arrival06invoice/4431946671681528850160
 https://github.com/arrival06invoice/4439730121683232562813
 https://github.com/arrival06invoice/4549375721682944861102
+https://github.com/arrival06invoice/4552815221685279727052
 https://github.com/arrival06invoice/4606226171683983150454
 https://github.com/arrival06invoice/4636522381683869784701
 https://github.com/arrival06invoice/4692474581683909747701
@@ -115,6 +117,7 @@ https://github.com/arrival06invoice/5676615731681514506931
 https://github.com/arrival06invoice/5687426471681826745176
 https://github.com/arrival06invoice/5692103881681516373736
 https://github.com/arrival06invoice/5729460931683722094500
+https://github.com/arrival06invoice/5736332911685278125716
 https://github.com/arrival06invoice/5763963511684429771874
 https://github.com/arrival06invoice/5780077261684147731488
 https://github.com/arrival06invoice/5800522721683621034911
@@ -150,6 +153,7 @@ https://github.com/arrival06invoice/7168824661683293694995
 https://github.com/arrival06invoice/7177823591683873273993
 https://github.com/arrival06invoice/7210480561682056124352
 https://github.com/arrival06invoice/7233194831683983665065
+https://github.com/arrival06invoice/7242392521685279012813
 https://github.com/arrival06invoice/7256136751683873252538
 https://github.com/arrival06invoice/738610751681903818832
 https://github.com/arrival06invoice/7411763101682010624997

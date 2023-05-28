@@ -264,6 +264,7 @@ https://github.com/WISEPLAT/pythonProject2
 https://github.com/WISEPLAT/shares_get_history_class
 https://github.com/WISEPLAT/solc-js
 https://github.com/WISEPLAT/solidity
+https://github.com/WISEPLAT/test01
 https://github.com/WISEPLAT/test_NN
 https://github.com/WISEPLAT/test_mapp
 https://github.com/WISEPLAT/test_mobile_app_2
@@ -285,6 +286,7 @@ https://github.com/WISEPLAT/wsh-swarm-js
 https://github.com/WISEPLAT/wsh-web3.js
 https://github.com/WISEPLAT/wshash
 https://github.com/WISEPLAT/wshjs-util
+https://github.com/WISEPLAT/wshminer
 https://github.com/Wise/linux-home-config
 https://github.com/Wisembly/2017
 https://github.com/Wisembly/AMQPBundle

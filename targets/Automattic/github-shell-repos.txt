@@ -27,6 +27,7 @@ https://github.com/Automattic/wp-e2e-canary-for-branches
 https://github.com/Automattic/wp-e2e-tests-for-branches
 https://github.com/GaryJones/.dotfiles
 https://github.com/GaryJones/dotfiles
+https://github.com/GaryJones/wordpress-plugin-svn-deploy
 https://github.com/adekbadek/dotfiles
 https://github.com/adekbadek/files-encrypt
 https://github.com/adekbadek/notes
@@ -66,6 +67,9 @@ https://github.com/dereksmart/jetpack-repo-rsync
 https://github.com/dereksmart/release-me
 https://github.com/dinhtungdu/vps-toolbox
 https://github.com/dragstor/hexchat-dark-gtk-theme-windows
+https://github.com/ebinnion/Jetpack-Shell
+https://github.com/ebinnion/dotfiles
+https://github.com/ebinnion/wp-docker-starter
 https://github.com/flootr/dotfiles
 https://github.com/fullofcaffeine/useful-docker-commands
 https://github.com/gedex/bash-it

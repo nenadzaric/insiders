@@ -1,3 +1,6 @@
+https://gist.githubusercontent.com/Anton-Cao/d0bebb46c1eac4af9a82c9eb949228e8/raw/6272eb6f27cd9c4688dcfe4ee1142e6379213100/keybase.md
+https://gist.githubusercontent.com/Anton-Cao/d6ddfdeefa759f598f049ea3ba5d1088/raw/75ce098754d5ba84f3ee2b4404f6f00dee0d8f0a/copy_config.py
+https://gist.githubusercontent.com/Anton-Cao/eb99f061701c0a294b7a234ccecd40ac/raw/b347974d54ce6ba6639aa830cc9af131db69b826/perceptron.py
 https://gist.githubusercontent.com/akshaynanavati/2a12725c0d920757f60bb5561481b438/raw/d1005172ed15c089a91e5c1f57e13948d4dc2157/node.py
 https://gist.githubusercontent.com/akshaynanavati/2e39e33e27c27fe780520c31773c32ec/raw/c36b0ba94fb6b8e620bd3fc2ad2982e815b4985c/l1_size.cpp
 https://gist.githubusercontent.com/akshaynanavati/39a7f949575c01dfeb646a4aa12f1752/raw/b8e9516e1320b9c9b45f8a66e46553dfb2210def/sort.cpp

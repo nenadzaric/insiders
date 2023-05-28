@@ -102,6 +102,7 @@ https://github.com/NiketBasic/Organization
 https://github.com/THE-BORED-APE-NIKE-OFFICIAL/Airdrop
 https://github.com/THE-BORED-APE-NIKE-OFFICIAL/system-no.2
 https://github.com/alexschimpf/Snkrs-Bot
+https://github.com/angusws/tcx2nikeplus
 https://github.com/azerpas/nikeAPI-Py
 https://github.com/bdkay/nike-bot
 https://github.com/coderoshi/NCNRCSBuzzSpec
@@ -196,6 +197,12 @@ https://github.com/nike-hratx41-fec/proxy-louis
 https://github.com/nike-hratx41-fec/proxy-matt
 https://github.com/nike-hratx41-fec/shoe-data-generator
 https://github.com/nike/beez
+https://github.com/nike843/test1
+https://github.com/nike843/test2
+https://github.com/nike843/test3
+https://github.com/nike843/test4
+https://github.com/nike843/test5
+https://github.com/nike843/test6
 https://github.com/nikeee/Brainfuck.NET
 https://github.com/nikeee/HolzShots
 https://github.com/nikeee/NTH.Framework

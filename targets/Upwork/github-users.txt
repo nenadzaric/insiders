@@ -20,3 +20,4 @@ https://github.com/upwork-donkey-ltd
 https://github.com/upwork-jobs
 https://github.com/upwork-projects-backup
 https://github.com/upwork-repos
+https://github.com/upworkstation

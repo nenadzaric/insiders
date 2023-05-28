@@ -21,6 +21,16 @@ https://gist.githubusercontent.com/Marcocanc/bfb65f9786cf6ab6f26e45993ba2b515/ra
 https://gist.githubusercontent.com/Marcocanc/c922d90eeea0a4c810b7f9c77dedc166/raw/ec36c70ceea90bc973db24c3af16b0df0bc16db6/ripe.sh
 https://gist.githubusercontent.com/Marcocanc/e3ea8b221d02d1b452d50dd07f0bb867/raw/8cbdc4a238349dc3fde199d7b0c8b6f543f0efd4/Sequence%2BgroupBy.swift
 https://gist.githubusercontent.com/Marcocanc/f6b95e3d3af895be91f0dacfec3cf1c5/raw/469dc514fb8424bc2a60c992224421d06fce1a88/UIFont%2Bfont.swift
+https://gist.githubusercontent.com/adri4silva/276ca7f55ff878481f6c6f00a2944a9b/raw/011e3cbd10a658141429c9f64b4667bc39ed1212/Animation.swift
+https://gist.githubusercontent.com/adri4silva/470a7ac17e0b01ca35876c6b6baa9f7a/raw/d040244bd32726f01dbae7f41ff27f9d69813d94/ObservableType%2BMonitorLoading.swift
+https://gist.githubusercontent.com/adri4silva/90775b4b6c6a80e8ddb43daa721dd285/raw/11063a3f2db0a3230e1568a4782d885735242c11/BiometricAuth.swift
+https://gist.githubusercontent.com/adri4silva/ab0a64137b167498d453cbdd308a58f5/raw/a0e7ed4dc8664b277717f339e6d1c847c0d7721e/segue.swift
+https://gist.githubusercontent.com/adri4silva/b33656f5251154012eecc20725ad3858/raw/433874296a272c24ae6db3d2e0353f89559b6a31/RxCaptureMetadataOutputObjectsDelegateProxy.swift
+https://gist.githubusercontent.com/adri4silva/b406d3a703237881bc637a2a8166caed/raw/c0601be526fe10e547db902237cf17de9f3db674/CountingLabel.swift
+https://gist.githubusercontent.com/adri4silva/bdf98335d21260e3e74f9a41c0a1dc66/raw/c8d6c29e9e7e0ac758243049a9fcd0283e0eea28/searchBarHide.swift
+https://gist.githubusercontent.com/adri4silva/c42957e0119526181da250ff3d22421c/raw/23b69167296f765febe8e7f8b030e98543a57536/colors.swift
+https://gist.githubusercontent.com/adri4silva/cf8aba2126be871f73609ed5c1962fb7/raw/5fe4700bc9041b472e8c57b9b7e07cf59199c935/BetterXcodeJumpToCounterpartSwift.org
+https://gist.githubusercontent.com/adri4silva/edeb1ac251edff74f5324bcba7888cc1/raw/1b01273706d44c88b659f280136a9fde208eda16/Line.swift
 https://gist.githubusercontent.com/atakanarikan/2ba70227eef97348438eb0860bce098f/raw/a54cfbf472b96dfe3c5b5c27b7a83938be67e68b/gistfile1.txt
 https://gist.githubusercontent.com/atakanarikan/4cd6e0322666f44d9ef6aca9f3588710/raw/839f67eb41caba8dd3b41cf452df65cee6e01ce1/eesti_wn.py
 https://gist.githubusercontent.com/atakanarikan/8f21583d2efbceb0d58e7579a6bcdb0a/raw/3599e597e99de6d4d9497dbef8463eb7c9838da3/import.sql
@@ -33,6 +43,10 @@ https://gist.githubusercontent.com/eugrdn/753b3054c8c7053599135dfc93b13724/raw/7
 https://gist.githubusercontent.com/eugrdn/7b54ccb19d445227527dc602a05f47b1/raw/1557727a946fa4989c27addda74ff0bbe9da65c0/compose.js
 https://gist.githubusercontent.com/eugrdn/c5800f28dd566764c91146eaee589587/raw/36c16e7ec5f85af38b09f3c115235e8ecea432fb/perceptron.js
 https://gist.githubusercontent.com/eugrdn/d4aca1b2219c7062884dbb03157c5ad8/raw/9df75b7ae4f4ef08b4a166720a619b3fd99ab676/K-Means.js
+https://gist.githubusercontent.com/gmarm/915580b1c3804e2bf99b/raw/2f23ee7f68d9b567a257222d2d5a56e0c7ef5685/STPPaymentCardTextField%2BExternalConfig.h
+https://gist.githubusercontent.com/gmarm/b2516bbd82284a31b9f1/raw/e430371927eff6a2ea207edad12a339fd2ecb4fc/STPPaymentCardTextField%2BExternalConfig.m
+https://gist.githubusercontent.com/guerc/95ec48b09d6a4e6c85478fe0f0d70ee1/raw/6361885ac66db84b42b91ea909d9764e6c64e902/download-contentful-assets.js
+https://gist.githubusercontent.com/guerc/dbc5269df7ef8374da8fabacd0467428/raw/4e5a376facbd486478e5fd2832dde310991d67b7/craco.config.js
 https://gist.githubusercontent.com/julienschmidt/477147f603dd1a985388eb11ddc62328/raw/0ea69fb61bfac627bdcbe26d12c7cf0462fc9fdb/keybase.md
 https://gist.githubusercontent.com/julienschmidt/7178960/raw/b776c848992d2db70bdefe5e3024cca390bb982d/words.go
 https://gist.githubusercontent.com/julienschmidt/7180574/raw/3c3a3b7c4318743057c2f75496e8f3f6a10b4954/words_concurrent.go
@@ -111,3 +125,6 @@ https://gist.githubusercontent.com/lucasrenan/ed11b3c80080ac3892c60c6a727a3ad2/r
 https://gist.githubusercontent.com/lucasrenan/ed11b3c80080ac3892c60c6a727a3ad2/raw/763404847bc9746eb8a7eca4c50ea0da4f42f0a4/insert.rake
 https://gist.githubusercontent.com/lucasrenan/f44390137f59c7851805/raw/c14374cd47b6207744ae1a2497f377959704a2bf/login_spec.rb
 https://gist.githubusercontent.com/lucasrenan/f5d19ac095fee2070159/raw/0e61724892764992f80c04f07ea1c75900dc6caf/fatecso-internship.md
+https://gist.githubusercontent.com/markoflux/59f9a9c62d4bbbbc5f44/raw/1cbbd93e49acf57b7c20fbc12ad2d38262d6e75b/designer.html
+https://gist.githubusercontent.com/markoflux/815d029079f14d075a02cdb16b69ee92/raw/a9185cab066580370b842e16c87562c5104f5da3/keybase.md
+https://gist.githubusercontent.com/richardneitzke/72f4200362fb221166662ff7ea9f6281/raw/a4d268999baf29030a88cc86e17d0ac172d55e06/DVBStops.plist

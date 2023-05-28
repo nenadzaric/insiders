@@ -838,6 +838,7 @@ https://github.com/justinhersey/kol-leads
 https://github.com/justinhersey/style-guides
 https://github.com/justinhersey/v2
 https://github.com/micro/micro
+https://github.com/octocat/Hello-World
 https://github.com/operate-first/ai-for-cloud-ops
 https://github.com/operate-first/alerts
 https://github.com/operate-first/apps
@@ -924,3 +925,4 @@ https://github.com/revoltchat/self-hosted
 https://github.com/revoltchat/themes
 https://github.com/revoltchat/translations
 https://github.com/revoltchat/vortex
+https://github.com/shanselman/firsttimersonly

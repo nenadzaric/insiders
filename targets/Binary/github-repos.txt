@@ -270,6 +270,7 @@ https://github.com/BinaryMuse/so-10856370
 https://github.com/BinaryMuse/so-jest-react-mock-example
 https://github.com/BinaryMuse/so16493562-rails-stats-example
 https://github.com/BinaryMuse/so_5049994
+https://github.com/BinaryMuse/so_5100999
 https://github.com/BinaryMuse/so_5521473_autocomplete
 https://github.com/BinaryMuse/so_association_expirement
 https://github.com/BinaryMuse/southernvale
@@ -760,6 +761,7 @@ https://github.com/binary-com/webtrader
 https://github.com/binary-com/webtrader-charts
 https://github.com/binary-com/zendesk-theme
 https://github.com/binary-husky/CALF
+https://github.com/binary-husky/deploy-python-fastapi-in-vercel
 https://github.com/binary-husky/gpt_academic
 https://github.com/binary-husky/hmp2g
 https://github.com/binary-husky/ipc_main

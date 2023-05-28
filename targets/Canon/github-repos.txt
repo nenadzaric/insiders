@@ -810,6 +810,7 @@ https://github.com/canonical/openldap-charms
 https://github.com/canonical/openldap-k8s-operator
 https://github.com/canonical/opensearch-operator
 https://github.com/canonical/opensearch-snap
+https://github.com/canonical/openstack-cloud-controller-operator
 https://github.com/canonical/operator
 https://github.com/canonical/operator-day-2022-charming-demos
 https://github.com/canonical/operator-libs-linux
@@ -1067,6 +1068,7 @@ https://github.com/canonn-science/EDDCanonn
 https://github.com/canonn-science/EDMC-Canonn
 https://github.com/canonn-science/EDMC-Glyph
 https://github.com/canonn-science/EDMC-Riftline
+https://github.com/canonn-science/EDMC-RingSurvey
 https://github.com/canonn-science/EDMC-Ruins
 https://github.com/canonn-science/EDMC-Solar-Sweep
 https://github.com/canonn-science/GMP-Search

@@ -19,6 +19,7 @@ https://github.com/uber-common
 https://github.com/uber-go
 https://github.com/uber-research
 https://github.com/uber-web
+https://github.com/uberduck-ai
 https://github.com/ubernostrum
 https://github.com/uberspot
 https://github.com/uberto

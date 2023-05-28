@@ -6,6 +6,7 @@ https://github.com/JoshuaKGoldberg
 https://github.com/Rec0iL99
 https://github.com/SeniorEngineer
 https://github.com/andykenward
+https://github.com/angular-eslint
 https://github.com/bradzacher
 https://github.com/btmills
 https://github.com/cindychau

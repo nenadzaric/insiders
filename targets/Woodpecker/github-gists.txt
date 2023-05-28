@@ -21,3 +21,8 @@ https://gist.githubusercontent.com/AaronO/9962667/raw/09f1de38b99d997f669fe90a52
 https://gist.githubusercontent.com/AaronO/d706d9baa1a67043a637/raw/cfa822292945b4b50e34f8d2d6325a06f11d4626/docker_test_pull.go
 https://gist.githubusercontent.com/AaronO/eb430ad7170142b13bad7548f9bcbe12/raw/813012cdc636313456e1b5dfdb1a79eea4389eea/SprialMatrices.js
 https://gist.githubusercontent.com/AaronO/ef4639e7ed160fb3cc55/raw/085a9a95eb8aabeac541e4a726dc9be0db311852/stream-tar-gz-dir.js
+https://gist.githubusercontent.com/h4rdy/388f1027e9076a1201bc182a91096aaa/raw/6afbc25188bcee43c6be77b308acebb0940be3d9/tmux-cheatsheet.markdown
+https://gist.githubusercontent.com/h4rdy/5aadd945390d1d7da9b120185806aa00/raw/d5596aacc5cec87b27e36edf4f4fa4ac964a38b6/Simple%20DNS%20server%20(UDP%20and%20TCP)%20in%20Python%20using%20dnslib.py
+https://gist.githubusercontent.com/h4rdy/8108190f007225d8fc72ac0f700c30cb/raw/ac95e2e7d228e0b2fc6113a7179230906927bc72/unwxapkg.py
+https://gist.githubusercontent.com/h4rdy/c2e03c5be8f65e18938d67b13db085bb/raw/5c4306a11fadeba9d9f9385cdda689754ca4d362/heartbleed.py
+https://gist.githubusercontent.com/woodpeckershop/4a42c309eb8f5a7b247666e1893e5bd9/raw/6fccd5678f0873b15086420a4ba75d9df2ee4951/fractals.html

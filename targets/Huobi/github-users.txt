@@ -5,6 +5,7 @@ https://github.com/HuobiGroup
 https://github.com/HuobiRDCenter
 https://github.com/HuobinTan
 https://github.com/carriec
+https://github.com/etcola
 https://github.com/huobi
 https://github.com/huobiapi
 https://github.com/huobiapp

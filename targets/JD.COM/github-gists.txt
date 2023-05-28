@@ -1,3 +1,9 @@
+https://gist.githubusercontent.com/JaminZhou/17f289bf92f394a14eb1834a37e7a6f2/raw/adebcf030d73298a236a8fe5b6097c5f0bb4b1e4/USDZ.html
+https://gist.githubusercontent.com/JaminZhou/352d186ae53a5e4ff71f96001db73027/raw/3d028e9d66da6c4ae2436891e47d4b2aab35b62b/ViewController.m
+https://gist.githubusercontent.com/JaminZhou/65c336064b7e0f404997c819fb24ded8/raw/d10094ea5c112a59136a69ba7828526643214f54/CreateML.swift
+https://gist.githubusercontent.com/JaminZhou/b478694fab8c9c0575d36dd695bf71e2/raw/3674031b5aa24c6f994b8a410f5132cf9c49d940/Podfile.rb
+https://gist.githubusercontent.com/JumjieYang/33aef7e7b3f828e511b91084cfde58f4/raw/680ce443bc9c65d1c70e7934290003d0ff777793/%F0%9F%8E%B5%20My%20last%20week%20in%20music
+https://gist.githubusercontent.com/JumjieYang/cd18b8e819a585de09d2b12841c2daae/raw/0020308281e5341723b2366496979040e6196cf7/%F0%9F%93%8A%20Weekly%20development%20breakdown
 https://gist.githubusercontent.com/LarryLee/5797777/raw/861f6467b0ddc9ca1a58f7ab87e45a2b7c002707/download.sh
 https://gist.githubusercontent.com/LarryLee/5797777/raw/a73ce5eeac329ed88f8f71f543996fdcf23085f8/PDF.txt
 https://gist.githubusercontent.com/LarryLee/5797777/raw/ae0f66aafc3838a74eca9b4ea2120daec155cdb4/SD.txt
@@ -61,6 +67,7 @@ https://gist.githubusercontent.com/LisaPeng/f6921c519f04a319be66425e3212396d/raw
 https://gist.githubusercontent.com/LisaPeng/f91e1c62eeb80d2cf963e09ce4f6a2ea/raw/55bfcbf53b0b35e08ce8cfd89cbe7f85ed9a615d/linklist.cpp
 https://gist.githubusercontent.com/LisaPeng/fa0d61916987478dcce417d222ada334/raw/b2ae607ed637de396536833a2a872fe7de51eded/tobit.cpp
 https://gist.githubusercontent.com/SeanChang/c86c80e661a3efec9c3b61a5480ce432/raw/caff45d9c6899bf30d91eab67852ae2363a00397/press.one
+https://gist.githubusercontent.com/YuxiangJohn/1baa18f167874674ae20b2b95cd537b0/raw/5fc7f121566d68f29934b00a7d606072eab85d10/bobp-python.md
 https://gist.githubusercontent.com/alexandercalvo/07b4b1c55d44d77157f3f3336f0741aa/raw/1a2717affb332b24e8cbe3fadf347126647a9878/workspaceStorage%7C58021f2a39fac0fec0377418956e2eee%7Cworkspace.json
 https://gist.githubusercontent.com/alexandercalvo/07b4b1c55d44d77157f3f3336f0741aa/raw/23ca3db4bfe4526aa725f78f1a3acebd63d0f787/keybindings.json
 https://gist.githubusercontent.com/alexandercalvo/07b4b1c55d44d77157f3f3336f0741aa/raw/23ca3db4bfe4526aa725f78f1a3acebd63d0f787/keybindingsMac.json

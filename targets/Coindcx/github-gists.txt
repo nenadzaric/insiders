@@ -1,2 +1,7 @@
+https://gist.githubusercontent.com/amankr1279/bbdbb63f46faf7feb806c8bb90847e53/raw/15e022064a9625ea377aade283ad34e1562821fa/international-companies-hiring-from-india.md
+https://gist.githubusercontent.com/ksajan/ee427249b0346fba5ad2c7a201fec696/raw/e9e8da70fd76ce5d679e1c865160eee615f8d3ba/iterm2.md
 https://gist.githubusercontent.com/pankajagarwal/317bb2cbe201e74d73a2a009e1a8e6e4/raw/bcd3bc8956856a3a43f0644e23ac952a47bbfecb/queries.sql
 https://gist.githubusercontent.com/pankajagarwal/67102d2e37211ba30eb558f05ea1aa6f/raw/1c1e2d9bea9062fbb99fdcf83bb3b47f9c39be20/gistfile1.yml
+https://gist.githubusercontent.com/supriya-anand/fba106d731bfbdbb3ce895bcd8ad357f/raw/6cfb38ef590a7608dac0c547886df011f95bce3b/metadata.json
+https://gist.githubusercontent.com/supriya-anand/fba106d731bfbdbb3ce895bcd8ad357f/raw/98694ad4be1f11ba9098d652d15094c3c30c5b88/playground.marlowe
+https://gist.githubusercontent.com/supriya-anand/fba106d731bfbdbb3ce895bcd8ad357f/raw/9e26dfeeb6e641a33dae4961196235bdb965b21b/playground.marlowe.json

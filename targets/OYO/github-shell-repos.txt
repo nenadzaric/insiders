@@ -1,4 +1,7 @@
 https://github.com/DheerajJoshi/aws-scripts
+https://github.com/Oyohoukpai/alx-pre_course
+https://github.com/Oyohoukpai/alx-system_engineering-devops
+https://github.com/Oyohoukpai/alx-zero_day
 https://github.com/kritisingh/CodeDeployRepo
 https://github.com/kritisingh/codedeployrepoadvance
 https://github.com/marauder316/dot.files

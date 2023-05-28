@@ -1630,7 +1630,9 @@ https://github.com/google-code-export/dropdown-check-list
 https://github.com/google-code-export/dropthings
 https://github.com/google-code-export/dtentity
 https://github.com/google-code-export/dvbviewer-controller
+https://github.com/google-code-export/dviz
 https://github.com/google-code-export/dwm-plus
+https://github.com/google-code-export/dwpe
 https://github.com/google-code-export/dwz
 https://github.com/google-code-export/dynatree
 https://github.com/google-code-export/e-portfolyo
@@ -1641,6 +1643,7 @@ https://github.com/google-code-export/eaze-tween
 https://github.com/google-code-export/ecm7migrator
 https://github.com/google-code-export/ed7editor
 https://github.com/google-code-export/edcodeorg
+https://github.com/google-code-export/editease
 https://github.com/google-code-export/editra
 https://github.com/google-code-export/editra-plugins
 https://github.com/google-code-export/eeeeeeede
@@ -1714,6 +1717,7 @@ https://github.com/google-code-export/free-dotnet-modbus
 https://github.com/google-code-export/freebase-python
 https://github.com/google-code-export/freeboxmobile
 https://github.com/google-code-export/freedom-fighters-1235-new
+https://github.com/google-code-export/freemedforms
 https://github.com/google-code-export/freemusic
 https://github.com/google-code-export/freshinvoice
 https://github.com/google-code-export/frl
@@ -1842,6 +1846,7 @@ https://github.com/google-code-export/hfm-net
 https://github.com/google-code-export/hibernate-audit
 https://github.com/google-code-export/holly-gtk-widgets
 https://github.com/google-code-export/homeworld2011
+https://github.com/google-code-export/hospitace
 https://github.com/google-code-export/hotot
 https://github.com/google-code-export/hourglass-win32
 https://github.com/google-code-export/house-of-surabaya-music
@@ -1878,6 +1883,7 @@ https://github.com/google-code-export/javachromiumembedded
 https://github.com/google-code-export/javaemvreader
 https://github.com/google-code-export/javascriptinterior
 https://github.com/google-code-export/javasimon
+https://github.com/google-code-export/jcrom
 https://github.com/google-code-export/jcrop
 https://github.com/google-code-export/jcvl
 https://github.com/google-code-export/jem-the-bee
@@ -1929,8 +1935,10 @@ https://github.com/google-code-export/junaio
 https://github.com/google-code-export/junit-toolbox
 https://github.com/google-code-export/junto
 https://github.com/google-code-export/jwebsocket
+https://github.com/google-code-export/jwysiwyg
 https://github.com/google-code-export/jzebra
 https://github.com/google-code-export/karkas
+https://github.com/google-code-export/kegbot
 https://github.com/google-code-export/keredhud
 https://github.com/google-code-export/keristiardaftarisi
 https://github.com/google-code-export/kinetic
@@ -1948,8 +1956,10 @@ https://github.com/google-code-export/labyrinth
 https://github.com/google-code-export/lagrange
 https://github.com/google-code-export/lal-cbtl
 https://github.com/google-code-export/latex-lab
+https://github.com/google-code-export/leonardosketch
 https://github.com/google-code-export/libdasm
 https://github.com/google-code-export/libfov
+https://github.com/google-code-export/libjingle
 https://github.com/google-code-export/libkml
 https://github.com/google-code-export/lifepress
 https://github.com/google-code-export/lifting-software
@@ -1959,12 +1969,15 @@ https://github.com/google-code-export/linux-manga-downloader
 https://github.com/google-code-export/liquid-markup
 https://github.com/google-code-export/liquidsmoothroms
 https://github.com/google-code-export/livantostore
+https://github.com/google-code-export/livesmartnairasharewidget1
 https://github.com/google-code-export/living-stories
 https://github.com/google-code-export/logkeys
+https://github.com/google-code-export/lolmodelviewer
 https://github.com/google-code-export/lombok-intellij-plugin
 https://github.com/google-code-export/los-cocos
 https://github.com/google-code-export/lpex-freemarker-template-plugin
 https://github.com/google-code-export/lua-alchemy
+https://github.com/google-code-export/luvsound
 https://github.com/google-code-export/lwrte
 https://github.com/google-code-export/lxpanelx
 https://github.com/google-code-export/m-im
@@ -1975,11 +1988,15 @@ https://github.com/google-code-export/madepremmedjuck
 https://github.com/google-code-export/magento-w2p
 https://github.com/google-code-export/maid-online-project
 https://github.com/google-code-export/mantis2redmine
+https://github.com/google-code-export/maps4mac
+https://github.com/google-code-export/marinemap
 https://github.com/google-code-export/mastertextinput
 https://github.com/google-code-export/mastr-ms
 https://github.com/google-code-export/mathmleditor
 https://github.com/google-code-export/mathmlformula
 https://github.com/google-code-export/mathmlonweb
+https://github.com/google-code-export/maven-config-processor-plugin
+https://github.com/google-code-export/maven-confluence-plugin
 https://github.com/google-code-export/maven-overview-plugin
 https://github.com/google-code-export/maven-svn-revision-number-plugin
 https://github.com/google-code-export/mdemo
@@ -1990,6 +2007,7 @@ https://github.com/google-code-export/mediaportal-mylyrics
 https://github.com/google-code-export/mej-game-project
 https://github.com/google-code-export/mesh4x
 https://github.com/google-code-export/meta-editor
+https://github.com/google-code-export/metadata-extractor
 https://github.com/google-code-export/metastudio
 https://github.com/google-code-export/mgwt
 https://github.com/google-code-export/micolog2
@@ -2115,6 +2133,7 @@ https://github.com/google-code-export/phoshare
 https://github.com/google-code-export/photivo
 https://github.com/google-code-export/photon-android
 https://github.com/google-code-export/php-mp4info
+https://github.com/google-code-export/php-onix-to-mysql
 https://github.com/google-code-export/php-sql-parser
 https://github.com/google-code-export/php-syslog-ng
 https://github.com/google-code-export/phpangosso
@@ -2125,11 +2144,14 @@ https://github.com/google-code-export/phyutility
 https://github.com/google-code-export/piccolo2d
 https://github.com/google-code-export/pictureflow
 https://github.com/google-code-export/pictureslides
+https://github.com/google-code-export/pidgin-musictracker
 https://github.com/google-code-export/piriti
 https://github.com/google-code-export/pixus
 https://github.com/google-code-export/placeforu
+https://github.com/google-code-export/playlist-music
 https://github.com/google-code-export/plus-ultra-debian
 https://github.com/google-code-export/pluxfolio
+https://github.com/google-code-export/pms-xbmc
 https://github.com/google-code-export/poko
 https://github.com/google-code-export/poly2tri
 https://github.com/google-code-export/posit-mobile
@@ -2140,7 +2162,9 @@ https://github.com/google-code-export/ppx-raidplaner
 https://github.com/google-code-export/prado3
 https://github.com/google-code-export/primage
 https://github.com/google-code-export/progressive-scroll
+https://github.com/google-code-export/proiect-pbr-2012
 https://github.com/google-code-export/project-purple-parrots
+https://github.com/google-code-export/projectg3atm
 https://github.com/google-code-export/proquiz
 https://github.com/google-code-export/proteo-suite
 https://github.com/google-code-export/protobuf
@@ -2166,6 +2190,7 @@ https://github.com/google-code-export/pygowave-server
 https://github.com/google-code-export/pymssql
 https://github.com/google-code-export/pyodbc
 https://github.com/google-code-export/pysal
+https://github.com/google-code-export/pythics
 https://github.com/google-code-export/pythonext
 https://github.com/google-code-export/pywebkitgtk
 https://github.com/google-code-export/q4e
@@ -2174,6 +2199,7 @@ https://github.com/google-code-export/qtkinectwrapper
 https://github.com/google-code-export/quanlydiem-ch19
 https://github.com/google-code-export/quickfix-messenger
 https://github.com/google-code-export/quirkysoft
+https://github.com/google-code-export/qwickie
 https://github.com/google-code-export/qxmpp
 https://github.com/google-code-export/r-labs
 https://github.com/google-code-export/r-orange
@@ -2199,7 +2225,9 @@ https://github.com/google-code-export/rhythmbox-shoutcast
 https://github.com/google-code-export/richesse-gps
 https://github.com/google-code-export/rietveld
 https://github.com/google-code-export/rmh-roomreservation-maker
+https://github.com/google-code-export/rocket-gwt
 https://github.com/google-code-export/rolisteam
+https://github.com/google-code-export/roundhouse
 https://github.com/google-code-export/rrd2csv
 https://github.com/google-code-export/rrd4j
 https://github.com/google-code-export/rrdws
@@ -2207,6 +2235,7 @@ https://github.com/google-code-export/rssline
 https://github.com/google-code-export/rsslounge
 https://github.com/google-code-export/rtgui
 https://github.com/google-code-export/rtmplite
+https://github.com/google-code-export/ruby-activeldap
 https://github.com/google-code-export/rubycas-client
 https://github.com/google-code-export/rubycas-server
 https://github.com/google-code-export/rupy
@@ -2226,7 +2255,9 @@ https://github.com/google-code-export/saplink-plugins
 https://github.com/google-code-export/sapphire-port-dream
 https://github.com/google-code-export/satode
 https://github.com/google-code-export/sawsan
+https://github.com/google-code-export/scage
 https://github.com/google-code-export/scion-lib
+https://github.com/google-code-export/screenie
 https://github.com/google-code-export/scrollablecontacts
 https://github.com/google-code-export/sct-project
 https://github.com/google-code-export/sd-xbmc
@@ -2299,6 +2330,7 @@ https://github.com/google-code-export/support-tools
 https://github.com/google-code-export/sutekishop
 https://github.com/google-code-export/svgweb
 https://github.com/google-code-export/svnplot
+https://github.com/google-code-export/svnrevisionlabeller
 https://github.com/google-code-export/swe-574-group2
 https://github.com/google-code-export/swe574-group1
 https://github.com/google-code-export/swfobject
@@ -2910,6 +2942,7 @@ https://github.com/google/ads-api-report-fetcher
 https://github.com/google/ads-bi-suite
 https://github.com/google/ads-placement-excluder
 https://github.com/google/ads-privacy
+https://github.com/google/aegis_cipher
 https://github.com/google/agamotto
 https://github.com/google/agata
 https://github.com/google/agency-ads-management-solutions
@@ -3113,6 +3146,7 @@ https://github.com/google/brotli
 https://github.com/google/brotli-wheels
 https://github.com/google/brunsli
 https://github.com/google/bsynth
+https://github.com/google/bt-test-interfaces
 https://github.com/google/btls
 https://github.com/google/btree
 https://github.com/google/budget-protector
@@ -3565,6 +3599,7 @@ https://github.com/google/everythingisconnected
 https://github.com/google/evojax
 https://github.com/google/example_extrapolation
 https://github.com/google/executor.nvim
+https://github.com/google/exists-ref
 https://github.com/google/experience-accessibility
 https://github.com/google/explaining-in-style
 https://github.com/google/exposure-notifications-android
@@ -4431,6 +4466,7 @@ https://github.com/google/outrigger
 https://github.com/google/overcoming-conflicting-data
 https://github.com/google/p4-pdpi
 https://github.com/google/pack-n-play
+https://github.com/google/packet-queue
 https://github.com/google/packetdrill
 https://github.com/google/paco
 https://github.com/google/page-timer
@@ -6926,8 +6962,10 @@ https://github.com/googlearchive/webplatform-samples
 https://github.com/googlearchive/webvr-ui
 https://github.com/googlearchive/winston-gae
 https://github.com/googlearchive/workbox-microsite
+https://github.com/googlearchive/wu-weather
 https://github.com/googlearchive/x-binding
 https://github.com/googlearchive/x-designable
+https://github.com/googlearchive/x-designer
 https://github.com/googlearchive/x-dom-serializer
 https://github.com/googlearchive/x-editors
 https://github.com/googlearchive/x-file-document

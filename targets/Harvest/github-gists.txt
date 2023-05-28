@@ -1,3 +1,13 @@
+https://gist.githubusercontent.com/Harvester57/193a5cc6ff3f1cd83bff37c18c4b103a/raw/47eaadb8904225a34de9aef4c369adee114a64ae/ssh-key-add.sh
+https://gist.githubusercontent.com/Harvester57/193a5cc6ff3f1cd83bff37c18c4b103a/raw/621c61c6d7bf7187836cdf732e8d50c2563e12a5/ssh-key-permissions.sh
+https://gist.githubusercontent.com/Harvester57/193a5cc6ff3f1cd83bff37c18c4b103a/raw/670f1a87727bf99248e75a4e125055c0d9f38c22/generate-ssh-key.sh
+https://gist.githubusercontent.com/Harvester57/1f11ae335ef909d87e41f1512173a994/raw/f6acda2a1c78d67f7e5b2e16cdc24e8aa335b090/gcc-security.txt
+https://gist.githubusercontent.com/Harvester57/453027e2b6613c7b2eb575c738b57d3a/raw/8f5b1cd105b193b07ba3f96feb6baf802e88cadd/disable_discimage.reg
+https://gist.githubusercontent.com/Harvester57/6db6af183e1fd9150a2616bdd91babb8/raw/4487587ff66a4f160764eea68a958d5adadd1994/SmartAppControl.xml
+https://gist.githubusercontent.com/Harvester57/a27106303e1671a2d9528540156ed3b0/raw/c4950306539ec025555561d8b700a0eb122d9640/delete_git_submodule.md
+https://gist.githubusercontent.com/Hyung-bharvest/135c3f1ec3f6fc7a61488999cf4db512/raw/0a38dd5ab6de08ea20d2ba0284440d3f04f5dde3/keybase.md
+https://gist.githubusercontent.com/NullSense/c94a8c578d30b1fac5bf5167edda21bb/raw/566ed4289b3bb350d7c5c3d3e942f870e5442f6c/test.rs
+https://gist.githubusercontent.com/NullSense/da2846fcde7d4b1bb7395d5d197bb776/raw/99634a9b37aec7c1fa362db0803f732f0bd46715/bilateral_combos.patch
 https://gist.githubusercontent.com/haochi/1075080/raw/03ffe8d6fb885b44b335448fc8ff587ebe705c8d/LICENSE.txt
 https://gist.githubusercontent.com/haochi/1075080/raw/1fabb9f40038e379482ab1eb526300d67f773780/index.js
 https://gist.githubusercontent.com/haochi/1075080/raw/3ec1796654f769cab61521f9342fa06c3fc0e88f/annotated.js
@@ -14,5 +24,11 @@ https://gist.githubusercontent.com/haochi/3887409/raw/39657fc147d585c7acad59d35a
 https://gist.githubusercontent.com/haochi/4499779/raw/8bf8a4d331f72093560f9a033b30631f579aca9b/messages.js
 https://gist.githubusercontent.com/haochi/4f47601e17775c8cf98d2f338e9edb40/raw/a17d9f21ef8ab510c3ab7a9e5e11018398fd9448/keybase.md
 https://gist.githubusercontent.com/haochi/8f2227303ce30956f403684d947df23c/raw/a38be3e398fcdf1c2a44f9b195fa131afb407b44/rotate
+https://gist.githubusercontent.com/harvesthq/137616/raw/662e51e0d4470dccefca0fe5eb61b2829e0e6524/migration_transactional_loop.rb
+https://gist.githubusercontent.com/harvesthq/137616/raw/fb66f731ebe9f4ee5bd2f162f3f2b9d78fd8d69a/usage.rb
+https://gist.githubusercontent.com/harvesthq/245558/raw/cd95ca3fadedbb5e219d845260e38c1f77ba4b1e/test_helper_snippet.rb
+https://gist.githubusercontent.com/harvesthq/245558/raw/e349b75dcd575bc89741490f89e83c75c8fb7226/areadme.txt
+https://gist.githubusercontent.com/harvesthq/322815/raw/b9f2420db4a88143e3d73ee9dd81ad3e5c658c1e/cobot_twitter.rb
+https://gist.githubusercontent.com/harvestlamb/d3ff3c1d74c0c631d2e80be6515e035f/raw/391250caa0ad639a4ff3420607b7cef8241a15ae/gistfile1.txt
 https://gist.githubusercontent.com/nicholasc/02a1150f73af3d0dda4497cfb25de0d1/raw/de0670df645fdf627109c797b60752da83327491/charbsOS.sh
 https://gist.githubusercontent.com/nicholasc/e263d976d3aa0304537ea2f075ba7906/raw/91338a9c02aa3da20f07e7d88a7984f49c55d2cb/Duotone.php

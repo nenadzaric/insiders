@@ -70,6 +70,7 @@ https://github.com/Olanetsoft/KaizalaImageQuestion
 https://github.com/Olanetsoft/LMS
 https://github.com/Olanetsoft/MDTest
 https://github.com/Olanetsoft/MERNG
+https://github.com/Olanetsoft/MERNG-CLIENT
 https://github.com/Olanetsoft/Manage-image-animations-in-Nuxt.js
 https://github.com/Olanetsoft/Movie-API
 https://github.com/Olanetsoft/NextJs-Example-Project
@@ -207,6 +208,10 @@ https://github.com/frontend-ce/frontendday
 https://github.com/frontend-ce/meetups
 https://github.com/frontend-ce/vagas
 https://github.com/holaola/CW1
+https://github.com/humanoide-team/desafio-front-end-humanoide
+https://github.com/humanoide-team/devel-test-rails
+https://github.com/humanoide-team/sac_gpt_ruby
+https://github.com/humanoide-team/wrgem
 https://github.com/jefrnc/App-Demo-Java-Springboot
 https://github.com/jefrnc/App-Demo-Net-Core
 https://github.com/jefrnc/BuildingBots-With-MicrosoftBotFramework

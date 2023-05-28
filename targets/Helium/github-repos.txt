@@ -180,6 +180,7 @@ https://github.com/helium/helium-config-service
 https://github.com/helium/helium-config-service-cli
 https://github.com/helium/helium-console-cli
 https://github.com/helium/helium-crypto-rs
+https://github.com/helium/helium-data
 https://github.com/helium/helium-foundation-k8s
 https://github.com/helium/helium-js
 https://github.com/helium/helium-ledger-app

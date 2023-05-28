@@ -94,6 +94,7 @@ https://github.com/dailymotion/hands-on-diagnosing-golang-apps
 https://github.com/dailymotion/hands-on-kubernetes
 https://github.com/dailymotion/homebrew-dev
 https://github.com/dailymotion/hpcfs
+https://github.com/dailymotion/kinta
 https://github.com/dailymotion/lua-nginx-guard-jwt
 https://github.com/dailymotion/lua-resty-dogstatsd
 https://github.com/dailymotion/mod_xgeoip
@@ -109,6 +110,7 @@ https://github.com/dailymotion/reactjs-meetup-12-2018-demo
 https://github.com/dailymotion/salad-ui
 https://github.com/dailymotion/test-ttftt
 https://github.com/dailymotion/u-app-player-static
+https://github.com/dailymotion/vast-client-js
 https://github.com/dailymotion/vast-client-to-xml
 https://github.com/dailymotion/vmap-js
 https://github.com/dailymotion/webpack-multi-output

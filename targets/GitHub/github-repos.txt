@@ -1688,6 +1688,7 @@ https://github.com/SapirShamai/Python-exercises-and-solutions
 https://github.com/SapirShamai/lucky-ducky
 https://github.com/ShineyDev/github
 https://github.com/Sniper7sumit/Hacktoberfest2021
+https://github.com/Thinkful/guide-github-pull-request
 https://github.com/VahidN/GitHubFolderDownloader
 https://github.com/actions/.github
 https://github.com/actions/actions-runner-controller
@@ -1848,11 +1849,13 @@ https://github.com/ansarali/DragandDrop
 https://github.com/ansarali/jquery-ui-map
 https://github.com/ansarali/sudoku
 https://github.com/beiyuu/Github-Pages-Example
+https://github.com/bgreenlee/sublime-github
 https://github.com/bloominstituteoftechnology/github-usercard
 https://github.com/community/.github
 https://github.com/community/OSPO
 https://github.com/community/community
 https://github.com/community/events
+https://github.com/czynot/githubify_iitm
 https://github.com/desktop/.github
 https://github.com/desktop/askpass-trampoline
 https://github.com/desktop/desktop-markdown-training
@@ -1902,6 +1905,7 @@ https://github.com/dylanthomas/dylanthomas.github.io
 https://github.com/dylanthomas/misc
 https://github.com/dylanthomas/py4pi
 https://github.com/dylanthomas/tensorflow
+https://github.com/florent37/Github
 https://github.com/github/.github
 https://github.com/github/Archimedes
 https://github.com/github/CodeSearchNet
@@ -6761,6 +6765,7 @@ https://github.com/githubwing/ZoomHeader
 https://github.com/githubwing/cardiograph
 https://github.com/githubwing/compassView
 https://github.com/githubwing/xxxxx
+https://github.com/hitherejoe/GithubTrending
 https://github.com/jalajarora/kafka-connect-ui
 https://github.com/javierm/jquery-select-autocomplete
 https://github.com/jenshadlich/1-liners
@@ -6804,6 +6809,7 @@ https://github.com/jenshadlich/spring-hibernate-hazelcast-webapp
 https://github.com/jenshadlich/stuff-to-read
 https://github.com/jenshadlich/sysadmin
 https://github.com/jenshadlich/yacs
+https://github.com/laowch/GithubTrends
 https://github.com/learn-co-curriculum/.github
 https://github.com/learn-co-curriculum/01_hashes_and_internet-lecture-web-040317
 https://github.com/learn-co-curriculum/01_hashes_and_the_internet-lecture-web-031317
@@ -18239,6 +18245,9 @@ https://github.com/malakumar/malakumar.github.io
 https://github.com/malakumar/pirateFace
 https://github.com/malakumar/portfolio
 https://github.com/malakumar/soundview-app
+https://github.com/oc-courses/intro-git-github
+https://github.com/ruler88/GithubDemo
+https://github.com/salemzubair/github
 https://github.com/shiftkey/AppDotNet-Win8
 https://github.com/shiftkey/BoxKite.Notifications
 https://github.com/shiftkey/BoxKite.Twitter
@@ -18356,6 +18365,7 @@ https://github.com/shiftkey/winrt-backport-hilarity
 https://github.com/shiftkey/winrt-blogsamples
 https://github.com/shiftkey/workingdistributed.com
 https://github.com/shiftkey/wpf-winrt
+https://github.com/shinokada/shinokada
 https://github.com/xxxazxxx/instagram-geolocation
 https://github.com/xxxazxxx/php-sdk
 https://github.com/xxxazxxx/pp

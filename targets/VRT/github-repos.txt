@@ -549,6 +549,8 @@ https://github.com/vrtmrz/obsidian-tagfolder
 https://github.com/vrtmrz/ring-a-secretary
 https://github.com/vrtmrz/self-hosted-livesync-server
 https://github.com/vrtmrz/selfhosted-livesync-beta
+https://github.com/vrtnd/defillama_yields_coverage
+https://github.com/vrtnd/vrtnd
 https://github.com/vrto/amazing-fika
 https://github.com/vrto/apache-camel-invoices
 https://github.com/vrto/apache-camel-invoices-xml

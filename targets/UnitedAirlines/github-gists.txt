@@ -1,3 +1,15 @@
+https://gist.githubusercontent.com/Getmrahul/3e60c308e337285a1438/raw/143cb835496ea884cf1a4faad953bcea7f29eac0/harenablock
+https://gist.githubusercontent.com/Getmrahul/4c79e0137f950ea24b427a6271dc5f2a/raw/1e8cd435e19010625bc4b4088f4eac5e966c4afd/class.py
+https://gist.githubusercontent.com/Getmrahul/4c79e0137f950ea24b427a6271dc5f2a/raw/aaa6136ac8a903187002e8f53d039da4b969e8f8/modal.py
+https://gist.githubusercontent.com/Getmrahul/4cbfdfb9aceba81c95fe76c2fee42e60/raw/e8c66438125015ab79b5ded574fa78945826edd0/king.swift
+https://gist.githubusercontent.com/Getmrahul/b4e95b9010db76351ff42f0c66ac43b9/raw/aa141665edbc8de4a05134b3bcc46f0483cd9392/sid1.py
+https://gist.githubusercontent.com/Getmrahul/c1ec675550dc9e2ee0c278b689a6ead0/raw/a13dc3165b5577db9dda6611d94662036dd5f0d5/code.c
+https://gist.githubusercontent.com/Getmrahul/cfb233c81ea740e9c8851b0213ed5a97/raw/155a0887a70d53074b7d1ade40998652ec57d3e2/running_median_heaps.py
+https://gist.githubusercontent.com/Getmrahul/d6f0f26cbd756e77dee3d1102a062f9a/raw/089512053769bf301e84fbc88130dc8580f0afb4/code.py
+https://gist.githubusercontent.com/Getmrahul/e85b747b5b2c4e511313/raw/6a02e39ff3f1a68c6b97a6b339b3385e297aee3d/activity_main.xml
+https://gist.githubusercontent.com/Getmrahul/e85b747b5b2c4e511313/raw/6d6ad056e89823428be714f47120081fe4034adb/MainActivity.java
+https://gist.githubusercontent.com/Getmrahul/f582efbf62064d9cb0f99ae0fe9892c0/raw/8223428ca1a1224500fdd26204dd80f28a217449/main.c
+https://gist.githubusercontent.com/Getmrahul/fc5998b6a5b8b204bf7a57a22e27b642/raw/9d322419de7d64c16d7c912629d9f04dfb2ab0cd/twoBinSum.py
 https://gist.githubusercontent.com/anthonybrown/04a3aa32a88bc8bad11c0424e0dce2de/raw/4d79b84d3698a56109be1cb9a8b78b3884a6fc40/style.css
 https://gist.githubusercontent.com/anthonybrown/04a3aa32a88bc8bad11c0424e0dce2de/raw/db84ffa49c02848ddedc970f831fbc763c6e7e66/user_settings.json
 https://gist.githubusercontent.com/anthonybrown/09ace09a6757e03f486d86e91d9b94d6/raw/04de7d1e0fc79165e2b4e37c7b67c8b2b912ab32/jsbin.cacuyef.js

@@ -1,0 +1,9 @@
+https://gist.githubusercontent.com/keser/3135048efb14b0b4369c/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/keser/3135048efb14b0b4369c/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/keser/3135048efb14b0b4369c/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/keser/3135048efb14b0b4369c/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/smartlingtestdocs/3abb6ff92aae7591e9f2/raw/0504b7632c07a6f6dfa5caef324cf1f44ce738cd/smartling-config
+https://gist.githubusercontent.com/smartlingtestdocs/4c127a346228bb1f5486/raw/df570052599cdc5a710c56b32c46223bdec9f225/DownloadRuby
+https://gist.githubusercontent.com/smartlingtestdocs/65171fd5f647f772fb87/raw/bb388f0d63456fd48c109a239a0c2efa912f1fc0/C%23Example.cs
+https://gist.githubusercontent.com/smartlingtestdocs/c2fd4fcf80cbb732ad9e/raw/30b2d3a6a60d7ff4a4d0ff6b8a9df0584e4d801b/JavaExample.java
+https://gist.githubusercontent.com/smartlingtestdocs/ce8e0a459fe5b84246b1/raw/2ec0cf6964332102e5ac0bb9b3969b50dc16b05b/PHPExample.php

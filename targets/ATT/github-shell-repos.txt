@@ -68,6 +68,7 @@ https://github.com/attakercyebr/hack4lx_social
 https://github.com/attakercyebr/openvpn
 https://github.com/atticoos/Apache-Configuration-Builder
 https://github.com/atticoos/bash-todo-list
+https://github.com/atticoos/dotfiles
 https://github.com/attilaolah/step-golint
 https://github.com/attilaolah/wercker-box-gentoo-crossdev-avr
 https://github.com/attilaolah/wercker-step-emerge

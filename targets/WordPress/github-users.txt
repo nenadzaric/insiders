@@ -14,3 +14,5 @@ https://github.com/wordpressmonk
 https://github.com/wordpressninja
 https://github.com/wordpressramu
 https://github.com/wordpressure-co-kr
+https://github.com/wp-plugins
+https://github.com/wpscanteam

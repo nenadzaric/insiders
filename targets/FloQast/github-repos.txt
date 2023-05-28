@@ -45,6 +45,7 @@ https://github.com/joshtaylor0404/github-pages-react-demo
 https://github.com/joshtaylor0404/github-pkg-demo
 https://github.com/joshtaylor0404/gp-demo
 https://github.com/joshtaylor0404/hello-world
+https://github.com/joshtaylor0404/mern-project-template
 https://github.com/joshtaylor0404/module-12-mini-project
 https://github.com/joshtaylor0404/module-13-mini-project
 https://github.com/joshtaylor0404/module-14-mini-project
@@ -68,6 +69,7 @@ https://github.com/markthethomas/Rethink-Mercy-Upgrade
 https://github.com/markthethomas/active-active-architecture-talk
 https://github.com/markthethomas/algoJS
 https://github.com/markthethomas/algorithms
+https://github.com/markthethomas/ampItUp
 https://github.com/markthethomas/angular-2-starter
 https://github.com/markthethomas/angular2-helmet
 https://github.com/markthethomas/angular2-link-container
@@ -106,6 +108,7 @@ https://github.com/markthethomas/go-rethink-your-life
 https://github.com/markthethomas/goFun
 https://github.com/markthethomas/gobook
 https://github.com/markthethomas/godash
+https://github.com/markthethomas/going_native
 https://github.com/markthethomas/golang-workshop
 https://github.com/markthethomas/grand-adventure
 https://github.com/markthethomas/grpc-demo-client

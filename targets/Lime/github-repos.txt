@@ -197,6 +197,7 @@ https://github.com/Limeth/NeuroNet
 https://github.com/Limeth/Neurolution
 https://github.com/Limeth/SimR
 https://github.com/Limeth/TUXGFormat
+https://github.com/Limeth/aseprite-iso-scripts
 https://github.com/Limeth/cis194
 https://github.com/Limeth/cour2ier
 https://github.com/Limeth/cstackify

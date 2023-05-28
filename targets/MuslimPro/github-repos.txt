@@ -15,6 +15,7 @@ https://github.com/abdula/validator-schema-plugin
 https://github.com/abdula/wind-layer-generator
 https://github.com/abdula/workman
 https://github.com/csetutul/muslimproapp
+https://github.com/dedijogja/MuslimProject
 https://github.com/ibnulhayat/MuslimPro
 https://github.com/lleans/Muslim-Pro-Scrapper
 https://github.com/muhammadiqbalsanusi/muslimpro

@@ -1,5 +1,7 @@
 https://github.com/AAYUSH-GUPTA-coder
 https://github.com/Chainlink-Indonesia
+https://github.com/Chainlink-Turkiye
+https://github.com/ChainlinkHackathon-StakingMonitor
 https://github.com/ChainlinkResources
 https://github.com/JakeSalerno
 https://github.com/MarcRomero
@@ -24,6 +26,7 @@ https://github.com/niharshah
 https://github.com/oraclespace
 https://github.com/pappas999
 https://github.com/patrickyoung
+https://github.com/polyroll
 https://github.com/sergeynazarov
 https://github.com/steveellis
 https://github.com/vulcanlink

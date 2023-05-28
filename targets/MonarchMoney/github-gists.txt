@@ -1,3 +1,5 @@
+https://gist.githubusercontent.com/Maushundb/2832f17bb3c6f2b1959bdcdb042c80d1/raw/978438cc3423cbc7c98695a43c356eb94e8117e8/extroe_privacy_policy.md
+https://gist.githubusercontent.com/Maushundb/97317c258e3baad63398bc5b7747c9df/raw/69293b5fcd256da1c80a3b9b50602a5bcdebb307/gistfile1.md
 https://gist.githubusercontent.com/vanessa/10ca148ff8c61572e6a52e9185d13ed2/raw/b7c3e62f020993583fa9fbfa93203227213c8b36/python3.6_in_cloud9.md
 https://gist.githubusercontent.com/vanessa/233e5875f4572f11dc72326dd1c6c850/raw/65f0d5e3c86420bd72e7d849339610012ed1992b/mixins.scss
 https://gist.githubusercontent.com/vanessa/2ef35f521ca6fed94ef8a1da91a4b218/raw/fe19648d346d86bb9495c67cf22af25f6e675c2b/config.json

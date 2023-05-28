@@ -47,6 +47,7 @@ https://github.com/Yelp/dockersh
 https://github.com/Yelp/doloop
 https://github.com/Yelp/dumb-init
 https://github.com/Yelp/elastalert
+https://github.com/Yelp/engage.android
 https://github.com/Yelp/environment_tools
 https://github.com/Yelp/ephemeral-port-reserve
 https://github.com/Yelp/ezio

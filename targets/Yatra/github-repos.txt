@@ -80,6 +80,8 @@ https://github.com/Yatra052/Task1_Intern
 https://github.com/Yatra052/netflix_clone
 https://github.com/Yatra052/oib-sip
 https://github.com/Yatra052/oib-siptask_no2
+https://github.com/YatraInfoSys/Yatra
+https://github.com/YatraInfoSys/palm-treecommerce
 https://github.com/Yatram/ActivityMonitoring
 https://github.com/Yatram/Data_Cleaning
 https://github.com/Yatram/Exploratory_Data_Analisys

@@ -24,3 +24,10 @@ https://gist.githubusercontent.com/adamli/fc94e9d362590d6ec51f/raw/2b8a5ccf55d94
 https://gist.githubusercontent.com/adamli/fc94e9d362590d6ec51f/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
 https://gist.githubusercontent.com/adamli/fc94e9d362590d6ec51f/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
 https://gist.githubusercontent.com/adamli/fc94e9d362590d6ec51f/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/spencersalazar/15c76d37d603613dc3d539d4032abc54/raw/21a517ddbc838160ff78c8e4145c998440b594a1/easeInOut.h
+https://gist.githubusercontent.com/spencersalazar/40109d20cac7446b4851386e6cb7522b/raw/585d23038ef02f2f49f7c52c93d821544316504d/Korg35Filter.ck
+https://gist.githubusercontent.com/spencersalazar/9043052/raw/c76c5e9c148ce19928640eb57e114b732ce771b0/omni.bib
+https://gist.githubusercontent.com/spencersalazar/9ca24355fcdda5fc582162684f94fb45/raw/8ac40a9f61b4bb83d8df34f5436ff483426e6c29/ff-arp.ck
+https://gist.githubusercontent.com/spencersalazar/9f7306c155045f2828b1/raw/0176126899bc07bcbefa9fed72d3af4500075ef0/interfaces
+https://gist.githubusercontent.com/spencersalazar/9f7306c155045f2828b1/raw/a4ecf8d942da80c7876caf161622be360aa9577a/wpa_supplicant.conf
+https://gist.githubusercontent.com/spencersalazar/9f7306c155045f2828b1/raw/cb7f4700a52fb273edc80e0de5556d0ce5df9d52/Satellite%20CCRMA%20%2B%20wifi%20notes

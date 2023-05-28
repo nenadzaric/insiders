@@ -1,3 +1,5 @@
+https://github.com/AleRapchan/Jenkins
+https://github.com/AleRapchan/hyperledger-supply-chain
 https://github.com/BlockchainCommons/BCSwiftTorBase
 https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts
 https://github.com/BlockchainCommons/Gordian
@@ -31,6 +33,7 @@ https://github.com/blockchainhelppro/Mining-Pool-Calculator
 https://github.com/blockchainhelppro/Mining-Profit-Script-
 https://github.com/blockchainhelppro/Mko-Coin
 https://github.com/blockchainhelppro/Node-Update
+https://github.com/blockchainhelppro/Nodes-Setup
 https://github.com/blockchainhelppro/POS-MN-Crypto-Coin
 https://github.com/blockchainhelppro/Unicode-API-implement
 https://github.com/blockchainhelppro/Wallet-Config-Modification

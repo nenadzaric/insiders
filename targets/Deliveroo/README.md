@@ -5,6 +5,6 @@ graph LR
 COMPANY_NAME{Deliveroo}
 COMPANY_NAME ---> U{Users} ---> UN[17]
 COMPANY_NAME ---> R{Repositories} ---> RN[349]
-COMPANY_NAME ---> G{Gists} ---> GN[1]
+COMPANY_NAME ---> G{Gists} ---> GN[170]
 COMPANY_NAME ---> ML{Most Used<br>Languages}
 ```
