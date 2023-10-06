@@ -1,3 +1,13 @@
+https://github.com/- AuburnSounds/Dplug
+https://github.com/- KrumpetPirate/AAXtoMP3
+https://github.com/- Mbucari/AAXClean
+https://github.com/- audiamus/AaxAudioConverter
+https://github.com/- audible-tools/audible-tools.github.io
+https://github.com/- juce-framework/JUCE
+https://github.com/- olilarkin/wdl-ol
+https://github.com/- paladini/aax2mp3-easy
+https://github.com/- r15ch13/audible-converter
+https://github.com/- steinbergmedia/vstgui
 https://github.com/AAx13/9c7759
 https://github.com/AAx13/Nemo
 https://github.com/AAx13/airbnb_clone
@@ -71,6 +81,7 @@ https://github.com/aaxbas/spotify-cover-downloader
 https://github.com/aaxelb/flowiki
 https://github.com/aaxelb/gather
 https://github.com/aaxelb/morningwhale
+https://github.com/aaxelb/primitive_rdf
 https://github.com/aaxelb/repro-ember-router-service-qp
 https://github.com/aaxelb/waterbutlertest
 https://github.com/aaxiba/godis
@@ -109,6 +120,18 @@ https://github.com/aaxx/faux-accio
 https://github.com/aaxx/multi-payments
 https://github.com/aaxx/nlptools-ru
 https://github.com/aaxx/orderbook-engine
+https://github.com/aaxyat-old/DBBFinal
+https://github.com/aaxyat-old/DigitalBloodBank
+https://github.com/aaxyat-old/DjangoTraining
+https://github.com/aaxyat-old/DockerCompose
+https://github.com/aaxyat-old/Python-Apk-Installer
+https://github.com/aaxyat-old/Scripts
+https://github.com/aaxyat-old/ScriptsRepo
+https://github.com/aaxyat-old/aaxyat.github.io
+https://github.com/aaxyat-old/dj-training
+https://github.com/aaxyat-old/django-training
+https://github.com/aaxyat-old/gindex-backend
+https://github.com/aaxyat-old/local_manifest
 https://github.com/aaxyria/atsu
 https://github.com/aaxyria/axyria.dev
 https://github.com/aaxyria/basalt-engine

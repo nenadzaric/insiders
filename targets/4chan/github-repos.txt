@@ -1,3 +1,13 @@
+https://github.com/- 4chan/4chan-API
+https://github.com/- Exceen/4chan-downloader
+https://github.com/- aeosynth/4chan-x
+https://github.com/- bibanon/bibanon
+https://github.com/- ccd0/4chan-x
+https://github.com/- chandevel/Clover
+https://github.com/- flaghunters/Extra-Flags-for-4chan
+https://github.com/- grzegorznittner/chanu
+https://github.com/- yk/gpt-4chan-public
+https://github.com/- zixaphir/appchan-x
 https://github.com/4Chan-Coin/4CC-Node
 https://github.com/4ChanMediaDownloader/4ChanMediaDownloader
 https://github.com/4ChanMeta/genshin-sorter
@@ -17,9 +27,14 @@ https://github.com/4change/design-pattern-in-go
 https://github.com/4change/design-pattern-in-java
 https://github.com/4change/golang-test
 https://github.com/4change/java-test
+https://github.com/4change/k8s-test
 https://github.com/4change/python-test
 https://github.com/4change/shell-script-test
+https://github.com/4change/social-app
 https://github.com/Exceen/4chan-downloader
+https://github.com/Pegasus-E/FeiGong
+https://github.com/Pegasus-E/MoMei
+https://github.com/Pegasus-E/Pegasus
 https://github.com/TheOnlyArtz/Anyolite
 https://github.com/TheOnlyArtz/ArsBot
 https://github.com/TheOnlyArtz/Artz-Self-Bot

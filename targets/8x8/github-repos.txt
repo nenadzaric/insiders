@@ -1,3 +1,13 @@
+https://github.com/- Quinten/random-tileset-generator
+https://github.com/- andydoro/WordClock-NeoMatrix8x8
+https://github.com/- anoopmm/8x8x8_RGB_LED_CUBE
+https://github.com/- anoopmm/LED_CUBE_8x8x8
+https://github.com/- dhepper/font8x8
+https://github.com/- formatc1702/Micro-Word-Clock
+https://github.com/- mcauser/micropython-max7219
+https://github.com/- squix78/MAX7219LedMatrix
+https://github.com/- topshed/RPi_8x8GridDraw
+https://github.com/- xantorohara/led-matrix-editor
 https://github.com/7Backwards/Accident-Recognition-System
 https://github.com/7Backwards/Airpods-Disable-Microphone-Script
 https://github.com/7Backwards/All-in-one-Wallet

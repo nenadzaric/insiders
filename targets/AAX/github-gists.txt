@@ -52,6 +52,9 @@ https://gist.githubusercontent.com/aaxwaz/e3d387ecb076ce6b1f2f40d13f7c4431/raw/b
 https://gist.githubusercontent.com/aaxwaz/e3d387ecb076ce6b1f2f40d13f7c4431/raw/ba7036cf1a5d2b5574aa1d75a7e140fc16a9bd34/my_nn_lib.py
 https://gist.githubusercontent.com/aaxwaz/f7b96340dd28c50541bf7b23d64bc239/raw/e57b07d43a19ebfaf234c34776ec76fff972377e/blog_time_multivariate_p8.py
 https://gist.githubusercontent.com/aaxwaz/f95181f8e9efe3f53811e61ab590110e/raw/ac371fd49a25fb87732788e3f3535cb5cc4bd6af/blog_time_sample_and_vis_data_p2.py
+https://gist.githubusercontent.com/aaxyat-old/08358ddf8df38abd7cbd1fbbf84a942c/raw/cd9df50cf621aedf96d637ace47563547ba4251d/elementary_setup.md
+https://gist.githubusercontent.com/aaxyat-old/23e57b438b5163221fe23c19126c25c2/raw/c15c58e7b85f8ed98630c1016fa665d21b804069/BuildGuide.txt
+https://gist.githubusercontent.com/aaxyat-old/3cc76f2242e216b3d17fea9661fab256/raw/cc3ec46bd5adfc1af7809646b05e12d8837800bd/oh_my_fish
 https://gist.githubusercontent.com/aaxyria/1a7e936e5f6172c3d23b62fb01978203/raw/0473db14ddb625a72c8e4c7706b63f769d2bbdf8/twitter-remove-retweets.js
 https://gist.githubusercontent.com/aaxyria/1c5a1dd6c2ca83be53bb9c9bf37ebaec/raw/94235a52ecbaf55513d5517b1e6a7eb358d428c6/ScoreboardDSL.kt
 https://gist.githubusercontent.com/aaxyria/1c8d448ca1a54985b28cfd946f3e8e80/raw/d5e99d4a610e8d1c62bcf882f511cc37ab0ddfef/crystalline.css
